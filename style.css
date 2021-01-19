@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+    max-width: 50rem;
+    padding: 2rem;
+}
+
+p {
+    word-break:keep-all;
+	line-height:1.6rem;
+}
+
+code {
+	font-family: "Menlo-Regular", "Consolas";
+}
+.code-inline {
+    background: #ffffee;
+    border: solid 1px #dedede;
+    padding: 0.1rem 0.5rem;
+	border-radius: 0.4rem;
+}
