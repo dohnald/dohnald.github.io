@@ -24,6 +24,8 @@ code {
 .date {
 	vertical-align:baseline;
 	color:#aaa;
+	font-size:0.9em;
+	margin-left:0.5rem;
 }
 
 hr {
