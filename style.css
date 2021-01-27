@@ -21,6 +21,12 @@ code {
 	padding:0.15rem 0.5rem;
 }
 
+pre code {
+	background-color: rgb(247,247,247);
+	display:block;
+	padding:0.5rem;
+}
+
 .date {
 	vertical-align:baseline;
 	color:#aaa;
