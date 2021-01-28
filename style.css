@@ -25,6 +25,7 @@ pre code {
 	background-color: rgb(247,247,247);
 	display:block;
 	padding:0.5rem;
+	overflow-x: auto;
 }
 
 .date {
