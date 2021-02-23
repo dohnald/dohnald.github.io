@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>2021.02.23 TIL | D.ohnald</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		<meta property="og:image" content="https://dohnald.github.io/logo.jpg"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://dohnald.github.io/post/20210223.html"/>
+		<meta property="og:description" content="description"/>
+		<meta property="og:title" content="2021.02.23 TIL"/>
+	</head>
+	<body>
+		<header><a href="./index.html">Today I Learned</a></header>
+		<h1>2021.02.23</h1>
+		<h2>sed</h2>
+		<p><code>sed</code>를 사용하려고 했는데 mac에서는 사용이 조금 다른 것 같다. <code>sed -i '/origin/replace/' file.html</code> 형태로 작업을 했는데 오류가 발생해 확인해보니 <code>sed -ie</code> 형태로 사용해야 작동이 된다.</p>
+		<p>변수를 사용하려고 확인해보니 <code>sed -ie '/origin/'replace'/' file.html</code>처럼 사용하면 된다. <code>'</code>를 두 번 사용해 헷갈리지만 문제는 없다.</p>
+	</body>
+</html>
