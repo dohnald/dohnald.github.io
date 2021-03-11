@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>2021.03.12 TIL | D.ohnald</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		<meta property="og:image" content="https://dohnald.github.io/logo.jpg"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://dohnald.github.io/post/20210312.html"/>
+		<meta property="og:description" content="description"/>
+		<meta property="og:title" content="2021.03.12 TIL"/>
+	</head>
+	<body>
+		<header><a href="./index.html">Today I Learned</a></header>
+		<h1>2021.03.12</h1>
+		<h2>VIM <code>normal .</code></h2>
+		<p><a href="./20210304.html">VIM <code>$</code></a>에서 모든 행의 끝에 세미콜론을 추가하는 작업을 했었는데 오늘 새로운 것을 배웠다. <code>.</code> 명령으로 처리할 수가 있다.</p>
+		<pre><code>
+var foo = 1
+var foo = 'a'
+var foo = 'z'
+		</code></pre>
+		<p>이런 코드가 있을 경우 기존에는 <code>VG:norm A;</code> 이 작업으로 진행했다. 전체 행이니까 <code>G</code>를 쓸 수 있었지만 범위가 있다면 쉽지 않고 여기저기 흩어져있는 작업이라면 더 쉽지 않다. <code>.</code>을 이용해 쉽게 처리할 수 있다.</p>
+		<pre><code>
+var foo = 1;
+var foo = 'a';
+var foo = 'z';
+		</code></pre>
+		<p>반복을 수행할 행에서 <code>A;</code> 명령을 실행하고, 범위를 선택한 후 <code>:norm .</code>를 입력하면 된다. 여러 작업을 할 때 <code>:norm [명령]</code>을 입력하는 게 귀찮았는데 <code>:norm .</code>으로 조금 더 간략해졌다.</p> 
+	</body>
+</html>
