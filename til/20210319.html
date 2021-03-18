@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>2021.03.19 TIL | D.ohnald</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		<meta property="og:image" content="https://dohnald.github.io/logo.jpg"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://dohnald.github.io/post/20210319.html"/>
+		<meta property="og:description" content="description"/>
+		<meta property="og:title" content="2021.03.19 TIL"/>
+	</head>
+	<body>
+		<header><a href="./index.html">Today I Learned</a></header>
+		<h1>2021.03.19</h1>
+		<h2>docker에서 날짜 조회</h2>
+		<p>docker 환경에서 날짜 기반으로 된 로그를 조회하려고 할 때 매번 날짜를 변경하기가 귀찮아졌다. 여러 명령을 고민하다가 간단하게 아래와 같이 구성했다. <code>/logs/yyyy-mm-dd.log</code> 파일을 보여준다.</p>
+		<pre><code>
+docker exec DOCKERNAME sh -c 'TODAY=$(date "+%Y-%m-%d"); tail -f /logs/logfile-$TODAY.log'
+		</code></pre>
+	</body>
+</html>
