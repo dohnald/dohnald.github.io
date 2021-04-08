@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>vimwiki-output-html | D.ohnald</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="../style.css">
+		<meta property="og:image" content="https://dohnald.github.io/logo.jpg"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="https://dohnald.github.io/post/vimwiki-output-html.html"/>
+		<meta property="og:description" content="description"/>
+		<meta property="og:title" content="$title | D.ohnald"/>
+    </head>
+    <body>
+	<header><a href="../">D.ohnald</a></header>
+	
+<div id="Vimwiki와 html 블로그 통합하기"><h1 id="Vimwiki와 html 블로그 통합하기" class="header"><a href="#Vimwiki와 html 블로그 통합하기">Vimwiki와 html 블로그 통합하기</a></h1></div>
+<p>
+Vimwiki를 사용하고 있는데 html 블로그를 함께 관리하려니 쉽지 않았다. 어떻게하면 잘 사용할 수 있을까 많이 고민했는데 Vimwiki에 <code>auto_export</code>라는 설정이 있는 것을 발견했다. 이 설정을 켜놓으면 저장할 때마다 지정한 디렉토리에 자동으로 export할 수 있다. Vimwiki에서 작성한 내용이 자동으로 블로그에 저장되도록 할 수 있는 것이다. 
+</p>
+
+<p>
+현재 <code>.vimrc</code>에 저장한 Vimwiki 설정은 아래와 같다.
+</p>
+
+<pre>
+let g:vimwiki_list = [
+    \{
+    \   'path': '~/wiki/',
+    \   'ext' : '.md',
+    \   'diary_rel_path': '.',
+	\   'template_path': '~/wiki/templates',
+	\   'template_default': 'default',
+	\   'template_ext': '.html',
+	\   'path_html': '~/log/post/',
+	\   'auto_export': 1
+    \},
+\]
+</pre>
+
+	</body>
+</html>
