@@ -1,25 +1,39 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>13년 된 연필 | D.ohnald</title>
+        <title>행을 열로 바꾸기</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="../style.css">
-		<meta property="og:image" content="https://dohnald.github.io/logo.jpg"/>
-		<meta property="og:type" content="article"/>
-		<meta property="og:url" content="https://dohnald.github.io/post/$url"/>
-		<meta property="og:description" content="description"/>
-		<meta property="og:title" content="13년 된 연필 | D.ohnald"/>
     </head>
-    <body>
-	<header><a href="../">D.ohnald</a></header>
-	<h1>13년 된 연필</h1>
-	<p>살다보면 13년 넘게 한 물건을 들고다닐 일이 없을텐데 이 연필은 13년 넘게 사용한다. 2010년 선물로 받은 후 아직까지 쓴다. 10년 넘게 쓰는 다른 물건이 있을까. 세상의 속도를 생각하면 아직 이 연필이 내 곁에 있는 게 신기할 따름이다.</p>
-	<div><img src="20e3e926.jpeg" alt="2019년 연필" style="width:100%;"></div>
+	<style type="text/css">
+		body {
+			margin: 0 auto;
+			max-width: 50rem;
+			padding: 2rem;
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+		}
 
-	<!--
-	<hr />
-	<p><a href="https://twitter.com/intent/tweet?in_reply_to=link">피드백은 트위터로 주세요</a></p>
-	-->
+		h1, h2, h3, p {
+			word-break:keep-all;
+		}
+	</style>
+    <body>
+	<h1>행을 열로 바꾸기</h1>
+	<table style="width: 100%;">
+		<tr>
+			<td>
+				<textarea id="rows" style="width:100%;height:500px;"></textarea>
+			</td>
+			<td style="text-align: center">
+				<button onclick="document.getElementById('cols').value = document.getElementById('rows').value.split('\n').join(',')">행을 열로 바꿔줘 -></button>
+				<br>
+				<br>
+				<button onclick="document.getElementById('rows').value = document.getElementById('cols').value.split(',').join('\n')"><- 열을 행으로 바꿔줘</button>
+			</td>
+			<td>
+				<textarea id="cols" style="width:100%;height:500px;"></textarea>
+			</td>
+		</tr>
+	</table>
 	</body>
 </html>
