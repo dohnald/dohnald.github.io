@@ -16,7 +16,7 @@
 	<h1 id="백링크는 해롭지만 필요하다 - bear 앱에서 백링크 검색 단축어 만들기">백링크는 해롭지만 필요하다 - bear 앱에서 백링크 검색 단축어 만들기</h1>
 	<h2 id="백링크back link에 대한 생각">백링크back link에 대한 생각</h2>
 	<p>백링크는 해롭다(<a href="https://zettelkasten.de/posts/backlinks-are-bad-links/">Backlinking Is Not Very Useful — Often Even Harmful • Zettelkasten Method</a>). <a href="./zettelkasten.html#roam%20research">나의 제텔카스텐</a>에서도 백링크는 유용하지만 핵심 기능이 아니라고 적었다.</p>
-	<pre><code>(백 링크는) 내가 판단하기에는 유용한 기능이 아니다. 앞서도 말했지만 연결을 직접 맺는 것이 중요한 시스템에서 백 링크는 자동으로 연결해 주고, 편하게 편집할 수 있게 도와준다. 이후에 언급하겠지만 제텔카스텐에서 ‘편하다’는 것은 생각이 충돌하지 못하게 하는 것일 수 있다.</code></pre>
+	<blockquote><p>(백 링크는) 내가 판단하기에는 유용한 기능이 아니다. 앞서도 말했지만 연결을 직접 맺는 것이 중요한 시스템에서 백 링크는 자동으로 연결해 주고, 편하게 편집할 수 있게 도와준다. 이후에 언급하겠지만 제텔카스텐에서 ‘편하다’는 것은 생각이 충돌하지 못하게 하는 것일 수 있다.</p></blockquote>
 	<p>그러나 백링크는 필요하다. 놓치고 있는 연결이 있을 수 있다. 그래서 여전히 자동 백링크를 만들지는 않지만, 문서의 제목을 검색하는 단축어를 만들었다.</p>
 	<h2 id="bear에서 백링크를 쉽게 검색한다">bear에서 백링크를 쉽게 검색한다</h2>
 	<p>bear에서 백링크를 만들어주는 <a href="https://github.com/cdzombak/bear-backlinks">GitHub - cdzombak/bear-backlinks: Automated backlinks for notes in Bear.app, on macOS.</a> 코드를 참고하며 생각했다.</p>
@@ -35,9 +35,7 @@
 	<script src="https://gist.github.com/dohnald/5ec61bbb58d3033f64fabcba4086d981.js"></script>
 	<h2 id="단점">단점</h2>
 	<p>식별자를 링크하는 문서를 조회하는 게 아니다보니 제목에 일부만 매칭되어도 검색에 포함된다. 가령 <code class='code-inline'>하루</code>라는 문서의 백링크를 검색하려고 하면 <code class='code-inline'>오늘 하루</code> <code class='code-inline'>내일 하루</code> 문서도 검색에 포함된다. 백링크의 정확한 방식<code class='code-inline'>해당 문서를 링크한 문서를 검색한다</code>이 아닌 <code class='code-inline'>문서의 제목을 포함하는 문서를 검색</code>하는 방식이라 조금 아쉽지만 링크 문서를 검색하는 기능을 bear에서 지원하지 않기 때문에 이 방식으로 당분간 사용해보려고 한다.</p>
-	<!--
 	<hr />
-	<p><a href="https://twitter.com/intent/tweet?in_reply_to=link">피드백은 트위터로 주세요</a></p>
-	-->
+	<p><a href="https://twitter.com/intent/tweet?in_reply_to=1557231392643092480">피드백은 트위터로 주세요</a></p>
 	</body>
 </html>
