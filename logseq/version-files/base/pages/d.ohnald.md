@@ -1,0 +1,1 @@
+- [:a {:href "#/all-journals"} "모든 일지"]
