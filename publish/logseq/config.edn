@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Omnivore imports" "d.ohnald"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,6 +416,6 @@
  :feature/enable-timetracking? false
  :publishing/all-pages-public? true
  :feature/enable-whiteboards? false
- :feature/enable-flashcards? false
+ :feature/enable-flashcards? true
  :feature/enable-journals? false
  :default-home {:page "d.ohnald"}}

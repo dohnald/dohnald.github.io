@@ -1,0 +1,15 @@
+tags:: memo, journal
+date:: [[2021/01/26]]
+
+- brew를 자주 쓰지 않기 때문에 발생하는 문제인데, brew를 사용하려고 하면 꼭 업데이트를 먼저 해야하는 문제가 생긴다. 자주 사용하면 업데이트 할 항목이 적겠지만 가끔 쓰려니 업데이트가 많고, 업데이트를 기다리다가 정작 하려던 작업이 멈춘다. 터미널 관련 글을 정리한 김에 생각나서 찾아봤다.
+- Brew 업데이트를 막는 방법은 아래와 같다.
+- ```
+  HOMEBREW_NO_AUTO_UPDATE=1
+  ```
+- 그런데 이 명령은 1회성이라 지금 명령에서는 업데이트를 하지 않겠다는 의미가 된다. 계속 사용하려면 아래와 같이 작업하면 된다.
+- ```
+  echo HOMEBREW_NO_AUTO_UPDATE=1 >> ~/.zshrc 
+  source ~/.zshrc
+  ```
+- ### 참고자료
+- [https://computingforgeeks.com/prevent-homebrew-auto-update-on-macos/](https://computingforgeeks.com/prevent-homebrew-auto-update-on-macos/)
