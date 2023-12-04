@@ -22,5 +22,5 @@ public:: false
 - create card dialog
   prompt-template:: create card dialog
 	- ```prompt
-	    Rewrite text as a dialog between a teacher and a student:
+	  create flashcards based on the following text
 	  ```
