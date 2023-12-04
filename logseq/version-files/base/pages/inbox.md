@@ -8,7 +8,7 @@ public:: false
   card-ease-factor:: 2.7
   card-last-reviewed:: 2023-11-19T22:49:33.116Z
   tags:: card, memo,
-  source::
+  source:: [[잡지/이코노미조선/518]]
   title::
   public:: false
 	- 원문
