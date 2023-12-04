@@ -1,0 +1,6 @@
+{
+  "userIgnoreFilters": [
+    "logsesq",
+    "logseq/*"
+  ]
+}
