@@ -12,7 +12,6 @@ public:: false
   tags:: card, memo,
   source::
   title::
-  public:: false
 	- 원문
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
