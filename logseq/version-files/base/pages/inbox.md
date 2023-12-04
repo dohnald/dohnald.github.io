@@ -1,15 +1,8 @@
-- * 이창용 “내년 빚 많은 사람·저소득층 굉장히 어려울 것”
-  origin:: [[Omnivore imports]]
-  tags:: #memo #card
+- 굉장히 건조하게 이야기하는데, 내년 경제가 더 힘들 것이라는, 희망이 보이지 않는다는 이야기가 된다.
+  tags:: #memo #card [[경제위기]] [[한국 경제]] 
   source:: [조선일보](https://www.chosun.com/economy/economy_general/2023/12/01/C3B3WRYVTVDVFDMK4QMGGE3GDY/)
   title:: 이창용 “내년 빚 많은 사람·저소득층 굉장히 어려울 것”
-	- * ### Highlights
-	  collapsed:: true
-		- * 생각: 
-		  tags:: #memo #card
-		  source:: 
-		  title::
-			- 이창용 한은 총재는 “(내년에도) 물가가 높아서 취약 계층, 빚을 많이 낸 사람, 소득이 낮은 사람들이 굉장히 어려울 것”이라고 내다봤다.
+	- 이창용 한은 총재는 “(내년에도) 물가가 높아서 취약 계층, 빚을 많이 낸 사람, 소득이 낮은 사람들이 굉장히 어려울 것”이라고 내다봤다.
 - * 🧠 세컨드 브레인의 진정한 의미: 우리의 고찰
   origin:: [[Omnivore imports]]
   tags:: #memo #card
@@ -19,9 +12,9 @@
 	  collapsed:: true
 		- * 생각: 
 		  tags:: #memo #card
-		  source:: 
-		  title:: 
-		  > 따라서 세컨드 브레인은 단순한 정보의 저장소가 아니라, 우리의 태도와 마음가짐을 반영하는 도구여야 한다. 다시 말해 수없이 많은 정보를 수집한 공간이 아니라, 우리의 사고와 가치관이 반영된 시스템을 구축해야 한다.
+		  source:: [stibee.com](https://stibee.com/api/v1.0/emails/share/NtnRHw2abuEcFqGhspW_P1A4aN_X2hQ)
+		  title:: 🧠 세컨드 브레인의 진정한 의미: 우리의 고찰
+			- 따라서 세컨드 브레인은 단순한 정보의 저장소가 아니라, 우리의 태도와 마음가짐을 반영하는 도구여야 한다. 다시 말해 수없이 많은 정보를 수집한 공간이 아니라, 우리의 사고와 가치관이 반영된 시스템을 구축해야 한다.
 		- * 생각: 
 		  tags:: #memo #card
 		  source:: 
