@@ -14,3 +14,13 @@ public:: false
   title::
   public:: false
 	- 원문
+- Student Teacher Dialog
+  prompt-template:: Student Teacher Dialog
+	- ```prompt
+	    Rewrite text as a dialog between a teacher and a student:
+	  ```
+- create card dialog
+  prompt-template:: create card dialog
+	- ```prompt
+	    Rewrite text as a dialog between a teacher and a student:
+	  ```
