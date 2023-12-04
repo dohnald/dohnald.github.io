@@ -22,5 +22,5 @@ public:: false
 - create card dialog
   prompt-template:: create card dialog
 	- ```prompt
-	  create flashcards based on the following text. back is indented block. text:
+	    create flashcards based on the following text. each front after add `#card` and back has prefix `    `. text:
 	  ```
