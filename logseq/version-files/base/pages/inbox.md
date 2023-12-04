@@ -53,7 +53,7 @@ public:: false
   title:: 새로운 위기에 대처하는 리더십
 	- 올해는 처음으로 파산이 회생보다 많았다. 이익이 나지 않아 폐업하는 것이 아니라, 줄이고 버티며 몸을 갈아 넣어도 빚이 늘어나기 때문에 문을 닫는 것이다.
 	- 가계 대출 연체율이 지난해 대비 두 배 이상 늘었다. 그나마 숨통이었던 배달일과 건설 일용직도 막혀 있다. 중소기업에 제공되던 연구개발 자금도 바싹 마르다시피 감액됐다.
-- 생각
+- 한계 기업들
   card-last-score:: 5
   card-repeats:: 3
   card-next-schedule:: 2023-11-30T17:49:33.115Z
@@ -61,6 +61,6 @@ public:: false
   card-ease-factor:: 2.7
   card-last-reviewed:: 2023-11-19T22:49:33.116Z
   tags:: card, memo,
-  source::
-  title::
-	- 원문
+  source:: https://youtu.be/HGgwyFcslwk?si=g8zX2Mmc13E3xVfi
+  title:: 주식투자의 가장 기초적인 사실들
+	- 금리가 0% 시절에 5% 수익을 내는 기업들은 좋은 평가를 받았으나, 우량채권이 5% 이자를 지급할 때 5% 수익을 내는 기업은 좋은 평가를 받지 못한다.
