@@ -23,5 +23,7 @@ public:: false
   prompt-template:: create card dialog
 	- ```prompt
 	  create flashcards. each front has postfix `#card` and each back has prefix `    `. 
-	  all cards don't display front or back. based on the following text:
+	  every block don't display `front:` or `back:`. 
+	  
+	  based on the following text:
 	  ```
