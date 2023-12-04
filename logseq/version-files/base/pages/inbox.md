@@ -64,4 +64,5 @@ public:: false
   source:: https://youtu.be/HGgwyFcslwk?si=g8zX2Mmc13E3xVfi
   title:: 주식투자의 가장 기초적인 사실들
   id:: 656dcefd-7ea1-4f25-ab66-e858e5d4883a
+  collapsed:: true
 	- 금리가 0% 시절에 5% 수익을 내는 기업들은 좋은 평가를 받았으나, 우량채권이 5% 이자를 지급할 때 5% 수익을 내는 기업은 좋은 평가를 받지 못한다.
