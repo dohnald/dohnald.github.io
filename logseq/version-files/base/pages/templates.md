@@ -17,10 +17,10 @@ public:: false
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
 	- ```prompt
-	    Rewrite text as a dialog between a teacher and a student:
+	  Rewrite text as a dialog between a teacher and a student:
 	  ```
 - create card dialog
   prompt-template:: create card dialog
 	- ```prompt
-	    create flashcards based on the following text. each front after add `#card` and back has prefix `    `. text:
+	  create flashcards based on the following text. each front has postfix `#card` and each back has prefix `    `. text:
 	  ```
