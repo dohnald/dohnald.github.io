@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c664da17a1eef665",
+        "id": "7bcfbfac7ea52d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "9bed1393b48d962b",
+            "id": "e02b07e9db17e1ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2023_12_04.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2023_12_04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2023_12_04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2023_12_04.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "de3383ab9fa8b1da",
+            "id": "6e314cbbf2f73c32",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -138,7 +130,7 @@
             }
           },
           {
-            "id": "280ef233677cf6b8",
+            "id": "96555c6d255db3ae",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -162,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6f86d7aff8e73c8",
+  "active": "e02b07e9db17e1ef",
   "lastOpenFiles": [
+    "journals/2023_12_04.md",
     "logseq/version-files/incoming/journals/2023_12_04.md",
     "logseq/version-files/local/pages/한국 경제/2023-12-04T11_39_36.571Z.Desktop.md",
     "logseq/version-files/local/pages/한국 경제",
@@ -184,7 +177,6 @@
     "logseq/bak/journals/2023_04_10/2023-11-16T22_51_04.856Z.Desktop.md",
     "logseq/version-files/local/journals/2023_04_10/2023-11-28T13_14_01.845Z.Desktop.md",
     "logseq/bak/journals/2022_02_18/2023-10-30T09_55_57.940Z.Desktop.md",
-    "journals/2023_12_04.md",
     "logseq/bak/journals/2023_12_04/2023-12-04T10_26_46.996Z.Desktop.md",
     "logseq/bak/journals/2023_12_04/2023-12-04T10_20_43.821Z.Desktop.md",
     "logseq/bak/journals/2023_12_04",
