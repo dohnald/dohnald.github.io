@@ -1,8 +1,5 @@
 public:: false
 
-- /
-  query-table:: true
-  query-properties:: [:block :page]
 - 생각
   card-last-score:: 5
   card-repeats:: 3
@@ -41,7 +38,6 @@ public:: false
   source:: [[잡지/매경이코노미/2237]] 
   title:: 매그니피센트7 엇갈리는 전문가 전망
 	- 올해보다 미국 빅테크 기업 강세가 두드러지기 어려울 것이라는 전망이다. 올해는 경기 둔화 우려 속에서 상대적으로 안정적인 사업 모델과 현금흐름으로 주가가 선방했지만, 내년에는 경기 둔화가 심화되는 흐름 속 거시 경제 환경 영향에서 자유롭지 못할 것이라는 경고다.
-- /
 - 생각
   card-last-score:: 5
   card-repeats:: 3
@@ -50,6 +46,7 @@ public:: false
   card-ease-factor:: 2.7
   card-last-reviewed:: 2023-11-19T22:49:33.116Z
   tags:: card, memo,
-  source::
-  title::
-	- 원문
+  source:: [[잡지/더스쿠프/575]] 
+  title:: (정치 테마주)먼 친척이든 전 대표든 엮이면 불탔다
+	- [[정용택]] IBK투자증권 수석 애널리스트 "마땅한 투자처를 찾지 못한 돈이 테마주로 쏠리고 있다. 기업의 실적이나 증시 모멘텀과는 상관없이 움직이는 정치 테마주는 투기성이 매우 높다. 테마주의 방향성을 읽는 건 불가능한 일. 더 오를 수 있다는 기대감에 투자했다간 손실을 볼 가능성이 높다"
+-
