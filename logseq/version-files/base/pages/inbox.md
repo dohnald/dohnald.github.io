@@ -1,6 +1,6 @@
 public:: false
 
-- 생각
+- 부동산
   card-last-score:: 5
   card-repeats:: 3
   card-next-schedule:: 2023-11-30T17:49:33.115Z
