@@ -1,2 +1,2 @@
 - [:a {:href "#/all-journals"} "모든 일지"]
-- [[sitemap]]
+- [:a {:href "#/page/sitemap"} "sitemap"]
