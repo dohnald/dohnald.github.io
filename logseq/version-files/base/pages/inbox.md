@@ -20,7 +20,7 @@ public:: false
   card-last-interval:: 31.36
   card-ease-factor:: 2.8
   card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo,
-  source::
-  title::
-	- 원문
+  tags:: card, memo, [[한국 경제]]
+  source:: [[잡지/이코노미스트/1714]] 
+  title:: '공매도 전산화' 3년 만에 재논의. 이번엔 도입될까
+	- 그간 불법
