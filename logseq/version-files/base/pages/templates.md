@@ -2,11 +2,11 @@ public:: false
 
 - 생각
   card-last-score:: 5
-  card-repeats:: 3
-  card-next-schedule:: 2023-11-30T17:49:33.115Z
-  card-last-interval:: 10.8
-  card-ease-factor:: 2.7
-  card-last-reviewed:: 2023-11-19T22:49:33.116Z
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
   template:: highlight 하이라이트
   template-including-parent:: true
   tags:: card, memo,
