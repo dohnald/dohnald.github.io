@@ -56,3 +56,14 @@ public:: false
   title:: 타다의 '신뢰'와 택시의 '면허'
   id:: 65805222-e47d-465f-b684-1b176c68fa1a
 	- 면허는 종이가 아니라 그 안에 있는 신뢰가 본질이다. 타다는 이미 기술 투자로 신뢰를 만들어냈는데, 이 값을 또 치르라는 건 과부하다. 이미 시장이 흡수한 재화의 가격을 국가가 강제하면 부당한 지대(地代)가 된다.
+- 생각
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo,
+  source::
+  title::
+	- 원문
