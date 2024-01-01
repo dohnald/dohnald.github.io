@@ -320,10 +320,9 @@
 		  So if you take notes, if you read papers and take notes on those papers, if you have any insights you need to gather and then later share in written form, Logseq is a perfect companion also because you can really let structure emerge on a day to day basis you can chip away at your research project.
 		  And today Cara is joining us to talk about her workflow.
 		- **Ramses Oudt** {{youtube-timestamp 00:48}} 
-		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Luxey community
-		- Ramses Oudt {{youtube-timestamp  01:02}}
-		  to share their workflow basically.
+		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Logseq community to share their workflow basically.
 		  So we get to peek into the real world scenario of applying Loxig to real life problems.
+		- Ramses Oudt {{youtube-timestamp  01:02}}
 		  So Kara, thank you for being here.
 		  Today we're going to talk a little bit about your PPM story, your use case, your journal, how you use the journal's page, how you do research using logic, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
 		- Cara Antonaccio {{youtube-timestamp 01:31}} 
