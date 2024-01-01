@@ -329,16 +329,15 @@
 		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
 		  So if you could just pop in the chat, what topics you're interested in, whether it's professional research or just interests that you have in general.
-		- Cara Antonaccio 01:58
-		  So I can get an idea of what you might be thinking of using logs to research.
-		  That would be awesome. And then if it's okay with you, Ramsey, I'm going to go a little bit out of order.
+		- **Cara Antonaccio** {{youtube-timestamp 01:58}} 
+		  So I can get an idea of what you might be thinking of using Logseq to research.
+		  That would be awesome. And then if it's okay with you, Ramses, I'm going to go a little bit out of order.
 		  So I always start each day in the journal.
 		  So I figured I'd start there too.
 		  Yes, I do everything from the journal.
 		  It's sort of my base in the morning so I make sure that I detail you know, it really just helps me to get started with logging by just going through you know, aspects of my days.
-		  So I have
+		  So I have things that are going on in the morning but once I deal with that, I close off things that I need to take care of in my life and then my work schedule.
 		- Cara Antonaccio 02:33
-		  things that are going on in the morning but once I deal with that, I close off things that I need to take care of in my life and then my work schedule.
 		  So I have a meeting at 9 o'clock about this project with these people and each, each item in my schedule sort of follows that same flow.
 		  So I'm teaching at 10 about my workflow with Ramsey's so sort of just keeping a nice sort of flow like that.
 		  So and then you go into my log and then each of the,
