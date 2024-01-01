@@ -514,12 +514,16 @@
 			  그래서 저는 로마를 사용해서 연구도 하고, 첫 저자로 논문도 썼는데 시작은 정말 좋았지만 계속 사용하면서 성장 속도와 관련된 문제들, 그리고 일반적으로 진행 상황에 만족하지 못한 점들이 생겼어요.
 		- **Cara Antonaccio** {{youtube-timestamp 09:05}}
 		  So I started to look in other places and it increasingly seemed to me like Logseq was, had, had a lot of the same features and was growing at a faster pace than Rome and also had a really healthy community helpful users, people who are contributing to the app with plug ins with themes and supporting each other in this process of learning and sharing knowledge and integrating knowledge.
-			- **카라 안토나치오** {{youtube-timestamp 09:05}}
+			- **Cara Antonaccio** {{youtube-timestamp 09:05}}
 			  그래서 다른 곳을 찾기 시작했고, 로그시크는 로메보다 같은 기능을 많이 가지고 있었으며, 더 빠르게 성장하고 있었습니다. 또한, 이 앱에 기여하는 플러그인과 테마를 가진 도움이 되는 사용자들과 학습 및 지식 공유를 위해 서로 지원하는 건강한 커뮤니티도 있었습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 09:33}}
 		  So at this point, this is where I am today.
-		  I'm writing a three paper dissertation in Log Zek and I'll discuss a little bit about each of these papers in a second.
+		  I'm writing a three paper dissertation in Logseq and I'll discuss a little bit about each of these papers in a second.
 		  But for now I just want to talk a little bit about the processes that I go through here.
+			- **Cara Antonaccio** {{youtube-timestamp 09:33}}
+			  지금까지 나는 이 진행 상황에 있습니다.
+			  저는 Logseq에서 3편의 논문을 작성 중이며, 이 논문들에 대해 조금 언급하겠습니다.
+			  하지만 지금은 여기에서 거쳐가는 과정에 대해 조금 얘기하고 싶습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 09:49}}
 		  So I'll go through each of the sort of, and none of these processes are linear.
 		  They're sort of, you know, groupings of similar processes.
@@ -527,9 +531,8 @@
 		  For this, I use Google Scholar and Connected Papers.
 		  But just to show you sort of where I throw things this is my library.
 		  This is where I keep all of the literature in my literature review.
-		  So each,
-		- **Cara Antonaccio** {{youtube-timestamp 10:11}}
-		  each article, each book gets its own row and I put the title of it and then I link directly to the source.
+		  So each, each article, each book gets its own row and I put the title of it and then I link directly to the source.
+		- **Cara Antonaccio** {{youtube-timestamp 10:16}}
 		  So this is a source. You can open up the source here and I think this one should have an outline.
 		  So for every source, not for every source but for most sources, log gives you the outline of the, the source that you have when you go to this little button here which is really useful for me.
 		  So I always start everything that I'm taking notes on or anything that I'm writing
