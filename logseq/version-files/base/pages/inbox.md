@@ -416,14 +416,25 @@
 		  Yeah and I have, I should have mentioned that.
 		  So I really only touched on the structure of it.
 		  But when you go into each line, each line starts with a process.
-		  So meeting, teaching, going, practicing, searching they're all processes that I use in the log and that yet.
+		  So meeting, teaching, going, practicing, searching they're all processes that I use in the Logseq and that yet.
 		  So each of these sort of headings has a process associated with it or a bunch of processes
-		- Cara Antonaccio 05:33
+			- **Cara Antonaccio** {{youtube-timestamp 05:09}}
+			  네, 그리고 말씀 드려야 할 거예요. 사실 저는 구조에 대해서만 언급했다고요.
+			  하지만 각 줄에 들어가면, 각 줄은 과정으로 시작합니다.
+			  만남, 가르치기, 가기, 연습하기, 찾기 모두 저는 Logseq에서 사용하는 과정들이에요.
+			  그래서 이러한 각각의 제목은 해당하는 과정이나 다수의 과정과 연관이 있어요.
+		- **Cara Antonaccio** {{youtube-timestamp 05:33}} 
 		  and I'll discuss those specifically related to the research processes in a minute.
 		  But like Reni said, they're all linked.
 		  So if I go to search, I have a very short log of all the different topics that I've been searching.
 		  But it keeps a running log of every time that I'm doing a certain thing.
 		  It'll tell,
+			- **Cara Antonaccio** {{youtube-timestamp 05:33}}
+			  그리고 나중에 연구과정에 특히 관련된 사항들에 대해서 이야기하겠습니다.
+			  하지만 Reni가 말한 것처럼, 이들은 모두 연결되어 있습니다.
+			  검색을 하러 가면, 저는 제가 검색한 모든 다양한 주제들에 대한 매우 짧은 로그가 있습니다.
+			  하지만 특정 작업을 할 때마다 계속 로그를 남깁니다.
+			  그 작업을 할 때마다 알려줄 겁니다.
 		- Cara Antonaccio 05:51
 		  you know, when I did it and what I was working on.
 		  I guess I'll move into my research workflow now.
