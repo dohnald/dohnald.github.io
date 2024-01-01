@@ -493,11 +493,9 @@
 		- **Cara Antonaccio** {{youtube-timestamp 07:59}}
 		  It was more like a separation between me and the data that I was working with and then asana which is useful but it didn't again meet my needs about being both planning and a research tool.
 		  So that left me with sort of fewer options than I wanted.
-		  So in early 2021, in March, I found Rome Research and the small community of active, active users that were active on Twitter including Lapttype.
-		  I can't say your name, Laptop Life Lisa who's probably the,
-			-
-		- **Cara Antonaccio** {{youtube-timestamp 08:29}}
-		  I don't know if you call it the seminal person for my graph.
+		  So in early 2021, in March, I found Rome Research and the small community of active, active users that were active on Twitter including laytype leaf laptop.
+		  I can't say your name, Laptop Life Lisa who's probably the, I don't know if you call it the seminal person for my graph.
+		- **Cara Antonaccio** {{youtube-timestamp 08:31}}
 		  So she's really the person I learned from.
 		  I took her magical academic Note taking course.
 		  Some of you if you've taken this course, will see a lot of the principles that she taught in this course throughout my graph either explicitly or just you know, variation on her techniques.
