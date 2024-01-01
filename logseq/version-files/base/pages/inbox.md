@@ -334,12 +334,18 @@
 			  그래서 우리는 Logseq를 실생활 문제에 적용하는 실제 상황을 엿볼 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
 		  So Kara, thank you for being here.
-		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
-			-
+		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using Logseq Take it away please introduce yourself.
+			- 라메스 우트 {{youtube-timestamp 01:10}}
+			  카라, 여기에 있어주셔서 감사합니다.
+			  오늘은 당신의 PPM(?) 이야기, 사용 사례, 저널을 사용하는 방법, Logseq를 사용하여 연구하는 방법, 다른 도구들, 그리고 Logseq를 사용하여 연구를 하는 사람들을 위한 최상의 팁에 대해 조금 얘기해보려고 합니다. 자기소개 부탁드릴게요.
 		- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
 		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
 		  So if you could just pop in the chat, what topics you're interested in, whether it's professional research or just interests that you have in general.
+			- **Cara Antonaccio** {{유튜브 타임스탬프 01:31}} 
+			  좋아요. 감사합니다. 여러분 안녕하세요. 저는 여기에 있어서 너무 기쁩니다. 제 경험과 배운 점, 그리고 저의 Logseq 사용법을 공유하려고 합니다.
+			  그럼 화면을 공유하겠습니다. 우선 모두가 어떻게 연구를 진행하는지, 무슨 주제로 연구하고 계시는지 말씀해 주시기 바랍니다. 제가 아는 바로는 모두가 자신의 출신지를 공유하시고 계신 것 같은데요.
+			  그러니까 채팅에 원하시는 주제나 관심사를 알려주시면 됩니다. 전문적인 연구이던 일반적인 관심사이던 상관 없습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 01:58}} 
 		  So I can get an idea of what you might be thinking of using Logseq to research.
 		  That would be awesome. And then if it's okay with you, Ramses, I'm going to go a little bit out of order.
