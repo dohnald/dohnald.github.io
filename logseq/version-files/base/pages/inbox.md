@@ -453,21 +453,19 @@
 		  I'm doing research in 2018 I got my Master of science in public health from Johns Hopkins.
 		  I focused on population health.
 		  So my training is really in population health and epidemiology and I'm currently a PHD candidate at Boston College expecting to graduate in June and I study armed conflict.
-		  These are all links so it's
-		- **Cara Antonaccio** {{youtube-timestamp 06:34}}
-		  goes back to everything that I tag with these different things.
+		  These are all links so it's goes back to everything that I tag with these different things.
+		- **Cara Antonaccio** {{youtube-timestamp 06:37}}
 		  So armed conflict, health and human rights, mental health, and humanitarian assistance.
 		  And to do this, I use algorithmic modeling as well as geographical statistics and these are some of the programs that I use to do these things.
 		  So a little bit about how I got here.
-		  So when I say here I mean logs.
-		  So in February 201,
+		  So when I say here I mean Logseq.
+		  So in February 2021,
 		- **Cara Antonaccio** {{youtube-timestamp 07:02}}
 		  I was really looking for a planning and a research tool sort of like a dual planning and research tool, a dual literature review tool where I could sort of do everything in one program or application because I needed to write my dissertation proposal.
 		  So I really felt like I, I have a lot going on in my brain.
 		  It's all up there but I really needed to compartmentalize and process and integrate the knowledge that I was trying to dissertate about.
-		  So
+		  So I tried a few different things some success and some shortcomings in certain areas.
 		- **Cara Antonaccio** {{youtube-timestamp 07:29}}
-		  I tried a few different things some success and some shortcomings in certain areas.
 		  So I tried Max QDA super strange.
 		  Maxqda is a qualitative analysis software.
 		  So the way that I used that was I uploaded all of the literature that I needed into Max QDA and I tried to code it as though it was like a qualitative analysis that was weird.
