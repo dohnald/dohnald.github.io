@@ -505,15 +505,14 @@
 		  I took her magical academic Note taking course.
 		  Some of you if you've taken this course, will see a lot of the principles that she taught in this course throughout my graph either explicitly or just you know, variation on her techniques.
 		  So she was really influential.
-		  And so I used Rome to conduct research and to write my first author publication and I really liked it a lot but
-			- **카라 안토나치오** {{유튜브 타임스탬프 08:31}}
-			  그래서 그녀는 정말로 내가 배운 사람입니다.
-			  저는 그녀의 마법같은 학업 노트 필기 수업을 들었습니다.
-			  이 수업을 들은 적이 있다면, 내 그래프에서 그녀가 가르친 원칙들을 많이 볼 수 있을 거예요. 명시적으로든, 은약하게든, 그녀의 기술들에 변형된 형태로 말입니다.
-			  그래서 그녀는 정말로 영향력이 컸습니다.
-			  또한, 저는 연구를 수행하고 첫 번째 저자로 작성한 논문을 쓰기 위해 Rome을 사용했고, 정말로 좋아했습니다. 그러나
-		- **Cara Antonaccio** {{youtube-timestamp 08:59}}
-		  the more I used it, the more I had problems with the pace of growth other issues with, generally wasn't happy with how things were going through.
+		  And so I used Rome to conduct research and to write my first author publication and I really liked it a lot but the more I used it, the more I had problems with the pace of growth other issues with, generally wasn't happy with how things were going through.
+			- **카라 안토나치오** {{youtube-타임스탬프 08:31}}
+			  그래서 그녀는 내가 많이 배운 사람이에요.
+			  마법같은 학문적 노트 필기 과정을 그녀와 함께 했어요.
+			  이 강좌를 수강한 분들 중 몇 분은, 제 그래프에서 그녀가 가르친 원칙들을 명시적으로든 또는 단지 그녀 기술의 변형으로 볼 수 있을 거예요.
+			  그래서 그녀는 정말로 영향력이 있었어요.
+			  그래서 저는 로마를 사용해서 연구도 하고, 첫 저자로 논문도 썼는데 시작은 정말 좋았지만 계속 사용하면서 성장 속도와 관련된 문제들, 그리고 일반적으로 진행 상황에 만족하지 못한 점들이 생겼어요.
+		- **Cara Antonaccio** {{youtube-timestamp 09:05}}
 		  So I started to look in other places and it increasingly seemed to me like Log Zik was, had, had a lot of the same features and was growing at a faster pace than Rome and also had a really healthy community helpful users,
 		- **Cara Antonaccio** {{youtube-timestamp 09:23}}
 		  people who are contributing to the app with plug ins with themes and supporting each other in this process of learning and sharing knowledge and integrating knowledge.
