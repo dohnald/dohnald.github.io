@@ -11,31 +11,11 @@
 		  source:: 
 		  title:: 
 		  > Cara는 논문 및 학위 논문을 포함한 다양한 문서를 작성하고 편집하는 데 Logseq를 활용합니다. 그녀는 독서 노트와 동일한 구조화된 접근 방식으로 글을 개요로 작성합니다. Cara는 방정식과 그림을 직접 Logseq에 통합하며, 필요할 때 초안을 내보냅니다.
-- * ‘순살자이’ ‘워크아웃설’…잇단 악재 건설사 신용등급도 줄강등 | 서울경제
-  origin:: [[Omnivore imports]]
+- * 생각: 
   tags:: #memo #card
   source:: [서울경제](https://m.sedaily.com/NewsView/29YMWT2IKE)
   title:: ‘순살자이’ ‘워크아웃설’…잇단 악재 건설사 신용등급도 줄강등 | 서울경제
-	- * ### Highlights
-		- * 생각: 
-		  tags:: #memo #card
-		  source:: 
-		  title:: 
-		  > 부동산 경기 침체로 인해 수주 환경이 악화되면서 건설업계가 신용 위기를 촉발한 것이다
-- * 버핏클럽 웹진
-  origin:: [[Omnivore imports]]
-  tags:: #memo #card
-  source:: [버핏클럽 웹진](https://buffettclub.co.kr/article-20231218/)
-  title:: 버핏클럽 웹진
-	- collapsed:: true
-	  * ### Highlights
-	  collapsed:: true
-		- * 생각: 
-		  tags:: #memo #card
-		  source:: 
-		  title:: 
-		  > 한 사람이 할 수 있는 가장 좋은 일은 다른 사람이 더 많은 것을 알도록 돕는 것이다.” 아멘. 이 세상에는 찰리 같은 사람이 더 많이 필요합니다. 이번 인터뷰를 통해 그에게 다시 한번 배울 수 있어 정말 고맙습니다
-		  public:: false
+	- 부동산 경기 침체로 인해 수주 환경이 악화되면서 건설업계가 신용 위기를 촉발한 것이다
 - 사기업의 이익을 법으로 강제한다면 앞으로도 이익을 추구해야 할까 고민이 드는 지점이다. 은행업의 주식이 저평가된 이유와도 맞닿는다.
   card-last-score:: 5
   card-repeats:: 4
