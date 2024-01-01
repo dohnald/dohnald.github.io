@@ -586,6 +586,12 @@
 		  So you say once you're done with basically your dissertation, that's or at least a part you will then look into the terror not now like you're not trying to change the wheel of a car while driving.
 		  Basically same thing with the process you're not filling too much to upend your process as you're using it.
 		  I think that's also an important lesson for, at least for myself.
+			- **Ramses Oudt** {{youtube-timestamp 12:01}}
+			  그래서 저는 이것도 좋은 교훈이라고 생각합니다.
+			  의도적인지는 모르겠지만요.
+			  기본적으로 논문이나 적어도 그 일부분이 끝나고 나서야, 그때서야 일해볼 생각이라고 말씀하시죠. 마치 운전 중에 휠을 바꾸려고하지 않는 것과 같은 맥락이에요.
+			  마찬가지로, 과정에 대해서도 자기 스스로를 많이 깨끗이 하지 않으면서 가다듬어 나가는 것이 필요하다고 생각해요.
+			  적어도 제게는 중요한 교훈이라고 생각합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 12:31}}
 		  Yeah so I like to, I, you'll see in my graph I tend to keep things pretty simple.
 		  I don't there's not a whole lot of bells and whistles.
