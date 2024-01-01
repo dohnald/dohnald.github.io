@@ -435,13 +435,20 @@
 			  검색을 하러 가면, 저는 제가 검색한 모든 다양한 주제들에 대한 매우 짧은 로그가 있습니다.
 			  하지만 특정 작업을 할 때마다 계속 로그를 남깁니다.
 			  그 작업을 할 때마다 알려줄 겁니다.
-		- Cara Antonaccio 05:51
+		- **Cara Antonaccio** {{youtube-timestamp 05:51}} 
 		  you know, when I did it and what I was working on.
 		  I guess I'll move into my research workflow now.
 		  So most of my research workflow happens in the log.
-		  Sometimes it happens when I'm having meetings with collaborators it'll go on the schedule but typically it'll be in the log.
+		  Sometimes it happens when I'm having meetings with collaborators it'll go on the schedule but typically it'll be in the Logseq.
 		  So I'm going to start from over on this side here.
 		  So just a little bit of background about who I am, what I do research in and my experience.
+			- **Cara Antonaccio** {{youtube-timestamp 05:51}} 
+			  내가 그것을 했던 시점과 내가 작업하던 것을 알아요.
+			  지금은 내 연구 흐름으로 들어갈 거예요.
+			  대부분의 연구 작업은 로그에서 이루어집니다.
+			  협력자들과 회의할 때에도 일어날 수 있지만, 일반적으로 Logseq에 작성됩니다.
+			  그래서 이쪽에서부터 시작할 거예요.
+			  그래서 내가 누구이고 어떤 분야에서 연구하며 경험이 어떤지에 대해 간략히 소개할게요.
 		- Cara Antonaccio 06:14
 		  I'm doing research in 2018 I got my Master of science in public health from Johns Hopkins.
 		  I focused on population health.
