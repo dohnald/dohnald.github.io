@@ -326,7 +326,7 @@
 		  So Kara, thank you for being here.
 		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using logic, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
 		- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
-		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logsk.
+		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
 		  So if you could just pop in the chat, what topics you're interested in, whether it's professional research or just interests that you have in general.
 		- Cara Antonaccio 01:58
