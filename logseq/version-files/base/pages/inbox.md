@@ -466,21 +466,30 @@
 		  So when I say here I mean Logseq.
 		  So in February 2021,
 			- **Cara Antonaccio** {{youtube-timestamp 06:37}}
-			  사르게 발전한 갈등, 건강과 인권, 정신 건강, 인도주의 지원에 대해 이야기하고 있습니다.
-			  이를 위해 알고리즘 모델링과 지리적 통계를 사용하며, 이러한 일을 수행하기 위해 몇 가지 프로그램을 사용합니다.
-			  어떻게 여기에 도달했는지에 대해 조금 얘기해보겠습니다.
-			  여기서 말하는 '여기'란 로그씨크를 의미합니다.
-			  따라서 2021년 2월에 이곳에 도달한 것입니다.
+			  무장 충돌, 보건과 인권, 정신 건강, 인도적 지원에 대해 이야기하려고 합니다.
+			  이를 위해 저는 알고리즘 모델링과 지리 통계를 사용하며 이러한 작업을 수행하는 데에 일부 프로그램을 사용합니다.
+			  여기에 도달한 과정에 대해 조금 얘기해 볼까요.
+			  여기에서 말하는 것은 Logseq를 의미합니다.
+			  2021년 2월에 이야기하고 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 07:02}}
 		  I was really looking for a planning and a research tool sort of like a dual planning and research tool, a dual literature review tool where I could sort of do everything in one program or application because I needed to write my dissertation proposal.
 		  So I really felt like I, I have a lot going on in my brain.
 		  It's all up there but I really needed to compartmentalize and process and integrate the knowledge that I was trying to dissertate about.
 		  So I tried a few different things some success and some shortcomings in certain areas.
+			- **Cara Antonaccio** {{youtube-timestamp 07:02}}
+			  나는 정말로 계획과 연구를 위한 도구, 종합 계획 및 연구 도구와 같은 이중 기능의 도구를 찾고 있었어요. 제가 한 프로그램이나 애플리케이션에서 모든 것을 처리할 수 있도록 도와주는 이중 문헌 검토 도구였어요, 왜냐하면 학위 논문 제안을 작성해야 했거든요.
+			  그래서 정말로 내 머릿 속에 많은 것이 있었지만, 나는 정말로 그 지식을 분리하고 처리하고 통합해야 했어요.
+			  그래서 몇 가지 다른 방법들을 시도해 보았고 일부는 성공했고 일부는 특정 영역에서는 단점이 있었어요.
 		- **Cara Antonaccio** {{youtube-timestamp 07:34}}
 		  So I tried Max QDA super strange.
 		  Maxqda is a qualitative analysis software.
 		  So the way that I used that was I uploaded all of the literature that I needed into Max QDA and I tried to code it as though it was like a qualitative analysis that was weird.
 		  I didn't really like it. It didn't suit the needs I had for like integration and synthesis of ideas or really like digging into the ideas themselves.
+			- 카라 안토나치오 {{유튜브-타임스탬프 07:34}}
+			  그래서 나는 Max QDA를 사용해 보았는데 정말 이상하더라.
+			  Maxqda는 질적 분석 소프트웨어이다.
+			  나는 필요한 모든 자료를 Max QDA에 업로드하고, 그것을 질적 분석처럼 코드화해 보았다. 이건 정말 이상했다.
+			  나는 그걸 실제로 좋아하지 않았다. 통합 및 아이디어의 통합, 그리고 아이디어 자체에 대해 깊게 파고들기에는 적합하지 않았다.
 		- **Cara Antonaccio** {{youtube-timestamp 07:59}}
 		  It was more like a separation between me and the data that I was working with and then as Sonna which is useful but it didn't again meet my needs about being both planning and a research tool.
 		  So that left me with sort of fewer options than I wanted.
