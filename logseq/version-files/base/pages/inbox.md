@@ -392,17 +392,17 @@
 			  첫 번째 질문은 텍스트를 조금 크게 만들 수 있을까요? 확대할 수 있을까요? 제가 작은 화면을 사용하고 있고 다른 사람들도 작은 화면을 볼 것이라 상상할 수 있습니다.
 			  나중에 이것을 조금 편집할 것입니다.
 			  네, 조금 더 크면 좋을 것 같습니다. 그래도,
-		- Ramses Oudt 04:06
+		- **Ramses Oudt** {{youtube-timestamp 04:06}} 
 		  great great thank you. So basically first my observation is and I think many people missed this.
 		  I think when they start out with Loxig or basically any other tool that has a journals or a daily notes page, is you dump everything that happens on a day or you're thinking about on the same page? But then the question is oh, now it's tagged with that date.
 		  But how does it actually then work down the line? And what I see and you have a lot of nice CSS sprinkles over it but I see many links.
 		  So when I look at your Logseq, I see I think search is a link mental health problems is a link conflict affected children they're all links.
-			- 라메스 오트 04:06
+			- 라메스 오트 {{youtube-timestamp 04:06}}
 			  좋아요 좋아요 감사합니다. 기본적으로 제 첫 관찰은 많은 사람들이 이를 놓친다고 생각합니다.
 			  록시그 또는 기본적으로 일지 또는 일일 메모 페이지가 있는 다른 도구를 시작할 때 하루에 발생하는 모든 것이나 생각하는 모든 것을 동일한 페이지에 모아놓는다고 생각합니다. 그런데 그게 날짜와 함께 태그되는 것인데요.
 			  하지만 실제로 어떻게 되는건가요? 그리고 제가 보는 바, 여러분은 다양한 멋진 CSS 스프링클을 가지고 있지만 많은 링크를 볼 수 있습니다.
 			  여러분의 록시그를 살펴보면, 검색은 링크이고, 정신 건강 문제는 링크이고, 충돌에 영향받은 아이들은 모두 링크입니다.
-		- Ramses Oudt 04:39
+		- Ramses Oudt 04:39 
 		  So anything you, you write underneath is automatically linked with all those terms.
 		  So that will in turn probably come in handy with queries or just when clicking through your notes.
 		  But that is one observation.
