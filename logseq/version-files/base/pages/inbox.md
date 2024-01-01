@@ -340,18 +340,17 @@
 		- **Cara Antonaccio** {{youtube-timestamp 02:40}} 
 		  So I have a meeting at 9 o'clock about this project with these people and each, each item in my schedule sort of follows that same flow.
 		  So I'm teaching at 10 about my workflow with Ramses so sort of just keeping a nice sort of flow like that.
-		  So and then you go into my log and then each of the,
-		- Cara Antonaccio 03:01
-		  each of the things that I'm working on during the day follows the same sort of what you call it convention where I'm searching about this from or related to this and this.
+		  So and then you go into my log and then each of the, each of the things that I'm working on during the day follows the same sort of what you call it convention where I'm searching about this from or related to this and this.
+		- **Cara Antonaccio** {{youtube-timestamp 03:10}} 
 		  So sort of just laying it all out and then going into it in another page.
 		  So these are just so where I'm keeping track of everything that I'm doing all the things that I need to do for the day, who I need to send things to and then you know, wrapping it all up.
-		- Cara Antonaccio 03:25
+		- **Cara Antonaccio** {{youtube-timestamp 03:25}} 
 		  So that's sort of just my general layout each day.
 		  It varies day to day. Sometimes I might not have a schedule for the weekend for example.
 		  And so that's what it looks like when I wake up in the morning and I'm trying to figure out what my day's going to look like.
 		  This is what I end up with.
 		  So now I'll go a little bit more into,
-		- Ramses Oudt 03:41
+		- **Ramses Oudt** {{youtube-timestamp 03:41}} 
 		  I'd like to summarize and also because obviously I am also an attendee basically and I'm just going to speak of what I'm observing.
 		  First question can you make the text a little bit bigger? Can you zoom in? I'm on a small screen and I can imagine more people will be looking at a small screen.
 		  I will be editing this a little bit later.
