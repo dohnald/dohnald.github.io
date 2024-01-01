@@ -342,7 +342,7 @@
 		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
 		  So if you could just pop in the chat, what topics you're interested in, whether it's professional research or just interests that you have in general.
-			- **Cara Antonaccio** {{유튜브 타임스탬프 01:31}} 
+			- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
 			  좋아요. 감사합니다. 여러분 안녕하세요. 저는 여기에 있어서 너무 기쁩니다. 제 경험과 배운 점, 그리고 저의 Logseq 사용법을 공유하려고 합니다.
 			  그럼 화면을 공유하겠습니다. 우선 모두가 어떻게 연구를 진행하는지, 무슨 주제로 연구하고 계시는지 말씀해 주시기 바랍니다. 제가 아는 바로는 모두가 자신의 출신지를 공유하시고 계신 것 같은데요.
 			  그러니까 채팅에 원하시는 주제나 관심사를 알려주시면 됩니다. 전문적인 연구이던 일반적인 관심사이던 상관 없습니다.
@@ -354,10 +354,16 @@
 		  Yes, I do everything from the journal.
 		  It's sort of my base in the morning so I make sure that I detail you know, it really just helps me to get started with logging by just going through you know, aspects of my days.
 		  So I have things that are going on in the morning but once I deal with that, I close off things that I need to take care of in my life and then my work schedule.
+			- **Cara Antonaccio** {{youtube-timestamp 01:58}}
+			  로그시크를 연구에 사용하려는 것에 대한 아이디어를 얻을 수 있을 것 같아요. 멋질 거에요. 그리고, Ramses, 괜찮다면, 순서를 조금 바꿀 거예요. 저는 항상 일지에서 하루를 시작해요. 그래서 거기에서도 시작하려고 생각한 거예요. 네, 제가 모든 것을 일지에서 처리해요. 아침에는 제 기준이 되는 토대이기 때문에, 일들의 다양한 측면을 점검하는 것으로 출근을 시작하는 데 도움이 되거든요. 아침에 진행해야 할 일들이 있지만, 그것들을 처리하고 나면, 제 인생에서 신경 써야 할 일들과 그 다음에는 제 업무 일정을 마무리해요.
 		- **Cara Antonaccio** {{youtube-timestamp 02:40}} 
 		  So I have a meeting at 9 o'clock about this project with these people and each, each item in my schedule sort of follows that same flow.
 		  So I'm teaching at 10 about my workflow with Ramses so sort of just keeping a nice sort of flow like that.
 		  So and then you go into my log and then each of the, each of the things that I'm working on during the day follows the same sort of what you call it convention where I'm searching about this from or related to this and this.
+			- **Cara Antonaccio** {{youtube-timestamp 02:40}} 
+			  9시에 이 프로젝트와 관련하여 이들과의 회의가 있는데, 제 스케줄에 있는 각 항목들이 해당 흐름을 따른다.
+			  그래서 10시에라면 Ramses와의 워크플로우에 대해 가르칠 예정이므로 이러한 원활한 흐름을 유지하고 있습니다.
+			  그리고 그런 다음 로그로 들어가면, 하루 종일 작업하는 각각의 항목이 이와 같은 일종의 관습을 따르는데, 이를 통해 이것에 대한 정보를 찾거나 이와 관련된 작업을 수행하고 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 03:10}} 
 		  So sort of just laying it all out and then going into it in another page.
 		  So these are just so where I'm keeping track of everything that I'm doing all the things that I need to do for the day, who I need to send things to and then you know, wrapping it all up.
