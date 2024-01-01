@@ -319,9 +319,19 @@
 		  Today we're talking about using Logseq for research, but not just for academic research, but basically any type of research.
 		  So if you take notes, if you read papers and take notes on those papers, if you have any insights you need to gather and then later share in written form, Logseq is a perfect companion also because you can really let structure emerge on a day to day basis you can chip away at your research project.
 		  And today Cara is joining us to talk about her workflow.
+			- **Ramses Oudt** {{youtube-timestamp 00:00}}
+			  안녕하세요 여러분, 제 이름은 람세스 오드트입니다.
+			  저는 Logseq의 커뮤니티 매니저입니다.
+			  오늘은 카라 안토나치오 선생님과 함께합니다. 그는 공중보건 분야의 박사과정 학생입니다.
+			  오늘은 Logseq를 연구에 활용하는 방법에 대해 이야기할 것입니다. 학문적 연구뿐만 아니라 어떤 유형의 연구든지 가능합니다.
+			  그래서 노트를 작성하거나 논문을 읽고 그에 대한 노트를 작성하거나, 필요한 통찰력을 모으고 나중에 글 형태로 공유해야 한다면, Logseq는 완벽한 동반자입니다. 일상적으로 구조가 점진적으로 형성되게 할 수 있고, 연구 프로젝트에 착수할 수 있습니다.
+			  오늘은 카라가 그녀의 작업 흐름에 대해 이야기하기 위해 함께합니다.
 		- **Ramses Oudt** {{youtube-timestamp 00:48}} 
 		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Logseq community to share their workflow basically.
 		  So we get to peek into the real world scenario of applying Logseq to real life problems.
+			- 라름세스 오우트 {{유튜브 타임스탬프 00:48}}
+			  이 세션은 향후로도 계속되기를 희망하는 시리즈의 일부입니다. Workflow Wednesday라는 약간 추잡한 이름을 가졌지만, 매주 수요일마다 Logseq 커뮤니티의 한 회원을 초대하여 그들의 워크플로우를 공유하고자 합니다.
+			  그래서 우리는 Logseq를 실생활 문제에 적용하는 실제 상황을 엿볼 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
 		  So Kara, thank you for being here.
 		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using logic, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
