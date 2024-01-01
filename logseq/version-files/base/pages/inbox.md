@@ -337,9 +337,9 @@
 		  Yes, I do everything from the journal.
 		  It's sort of my base in the morning so I make sure that I detail you know, it really just helps me to get started with logging by just going through you know, aspects of my days.
 		  So I have things that are going on in the morning but once I deal with that, I close off things that I need to take care of in my life and then my work schedule.
-		- Cara Antonaccio 02:33
+		- **Cara Antonaccio** {{youtube-timestamp 02:40}} 
 		  So I have a meeting at 9 o'clock about this project with these people and each, each item in my schedule sort of follows that same flow.
-		  So I'm teaching at 10 about my workflow with Ramsey's so sort of just keeping a nice sort of flow like that.
+		  So I'm teaching at 10 about my workflow with Ramses so sort of just keeping a nice sort of flow like that.
 		  So and then you go into my log and then each of the,
 		- Cara Antonaccio 03:01
 		  each of the things that I'm working on during the day follows the same sort of what you call it convention where I'm searching about this from or related to this and this.
