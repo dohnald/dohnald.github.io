@@ -575,8 +575,11 @@
 			- **Ramses Oudt** {{youtube-timestamp 11:32}}
 			  그러니까 당신은 Zotero를 사용하지 않는 것 같네요.
 		- **Cara Antonaccio** {{youtube-timestamp 11:34}}
-		  not yet. So I don't like to use a TERO because it overwhelms me when I'm not sure how I'm going to actually use these articles when I'm citing them.
+		  not yet. So I don't like to use a Zotero because it overwhelms me when I'm not sure how I'm going to actually use these articles when I'm citing them.
 		  So I like to wait until towards the end of my writing process to put all of the different things that I'm citing into Zotero so that it doesn't get mixed together with things that I'm definitely citing and things that I'm just looking through because I might be interested in citing it for some reason or drawing from it.
+			- **Cara Antonaccio** {{youtube-timestamp 11:34}}
+			  아직은 아니에요. 제가 정말로 이 논문을 인용할 때 어떻게 사용할지 확실하지 않을 때에는 Zotero를 사용하는 것이 저를 압도하게 되거든요.
+			  그래서 저는 작성 과정의 마지막쯤에 모든 인용문을 Zotero에 넣는 것을 좋아해요. 그렇게 하면 정말로 인용하는 것과 그냥 참고로 살펴보는 것이 섞이지 않아요. 그래서 필요한 부분만 인용하거나 참고할 수 있게 되어요.
 		- **Ramses Oudt** {{youtube-timestamp 12:01}}
 		  So I think this is also a good lesson.
 		  I don't know if it's intentional.
