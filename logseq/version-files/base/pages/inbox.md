@@ -310,14 +310,15 @@
 	- 식어버린 성장 엔진
 	- 부동산 · 재정··불안한 지지대
 - How to Use Logseq for Research ft. Cara Antonaccio
+	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
 	- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
-		- {{youtube-timestamp 00:00}} Ramses Oudt 
+		- **Ramses Oudt** {{youtube-timestamp 00:00}}
 		  Welcome everyone my name is Ramses Oudt.
 		  I am community manager at Logseq.
 		  Today I am joined by Cara Antonaccio, who is a PHD student in the public health field.
 		  Today we're talking about using Logseq for research, but not just for academic research, but basically any type of research.
 		  So if you take notes, if you read papers and take notes on those papers, if you have any insights you need to gather and then later share in written form,
-		- Ramses Oudt {{youtube-timestamp 00:33}} 
+		- **Ramses Oudt** {{youtube-timestamp 00:33}} 
 		  Logseq is a perfect companion also because you can really let structure emerge on a day to day basis you can CHiP away at your research project.
 		  And today Kara is joining us to talk about her workflow.
 		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Luxey community
