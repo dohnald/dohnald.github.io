@@ -335,7 +335,7 @@
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
 		  So Kara, thank you for being here.
 		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using Logseq Take it away please introduce yourself.
-			- 라메스 우트 {{youtube-timestamp 01:10}}
+			- **Ramses Oudt** {{youtube-timestamp  01:10}}
 			  카라, 여기에 있어주셔서 감사합니다.
 			  오늘은 당신의 PPM(?) 이야기, 사용 사례, 저널을 사용하는 방법, Logseq를 사용하여 연구하는 방법, 다른 도구들, 그리고 Logseq를 사용하여 연구를 하는 사람들을 위한 최상의 팁에 대해 조금 얘기해보려고 합니다. 자기소개 부탁드릴게요.
 		- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
@@ -367,7 +367,7 @@
 		- **Cara Antonaccio** {{youtube-timestamp 03:10}} 
 		  So sort of just laying it all out and then going into it in another page.
 		  So these are just so where I'm keeping track of everything that I'm doing all the things that I need to do for the day, who I need to send things to and then you know, wrapping it all up.
-			- **카라 안토나치오** {{youtube-timestamp 03:10}}
+			- **Cara Antonaccio** {{youtube-timestamp 03:10}} 
 			  그래서 모든 것을 말하는 것이지요. 그리고 다른 페이지로 넘어가서 자세히 설명하겠습니다.
 			  이것들은 그냥 제가 하루 동안 해야 할 모든 것들과 필요한 사람들에게 보내야 할 일들을 추적하고 있는 것뿐이에요. 그리고 마무리하겠다는 얘기입니다.
 		- **Cara Antonaccio** {{youtube-timestamp 03:25}} 
@@ -376,7 +376,7 @@
 		  And so that's what it looks like when I wake up in the morning and I'm trying to figure out what my day's going to look like.
 		  This is what I end up with.
 		  So now I'll go a little bit more into,
-			- **카라 안토나치오** {{youtube-timestamp 03:25}} 
+			- **Cara Antonaccio** {{youtube-timestamp 03:25}} 
 			  그래서 그냥 내 매일 일반적인 레이아웃이에요.
 			  날마다 다른 거예요. 가끔 주말에는 일정이 없을 수도 있어요.
 			  그래서 아침에 일어나서 내일이 어떻게 될지를 알아보려고 할 때 이렇게 돼요.
@@ -387,7 +387,7 @@
 		  First question can you make the text a little bit bigger? Can you zoom in? I'm on a small screen and I can imagine more people will be looking at a small screen.
 		  I will be editing this a little bit later.
 		  Yeah a little bit bigger would be good but yeah,
-			- 람세스 오우트 (Ramses Oudt) {{youtube-timestamp 03:41}} 
+			- **Ramses Oudt** {{youtube-timestamp 03:41}} 
 			  요약하고, 또한 저도 참석자이기 때문에 제가 관찰한 것에 대해 얘기하려고 합니다.
 			  첫 번째 질문은 텍스트를 조금 크게 만들 수 있을까요? 확대할 수 있을까요? 제가 작은 화면을 사용하고 있고 다른 사람들도 작은 화면을 볼 것이라 상상할 수 있습니다.
 			  나중에 이것을 조금 편집할 것입니다.
@@ -397,16 +397,21 @@
 		  I think when they start out with Loxig or basically any other tool that has a journals or a daily notes page, is you dump everything that happens on a day or you're thinking about on the same page? But then the question is oh, now it's tagged with that date.
 		  But how does it actually then work down the line? And what I see and you have a lot of nice CSS sprinkles over it but I see many links.
 		  So when I look at your Logseq, I see I think search is a link mental health problems is a link conflict affected children they're all links.
-			- 라메스 오트 {{youtube-timestamp 04:06}}
+			- **Ramses Oudt** {{youtube-timestamp 04:06}} 
 			  좋아요 좋아요 감사합니다. 기본적으로 제 첫 관찰은 많은 사람들이 이를 놓친다고 생각합니다.
 			  록시그 또는 기본적으로 일지 또는 일일 메모 페이지가 있는 다른 도구를 시작할 때 하루에 발생하는 모든 것이나 생각하는 모든 것을 동일한 페이지에 모아놓는다고 생각합니다. 그런데 그게 날짜와 함께 태그되는 것인데요.
 			  하지만 실제로 어떻게 되는건가요? 그리고 제가 보는 바, 여러분은 다양한 멋진 CSS 스프링클을 가지고 있지만 많은 링크를 볼 수 있습니다.
 			  여러분의 록시그를 살펴보면, 검색은 링크이고, 정신 건강 문제는 링크이고, 충돌에 영향받은 아이들은 모두 링크입니다.
-		- Ramses Oudt 04:39 
+		- **Ramses Oudt** {{youtube-timestamp 04:39}} 
 		  So anything you, you write underneath is automatically linked with all those terms.
 		  So that will in turn probably come in handy with queries or just when clicking through your notes.
 		  But that is one observation.
 		  I really want to emphasize how useful it is to work in this way just from your journal's page.
+			- **Ramses Oudt** {{youtube-timestamp 04:39}} 
+			  그래서 당신이 쓰는 어떤 것이라도 그 아래에는 자동으로 모든 용어와 연결됩니다.
+			  그래서 그것은 아마도 질의나 메모를 클릭할 때 유용하게 사용될 것입니다.
+			  하지만 이것은 하나의 관찰입니다.
+			  저는 정말로 당신의 저널 페이지에서 작업하는 것이 얼마나 유용한지 강조하고 싶습니다.
 		- Cara Antonaccio 05:09
 		  Yeah and I have, I should have mentioned that.
 		  So I really only touched on the structure of it.
