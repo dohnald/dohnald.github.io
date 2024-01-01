@@ -532,18 +532,29 @@
 		  But just to show you sort of where I throw things this is my library.
 		  This is where I keep all of the literature in my literature review.
 		  So each, each article, each book gets its own row and I put the title of it and then I link directly to the source.
+			- **Cara Antonaccio** {{youtube-timestamp 09:49}}
+			  그러니까 나는 각각의 정렬 과정을 설명해볼게요. 그런데 이 과정들은 직선적이지 않아요.
+			  그냥, 비슷한 과정들을 그룹화한 것들이에요.
+			  그래서 검색하고, 찾고, 그리고 내 라이브러리에 추가하는 거죠.
+			  이를 위해서, 저는 구글 스칼라와 커넥티드 페이퍼를 사용해요.
+			  하지만 이런 식으로 어디에 내 물건들을 보관하는지 보여주기 위해선 이게 제 라이브러리에요.
+			  여기서 제 논문 서고의 모든 문헌들을 보관하고 있어요.
+			  각 논문이나 책마다 각각의 행에 놓이고, 제목을 적고 원본에 직접 링크를 걸어둬요.
 		- **Cara Antonaccio** {{youtube-timestamp 10:16}}
 		  So this is a source. You can open up the source here and I think this one should have an outline.
-		  So for every source, not for every source but for most sources, log gives you the outline of the, the source that you have when you go to this little button here which is really useful for me.
+		  So for every source, not for every source but for most sources, Logseq gives you the outline of the, the source that you have when you go to this little button here which is really useful for me.
 		  So I always start everything that I'm taking notes on or anything that I'm writing
+			- **Cara Antonaccio** {{youtube-timestamp 10:16}}
+			  이것은 소스입니다. 여기에서 소스를 열 수 있고, 이것은 아웃라인을 갖고 있을 것 같습니다.
+			  대부분의 소스에 대해, Logseq는 이 작은 버튼을 누를 때 소스의 아웃라인을 제공합니다. 이는 저에게 정말 유용합니다.
+			  그래서 나는 항상 메모를 하는 것이나 글을 쓰는 것에 대해 모든 것을 시작합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 10:39}}
 		  always starts with a tightly structured, clearly articulated, logically consistent outline.
 		  And so this is the place that I go to do that.
 		  So when I take notes and I'm not sure if I've taken notes on this article yet but it looks like I started to but let's see if I can go back.
 		  Sorry. So I've uploaded things into the library.
-		  Yeah each source gets a row and I, each
+		  Yeah each source gets a row and I, each source has a process related to it.
 		- **Cara Antonaccio** {{youtube-timestamp 11:04}}
-		  source has a process related to it.
 		  So the first step is outlining the second step is referencing and that creates additional linkages in the graph to other articles that, which is super useful for understanding sort of the layout of my literature.
 		  I annotate and then I recap everything in a few simple sentences.
 		  So that's sort of bringing things into the library finding and adding sources.
