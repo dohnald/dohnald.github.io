@@ -329,7 +329,7 @@
 		- **Ramses Oudt** {{youtube-timestamp 00:48}} 
 		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Logseq community to share their workflow basically.
 		  So we get to peek into the real world scenario of applying Logseq to real life problems.
-			- 라름세스 오우트 {{youtube-timestamp 00:48}} 
+			- **Ramses Oudt** {{youtube-timestamp 00:48}} 
 			  이 세션은 향후로도 계속되기를 희망하는 시리즈의 일부입니다. Workflow Wednesday라는 약간 추잡한 이름을 가졌지만, 매주 수요일마다 Logseq 커뮤니티의 한 회원을 초대하여 그들의 워크플로우를 공유하고자 합니다.
 			  그래서 우리는 Logseq를 실생활 문제에 적용하는 실제 상황을 엿볼 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
@@ -412,7 +412,7 @@
 			  그래서 그것은 아마도 질의나 메모를 클릭할 때 유용하게 사용될 것입니다.
 			  하지만 이것은 하나의 관찰입니다.
 			  저는 정말로 당신의 저널 페이지에서 작업하는 것이 얼마나 유용한지 강조하고 싶습니다.
-		- Cara Antonaccio 05:09
+		- **Cara Antonaccio** {{youtube-timestamp 05:09}} 
 		  Yeah and I have, I should have mentioned that.
 		  So I really only touched on the structure of it.
 		  But when you go into each line, each line starts with a process.
