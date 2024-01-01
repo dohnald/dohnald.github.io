@@ -317,10 +317,9 @@
 		  I am community manager at Logseq.
 		  Today I am joined by Cara Antonaccio, who is a PHD student in the public health field.
 		  Today we're talking about using Logseq for research, but not just for academic research, but basically any type of research.
-		  So if you take notes, if you read papers and take notes on those papers, if you have any insights you need to gather and then later share in written form,
-		- **Ramses Oudt** {{youtube-timestamp 00:33}} 
-		  Logseq is a perfect companion also because you can really let structure emerge on a day to day basis you can CHiP away at your research project.
-		  And today Kara is joining us to talk about her workflow.
+		  So if you take notes, if you read papers and take notes on those papers, if you have any insights you need to gather and then later share in written form, Logseq is a perfect companion also because you can really let structure emerge on a day to day basis you can chip away at your research project.
+		  And today Cara is joining us to talk about her workflow.
+		- **Ramses Oudt** {{youtube-timestamp 00:48}} 
 		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Luxey community
 		- Ramses Oudt {{youtube-timestamp  01:02}}
 		  to share their workflow basically.
