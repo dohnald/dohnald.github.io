@@ -329,12 +329,13 @@
 		- **Ramses Oudt** {{youtube-timestamp 00:48}} 
 		  This session is part of a series that I'm running hopefully far into the future called Workflow Wednesday It's a little bit of a cheesy title, but every week, basically every Wednesday, I want to invite one member from the Logseq community to share their workflow basically.
 		  So we get to peek into the real world scenario of applying Logseq to real life problems.
-			- 라름세스 오우트 {{유튜브 타임스탬프 00:48}}
+			- 라름세스 오우트 {{youtube-timestamp 00:48}} 
 			  이 세션은 향후로도 계속되기를 희망하는 시리즈의 일부입니다. Workflow Wednesday라는 약간 추잡한 이름을 가졌지만, 매주 수요일마다 Logseq 커뮤니티의 한 회원을 초대하여 그들의 워크플로우를 공유하고자 합니다.
 			  그래서 우리는 Logseq를 실생활 문제에 적용하는 실제 상황을 엿볼 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
 		  So Kara, thank you for being here.
-		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using logic, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
+		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using log Take it away please introduce yourself
+			-
 		- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
 		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
