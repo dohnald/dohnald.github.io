@@ -16,9 +16,7 @@
   tags:: #memo #card
   source:: [서울경제](https://m.sedaily.com/NewsView/29YMWT2IKE)
   title:: ‘순살자이’ ‘워크아웃설’…잇단 악재 건설사 신용등급도 줄강등 | 서울경제
-	- collapsed:: true
-	  * ### Highlights
-	  collapsed:: true
+	- * ### Highlights
 		- * 생각: 
 		  tags:: #memo #card
 		  source:: 
