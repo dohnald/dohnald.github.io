@@ -554,13 +554,26 @@
 		  So when I take notes and I'm not sure if I've taken notes on this article yet but it looks like I started to but let's see if I can go back.
 		  Sorry. So I've uploaded things into the library.
 		  Yeah each source gets a row and I, each source has a process related to it.
+		- **Cara Antonaccio** {{youtube-timestamp 10:39}}
+		  항상 단단하게 구조화되고 명확하게 표현되며 논리적으로 일관된 개요부터 시작합니다.
+		  그래서 이 곳이 바로 그런 작업을 하는 곳입니다.
+		  그래서 노트를 작성할 때, 아직 이 글에 대한 노트를 작성하지 않은 것 같은데, 하지만 시작은 했는지 확인해 보겠습니다.
+		  죄송합니다. 제가 라이브러리에 자료를 업로드했습니다.
+		  네, 각 소스별로 행이 있고, 각 소스에는 관련된 프로세스가 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 11:04}}
 		  So the first step is outlining the second step is referencing and that creates additional linkages in the graph to other articles that, which is super useful for understanding sort of the layout of my literature.
 		  I annotate and then I recap everything in a few simple sentences.
 		  So that's sort of bringing things into the library finding and adding sources.
 		  And again, I use Google Scholar for this and also connected papers which I'll just very briefly show you.
+			- **Cara Antonaccio** {{youtube-timestamp 11:04}}
+			  첫 번째 단계는 개요 작성하는 것이고, 두 번째 단계는 참고 자료를 인용하는 것입니다. 이 과정에서 그래프에 다른 논문과의 추가 연결을 만들어 내어 문헌의 레이아웃을 이해하는 데 매우 유용합니다. 
+			  나는 각주를 달고, 그러한 내용을 몇 가지 간단한 문장으로 요약합니다. 
+			  그래서 이렇게 도서관에 자료를 추가하고 소스를 찾아내는 것입니다. 
+			  또한, 이 작업을 위해 Google Scholar와 Connected Papers를 사용합니다.
 		- **Ramses Oudt** {{youtube-timestamp 11:32}}
 		  So you don't use Zotero
+			- **Ramses Oudt** {{youtube-timestamp 11:32}}
+			  그러니까 당신은 Zotero를 사용하지 않는 것 같네요.
 		- **Cara Antonaccio** {{youtube-timestamp 11:34}}
 		  not yet. So I don't like to use a TERO because it overwhelms me when I'm not sure how I'm going to actually use these articles when I'm citing them.
 		  So I like to wait until towards the end of my writing process to put all of the different things that I'm citing into Zotero so that it doesn't get mixed together with things that I'm definitely citing and things that I'm just looking through because I might be interested in citing it for some reason or drawing from it.
