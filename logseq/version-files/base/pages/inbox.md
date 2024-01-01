@@ -485,7 +485,7 @@
 		  Maxqda is a qualitative analysis software.
 		  So the way that I used that was I uploaded all of the literature that I needed into Max QDA and I tried to code it as though it was like a qualitative analysis that was weird.
 		  I didn't really like it. It didn't suit the needs I had for like integration and synthesis of ideas or really like digging into the ideas themselves.
-			- 카라 안토나치오 {{유튜브-타임스탬프 07:34}}
+			- **Cara Antonaccio** {{youtube-timestamp 07:34}}
 			  그래서 나는 Max QDA를 사용해 보았는데 정말 이상하더라.
 			  Maxqda는 질적 분석 소프트웨어이다.
 			  나는 필요한 모든 자료를 Max QDA에 업로드하고, 그것을 질적 분석처럼 코드화해 보았다. 이건 정말 이상했다.
@@ -495,6 +495,11 @@
 		  So that left me with sort of fewer options than I wanted.
 		  So in early 2021, in March, I found Rome Research and the small community of active, active users that were active on Twitter including Lapttype.
 		  I can't say your name, Laptop Life Lisa who's probably the,
+			- **Cara Antonaccio** {{youtube-timestamp 07:59}}
+			  나는 내가 작업하던 데이터와의 분리 같은 느낌이었고, 유용한 Sonna이긴 하지만, 내가 계획과 연구 도구 둘 다 되기를 원하는 요구를 충족시켜주지 못했다는 점이 있었습니다.
+			  그래서 내가 원하는 만큼의 선택지가 더 적게 남았습니다.
+			  그래서 2021년 초, 3월에 Rome Research와 Lapttype를 포함한 액티브한 작은 커뮤니티와 트위터에서 액티브한 사용자들을 발견했습니다.
+			  이름을 말하기 어려운데요, Laptop Life Lisa가 아마도 그 중 하나인 것 같습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 08:29}}
 		  I don't know if you call it the seminal person for my graph.
 		  So she's really the person I learned from.
