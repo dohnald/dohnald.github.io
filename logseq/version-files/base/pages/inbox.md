@@ -495,12 +495,23 @@
 		  So that left me with sort of fewer options than I wanted.
 		  So in early 2021, in March, I found Rome Research and the small community of active, active users that were active on Twitter including laytype leaf laptop.
 		  I can't say your name, Laptop Life Lisa who's probably the, I don't know if you call it the seminal person for my graph.
+			- **Cara Antonaccio** {{youtube-timestamp 07:59}}
+			  나와 함께 일하던 데이터와의 분리 같은 느낌이었어요. 그리고 유용한 아사나를 사용했지만, 다시 말해서 계획과 연구에 대한 양립적인 요구를 충족시키지 못했어요.
+			  그래서 내가 원하는 것보다 더 적은 옵션으로 남게 되었어요.
+			  그래서 2021년 초에, 3월에 Rome Research와 관련된 작고 활동적인 커뮤니티와 관련된 액티브 사용자들을 트위터에서 찾았어요. 레이타입 리프 노트북도 포함해서요.
+			  당신의 이름을 말하긴 어려워요, 노트북 라이프 리사는 아마도 제 그래프에 있어서 중요한 사람으로 할 수 있겠지만, 정확하게 어떻게 말하는 지는 잘 모르겠어요.
 		- **Cara Antonaccio** {{youtube-timestamp 08:31}}
 		  So she's really the person I learned from.
 		  I took her magical academic Note taking course.
 		  Some of you if you've taken this course, will see a lot of the principles that she taught in this course throughout my graph either explicitly or just you know, variation on her techniques.
 		  So she was really influential.
 		  And so I used Rome to conduct research and to write my first author publication and I really liked it a lot but
+			- **카라 안토나치오** {{유튜브 타임스탬프 08:31}}
+			  그래서 그녀는 정말로 내가 배운 사람입니다.
+			  저는 그녀의 마법같은 학업 노트 필기 수업을 들었습니다.
+			  이 수업을 들은 적이 있다면, 내 그래프에서 그녀가 가르친 원칙들을 많이 볼 수 있을 거예요. 명시적으로든, 은약하게든, 그녀의 기술들에 변형된 형태로 말입니다.
+			  그래서 그녀는 정말로 영향력이 컸습니다.
+			  또한, 저는 연구를 수행하고 첫 번째 저자로 작성한 논문을 쓰기 위해 Rome을 사용했고, 정말로 좋아했습니다. 그러나
 		- **Cara Antonaccio** {{youtube-timestamp 08:59}}
 		  the more I used it, the more I had problems with the pace of growth other issues with, generally wasn't happy with how things were going through.
 		  So I started to look in other places and it increasingly seemed to me like Log Zik was, had, had a lot of the same features and was growing at a faster pace than Rome and also had a really healthy community helpful users,
