@@ -539,11 +539,10 @@
 			  주제에 대해 수행된 작업이나 사용된 방법, 또는 얼마나 많은 작업이 해당 주제에 수행되었는지에 대한 아이디어를 제시합니다. 보시다시피 특히 최근에는 이에 대한 중점이 과거보다 적을 수도 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 15:30}}
 		  So this tool actually looks at, when you looked at the, basically the related papers it looks at all the papers in the connected papers database, not just the ones that are in basically your graph you've already saved.
-		  So that's a usually useful companion tool if you're already used to this network way of thinking with Luxik that basically have a similar tool.
+		  So that's a usually useful companion tool if you're already used to this network way of thinking with Logsesq that basically have a similar tool.
 		  I also saw people recommend research Rabbit.
-		  I think that's
-		- **Cara Antonaccio** {{youtube-timestamp 15:59}}
-		  research habit's great as well.
+		  I think that's research habit's great as well.
+		- **Cara Antonaccio** {{youtube-timestamp 16:02}}
 		  Y, yea, those are, I should have put research Rabbit here but yeah so these are just some of the tools that I use to bring things into my, I have to bring sources in before I start to review everything and then just some tips again it's okay to start simple it's okay to stay.
 		  Logik is built on top of your computer's existing file structure.
 		  So for each asset that you upload and to do that, you just do this
