@@ -570,6 +570,12 @@
 		  So I start off again with this outline.
 		  So I'll just basically copy each header and then take notes under each of them.
 		  So
+			- **Cara Antonaccio** {{youtube-timestamp 16:50}}
+			  그래서 제 연구에서 사용하는 다음 단계는 조직화, 개요 작성, 독서, 학습 및 문헌 정리하는 일련의 과정입니다.
+			  이것은 예시입니다. 이걸 옮겨볼게요.
+			  제 논문에 중요한 논문의 예시입니다.
+			  다시 말씀드리면 이 개요로부터 시작합니다.
+			  기본적으로 각 헤더를 복사하고 그 아래에 각각 메모를 작성합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 17:20}}
 		  I just summarizing the whole thing in my own words and, and then you're sure, you know, you've, already, you've annotated it but you already know that you're annotating in your own words.
 		  So you can be sure that you're not plagiarizing or that you'll have any copyright issues because as you're annotating it, you're doing it in your own words so you're processing it, you're learning and you're able to take from what you learned and bring it right into your own writing.
