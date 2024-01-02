@@ -334,10 +334,10 @@
 			  그래서 우리는 Logseq를 실생활 문제에 적용하는 실제 상황을 엿볼 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp  01:10}}
 		  So Kara, thank you for being here.
-		  Today we're going to talk a little bit about your PPM(?) story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using Logseq Take it away please introduce yourself.
+		  Today we're going to talk a little bit about your PKM story, your use case, your journal, how you use the journal's page, how you do research using Logseq, what other tools you use and your top tips for people doing research using Logseq Take it away please introduce yourself.
 			- **Ramses Oudt** {{youtube-timestamp  01:10}}
 			  카라, 여기에 있어주셔서 감사합니다.
-			  오늘은 당신의 PPM(?) 이야기, 사용 사례, 저널을 사용하는 방법, Logseq를 사용하여 연구하는 방법, 다른 도구들, 그리고 Logseq를 사용하여 연구를 하는 사람들을 위한 최상의 팁에 대해 조금 얘기해보려고 합니다. 자기소개 부탁드릴게요.
+			  오늘은 당신의 PKM 이야기, 사용 사례, 저널을 사용하는 방법, Logseq를 사용하여 연구하는 방법, 다른 도구들, 그리고 Logseq를 사용하여 연구를 하는 사람들을 위한 최상의 팁에 대해 조금 얘기해보려고 합니다. 자기소개 부탁드릴게요.
 		- **Cara Antonaccio** {{youtube-timestamp 01:31}} 
 		  great. Thanks. So hello everyone I'm super excited to be here and to share my experiences and what I've learned and how I use Logseq.
 		  So I'll share my screen. I want to start off if everyone could just share how you do research, what you're researching I know everyone's sharing where they're from.
@@ -394,14 +394,14 @@
 			  네, 조금 더 크면 좋을 것 같습니다. 그래도,
 		- **Ramses Oudt** {{youtube-timestamp 04:06}} 
 		  great great thank you. So basically first my observation is and I think many people missed this.
-		  I think when they start out with Loxig or basically any other tool that has a journals or a daily notes page, is you dump everything that happens on a day or you're thinking about on the same page? But then the question is oh, now it's tagged with that date.
+		  I think when they start out with Logseq or basically any other tool that has a journals or a daily notes page, is you dump everything that happens on a day or you're thinking about on the same page? But then the question is oh, now it's tagged with that date.
 		  But how does it actually then work down the line? And what I see and you have a lot of nice CSS sprinkles over it but I see many links.
 		  So when I look at your Logseq, I see I think search is a link mental health problems is a link conflict affected children they're all links.
 			- **Ramses Oudt** {{youtube-timestamp 04:06}} 
 			  좋아요 좋아요 감사합니다. 기본적으로 제 첫 관찰은 많은 사람들이 이를 놓친다고 생각합니다.
-			  록시그 또는 기본적으로 일지 또는 일일 메모 페이지가 있는 다른 도구를 시작할 때 하루에 발생하는 모든 것이나 생각하는 모든 것을 동일한 페이지에 모아놓는다고 생각합니다. 그런데 그게 날짜와 함께 태그되는 것인데요.
+			  Logseq 또는 기본적으로 일지 또는 일일 메모 페이지가 있는 다른 도구를 시작할 때 하루에 발생하는 모든 것이나 생각하는 모든 것을 동일한 페이지에 모아놓는다고 생각합니다. 그런데 그게 날짜와 함께 태그되는 것인데요.
 			  하지만 실제로 어떻게 되는건가요? 그리고 제가 보는 바, 여러분은 다양한 멋진 CSS 스프링클을 가지고 있지만 많은 링크를 볼 수 있습니다.
-			  여러분의 록시그를 살펴보면, 검색은 링크이고, 정신 건강 문제는 링크이고, 충돌에 영향받은 아이들은 모두 링크입니다.
+			  여러분의 Logseq를 살펴보면, 검색은 링크이고, 정신 건강 문제는 링크이고, 충돌에 영향받은 아이들은 모두 링크입니다.
 		- **Ramses Oudt** {{youtube-timestamp 04:39}} 
 		  So anything you, you write underneath is automatically linked with all those terms.
 		  So that will in turn probably come in handy with queries or just when clicking through your notes.
@@ -439,14 +439,14 @@
 		  you know, when I did it and what I was working on.
 		  I guess I'll move into my research workflow now.
 		  So most of my research workflow happens in the log.
-		  Sometimes it happens when I'm having meetings with collaborators it'll go on the schedule but typically it'll be in the Logseq.
+		  Sometimes it happens when I'm having meetings with collaborators it'll go on the schedule but typically it'll be in the Log.
 		  So I'm going to start from over on this side here.
 		  So just a little bit of background about who I am, what I do research in and my experience.
 			- **Cara Antonaccio** {{youtube-timestamp 05:51}} 
 			  내가 그것을 했던 시점과 내가 작업하던 것을 알아요.
 			  지금은 내 연구 흐름으로 들어갈 거예요.
 			  대부분의 연구 작업은 로그에서 이루어집니다.
-			  협력자들과 회의할 때에도 일어날 수 있지만, 일반적으로 Logseq에 작성됩니다.
+			  협력자들과 회의할 때에도 일어날 수 있지만, 일반적으로 Log에 작성됩니다.
 			  그래서 이쪽에서부터 시작할 거예요.
 			  그래서 내가 누구이고 어떤 분야에서 연구하며 경험이 어떤지에 대해 간략히 소개할게요.
 		- **Cara Antonaccio** {{youtube-timestamp 06:14}}
@@ -494,7 +494,7 @@
 		  It was more like a separation between me and the data that I was working with and then asana which is useful but it didn't again meet my needs about being both planning and a research tool.
 		  So that left me with sort of fewer options than I wanted.
 		  So in early 2021, in March, I found Rome Research and the small community of active, active users that were active on Twitter including laytype leaf laptop.
-		  I can't say your name, Laptop Life Lisa who's probably the, I don't know if you call it the seminal person for my graph.
+		  I can't say your name, LaptopLifeLisa who's probably the, I don't know if you call it the seminal person for my graph.
 			- **Cara Antonaccio** {{youtube-timestamp 07:59}}
 			  나와 함께 일하던 데이터와의 분리 같은 느낌이었어요. 그리고 유용한 아사나를 사용했지만, 다시 말해서 계획과 연구에 대한 양립적인 요구를 충족시키지 못했어요.
 			  그래서 내가 원하는 것보다 더 적은 옵션으로 남게 되었어요.
