@@ -640,6 +640,9 @@ public:: false
 		- **Cara Antonaccio** {{youtube-timestamp 23:40}}
 		  So this is what a draft looks like as I'm working on it I don't usually export things as an outline.
 		  I'll typically make each paragraph its own bullet but as I'm working through my ideas and as I'm making sure that I have arguments where they need to be, I usually just do one sentence per block or one idea per block.
+			- **Cara Antonaccio** {{youtube-timestamp 23:40}}
+			  이렇게 작업 중인 초안이 어떻게 보이는지 보여드릴게요. 일반적으로 제가 아웃라인 형태로 내보내는 일은 하지 않아요.
+			  보통 문단마다 각각의 불렛을 만들지만, 아이디어를 진행하고 주장을 제대로 배치하는 중에는 하나의 블록에 한 문장이나 아이디어만 작성하곤 해요.
 		- **Ramses Oudt** {{youtube-timestamp 23:59}}
 		  Another great smart notes principle.
 		  And this is actually a question also that I saw several times in the chat how like what is so now we're looking basically at your research and production process.
