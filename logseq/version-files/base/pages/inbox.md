@@ -1,81 +1,3 @@
-- 경제위기에 대해 모아놓고 시간이 지나 검토하면 흐름을 볼 수 있겠다. 브랜드파워가 있는 건설업체들도 위험하다는 평가가 나온다.
-  tags:: #memo #card [[경제위기]] 
-  source:: [서울경제](https://m.sedaily.com/NewsView/29YMWT2IKE)
-  title:: ‘순살자이’ ‘워크아웃설’…잇단 악재 건설사 신용등급도 줄강등 | 서울경제
-	- 부동산 경기 침체로 인해 수주 환경이 악화되면서 건설업계가 신용 위기를 촉발한 것이다.
-- 사기업의 이익을 법으로 강제한다면 앞으로도 이익을 추구해야 할까 고민이 드는 지점이다. 은행업의 주식이 저평가된 이유와도 맞닿는다.
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo,
-  source:: [[잡지/이코노미스트/1713]]
-  title:: "위헌 소지 있다" 전문가들이 본 銀 횡재세 논란은?
-  collapsed:: true
-  * ((658050ce-ac71-4664-a7ef-f440ead9050b))
-	- 전문가들은 대체로 횡재세를 두고 '요점을 잘못 짚은 방안'이라고 지적했다. 고금리 시대에서 과점을 형성한 은행권 구조나 높은 변동금리 비중을 낮춰야 문제가 해결될 일이라고 봤다. 또 서민의 이자 부담은 '상생금융으로 풀어야 할 문제'라고 주장했다.
-	- [[강성진]] 고려대 경제학과 교수 "예대금리 격차는 우리나라 금융시장의 비정상적 형태에서 나오는 것" "금융기관 간 경쟁 강화를 통해 초과 이윤이 감소하도록 만드는 것이 좋은데 지금은 일시적 이득에 세금을 물리려고 한다" "독과점에 의해 경쟁 구도 자체가 없어서 나타난 현상인데 마치 나쁜 일을 한 것처럼 벌금을 물리는 것은 바람직하지 않다" "일시적 소득 증가에 세금을 부과한다면 반대로 일시적 손해를 볼 때 세금을 줄여줄 것인가에 대한 문제도 있다" "금융기관들이 ESG경영 차원에서 지원을 하도록 유도해야 한다"
-	- [[양준모]] 연세대 경제학과 교수 "횡재세는 보호받아야 할 재산권에 소급입법을 하자는 건데, 그 자체가 위헌 소지가 있다" "은행이 20~30년짜리 장기 채권을 발행해 이와 연계해 상품을 설계하면 대부분 고정금리로 묶어둘 수 있고 금리가 뛰더라도 변동폭이 없어진다" "지금은 고정-변동금리 간 격차가 심해 다들 변동금리를 원하고 있다" "채권시장에서 국고채 점유 비중을 낮추고 금융기관의 장기채권 발행을 활성화하는 제도 개선이 필요하다" "금융시스템 개혁을 고민해야 답을 찾을 수 있다"고 강조했다.
-- 다른 기사를 보면 [네이트온으로 계약을 맺고 이를 엑셀에 저장한다](https://news.mt.co.kr/mtview.php?no=2020121318203589520)고 한다. 현재도 공매도를 실시간으로 처리하지 않기 때문에 공매도 데이터를 별도 데이터로 관리하는 게 어려울 것이란 생각은 들지 않지만 처리 비용을 고려할 때 어려운 이유가 있겠다 싶기도 하고.
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo, [[한국 경제]]
-  source:: [[잡지/이코노미스트/1714]]
-  title:: '공매도 전산화' 3년 만에 재논의. 이번엔 도입될까
-  collapsed:: true
-	- 그간 불법 무차입 공매도가 금융당국의 감시를 피해 지속적으로 이뤄졌던 원인으로 '전산화 시스템의 미비'가 꼽힌다. 지금까지 국내 주식시장에서 공매도는 전산화되지 않아 모든 거래 기록을 수기로 관리하고 있었다. 이 때문에 기관끼리 대차거래 시 실수가 발생할 가능성이 높고 중간에서 불법 거래가 일어날 수도 있다. 가장 큰 문제는 실시간으로 공매도를 감시할 수 없어 오류가 발생해도 사전에 대응할 수 없다는 점이다.
-	- 2020년에도 은성수 전 금융위원장은 무차입 공매도 실시간 모니터링 시스템 구축 계획을 밝혔지만 이듬해 포기를 공식화했다. 당시 은 전 위원장은 "비용이 천문학적으로 드는 데다 너무 많은 정보를 처리하게 되면 주식거래 체결이 늦어지고 시스템 과부하가 발생할 수 있다"고 이유를 밝혔다.
-	- 김주현 금융위원장은 지난 10월 국정감사에서 "외국인 투자가 중요한 나라에서 외국에서 아무도 안 하는 이런 복잡하고 어려운 시스템을 만들어서 거래를 어렵게 만드는 게 과연 개인 투자자를 보호하는 정책인지 정말 자신이 없다"고 말하기도 했다. 
-	  그러나 글로벌 IB의 무차입 공매도 사실이 드러나면서 정부가 먼저 칼을 빼 들자 금융당국도 입장을 바꾸고 시스템 구축에 나선 것으로 해석된다.
-	- 전문가들과 투자자들은 회의적인 시선으로 보내고 있는 상황이다. 주식을 빌리는 목적과 사용하는 플랫폼이 모두 다른데 이를 실시간으로 파악하기란 기술적으로 불가능한 영역이라는 것이다.
-- 국내 은행주의 저평가 이유에 대해 정부의 개입을 꼽는다. 은행 대상의 횡재세 이슈를 함께 보면 타당하다. 정부 개입 없는 산업이 없겠지만 라이센스를 통한 해자를 만들었기에 개입하는 게 당연하다는 입장도 있겠다.
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo, [[한국 경제]]
-  source:: [[좋은 주식 나쁜 주식]]
-  title:: 국내 은행 주식, 사도 괜찮을까?
-  id:: 658050ce-ac71-4664-a7ef-f440ead9050b
-  collapsed:: true
-  * ((65805222-e47d-465f-b684-1b176c68fa1a))
-	- 증시는 왜 한국 4대 금융지주사에 대해 이처럼 혹독한 평가를 할까?
-	  바로 과도한 정부 간섭 때문이다. 경영의 초점을 연임에 맞추는 금융지주사 수뇌부, 구조적인 내수 침체, 핀테크사와의 경쟁도 모두 악재다.
-	- 은행업은 미래가 불투명하다. 비용은 여전히 높고 경쟁이 심해 가격결정권도 없다. 카카오뱅크, 네이버파이낸셜같은 핀테크사에 시장을 계속 잠식당할 것이다. 적자 지점을 닫고 싶어도 감독 당국이 승인해주지 않아 방대한 지점 네트워크를 끌고 가야 하는 국내 은행의 주식을 장기 투자자는 매수할 이유가 없다.
-- 라이센스는 최소한의 기준을 보장한다는 의미다. 라이센스로 기득권을 가지려고 하면 안 되는데 라이센스 업무들이 이런 것들을 취하려고 하는 문제가 점점 드러난다. 택시, 변호사, 의사…. 곧 다른 라이센스 문제도 나올 것이다. 플랫폼은 플랫폼으로 신뢰를 제공했고 이를 수용하는 것은 사용자들이 할 일이다. 더해서 카카오는 이 신뢰를 제대로 주지 못하고 있다.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-10T00:21:05.704Z
-  card-last-interval:: 4
-  id:: 65805222-e47d-465f-b684-1b176c68fa1a
-  card-ease-factor:: 2.46
-  card-last-reviewed:: 2023-11-06T00:21:05.704Z
-  tags:: book, card,memo
-  source:: [[오독의 즐거움]]
-  title:: 타다의 '신뢰'와 택시의 '면허'
-  collapsed:: true
-	- 면허는 종이가 아니라 그 안에 있는 신뢰가 본질이다. 타다는 이미 기술 투자로 신뢰를 만들어냈는데, 이 값을 또 치르라는 건 과부하다. 이미 시장이 흡수한 재화의 가격을 국가가 강제하면 부당한 지대(地代)가 된다.
-- 월급루팡할 수 있는 기업을 느슨한 블랙 기업이라고 표현한다고 하는데 정말 많이 배우고 싶어할까 의문이다. 
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo,
-  source:: [[잡지/한경비즈니스/1464]]
-  title:: 일하기 편한 직장을 피하게 된 일본 젊은층
-  collapsed:: true
-	- 근무환경이 가혹한 기업에 대해서 사용했던 '블랙 기업'이라는 단어가 일하기 편안하고 근로 시간도 정확하고 직장 분위기도 긴장감이 덜한 기업에 대해 사용되면서 '느슨한 블랙(유루 블랙) 기업'이라는 말까지 등장했다. 젊은 근로자로서는 느긋하고 긴장감 없고 배우는 기회도 적은 기업에 오랫동안 근무하다 보면 자신의 실력이 향상되지 못할 것을 우려하기 시작한 것이다.
-	- 기업으로서는 직장을 성장과 전직의 발판으로서도 생각하고 경력관리와 성장의 효율(타이파: 타임 퍼포먼스를 뜻하는 신조어)을 중시하는 젊은층의 변화에 대응하는 것이 중요하다는 지적도 나왔다.
 - 몰아서 하이라이트를 작성하는 일은 기억의 흐름으로 볼 때 좋지 않다. 일주일을 넘기지 않으면 좋겠다.
 - 한국경제 80년 및 미래 성장전략 문서 읽기
 - AI를 어떻게 이용할 지 고민하는 것부터 시작이다. 레포트 작성도 되고 고민을 나누기도 가능하다. 나는 git을 이용할 때 큰 도움을 받았다. 인프라는 순간 방대한 지식이 필요한데 이를 적극 활용하면 유리할 것이다.
@@ -179,18 +101,6 @@
   source:: [[잡지/매경이코노미/2239]] 
   title:: 쌓여가는 아파트 매물 매매. 전세 시장 '엿보기'
 	- 정리해보면 ^^매매 시장에서는 강남권 아파트 매물이 급증하는 가운데, 전월세 시장에서는 강북권 매물이 급감^^하는 양상이다. 즉 강남 매매 수요는 줄고, 강북 전월세 수요는 늘어나고 있다는 의미로 해석된다. 실 수요자의 전월세 선호 현상이 심화될수록 내년 강남 아파트 매매 가격 하락폭이 커질 것으로 보인다. 물론 ^^내년 총선을 앞두고 정부가 대출 규제 완화 등 부양책을 내놓을 경우 상황이 반전될 가능성^^도 배제할 수 없다.
-- 생각
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo,
-  source:: [[잡지/매경이코노미/2239]] 
-  title:: 성장 엔진 식어가고 자본은 '엑소더스' 주변국과 사사건건 충돌 독불장군'
-	- 식어버린 성장 엔진
-	- 부동산 · 재정··불안한 지지대
 - How to Use Logseq for Research ft. **Cara Antonaccio**
   collapsed:: true
 	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
@@ -580,79 +490,149 @@
 		  I just summarizing the whole thing in my own words and, and then you're sure, you know, you've, already, you've annotated it but you already know that you're annotating in your own words.
 		  So you can be sure that you're not plagiarizing or that you'll have any copyright issues because as you're annotating it, you're doing it in your own words so you're processing it, you're learning and you're able to take from what you learned and bring it right into your own writing.
 		  So yeah, I guess I,
+			- **Cara Antonaccio** {{youtube-timestamp 17:20}}
+			  제가 그 전체적인 내용을 제 말로 요약해 보겠습니다. 그럼 확실하게, 알아요, 이미 애노테이션을 해 왔지만 이미 애노테이션을 제 말로 하고 있기 때문에 표절하지 않을 거라고 확신할 수 있습니다. 저작권 문제가 발생하지 않을 거예요. 애노테이션을 진행할 때, 이해하고 학습하며 배운 내용을 자신의 글쓰기에 바로 적용할 수 있습니다.
+			  그래서, 그럴듯하게, 저는
 		- **Ramses Oudt** {{youtube-timestamp 17:48}}
-		  yeah it's writing notes in your own words instead of highlighting and then copying over the highlight which you could do also in luxik you could basically highlight something and then I, I, the question was also in the chat when you highlight something in a PDF automatically copies the block reference to that highlight within the PDF to your clipboard.
+		  yeah it's writing notes in your own words instead of highlighting and then copying over the highlight which you could do also in Logseq you could basically highlight something and then I, I, the question was also in the chat when you highlight something in a PDF automatically copies the block reference to that highlight within the PDF to your clipboard.
 		  So when you then paste it in a block
+			- **Ramses Oudt** {{youtube-timestamp 17:48}}
+			  네, 하이라이트를 삽입한 다음 하이라이트를 복사하는 대신에, 당신 자신의 말로 노트를 작성하는 것이죠. Logseq에서도 이렇게 할 수 있습니다. 기본적으로 당신은 어떤 부분을 하이라이트한 다음 PDF 내에서 그 하이라이트의 블록 참조를 자동으로 클립보드에 복사할 수 있습니다. 그리고 나서 해당 블록에 붙여넣기 할 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 18:11}}
 		  and then even if you want, you can just hit Enter and then tap and then as a child block take your notes.
 		  That is how I have done a lot of research that way.
 		  So I would basically just take a bunch of block references, highlights from the PDFS that I was reading and then take the notes underneath.
 		  It's a similar process. I'm just maybe an information hoarder.
 		  I always want to see okay what inspired a note I'm not even sure if it's necessary in your case but
+			- **Ramses Oudt** {{youtube-timestamp 18:11}}
+			  그리고 원한다면 그냥 엔터를 누르고 그리고 탭을 누르고 아이템 블록으로써 메모할 수도 있어요.
+			  그렇게 하면 제가 많은 연구를 한 방법이에요.
+			  기본적으로 PDF를 읽으면서 블록 참조들을 많이 가져와서 하이라이트를 하고 그 아래에 메모를 적는 식으로 했어요.
+			  비슷한 과정이에요. 아마 정보 수집광 같은 사람인 것 같아요.
+			  언제나 어떤 메모에 영감을 준것이 있었는지 확인하고 싶어요. 그것이 당신의 경우에는 필요한지는 확신할 수 없지만요.
 		- **Ramses Oudt** {{youtube-timestamp 18:40}}
 		  there are different approaches to basically the same thing.
 		  But I agree with you writing things in your own words is key also pleasures but then also just learning things and writing things, explaining things in your own word also will make that you remember it better.
 		  Is my experience and also research.
 		  Yes
+			- **Ramses Oudt** {{youtube-timestamp 18:40}}
+			  기본적으로 같은 것에 대해 다양한 접근 방법이 있습니다.
+			  하지만 당신의 말로 쓰는 것이 중요하다는 것에 동의합니다. 뿐만 아니라 즐거움도 있지만, 그리고 그냥 배우고 쓰고 설명하는 것도 당신의 말로 하는 것은 기억에 더 잘 남도록 만들 것입니다.
+			  이것은 제 경험과 연구 결과입니다.
+			  네.
 		- **Cara Antonaccio** {{youtube-timestamp 18:58}}
 		  yeah. So and I think you make a really good point here that like you're going to see a lot of stuff in my graph that's just not going to work for you.
 		  You know, this works for me this works for my needs but your use cases probably just different.
 		  So take from this what is useful for you and leave what isn't is what I've found is the best approach.
 		  So this sort of aspect of my research processes involve analysis, practicing technique, data validating, my models,
+			- **Cara Antonaccio** {{youtube-timestamp 18:58}}
+			  네. 그래서 여기서 정말 좋은 점을 언급하셨다고 생각해요. 내 그래프에서는 당신에게 도움이 되지 않을 수도 있는 많은 정보를 볼 겁니다.
+			  나에게는 도움이 되지만, 아마도 당신의 사용 사례는 다를 것 같아요.
+			  그래서 당신에게 유용한 것을 적용하고, 그렇지 않은 것을 제외하는 것이 최선인 것으로 발견했어요.
+			  그래서 이런 유형의 연구 과정은 분석, 기술 연습, 데이터 유효성 검사, 내 모델들을 포함하고 있어요.
 		- **Cara Antonaccio** {{youtube-timestamp 19:25}}
-		  cross validating and I do this both in log ZEK and in other tools.
+		  cross validating and I do this both in Logseq and in other tools.
 		  So to give you an example of what this looks like in Log Seek.
 		  So I'm writing my discitation part of the analysis is in art.
 		  So I just brought in the read me directly from GitHub for this algorithm MBSB DB scan.
 		  And so I'm writing the code for my desitation in,
+			- **Cara Antonaccio** {{youtube-timestamp 19:25}}
+			  크로스 검증을 하고 있고, 이를 Logseq과 다른 도구에서도 수행합니다. 
+			  로그 색인에서 이는 어떻게 보이는지를 예로 들어 드리겠습니다. 
+			  제 분석의 토론 부분은 예술에서 이루어지고 있습니다. 
+			  따라서 이 알고리즘 MBSB DB 스캔을 위해 GitHub에서 직접 README를 불러왔습니다. 
+			  그리고 분석 토론을 위한 코드를 작성하고 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 19:49}}
 		  in logs and it makes it nice because I could just, you know, reference anytime I'm working on it, just reference the code directly and it's already here.
 		  It takes all of the takes.
 		  This is literally our code.
 		  So this is, you can look at it in this way like it's in the outline or you can work on it as though it's the frame here.
-		  So it's really useful to be able to do this in my graph and, and then also Lucid Chart is another tool that I use in this sort of knowledge synthesis and integration and
+		  So it's really useful to be able to do this in my graph and, and then also Lucid Chart is another tool that I use in this sort of knowledge synthesis and integration and modeling the ideas that I'm seeing.
+			- **Cara Antonaccio** {{youtube-timestamp 19:49}}
+			  로그에는 정말 편리하다. 작업 중에 언제든지 코드를 참조할 수 있기 때문에 코드를 바로 여기에서 참조할 수 있다.
+			  이건 우리의 코드야.
+			  그래서, 이걸 아웃라인처럼 보거나, 여기 프레임처럼 작업할 수도 있어.
+			  내 그래프에서 이렇게 할 수 있어서 정말 유용하고, 그리고 루시드 차트도 내가 보고 있는 생각들을 종합하고 통합하고 모델링하는 데 사용하는 도구야.
 		- **Cara Antonaccio** {{youtube-timestamp 20:21}}
-		  modeling the ideas that I'm seeing.
 		  So I use Lucid Chart to diagram.
-		  I know that LOCKSK has a lot of options for diagramming but I find that it's nice to be able to make things in Lucid Chart and then I export them as SVG files and then I bring them into log seats.
+		  I know that Logseq has a lot of options for diagramming but I find that it's nice to be able to make things in Lucid Chart and then I export them as SVG files and then I bring them into log seats.
 		  So that's what that's, you'll see in my dissertation files there's diagrams that came from lucid tables in log seat.
 		  Is there anything you wanted to touch on on
+			- **Cara Antonaccio** {{youtube-timestamp 20:21}}
+			  나는 다이어그램을 그리기 위해 Lucid Chart를 사용해.
+			  Logseq에는 다이어그램을 그리기 위한 많은 옵션이 있지만, Lucid Chart에서 물건들을 만들고 그것들을 SVG 파일로 내보낸 다음 Logseq로 가져올 수 있는 것이 좋다고 생각해.
+			  그래서 나의 논문 파일에는 Lucid Chart에서 나온 일러스트가 Logseq에 있는데, 그런 것들이 있다는 것을 볼 수 있을 거야.
+			  더 이야기하고 싶은 것이 있으신가요?
 		- **Cara Antonaccio** {{youtube-timestamp 20:52}}
 		  this process? I think there's a lot that I could go into here about that I can talk all the time about.
+			- **Cara Antonaccio** {{youtube-timestamp 20:52}}
+			  이 과정에 대해서? 제 생각에는 이에 대해 말할 수 있는 많은 부분들이 있습니다. 제가 언제든지 이에 대해 계속 이야기할 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 20:56}}
 		  I do want to point out how much I like that.
 		  He used Lucy Chart and actually next week and it's a little bit unrelated but next week there's a session with Dario Suttering Mind on YouTube and we're actually going to talk about using diagrams to plan workflows.
 		  So you already basically gave a sneak peak how you use it to think through your, our script.
 		  This also gives me the idea that we should have some kind of
+			- **Ramses Oudt** {{youtube-timestamp 20:56}}
+			  저는 그게 얼마나 좋은지 언급하고 싶습니다.
+			  그는 실제로 Lucy Chart를 사용했고, 사실 다음 주에 Dario Suttering Mind의 YouTube 세션도 있고, 약간은 관련이 없지만 다음 주에는 워크플로우 계획을 위해 다이어그램을 사용하는 방법에 대해 이야기할 예정입니다.
+			  그래서 사실상 이미 우리의 스크립트를 생각하기 위해 그것을 사용하는 방법에 대한 미리보기를 주었습니다.
+			  이로 인해 우리는 어떤 종류의 것을 가져야 한다는 아이디어를 갖게 되었습니다.
 		- **Ramses Oudt** {{youtube-timestamp 21:21}}
-		  called Juniper Notebook type of functionality within Luxig.
+		  called Juniper Notebook type of functionality within Logseq.
 		  That would be really cool.
 		  But yeah, using diagrams to think through a process and we'll be talking about workflow design for we'll post the link later in the chat.
 		  There are some questions but let's just keep going because the questions are a little bit unrelated so they are off topic.
-		  Questions more about oh, your LOXK looks pretty how do you create these links how do you add icons? But we'll get to that later if there's time.
+		  Questions more about oh, your Logseq looks pretty how do you create these links how do you add icons? But we'll get to that later if there's time.
+			- **Ramses Oudt** {{youtube-timestamp 21:21}}
+			  로그시크 내부에서 준리퍼 노트북 타입의 기능을 호출합니다.
+			  정말 멋질 것 같습니다.
+			  그래서, 프로세스를 생각하기 위해 다이어그램을 사용하고, 나중에 채팅에 링크를 게시할 것입니다.
+			  일부 질문이 있지만, 일단은 진행하죠. 질문들이 조금 상관없어서 주제와 무관합니다.
+			  "로그시크 멋있어요, 이 링크를 생성하는 방법이나 아이콘을 추가하는 방법은 어떻게 하나요?"와 같은 질문들은 나중에 시간이 되면 알려드리겠습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 21:50}}
 		  Yeah I'll save some time at the end for discussion so I'm happy to answer anything like that later on.
 		  Yeah. So this is just, this is some of the analysis planning that I do.
-		  I also use Log Seek to propose, create, write and edit different things.
+		  I also use Logseq to propose, create, write and edit different things.
 		  So typically what I'm writing is a journal articles sometimes I'm writing opinion papers but I wanted to show you this example of this is one of my dissertation papers.
 		  So anything that I'm writing, I outline it in the same way that I outline
+			- **Cara Antonaccio** {{youtube-timestamp 21:50}}
+			  네, 저는 토론을 위해 마지막에 시간을 절약할 거예요. 그래서 뒤에 그런 질문에 대해서 답변해줄 수 있으니까 행복하게 대답해 드릴 거예요.
+			  그래, 이건 그냥, 제가 하는 분석 계획 중 일부예요.
+			  또한 저는 Logseq를 사용해서 다른 것들을 제안하고, 만들고, 작성하고, 편집하기도 해요.
+			  주로 제가 작성하는 것은 논문이지만 때로는 의견 논문을 쓰기도 해요. 그래서 이 예시를 보여드릴 건데, 이건 제 박사학위 논문 중 하나예요.
+			  그래서 제가 쓰는 모든 것은 여기서와 같은 방식으로 개요를 작성해요.
 		- **Cara Antonaccio** {{youtube-timestamp 22:22}}
 		  things that I'm reading.
 		  So I started everything out in the same way and just, you know, put all the headings in and then write your tightly structured, clearly articulated logic.
 		  It's an outline and then I do all the siting.
 		  And then logik is really nice.
-		  I use a lot of equations so logik uses latex so I'm able to put all of my equations directly into
+		  I use a lot of equations so Logseq uses LaTex so I'm able to put all of my equations directly into Logseq.
+			- **카라 안토나치오** {{youtube-timestamp 22:22}} 
+			  내가 읽고 있는 것들이야.
+			  그래서 나는 처음부터 모든 것을 같은 방식으로 시작하고, 제목을 모두 넣고, 그 후에 당신의 잘 구조화되고 명확한 논리를 쓰세요.
+			  이건 개요고, 그리고 내가 모든 인용문을 적습니다.
+			  그리고 로직은 정말 좋아요.
+			  나는 많은 수식을 사용해서, Logseq는 LaTex를 사용하니까 내 모든 수식을 직접 넣을 수 있어요.
 		- **Cara Antonaccio** {{youtube-timestamp 22:42}}
-		  log seek. I haven't exported anything with the equations yet into HTML or anything like that.
-		  So I'm not sure how nicely it'll work bringing it into a word if I ever have to do but it's really nice to be able to draft and write math in the log sequence.
+		  I haven't exported anything with the equations yet into HTML or anything like that.
+		  So I'm not sure how nicely it'll work bringing it into a word if I ever have to do but it's really nice to be able to draft and write math in the Logseq.
 		  And then here you see this is one of the figures that I made in Lucid Chart and it's just an asset that I uploaded here.
 		  You saw these diagrams in Lucid Chart as well.
-		  So this is sort of how
+		  So this is sort of how these things get injected into my graph at different points.
+			- **Cara Antonaccio** {{youtube-timestamp 22:42}}
+			  아직 방정식과 함께 HTML이나 다른 방식으로 내보내진 것은 없습니다.
+			  그러므로 단어로 가져오게 되었을 때 온전히 작동하는지는 잘 모르겠습니다. 하지만 Logseq에서 수학을 작성하고 초안을 작성할 수 있는 것은 정말 좋습니다.
+			  그리고 여기에 보시다시피 이것은 Lucid Chart에서 만들어진 그림 중 하나입니다. 이것은 업로드된 자산입니다.
+			  Lucid Chart에서도 이러한 다이어그램을 보셨을 것입니다.
+			  이런 식으로 다양한 지점에서 그래프에 주입되는 것입니다.
 		- **Cara Antonaccio** {{youtube-timestamp 23:10}}
-		  these things get injected into my graph at different points.
-		  And then yeah and then you know, again, even just in, in my working draft I have this AR code which you create by it's like text, create texts empty and then I think what you can do is this is actually R so this becomes R here.
+		  And then yeah and then you know, again, even just in, in my working draft I have this R code which you create by it's like text, create texts empty and then I think what you can do is this is actually R so this becomes R here.
 		  So it takes a little bit of working around to get things exactly how you need them to be.
 		  But it's really nice to be able to, it's like multimodal almost that you can do different things all at once.
+			- **Cara Antonaccio** {{youtube-timestamp 23:10}}
+			  그리고 그럼 말야 그리고 알잖아, 다시 말해, 실제로 내 작업 초안에서는 이렇게 R 코드가 있어요. 이것은 텍스트로 만든 코드네요. 텍스트를 만들고 비어있게 하고, 그리고 여기에 실제로는 R이 되는 거에요.
+			  그래서 당신이 필요로 하는 것을 정확히 맞출 때까지 조금은 시간이 걸릴 수 있어요.
+			  하지만 동시에 다양한 작업을 할 수 있는 것은 정말 멋지답니다. 거의 다중 모달 같은 느낌이죠.
 		- **Cara Antonaccio** {{youtube-timestamp 23:40}}
 		  So this is what a draft looks like as I'm working on it I don't usually export things as an outline.
 		  I'll typically make each paragraph its own bullet but as I'm working through my ideas and as I'm making sure that I have arguments where they need to be, I usually just do one sentence per block or one idea per block.
@@ -970,3 +950,17 @@
 		  I hope you learned something and I'm looking forward to learning more in Langsk with all of you.
 		- **Ramses Oudt** {{youtube-timestamp 49:31}}
 		  Great thank you so much. This was it was very useful for me, I think for many people here and hopefully we'll see you back in the future for another workflow Wednesday Have a great day by everyone.
+- 실물 자산보다 현금성 자산을 중심으로 잘 지키는 전략이 필요하다.
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo,
+  source:: [[잡지/매경이코노미/2239]] 
+  title:: 금리 하락의 시대, 채권 주목하라
+  * ((65448855-0be0-44fd-b32e-b5c38ee3c5e4))
+	- **정성진 KB국민은행 PB팀장** 내년 부동산을 비롯한 실물 자산 시장을 어둡게 전망한다. "잘 지키는 전략이 필요하다"
+	- **최선일 신한PWM서울파이낸스센터 PB팀장** 주식과 채권, 실물 포트폴리오 비중은 비슷한 수준(30%, 40%, 30%)으로 유지하는 걸 추천했다. 실물 부문에서는 '예금 등 현금성 자산' 비중을 높게 가져가는 걸 조언했다. 최 팀장은 "아직 연 4% 금리는 무위험 자산 수익률로 매력적"
+	- **홍은미 KB증권 테크노마트지점장** "내년 채권 시장에서 투자 기회가 있을 것으로 예상합니다. 배당이나 이자 수익에 집중하는 '인컴' 전략에 무게를 두고 금리 하락에 따른 자본 차익은 긴 호흡으로 접근하길 추천"
