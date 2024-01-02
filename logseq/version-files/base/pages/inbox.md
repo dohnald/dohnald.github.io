@@ -310,6 +310,7 @@
 	- 식어버린 성장 엔진
 	- 부동산 · 재정··불안한 지지대
 - How to Use Logseq for Research ft. **Cara Antonaccio**
+  collapsed:: true
 	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
 	- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
 		- **Ramses Oudt** {{youtube-timestamp 00:00}}
@@ -511,11 +512,11 @@
 			  마법같은 학문적 노트 필기 과정을 그녀와 함께 했어요.
 			  이 강좌를 수강한 분들 중 몇 분은, 제 그래프에서 그녀가 가르친 원칙들을 명시적으로든 또는 단지 그녀 기술의 변형으로 볼 수 있을 거예요.
 			  그래서 그녀는 정말로 영향력이 있었어요.
-			  그래서 저는 로마를 사용해서 연구도 하고, 첫 저자로 논문도 썼는데 시작은 정말 좋았지만 계속 사용하면서 성장 속도와 관련된 문제들, 그리고 일반적으로 진행 상황에 만족하지 못한 점들이 생겼어요.
+			  그래서 저는 Rome를 사용해서 연구도 하고, 첫 저자로 논문도 썼는데 시작은 정말 좋았지만 계속 사용하면서 성장 속도와 관련된 문제들, 그리고 일반적으로 진행 상황에 만족하지 못한 점들이 생겼어요.
 		- **Cara Antonaccio** {{youtube-timestamp 09:05}}
 		  So I started to look in other places and it increasingly seemed to me like Logseq was, had, had a lot of the same features and was growing at a faster pace than Rome and also had a really healthy community helpful users, people who are contributing to the app with plug ins with themes and supporting each other in this process of learning and sharing knowledge and integrating knowledge.
 			- **Cara Antonaccio** {{youtube-timestamp 09:05}}
-			  그래서 다른 곳을 찾기 시작했고, 로그시크는 로메보다 같은 기능을 많이 가지고 있었으며, 더 빠르게 성장하고 있었습니다. 또한, 이 앱에 기여하는 플러그인과 테마를 가진 도움이 되는 사용자들과 학습 및 지식 공유를 위해 서로 지원하는 건강한 커뮤니티도 있었습니다.
+			  그래서 다른 곳을 찾기 시작했고, Logseq는 Rome보다 같은 기능을 많이 가지고 있었으며, 더 빠르게 성장하고 있었습니다. 또한, 이 앱에 기여하는 플러그인과 테마를 가진 도움이 되는 사용자들과 학습 및 지식 공유를 위해 서로 지원하는 건강한 커뮤니티도 있었습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 09:33}}
 		  So at this point, this is where I am today.
 		  I'm writing a three paper dissertation in Logseq and I'll discuss a little bit about each of these papers in a second.
@@ -596,9 +597,7 @@
 		  Yeah so I like to, I, you'll see in my graph I tend to keep things pretty simple.
 		  I don't there's not a whole lot of bells and whistles.
 		  I like to wait until the end because you know, a lot of things will just become complicated sort of emergent systems tend to become complex just how they are.
-		  So I try to keep things intentionally simple so that the more complicated system emerges on its own trying to find something here so that I could show you what it looks like when I'm drafting
-		- 참석자 3 13:01
-		  just conflict.
+		  So I try to keep things intentionally simple so that the more complicated system emerges on its own trying to find something here so that I could show you what it looks like when I'm drafting just conflict.
 		- **Cara Antonaccio** {{youtube-timestamp 13:05}}
 		  So this is one of the drafts of my dissertation.
 		  So when I'm citing, close this for now when I'm citing this at this point.
