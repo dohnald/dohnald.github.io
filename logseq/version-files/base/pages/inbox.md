@@ -542,14 +542,27 @@
 		  So that's a usually useful companion tool if you're already used to this network way of thinking with Logsesq that basically have a similar tool.
 		  I also saw people recommend research Rabbit.
 		  I think that's research habit's great as well.
+			- **Ramses Oudt** {{youtube-timestamp 15:30}}
+			  이 도구는 실제로 관련 논문들을 살펴보는데, 기본적으로 연결된 논문 데이터베이스의 모든 논문을 살펴봅니다. 이미 저장된 그래프에 있는 논문뿐만 아니라요.
+			  그래서 만약 로그세스와 같은 네트워크적 사고 방식에 익숙하다면, 이 도구는 보통 유용한 동반 도구입니다.
+			  또한 사람들은 연구 토끼를 추천하기도 했어요.
+			  나도 연구 습관을 대단히 좋아한다고 생각해요.
 		- **Cara Antonaccio** {{youtube-timestamp 16:02}}
 		  Y, yea, those are, I should have put research Rabbit here but yeah so these are just some of the tools that I use to bring things into my, I have to bring sources in before I start to review everything and then just some tips again it's okay to start simple it's okay to stay.
 		  Logik is built on top of your computer's existing file structure.
 		  So for each asset that you upload and to do that, you just do this
+			- **Cara Antonaccio** {{youtube-timestamp 16:02}}
+			  응, 그래, 이건, 여기에 연구 Rabbit을 추가해야 했는데, 그래도 이건 그냥 제가 제 자료를 가져오기 위해 사용하는 일부 도구에요. 모든 것을 검토하기 전에 소스를 가져와야 하니까, 그리고 또 몇 가지 팁이에요. 간단하게 시작해도 좋고 계속해서 진행해도 괜찮아요.
+			  Logik은 컴퓨터의 기존 파일 구조 위에 구축되어 있어요.
+			  그래서 업로드하는 각 에셋에 대해 그렇게 하면 되는 거야.
 		- **Cara Antonaccio** {{youtube-timestamp 16:26}}
 		  and then it brings you all the files.
 		  So for every asset you upload, it creates a markdown file with a consistent naming convention and organizes your literature along with automatically.
 		  So I find it's really useful to just use the note page that it creates for each, each asset and just take notes there so that it's easily organized.
+			- **Cara Antonaccio** {{youtube-timestamp 16:26}}
+			  그리고 그것은 모든 파일을 가져옵니다.
+			  따라서 업로드하는 각 자산에 대해, 일관된 명명 규칙을 가진 마크다운 파일을 만들고 자동으로 문헌을 구성합니다.
+			  그래서 나는 단지 각 자산을 위해 생성되는 노트 페이지를 사용하여 노트를 남기기 때문에 쉽게 정리되어 유용하다고 생각합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 16:50}}
 		  So the next step that I'd use in my research is the next sort of set of processes that I use is organizing, outlining reading, learning and just sort of absorbing my library.
 		  So this is an example of an article I'll just move this over.
