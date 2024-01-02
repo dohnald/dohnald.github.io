@@ -491,15 +491,30 @@
 		  So I don't use the Zotero process until the end because what I like to do is when I'm making these arguments, I want to have these sources that I use accessible to me really quickly.
 		  So in addition to evidence gaps, certain populations and humanitarian identities have received inadequate attention in the literature.
 		  And these three articles speak to,
+			- **Cara Antonaccio** {{youtube-timestamp 13:05}}
+			  이것은 제 학위 논문 초안 중 하나입니다.
+			  인용할 때는 현재이 시점에서 일단 닫아주세요.
+			  왜냐하면 끝까지 가기 전까지 저는 Zotero 과정을 사용하지 않기 때문입니다. 왜냐하면 이러한 주장을 할 때, 나는 사용하는 이러한 소스를 빠르게 접근할 수 있도록 하고 싶기 때문입니다.
+			  증거의 공백뿐만 아니라 특정 인구와 인도주의적 정체성은 문헌에서 적절한 주목을 받지 못했습니다.
+			  그리고 이 세 가지 논문은 이에 대해 얘기합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 13:37}}
 		  to those gaps. So I wanted to have those on hand and then later on I'll switch that out with the better BID text citation and I've already sort of started to do that here.
 		  So this is how better BIB text names each file, the author's named, the year in the first word.
 		  So I already started to sort of follow that convention and I think that it'll make it easier later on to integrate into Zotero.
+			- **Cara Antonaccio** {{youtube-timestamp 13:37}}
+			  그 공백에 대해서 말씀드리고 싶었어요. 그래서 나중에 그것들을 준비하여 더 나은 BID 텍스트 인용으로 바꿀 거에요. 그리고 이미 여기서 그것을 조금씩 시작해본 것 같아요.
+			  이렇게 더 나은 BIB 텍스트는 각 파일을 이름 짓는데, 저자 이름과 년도가 첫 번째 단어에 포함돼요.
+			  그래서 저는 이미 그런 규칙을 따라 시작해봤고, 나중에 Zotero에 통합하는 것이 더 쉬울 것 같아요.
 		- **Cara Antonaccio** {{youtube-timestamp 13:59}}
 		  So that's how I do that's how I sort that's how I site while I'm writing is I put the asset directly into what I'm writing if that gives you an idea of my process until I get to the point of using Zotero.
 		  So there's a little bit of a, a tangent there but just to go back.
 		  So that's how I bring everything into my library.
 		  I use a scholar and connected papers and
+			- **Cara Antonaccio** {{youtube-timestamp 13:59}}
+			  그래서 그게 제가 하는 방식이에요, 정리하는 방식이에요, 글을 쓰면서 자료를 인용하는 방식도 그렇고, 제가 글 쓰는 동안에는 자료를 바로 사용하는 거죠. 제 프로세스를 감이 오시나요? Zotero를 사용하기 전까지는요.
+			  그래서 살짝 주제를 벗어났는데 다시 돌아와서 말씀드리면,
+			  그래서 그게 저의 라이브러리에 모든 것을 가져오는 방식이에요.
+			  스칼라와 연결된 논문을 사용하고 있죠.
 		- **Cara Antonaccio** {{youtube-timestamp 14:23}}
 		  before we turn to the next thing, I would love to just show you connected papers because I think if you haven't heard of it before, if you haven't used it, it can be super helpful to understand just the lay of the literature, the seminal works who builds on them.
 		  So this is an article, a methods article that I use for my dissertation.
