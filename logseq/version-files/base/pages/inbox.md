@@ -364,14 +364,14 @@
 			  그래서 정말로 내 머릿 속에 많은 것이 있었지만, 나는 정말로 그 지식을 분리하고 처리하고 통합해야 했어요.
 			  그래서 몇 가지 다른 방법들을 시도해 보았고 일부는 성공했고 일부는 특정 영역에서는 단점이 있었어요.
 		- **Cara Antonaccio** {{youtube-timestamp 07:34}}
-		  So I tried Max QDA super strange.
-		  Maxqda is a qualitative analysis software.
-		  So the way that I used that was I uploaded all of the literature that I needed into Max QDA and I tried to code it as though it was like a qualitative analysis that was weird.
+		  So I tried MAXQDA super strange.
+		  MAXQDA is a qualitative analysis software.
+		  So the way that I used that was I uploaded all of the literature that I needed into MAXQDA and I tried to code it as though it was like a qualitative analysis that was weird.
 		  I didn't really like it. It didn't suit the needs I had for like integration and synthesis of ideas or really like digging into the ideas themselves.
 			- **Cara Antonaccio** {{youtube-timestamp 07:34}}
-			  그래서 나는 Max QDA를 사용해 보았는데 정말 이상하더라.
-			  Maxqda는 질적 분석 소프트웨어이다.
-			  나는 필요한 모든 자료를 Max QDA에 업로드하고, 그것을 질적 분석처럼 코드화해 보았다. 이건 정말 이상했다.
+			  그래서 나는 MAXQDA를 사용해 보았는데 정말 이상하더라.
+			  MAXQDA는 질적 분석 소프트웨어이다.
+			  나는 필요한 모든 자료를 MAXQDA에 업로드하고, 그것을 질적 분석처럼 코드화해 보았다. 이건 정말 이상했다.
 			  나는 그걸 실제로 좋아하지 않았다. 통합 및 아이디어의 통합, 그리고 아이디어 자체에 대해 깊게 파고들기에는 적합하지 않았다.
 		- **Cara Antonaccio** {{youtube-timestamp 07:59}}
 		  It was more like a separation between me and the data that I was working with and then asana which is useful but it didn't again meet my needs about being both planning and a research tool.
@@ -437,12 +437,12 @@
 		  So when I take notes and I'm not sure if I've taken notes on this article yet but it looks like I started to but let's see if I can go back.
 		  Sorry. So I've uploaded things into the library.
 		  Yeah each source gets a row and I, each source has a process related to it.
-		- **Cara Antonaccio** {{youtube-timestamp 10:39}}
-		  항상 단단하게 구조화되고 명확하게 표현되며 논리적으로 일관된 개요부터 시작합니다.
-		  그래서 이 곳이 바로 그런 작업을 하는 곳입니다.
-		  그래서 노트를 작성할 때, 아직 이 글에 대한 노트를 작성하지 않은 것 같은데, 하지만 시작은 했는지 확인해 보겠습니다.
-		  죄송합니다. 제가 라이브러리에 자료를 업로드했습니다.
-		  네, 각 소스별로 행이 있고, 각 소스에는 관련된 프로세스가 있습니다.
+			- **Cara Antonaccio** {{youtube-timestamp 10:39}}
+			  항상 단단하게 구조화되고 명확하게 표현되며 논리적으로 일관된 개요부터 시작합니다.
+			  그래서 이 곳이 바로 그런 작업을 하는 곳입니다.
+			  그래서 노트를 작성할 때, 아직 이 글에 대한 노트를 작성하지 않은 것 같은데, 하지만 시작은 했는지 확인해 보겠습니다.
+			  죄송합니다. 제가 라이브러리에 자료를 업로드했습니다.
+			  네, 각 소스별로 행이 있고, 각 소스에는 관련된 프로세스가 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 11:04}}
 		  So the first step is outlining the second step is referencing and that creates additional linkages in the graph to other articles that, which is super useful for understanding sort of the layout of my literature.
 		  I annotate and then I recap everything in a few simple sentences.
@@ -480,6 +480,11 @@
 		  I don't there's not a whole lot of bells and whistles.
 		  I like to wait until the end because you know, a lot of things will just become complicated sort of emergent systems tend to become complex just how they are.
 		  So I try to keep things intentionally simple so that the more complicated system emerges on its own trying to find something here so that I could show you what it looks like when I'm drafting just conflict.
+			- **Cara Antonaccio** {{youtube-timestamp 12:31}}
+			  그래서 나는, 그래프에서 볼 수 있듯이 일반적으로 일을 굉장히 간단하게 처리하는 경향이 있어요.
+			  많은 장식이나 요령들은 없어요.
+			  끝까지 기다리는 걸 좋아해요. 왜냐하면, 많은 것들은 단순히 복잡하게 변해버릴 때가 많아요.
+			  그래서 의도적으로 간단하게 유지하고, 더 복잡한 시스템이 스스로 나타나게끔 하려고 해요. 여기에 보여줄만한 것을 찾으려고 노력하고 있는데, 그냥 충돌 상태일 때의 모습을 보여드리려고 해.
 		- **Cara Antonaccio** {{youtube-timestamp 13:05}}
 		  So this is one of the drafts of my dissertation.
 		  So when I'm citing, close this for now when I'm citing this at this point.
