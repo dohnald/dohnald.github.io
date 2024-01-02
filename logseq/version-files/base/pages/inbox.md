@@ -519,14 +519,24 @@
 		  before we turn to the next thing, I would love to just show you connected papers because I think if you haven't heard of it before, if you haven't used it, it can be super helpful to understand just the lay of the literature, the seminal works who builds on them.
 		  So this is an article, a methods article that I use for my dissertation.
 		  So Choy 2021 is the, the articles that I put into the system and then it tells you everything all the papers that have cited Choy or that Choy has cited I guess
+			- **Cara Antonaccio** {{youtube-timestamp 14:23}}
+			  차례로 넘어가기 전에, 연결된 논문들을 보여드리고 싶습니다. 이전에 들어보지 못했거나 사용해본 적이 없다면, 이 논문들을 이해하는 데 매우 도움이 될 수 있습니다. 이것은 저의 논문에 사용한 방법 논문입니다. Choy 2021이라는 논문을 시스템에 넣으면, Choy를 인용한 모든 논문 또는 Choy가 인용한 논문들을 보여줍니다.
 		- **Cara Antonaccio** {{youtube-timestamp 14:52}}
 		  and it's a very recent papers and then who they've cited too.
 		  So it sort of almost gives you an idea of what your graph would look like you put in all of these different sources into it.
 		  So you can go into individual, individual works and you can look at prior works and derivative works.
 		  And it also lets you download this as a CSV file.
 		  So it can be helpful if you're just trying to get
+			- **Cara Antonaccio** {{youtube-timestamp 14:52}}
+			  그리고 그것은 매우 최신 논문들이며, 그리고 또 누가 인용했는지도 표시됩니다.
+			  그래서 거의 이런 식으로 당신에게 그래프가 어떻게 보일지에 대한 아이디어를 제공합니다. 모든 이러한 다양한 소스를 넣으면요.
+			  따라서 개별 작품으로 들어가서 이전 작품과 파생 작품을 살펴볼 수도 있습니다.
+			  또한 이것을 CSV 파일로 다운로드할 수도 있습니다.
+			  그래서 당신이 그냥 얻으려고 하는 경우에 도움이 될 수 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 15:15}}
 		  an idea of what work has been done on a topic or methods that have been used or how much work has been done on a topic because as you can see, a lot of these especially recent so maybe there's not as much of a focus on this as there has been in the past.
+			- **Cara Antonaccio** {{youtube-timestamp 15:15}}
+			  주제에 대해 수행된 작업이나 사용된 방법, 또는 얼마나 많은 작업이 해당 주제에 수행되었는지에 대한 아이디어를 제시합니다. 보시다시피 특히 최근에는 이에 대한 중점이 과거보다 적을 수도 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 15:30}}
 		  So this tool actually looks at, when you looked at the, basically the related papers it looks at all the papers in the connected papers database, not just the ones that are in basically your graph you've already saved.
 		  So that's a usually useful companion tool if you're already used to this network way of thinking with Luxik that basically have a similar tool.
