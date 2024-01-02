@@ -1,21 +1,8 @@
-- * Logseq를 활용한 공중보건 박사과정 학생의 작업 흐름 - traw
-  origin:: [[Omnivore imports]]
-  tags:: [[logseq]][[research]][[traw]] #memo #card
-  source:: [Summarizing YouTube Videos with GPT - traw](https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685)
-  title:: Logseq를 활용한 공중보건 박사과정 학생의 작업 흐름 - traw
-	- collapsed:: true
-	  * ### Highlights
-	  collapsed:: true
-		- * 생각: 
-		  tags:: #memo #card
-		  source:: 
-		  title:: 
-		  > Cara는 논문 및 학위 논문을 포함한 다양한 문서를 작성하고 편집하는 데 Logseq를 활용합니다. 그녀는 독서 노트와 동일한 구조화된 접근 방식으로 글을 개요로 작성합니다. Cara는 방정식과 그림을 직접 Logseq에 통합하며, 필요할 때 초안을 내보냅니다.
-- * 생각: 
-  tags:: #memo #card
+- 경제위기에 대해 모아놓고 시간이 지나 검토하면 흐름을 볼 수 있겠다. 브랜드파워가 있는 건설업체들도 
+  tags:: #memo #card [[경제위기]] 
   source:: [서울경제](https://m.sedaily.com/NewsView/29YMWT2IKE)
   title:: ‘순살자이’ ‘워크아웃설’…잇단 악재 건설사 신용등급도 줄강등 | 서울경제
-	- 부동산 경기 침체로 인해 수주 환경이 악화되면서 건설업계가 신용 위기를 촉발한 것이다
+	- 부동산 경기 침체로 인해 수주 환경이 악화되면서 건설업계가 신용 위기를 촉발한 것이다.
 - 사기업의 이익을 법으로 강제한다면 앞으로도 이익을 추구해야 할까 고민이 드는 지점이다. 은행업의 주식이 저평가된 이유와도 맞닿는다.
   card-last-score:: 5
   card-repeats:: 4
