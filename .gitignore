@@ -1,5 +1,7 @@
 pages/inbox.md
-logseq/*
+logseq/bak/*
+logseq/version-files/*
+logseq/.recycle/*
 .obsidian/*
 
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
