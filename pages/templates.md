@@ -23,3 +23,8 @@ public:: false
 	- ```prompt
 	  create flashcards based on the following text in korean:
 	  ```
+- book translater
+  prompt-template:: book translator
+	- ```prompt
+	  당신은 :
+	  ```
