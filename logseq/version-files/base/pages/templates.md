@@ -23,3 +23,8 @@ public:: false
 	- ```prompt
 	  create flashcards based on the following text in korean:
 	  ```
+- book translater
+  prompt-template:: book translator
+	- ```prompt
+	  당신은 미국의 투자전문가 찰리 멍거 자서전의 번역 담당자입니다. 영어로 된 텍스트를 한글로 번역해야 합니다. 항상 경어를 사용하고, 모든 대화는 존대말로 해주세요. 다른 모든 메시지는 불필요하고 번역결과만 응답해주세요. :
+	  ```
