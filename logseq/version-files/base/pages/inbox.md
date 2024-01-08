@@ -962,15 +962,15 @@ public:: false
 	- **정성진 KB국민은행 PB팀장** 내년 부동산을 비롯한 실물 자산 시장을 어둡게 전망한다. "잘 지키는 전략이 필요하다"
 	- **최선일 신한PWM서울파이낸스센터 PB팀장** 주식과 채권, 실물 포트폴리오 비중은 비슷한 수준(30%, 40%, 30%)으로 유지하는 걸 추천했다. 실물 부문에서는 '예금 등 현금성 자산' 비중을 높게 가져가는 걸 조언했다. 최 팀장은 "아직 연 4% 금리는 무위험 자산 수익률로 매력적"
 	- **홍은미 KB증권 테크노마트지점장** "내년 채권 시장에서 투자 기회가 있을 것으로 예상합니다. 배당이나 이자 수익에 집중하는 '인컴' 전략에 무게를 두고 금리 하락에 따른 자본 차익은 긴 호흡으로 접근하길 추천"
-- How I create Concept-based notes from literature notes (in Obsidian) - Live note taking #1
+- How I create Concept-based notes from literature notes (in Obsidian) - Live note taking
   collapsed:: true
 	- video
 		- {{video https://youtu.be/m6uIoQIKLA4?si=4U3JfHLEeIbj_kSu}}
 	- script
-		- 00:00 {{youtube-timestamp 00:00}} 
-		  Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes,
+		- {{youtube-timestamp 00:00}} 
+		  Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work.
 		- 00:17 {{youtube-timestamp 17}} 
-		  academic work. I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
+		  I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
 		  So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you.
 		- 00:37
 		  So let's get started. Okay, so welcome I'm going to be making some live notes or making some live notes here in Obsidian.
