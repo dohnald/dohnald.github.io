@@ -1,17 +1,4 @@
 public:: false
-
-- AI를 어떻게 이용할 지 고민하는 것부터 시작이다. 레포트 작성도 되고 고민을 나누기도 가능하다. 나는 git을 이용할 때 큰 도움을 받았다. 참고하고 싶은 youtube 영상이 있을 땐 클로바AI를 이용해 스크립트를 작성하고, 번역AI를 이용해 번역하며 읽는다.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo, [[AI]] 
-  source:: [[잡지/이코노미조선/521]] 
-  title:: "임대부터 관리까지…부동산 라이프사이클 전반 A가 돕는다”
-	- "올해부터 인공지능(Al)이 전 세계 주요 부동산 시장에 대한 보고서를 스스로 작성해 주고 있습니다. 과거에는 2~3주가 걸렸던 업무가 3일로 단축됐습니다."
-	- "과거 상업용 부동산 시장에서는 특정 개인이나 거래 내역에 접근할 수 있는 사람 위 주로 최상의 결정을 내릴 수 있었다. 하지만 이제는 AI가 좋은 데이터에 대한 접근성을 높여 준다. 덕분에 AI가 누구나 부동산 거래 에서 최상의 결정을 쉽게 할 수 있도록 돕는다.
 - 따스한 자본주의를 생각하면 이들의 투자 실패가 안타깝지만 모든 투자 실패를 보듬어줄 수 없다. 모든 투자는 각자의 판단 하에 진행하는 것이다. high risk high return. 이자 이상의 수익은 위험하다는 것을 기억하라.
   card-last-score:: 5
   card-repeats:: 2
@@ -20,8 +7,9 @@ public:: false
   card-ease-factor:: 2.6
   card-last-reviewed:: 2023-11-04T02:08:44.614Z
   tags:: card, memo,
-  source:: [[잡지/이코노미조선/521]] 
+  source:: [[잡지/이코노미조선/521]]
   title:: 홍콩 ELS 상생금융이 드러낸 후 금융의 규제 불확실성
+  collapsed:: true
   * 내가 피해자라고 호소하면 피해자가 되는 게 맞을까. 손실은 손실대로, 피해자는 그에 맞게 족집게 대응을 할 필요가 있다.
   * ((6593a7d4-8d74-4a3c-bce2-3cdbef2813f5)) 이 노트의 생각과 충돌한다.
 	- ELS는 중위험에 중수익을 기대할 수 있는 대표적인 금융자산으로 인식돼 왔다. 기초자산의 주가가 일정 범위 내에서 움직일 경우 약속된 조기상환 스케줄에 맞춰 연 5~7% 수준의 수익률을 확보할 수 있는 구조다. ^^하지만 본질적으로 ELS는 만기가 있고 변동성이 커질 경우 큰 손실을 볼 수밖에 없는 고위험 파생상품이다.^^ 그렇기 때문에 미국, 유럽 등 ^^금융 선진국에서는 일반 투자자들을 대상으로 ELS 같은 구조의 상품을 판매하지 않는다.^^ 특정 기업의 주가나 주가지수가 어느 수준을 넘어서 하락할 경우 원금 손실(녹인•knock-in) 위험에 직면하게 되고, 최악의 경우 투자금 전부를 손해 볼 수 있다.
@@ -54,14 +42,14 @@ public:: false
 	- 요즘 정부 정책은 그 2차, 3차 효과도 있어 이를 유권자에게 설명하기 어려운 것이 다반사인데, 온라인상에서는 이런 복잡한 설명은 잘 안 먹힌다. ^^대학 교육을 받았다고 해도 모든 분야의 전문가가 될 수 없는 네티즌들에게 감성에 호소하는 주장이 수용되기 쉽기 때문이다. 이러한 현상은 대학 교육까지 받은 지성인인 자신(네티즌들)이 잘 이해할 수 없으면 이는 틀린 것이라는 숨은 전제가 깔려 있기 때문인 것으로 풀이된다.^^
 	- 이제는 전 세계가 물가가 아니라 더 깊은 불황을 우려하는 상황이 됐다. 게다가 한국과 같은 중소 경제 국가들은 자국 통화가치의 방어를 위해서 미국 금리를 따라 올려야만 되는 상황에 처했고, 이는 불황의 늪을 더 깊게 만드는 양상으로 이어지고 있다.
 - chatGPT를 활용해 번역하고 읽으면 컨텐츠를 쉽게 이해할 수 있겠다. 
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo, #감상/책/읽을 
-  source:: [[잡지/이코노미조선/521]] 
+  card-last-score:: 3
+  card-repeats:: 3
+  card-next-schedule:: 2024-01-16T02:54:10.539Z
+  card-last-interval:: 9.84
+  card-ease-factor:: 2.46
+  card-last-reviewed:: 2024-01-06T06:54:10.540Z
+  tags:: card, memo, #감상/책/읽을
+  source:: [[잡지/이코노미조선/521]]
   title:: 찰리 멍거의 필수적인 재치와 지혜
 	- 가난한 찰리의 영감
 	- https://www.stripe.press/poor-charlies-almanack/chapter-one
@@ -78,14 +66,14 @@ public:: false
 	- 한전이 유례없는 중간배당 요구에 나선 것은 재무위기 악화로 ^^내년 한전채 한도가 대폭 줄어 한전채 신규 발행이 불가능해질 것을 우려해서^^. 한국전력공사법에 따라 한전은 원칙적으로 '자본금+ 적립금'의 5배까지 한전채를 발행할 수 있다. 올해는 지난해 말 기준으로 자본금과 적립금 합계(20조9200억원)의 5배인 104조6000억원까지 한전채를 발행할 수 있었다. 하지만 내년에는 상황이 달라진다. 전망치대로 올해 6조원대 영업손실을 내면 '자본금+적립금'이 14조9000억원으로 줄어든다. 이를 바탕으로 계산한 한전채 발행 한도는 74조5000 억원이다. 현재 한전채 발행 잔액은 79조6000억원 수준인데, 현재 전망대로라면 ^^내년 3월 결산 후 한전채 발행 한도가 초과해 한전은 한전채를 새로 찍어내지 못한다.^^ 신규 발행은커녕 5조원가량 기존 한전채부터 상환해야 한다. 기존처럼 한전채를 발행해 빚을 갚고 전기 구매, 송변전 시설 유지 보수 등에 쓰일 ^^자금을 융통할 수 없는 초유의 위기 상황에 직면할 수 있다는 의미^^다.
 	- 한전의 자회사 중간배당 요구를 두고 배임 논란도 거세다. 발전 자회사 중 한 곳인 한국수력원자력은 올 들어 3분기까지 1600억원 영업손실 을 냈다. 그만큼 경영 여건이 어렵다는 의미다. 재계에서는 상법상 연 간 영업이익을 넘는 수준의 중간배당은 배임 소지가 있다는 우려가 나 온다. 재계 관계자는 "한전 사정이 어렵기는 하지만 ^^모기업 재무 부담을 자회사에 넘기는 만큼 '아랫돌 빼 윗돌 괴기' 조치라는 비난^^을 피할 수 없게 됐다"고 귀띔했다.
 - 감정빼고 상장과 수익만 추구하는 방향이 괜찮은걸까. 돈으로만 움직이는 세상이 아니다.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
+  card-last-score:: 3
+  card-repeats:: 3
+  card-next-schedule:: 2024-01-16T02:52:34.643Z
+  card-last-interval:: 9.84
+  card-ease-factor:: 2.46
+  card-last-reviewed:: 2024-01-06T06:52:34.645Z
   tags:: card, memo,
-  source:: [[잡지/매경이코노미/2239]] 
+  source:: [[잡지/매경이코노미/2239]]
   title:: 5% - 2.8% 수수료 인하, 난감해진 카카오모빌리티 FI
 	- 택시업계 입장에선 부담이 줄었지만, 카카오모빌리티 수익성 악화는 불가피할 전망이다. 기업가치 측면에도 부정적 영향을 줄 것으로 보인다.
 	- 카카오모빌리티는 지금도 수익성이 썩 높은 기업은 아니다. 기존 수수료 정책에서도 간신히 흑자를 내는 수준이었다.
@@ -105,8 +93,10 @@ public:: false
 	- 정리해보면 ^^매매 시장에서는 강남권 아파트 매물이 급증하는 가운데, 전월세 시장에서는 강북권 매물이 급감^^하는 양상이다. 즉 강남 매매 수요는 줄고, 강북 전월세 수요는 늘어나고 있다는 의미로 해석된다. 실 수요자의 전월세 선호 현상이 심화될수록 내년 강남 아파트 매매 가격 하락폭이 커질 것으로 보인다. 물론 ^^내년 총선을 앞두고 정부가 대출 규제 완화 등 부양책을 내놓을 경우 상황이 반전될 가능성^^도 배제할 수 없다.
 - How to Use Logseq for Research ft. **Cara Antonaccio**
   collapsed:: true
+	- AI
 	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
 	- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
+	- Scripts
 		- **Ramses Oudt** {{youtube-timestamp 00:00}}
 		  Welcome everyone my name is **Ramses Oudt**.
 		  I am community manager at Logseq.
@@ -969,25 +959,187 @@ public:: false
 	- **정성진 KB국민은행 PB팀장** 내년 부동산을 비롯한 실물 자산 시장을 어둡게 전망한다. "잘 지키는 전략이 필요하다"
 	- **최선일 신한PWM서울파이낸스센터 PB팀장** 주식과 채권, 실물 포트폴리오 비중은 비슷한 수준(30%, 40%, 30%)으로 유지하는 걸 추천했다. 실물 부문에서는 '예금 등 현금성 자산' 비중을 높게 가져가는 걸 조언했다. 최 팀장은 "아직 연 4% 금리는 무위험 자산 수익률로 매력적"
 	- **홍은미 KB증권 테크노마트지점장** "내년 채권 시장에서 투자 기회가 있을 것으로 예상합니다. 배당이나 이자 수익에 집중하는 '인컴' 전략에 무게를 두고 금리 하락에 따른 자본 차익은 긴 호흡으로 접근하길 추천"
-- [[가난한 찰리의 연감]]
-	- Foreword: Collison on Munger
-	  John Collison
-		- 찰리 멍거에 관한 서문: 존 콜리슨
-		  
-		  존 콜리슨은 미국의 투자 전문가인 찰리 멍거에 대한 서문을 썼습니다.
-	- I first came across Poor Charlie’s Almanack in my 20s, when I was trying to learn everything I could about what made successful businesses tick. As I leafed through its oversize pages, I found it to be a refreshing rebuttal of conventional financial wisdom, delivered with unusual simplicity and candor. Never before had I heard a venerated businessperson express such trenchant insights about investing, finance, and the world more broadly, and with such—to use a favored Munger phrase—chutzpah. One can’t help but read a line like “Without numerical fluency… you are like a one-legged man in an ass-kicking contest” and come away not only chuckling but also a little bit wiser.
-		- 20대 때 성공한 비즈니스의 핵심을 배우기 위해 최선을 다한 동안, 처음으로 '찰리 멍거의 '풀 찰리의 날갯짓'을 접했습니다. 이 남의 팽창된 페이지를 넘기며, 저는 이것이 전통적인 재무 지혜에 대한 상쾌한 반박이었음을 알게 되었고, 이를 통해 특이한 간결함과 솔직함으로 전달되었습니다. 이전에는 고귀한 비즈니스 인물이 투자, 재무, 그리고 더욱 넓은 세계에 대해 이렇게 날카로운 통찰을 표현하는 것을 들어본 적이 없으며, 선호되는 멍거의 구어체 표현을 사용하여 표현하였습니다. "수치적 능력이 없다면... 허리를 통한 앞다툼에서 한 다리에 기생하는 사람과 같다"는 문구를 읽을 때 만큼 흥겨워하면서도 조금 더 현명한 사람이 되는 것을 막을 수 없습니다.
-		- 저는 20대에 처음으로 '가난한 찰리의 연감'을 접했을 때였습니다. 그때는 성공한 비즈니스의 핵심을 알기 위해 가능한 모든 것을 배우려고 노력하던 시기였습니다. 이 굵직한 책의 페이지들을 넘기며, 이는 전통적인 금융 지혜에 대한 상쾌한 반박임을 깨닫게 되었습니다. 그것은 비법적인 간결함과 진솔함으로 제공되었습니다. 이전까지 귀족적인 사업가가 투자, 금융, 그리고 더 넓은 세상에 대해 이렇게 날카로운 통찰력을 표현한 것을 듣지 못했습니다. 그리고 찰리 멍거의 좋아하는 표현을 사용하자면 "수리력 없는 사람은 엉덩이를 맞고 있을 수밖에 없다"는 문구를 읽으면서 웃음을 짓지 않을 수가 없었으며, 조금 더 배움을 얻게 되었습니다. (Poor Charlie’s Almanack)
-	- Years after that first encounter with “Poor Charlie,” I had the privilege of meeting Charlie at his home in Los Angeles. I was delighted to find that he is just as engaging and intellectually curious in person as he is on the page. (He also, I discovered, has considerably more stamina than I do—more than four hours into our dinner, I was ready for bed while Charlie showed no signs of flagging.) Our conversation that night was wide-ranging, touching on everything from the economics of ski resorts to raising children to the evolution of the news industry. Witnessing Charlie’s prodigious intellectual breadth and multidisciplinary mode of reasoning firsthand only reinforced my admiration both for the man himself and for this book.
-		- "가난한 찰리"와 처음 만난 지 몇 년 후, 저는 로스앤젤레스의 찰리의 집에서 그와 만나는 기회를 가졌습니다. 그는 책 속에서와 같이 매력적이고 지적으로 호기심이 많은 사람임을 알게 되어 기쁩니다. (나는 밤잠을 청하고 있을 시간에도 찰리는 아무런 피로 표시도 보이지 않는 것을 알게 되었습니다.) 그 날 밤 우리 대화는 스키 리조트의 경제부터 자녀 양육, 뉴스 산업의 진화까지 다양한 주제를 다루었습니다. 찰리의 놀라운 지적 폭과 학문적 이론에 기반한 사고 방식을 직접 목격함으로써, 그의 성품 뿐만 아니라 이 책에 대한 감탄이 더욱 깊어졌습니다."
-		- “가난한 찰리”와의 첫 만남 이후 몇 년이 지난 뒤, 저는 로스앤젤레스의 찰리의 집에서 그와 만날 기회를 가졌습니다. 저는 기뻤던 것은 원작의 페이지에서와 같이 그가 매력적이고 지적으로 호기심이 많은 사람임을 발견한 것입니다. (또한, 나보다 훨씬 더한 체력을 가지고 있다는 것을 알게 되었는데, 저는 저녁 식사를 4시간 이상 지나고서는 잠이 오는 반면 찰리는 피로한 표정을 하나도 보이지 않았습니다.) 그 날 밤 우리의 대화는 스키 리조트의 경제부터 아이를 키우는 법, 뉴스 산업의 진화까지 다양한 주제에 걸쳐 이루어졌습니다. 찰리의 방대한 지적 범위와 다각적인 논리 방식을 직접 목격한 것은 찰리 자신뿐만 아니라 이 책에 대한 저의 존경심을 한층 더 높여주었습니다. (찰리의 전폭적인 학문적 폭발과 다학제적인 추리 방식을 첫 손으로 목격한 것은 이 책과 그가 속한 사람에 대한 저의 존경심을 한층 더 높여주었습니다.)
-	- Poor Charlie’s Almanack is a testament to the power of thinking across disciplines. It’s not just a book about investing; it’s a guide to learning how to think for yourself to understand the world around you. Charlie’s philosophy combines insights from nearly every discipline in which he’s ever taken even a passing interest—not only business and finance but also mathematics, physics, history, ethics, and more—delivered with a characteristic irreverence that has persisted for 99 years (and counting). His essays extol the virtues of free enterprise, yes, but also of doing business the right way, with integrity and rigor. Of taking your work very seriously, but never yourself.
-		- "가난한 찰리의 연감(Poor Charlie’s Almanack)"은 다양한 분야의 사고력에 대한 증거입니다. 이 책은 단순히 투자에 관한 책이 아니라 자신의 사고력을 키워 세상을 이해하는 가이드입니다. 찰리의 철학은 비즈니스와 금융 뿐만 아니라 수학, 물리학, 역사, 윤리 등 거의 모든 분야의 통찰력을 결합하며, 99년 동안 꾸준히 지속되고 있는 특징적인 경박함으로 전달됩니다. 그의 논문은 시장경제의 가치 뿐 아니라 올바른 방식으로 사업을 진행하는 데의 믿음과 엄격함을 찬양합니다. 매우 진지하게 일을 하지만 자신을 너무 중요하게 여기지 않아야 한다는 것을 강조합니다."
-	- While the world looks very different today than it did nearly 100 years ago, when Charlie was born in Omaha, Nebraska—arriving before the Great Depression, between two world wars, and just two years after the establishment of the Irish Free State—Charlie has remained a constant. His insatiable appetite for learning; his uncanny ability to evaluate businesses using simple frameworks that produce more reliable analysis than complex financial statements; and his partnership with the Buffett family—which started humbly when a teenage Charlie took a job in Warren’s grandfather’s grocery store and culminated in one of the most successful investing relationships of all time—have persisted for decades, through boom times and bust. So, too, have many of the esteemed businesses in which Charlie and Warren invested their dollars and their confidence.
-		- 세계는 100년 전의 오마하, 네브래스카에서 태어난 찰리의 출생 이후로 매우 다른 모습으로 변화했지만, 대공황 이전에, 두 차 세계 대전 사이에, 아일랜드 자유국 설립 후 2년만에 도착한 그 시절부터 찰리는 불변하였습니다. 그는 끝없는 학습 욕구, 복잡한 재무제표보다 더 신빙성 있는 분석을 제공하는 간단한 프레임워크를 사용하여 기업을 평가하는 기묘한 능력, 그리고 워렌 가족과의 장기적인 협력관계 - 청소년 시절 찰리가 워렌의 할아버지가 운영한 식료품 가게에서 일하게 되면서 시작되었으며, 역사상 가장 성공적인 투자 관계 중 하나로 극에 달한 협력관계로 이어졌습니다 - 동반자로서 지속되고 있습니다. 찰리와 워렌이 자신들의 자금과 자신감을 투자한 일부 우수한 기업들도 마찬가지입니다.
-	- Although Charlie didn’t invent the concept of compounding growth, his success, and that of Berkshire Hathaway, is a testament to its existence. The practical wisdom of Poor Charlie’s Almanack, this ode to curiosity, generosity, and virtue, will similarly compound, as successive generations of entrepreneurial readers extend his lessons to their own circumstances.
-		- 찰리는 복리 성장의 개념을 창안한 것은 아니지만, 그의 성공과 버크셔 해서웨이의 성공은 복리 성장의 실제를 증명하는 것입니다. <가난한 찰리의 연감>(Poor Charlie’s Almanack)이라는 이 책의 실용적인 지혜는 호기심, 관대함, 덕덕함에 대한 찬사로서, 기업가적인 독자들이 자신의 상황에 이 지식을 적용하여 여러 세대에 걸쳐 복리 성장할 것입니다.
-	- Whether you are a seasoned investor or an enthusiastic newcomer, whether you run a business or are seeking to improve your decision-making skills in everyday life, I encourage you to read Charlie’s speeches and essays with an open, curious mind. You will be rewarded with insights that stay with you for a lifetime. As Charlie once said, “There is no better teacher than history in determining the future. There are answers worth billions of dollars in a $30 history book.” The same might be said of Poor Charlie’s Almanack. It is the ultimate value investment.
-		- 당신에게 권할 만한 것은 "가난한 찰리의 연감"입니다. 찰리의 강연과 에세이를 개방적이고 호기심 가득한 마음으로 읽을 것을 권장합니다. 투자 경험이 많은 투자자이든 새내기 투자자이든, 비즈니스를 운영하든지 일상적인 의사 결정 능력을 향상시키려는 목적이든, 이 책을 읽는 것이 좋습니다. 평생 동안 기억에 남는 통찰력을 얻게 될 것입니다. 찰리는 한때 "미래를 결정하는 데에 있어 역사보다 더 나은 교사는 없다. $30짜리 역사 책에는 십억 달러 가치의 해답들이 있다"라고 말했던 것처럼, "가난한 찰리의 연감"에도 동일한 말을 할 수 있습니다. 이 책은 궁극적인 가치 투자입니다.
-	- I am immensely grateful to Peter Kaufman for compiling this classic tome, and to Charlie Munger for his irrefutable wisdom and his gracious mentorship. Nothing further to add.
-		- 이 독서록을 함께 편집해 주신 피터 카우프만에게는 큰 감사의 말씀을 드리며, 찰리 멍거씨의 확고한 지혜와 친절한 멘토십에도 깊은 감사를 표합니다. 더 이상 말씀드릴 것이 없습니다.
+- How I create Concept-based notes from literature notes (in Obsidian) - Live note taking #1
+  collapsed:: true
+	- video
+		- {{video https://youtu.be/m6uIoQIKLA4?si=4U3JfHLEeIbj_kSu}}
+	- script
+		- 00:00 {{youtube-timestamp 00:00}} 
+		  Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes,
+		- 00:17 {{youtube-timestamp 17}} 
+		  academic work. I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
+		  So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you.
+		- 00:37
+		  So let's get started. Okay, so welcome I'm going to be making some live notes or making some live notes here in Obsidian.
+		  And this comes from an article titled An Operationalized Understanding of Personalized Learning from the Journal of Special Education Technology.
+		  And this is by Basham Hall Carter and Stal.
+		  This is a reading that I use in my learner centered and project based teaching class to make meaning and sense of the idea of personalized learning and what it means.
+		- 01:05
+		  And so right now we have a literature note that I have where I took my notes and as I've mentioned in some other videos, my general approach to this is I highlight the PDF file first and then I grab all the highlighted passages into the literature note and I often am using the quotes verbatim from the article and I want to have those original sources and then I can make meaning of them as I sort of parse them out and
+		- 01:36
+		  kind of put them into either other notes or work with them.
+		  So what I'm going to be doing is I have here an evergreen note you might want to call it a sort of longer notes of multiple aspects of personalized learning from different articles here and there.
+		  And this one does need to be split up into smaller, more conceptual notes notes that are based on a particular concept I don't really subscribe to the like a strict Zalcoastin approach
+		- 02:05
+		  and I'm not sure I would refer to my smaller, more conceptual based notes as atomic notes but I know other people use that sort of language or ways of thinking about things.
+		  I tend to think of them as like concept based notes or notes that are kind of focused on a particular concept.
+		  And often they start off as a concept that's larger or more encompassing like personalized learning and then eventually become split off into
+		- 02:32
+		  more focused notes. And then this personalized learning note will essentially become a map of content and MOOC I do keep the original notes in my literature note because I might want to go back to that note and see what's specifically in that literature particularly when I'm working with classes.
+		  So if we're in the middle of class and we're having a discussion, I can pull up my literature note and I have everything that's in the, that specific article there
+		- 02:56
+		  you here I'm just going to grab this and I don't mind having this specific content in two different notes that doesn't bother me at all.
+		  And then the other thing I'd like to do here is I have a hot key and then I can go to the note here Fasham at all in that way if this particular quote gets pulled into some other note at some point, I can trace it back to the original literature note source.
+		  Okay I want this here. So this is where I really am starting to make meaning even though I'm
+		- 03:32
+		  using these verbatim quotes I use my own headers to sort of make meaning of them, to thematize them and to kind of figure out where do these go.
+		  And so for me this what is personalized learning will grow over time from lots of different other people's perspectives.
+		  And then if these need to become their own notes, that's fine.
+		  But right now I see these as more of aspects of what we are thinking about personalized learning.
+		  Okay so for me this is not
+		- 04:01
+		  necessarily specific to personalized learning.
+		  These are different ideas.
+		  So I do actually have, you can see up here I already have a note that's a blended learning note.
+		  I think I've already pulled this in let's see so I actually don't have oh yeah look at this here I've already pulled in that Christiansen horn and steaker have this note but
+		- 04:22
+		  you know, what I'm going to do is I don't always do this for all my notes but I'm going to make a little like to do here because I know that I do want to go to this source
+		- 04:38
+		  you know, I want to read that and I could put this in my task manager.
+		  I'm not going to do that right now it's not the most important thing but when I come to this note in the future, I want to make a note that this is something that I want to add to it.
+		  I think it's important to have those primary sourcing.
+		  I probably have a competency based learning, competency based education.
+		  Oh, I'm surprised that there's not that there's not more on here.
+		- 05:02
+		  So let's put okay so I haven't worked with this one at a time so I'm going to put some Mamel data here and I'm going to put here aliases and call this competency based learning and also and just to make sure I do that right I'm going to yep so there I have I wonder maybe I'll come across a one with a hyphen too.
+		  So this is just for future work when I am working with other notes that either have verbatim quotes or I'm working with it and I'm not consistent with my use
+		- 05:42
+		  I have all these aliases here so they eventually can come back to this note.
+		  I like to start a lot of the notes with sort of like, what is this concept?
+		- 05:55
+		  The reason why I include a tag here I don't use tags very often but I have a specific project that I'm working on where I do want to be able to pull all the curriculum based notes in relationship to that project I don't need a whole note.
+		  I don't think on a digital delivery system for now at least if you're wondering why my obsidian it looks like this, you could check out my video on how to set up Obsidian for academic work.
+		  But this is because I'm using the sliding panes plug in.
+		- 06:34
+		  One of the reasons why I spent a bit of time on personalized learning in the class is that there are very different ways of thinking around personalized learning and there's a whole area where it really gets into this sort of adaptive AI digital delivery system approach where there discourse, there's ways of framing that as personalized learning in and of itself.
+		  And the type of personalized learning that we think about in the learner centered class is a bit different than that
+		- 07:04
+		  but I do want to draw attention to that this is a way of thinking about it and a characteristic of it here.
+		  So here is an actual definition of personalized learning.
+		  So I'll just put this additional reference to Patrick Kennedy and Powell in the what is area here.
+		  The nice thing is after a while you get a bunch of different definitions which I think helps provide some additional nuance.
+		  And rather than those notes all being located in
+		- 07:39
+		  individual literature notes or PDF files by kind of bringing them together into this note, I have them all right there at my fingertips.
+		  So that's one of the things I love about Obsidian.
+		  So it's a lot of work when you're doing this at the front end of like putting in all the links back and organizing it all.
+		  But
+		- 08:02
+		  you know, five months from now when I'm in the middle of a project and I want to reference something related to personalized learning it just saves me so much time having everything in one place and very organized and interlinked.
+		  Yes I definitely want to emphasize that there's aspects of personalized learning that have its roots in behaviorism in Skinner.
+		  But you know, eventually the note starts to shape up.
+		- 08:29
+		  Yeah and here's what I was talking about earlier.
+		  I see that yeah there will be a whole note on this eventually you can see here.
+		  I think I was trying to see if I had a note.
+		  Let's do this. Oh, you know what I was doing here in the original H in the original quote, they used CAI without referring to computer assisted instruction.
+		  So I have the brackets here because I inserted computer assisted instruction.
+		  But the tricky thing there is that I actually think I want to make this
+		- 09:02
+		  a double bracket link. So you know, what I'm going to do.
+		  I'm going to do this computer assisted instruction and then I'm going to put one of these pipes I think that's what you call and then let's see if this works.
+		  I want to put in quotes actually let's see if I could just do a no I don't know if a bracket will work so I'm going to put quotes computer quotes bracket.
+		  Let's just see what this does.
+		  Yeah look at that it works.
+		  So now I could actually link here to,
+		- 09:39
+		  since I didn't copy and paste this this is the one issue with when you have the same exact quote in multiple notes and you start adjusting one if it's not embedded from another note, you might not have consistency across.
+		  So what I tend to do is treat the sources that came from the original source are sort of true to what they were in the original source.
+		  And any kind of edits or variations I tend to do in the other versions of them.
+		  So if I start tweaking this,
+		- 10:12
+		  it's not going to tweak this over here.
+		  Now this for me is a key point.
+		  So we go here
+		- 10:25
+		  and you can start to see why this will eventually be there will be digital there may be a digital delivery systems note in relationship to personalized learning.
+		  When I do that, what I'll often do is make a note that's still titled Personalized Learning Dashed Digital Systems.
+		  And the reason for that is that you can see here on the left hand side I'm often kind of scrolling through I haven't figured out a way to use the search very
+		- 10:53
+		  robustly. I don't know what the right word is here for, but like search hasn't been working for me really well.
+		  So I like to kind of go down to the area of where there might be, you know, a personalized learning information.
+		  It's an alphabetical order and then sort of similar to like an index I would have personalized Learning digital systems Personalized Learning Support, personalized learning and so it kind of yes, you can see, I already have some of that
+		- 11:19
+		  even if it's not in this document just from when I was reading other things.
+		  So personalized Learning autobiographical map, personalized learning avoiding pitfalls Personalized learning plan challenges, personalized learning plans, personalized learning plans misalignments and then those might all eventually be under a personalized Learning Plans
+		- 11:37
+		  note. And so eventually this will be a map of content.
+		  And with the map of content, it's easy then to go to the map of content and out towards all the other notes.
+		  But for now I like to kind of cluster them all around the same area when I know that they have to do with personalized learning.
+		  Okay so there's quite a bit I know in this article about self regulation.
+		  So I think those for now will go into, I guess support for personalized learning.
+		  I mean this is where the kind of thinking
+		- 12:04
+		  and meaning making habits like so is the importance of student self regulation a characteristic does that go into pedagogical approaches because you would need to support self regulation? Does it need its own category? I feel like this would go under principles and characteristics of personalized learning.
+		  Yes, let's put these here
+		- 12:36
+		  again. Even though I'm transferring all of these from this specific article down the line, there's probably going to be a lot of other sources that are merging altogether.
+		  So I want to keep track of where information came from.
+		  This is specific to the liture note.
+		  I don't really need that.
+		  So I think what I would have are it is a category here for examples like case studies or examples.
+		- 13:09
+		  Some of these concepts will go in here but some of them I'll put them into this broader note about personalized learning.
+		  So students as active learners is going to grab all of this and put it under this specific study because in this case it may be generalizable but really it is specific to this school district or program.
+		  So I'm just going to grab all of this and then I'll make these subheaders
+		- 13:43
+		  and then once I have a better understanding of other programs, I think at that point I could take all of these characteristics and do a sort of meta analysis of some kind and bring them out of the specific research studies or cases into larger principles.
+		  But I don't think I'm quite comfortable doing that yet until I read about more examples.
+		  But I do appreciate that after after these specific examples, they do develop some sort of elements or principles again.
+		  So
+		- 14:21
+		  I'm going to bring these now back up to this more broad part and then I can say, well, these are the people, the people who are making this case are Basham at all.
+		  Okay so here we are going back to the highly self regulated.
+		  Then they have a designing for self regulation section which is nice.
+		  I'm not necessarily agreeing or disagreeing with this right now I'm just taking the notes so that I can refer to them.
+		  What I'm going to do is bring.
+		- 14:56
+		  So now I can kind of go through and again, this might seem a bit tedious but my point is that what this lets you do is move these notes all around the and remember exactly where they came from so you can always trace them back to the original source.
+		  Okay so transparent, continual, actional data this is a sort of principle, an element of principle.
+		  I'll parse that out at some other point.
+		  I think one of the interesting points that
+		- 15:26
+		  we might talk about in class is that this idea of transparent, continual and actionable data it sometimes gets framed as if the way to do that is through the digital systems.
+		  But as teachers, we're constantly generating data with students to better understand what they're understanding or not understanding when you ask a question to the class or when you
+		- 15:49
+		  have a conversation with the student or you have them doing something and you're observing what they're doing all of that all of that information could be considered data that are helping us understand the degree to which students are learning something or understanding it.
+		  So I don't think it has to come from digital systems continual feedback on weekly meetings.
+		  Yeah I'm just going to grab all of this here.
+		  I've mentioned in other notes
+		- 16:16
+		  about how one of the techniques that I used to kind of differentiate between verbatim quotes or material that came from a source and my own thinking about it as I tend to, you know, just put these backslashes and italicize with a little astrics.
+		  Again, if you're thinking, well, this looks almost the same as a literature note.
+		  It's because this note on personalized learning is pretty early on in its,
+		- 16:43
+		  in its sort of evolution of a note because I'm drawing primarily from a particular source over time when I'm pulling in other readings and other ideas and other resources this is just going to get bigger and bigger and bigger and more expansive and things are going to cluster and then I will be breaking some of these into smaller notes and it will look a lot less like a parallel of a literature note.
+		  But it takes time. It takes the time to go through your notes and constantly working on
+		- 17:17
+		  these more conceptual notes in addition to the literature notes.
+		  And I'll say that prior to using a tool like Obsidian, often my notes would be located in the Pediaf files themselves, which is very difficult to make connections across or when I have done the work to make meaning of multiple readings you know, whether it's to build out a literature review or to make sense of things
+		- 17:46
+		  in the past what I've done is used mind maps to do that kind of work to bring things together and cluster ideas around each other.
+		  And sometimes I've used Tinderbox as well.
+		  But for me using Obsidian was a key to helping with synthesis work because I am able to now synthesize all along the way rather than waiting until the point where I'm writing a paper or working on a presentation or teaching a class or working on a project.
+		- 18:14
+		  Now it's just always the interrelations are always happening and it becomes much more organic as well because I have all the work done in a system that sort of designed to connect everything across.
+		  Why I love Obsidian for this kind of academic work all right if you haven't already taken a look at it, go check out my how I set up Obsidian for academic work.
+		- 18:36
+		  You might find that helpful and it touches on some of these things but goes way more in depth of the different ways I use obsidity in academic work.
+		  And you can also check out the Obsidian live note making playlist that I have or my other resources.
+		  And Obsidian if you're a music education person, you can check out my videos on that.
+		  But hope this was useful to you and have a great one and I'll see you around next time.
+		- 18:57
+		  Hey everyone, I'm Evan Dbias.
+		  I'm on the Music Learning and Teaching faculty at Arizona State University and I support music educators of all kinds.
+		  Imagine possibilities for music learning and teaching and then make those possibilities a reality.
+		- clovanote.naver.com
