@@ -969,6 +969,8 @@ public:: false
 	- script
 		- {{youtube-timestamp 00:00}} 
 		  Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work.
+			- {{youtube-timestamp 00:00}}
+			  당신은 아직도 주로 읽은 기사와 책의 하이라이트나 메모로부터 작업을 진행하고 계시나요? 아니면 작업과 프로젝트를 지원하기 위해 작성한 모든 메모들을 조직화, 연결 및 종합하기 위한 시스템과 방법을 찾고 계신가요? 메모 작성 시스템을 개발하는 데 많은 시간이 걸렸습니다. Obsidian 앱은 실제로 제가 메모와 학술적인 작업을 조직화하고 종합하는 데 도움을 주었습니다.
 		- 00:17 {{youtube-timestamp 17}} 
 		  I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
 		  So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you.
