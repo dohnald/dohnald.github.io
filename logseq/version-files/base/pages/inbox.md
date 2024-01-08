@@ -972,73 +972,59 @@ public:: false
 		- 00:17 {{youtube-timestamp 17}} 
 		  I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
 		  So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you.
-		- 00:37
+		- {{youtube-timestamp 37}}
 		  So let's get started. Okay, so welcome I'm going to be making some live notes or making some live notes here in Obsidian.
 		  And this comes from an article titled An Operationalized Understanding of Personalized Learning from the Journal of Special Education Technology.
 		  And this is by Basham Hall Carter and Stal.
 		  This is a reading that I use in my learner centered and project based teaching class to make meaning and sense of the idea of personalized learning and what it means.
 		- 01:05
-		  And so right now we have a literature note that I have where I took my notes and as I've mentioned in some other videos, my general approach to this is I highlight the PDF file first and then I grab all the highlighted passages into the literature note and I often am using the quotes verbatim from the article and I want to have those original sources and then I can make meaning of them as I sort of parse them out and
+		  And so right now we have a literature note that I have where I took my notes and as I've mentioned in some other videos, my general approach to this is I highlight the PDF file first and then I grab all the highlighted passages into the literature note and I often am using the quotes verbatim from the article and I want to have those original sources and then I can make meaning of them as I sort of parse them out and kind of put them into either other notes or work with them.
 		- 01:36
-		  kind of put them into either other notes or work with them.
 		  So what I'm going to be doing is I have here an evergreen note you might want to call it a sort of longer notes of multiple aspects of personalized learning from different articles here and there.
-		  And this one does need to be split up into smaller, more conceptual notes notes that are based on a particular concept I don't really subscribe to the like a strict Zalcoastin approach
+		  And this one does need to be split up into smaller, more conceptual notes notes that are based on a particular concept I don't really subscribe to the like a strict Zalcoastin approach and I'm not sure I would refer to my smaller, more conceptual based notes as atomic notes but I know other people use that sort of language or ways of thinking about things.
 		- 02:05
-		  and I'm not sure I would refer to my smaller, more conceptual based notes as atomic notes but I know other people use that sort of language or ways of thinking about things.
 		  I tend to think of them as like concept based notes or notes that are kind of focused on a particular concept.
-		  And often they start off as a concept that's larger or more encompassing like personalized learning and then eventually become split off into
+		  And often they start off as a concept that's larger or more encompassing like personalized learning and then eventually become split off into more focused notes.
 		- 02:32
-		  more focused notes. And then this personalized learning note will essentially become a map of content and MOOC I do keep the original notes in my literature note because I might want to go back to that note and see what's specifically in that literature particularly when I'm working with classes.
-		  So if we're in the middle of class and we're having a discussion, I can pull up my literature note and I have everything that's in the, that specific article there
+		  And then this personalized learning note will essentially become a map of content and MOOC I do keep the original notes in my literature note because I might want to go back to that note and see what's specifically in that literature particularly when I'm working with classes.
+		  So if we're in the middle of class and we're having a discussion, I can pull up my literature note and I have everything that's in the, that specific article there you here I'm just going to grab this and I don't mind having this specific content in two different notes that doesn't bother me at all.
 		- 02:56
-		  you here I'm just going to grab this and I don't mind having this specific content in two different notes that doesn't bother me at all.
 		  And then the other thing I'd like to do here is I have a hot key and then I can go to the note here Fasham at all in that way if this particular quote gets pulled into some other note at some point, I can trace it back to the original literature note source.
-		  Okay I want this here. So this is where I really am starting to make meaning even though I'm
+		  Okay I want this here. So this is where I really am starting to make meaning even though I'm using these verbatim quotes I use my own headers to sort of make meaning of them, to thematize them and to kind of figure out where do these go.
 		- 03:32
-		  using these verbatim quotes I use my own headers to sort of make meaning of them, to thematize them and to kind of figure out where do these go.
 		  And so for me this what is personalized learning will grow over time from lots of different other people's perspectives.
 		  And then if these need to become their own notes, that's fine.
 		  But right now I see these as more of aspects of what we are thinking about personalized learning.
-		  Okay so for me this is not
+		  Okay so for me this is not necessarily specific to personalized learning.
 		- 04:01
-		  necessarily specific to personalized learning.
 		  These are different ideas.
 		  So I do actually have, you can see up here I already have a note that's a blended learning note.
-		  I think I've already pulled this in let's see so I actually don't have oh yeah look at this here I've already pulled in that Christiansen horn and steaker have this note but
-		- 04:22
-		  you know, what I'm going to do is I don't always do this for all my notes but I'm going to make a little like to do here because I know that I do want to go to this source
+		  I think I've already pulled this in let's see so I actually don't have oh yeah look at this here I've already pulled in that Christiansen horn and steaker have this note but you know, what I'm going to do is I don't always do this for all my notes but I'm going to make a little like to do here because I know that I do want to go to this source you know, I want to read that and I could put this in my task manager.
 		- 04:38
-		  you know, I want to read that and I could put this in my task manager.
 		  I'm not going to do that right now it's not the most important thing but when I come to this note in the future, I want to make a note that this is something that I want to add to it.
 		  I think it's important to have those primary sourcing.
 		  I probably have a competency based learning, competency based education.
 		  Oh, I'm surprised that there's not that there's not more on here.
 		- 05:02
 		  So let's put okay so I haven't worked with this one at a time so I'm going to put some Mamel data here and I'm going to put here aliases and call this competency based learning and also and just to make sure I do that right I'm going to yep so there I have I wonder maybe I'll come across a one with a hyphen too.
-		  So this is just for future work when I am working with other notes that either have verbatim quotes or I'm working with it and I'm not consistent with my use
-		- 05:42
-		  I have all these aliases here so they eventually can come back to this note.
-		  I like to start a lot of the notes with sort of like, what is this concept?
+		  So this is just for future work when I am working with other notes that either have verbatim quotes or I'm working with it and I'm not consistent with my use I have all these aliases here so they eventually can come back to this note. I like to start a lot of the notes with sort of like, what is this concept?
 		- 05:55
 		  The reason why I include a tag here I don't use tags very often but I have a specific project that I'm working on where I do want to be able to pull all the curriculum based notes in relationship to that project I don't need a whole note.
 		  I don't think on a digital delivery system for now at least if you're wondering why my obsidian it looks like this, you could check out my video on how to set up Obsidian for academic work.
 		  But this is because I'm using the sliding panes plug in.
 		- 06:34
 		  One of the reasons why I spent a bit of time on personalized learning in the class is that there are very different ways of thinking around personalized learning and there's a whole area where it really gets into this sort of adaptive AI digital delivery system approach where there discourse, there's ways of framing that as personalized learning in and of itself.
-		  And the type of personalized learning that we think about in the learner centered class is a bit different than that
+		  And the type of personalized learning that we think about in the learner centered class is a bit different than that but I do want to draw attention to that this is a way of thinking about it and a characteristic of it here.
 		- 07:04
-		  but I do want to draw attention to that this is a way of thinking about it and a characteristic of it here.
 		  So here is an actual definition of personalized learning.
 		  So I'll just put this additional reference to Patrick Kennedy and Powell in the what is area here.
 		  The nice thing is after a while you get a bunch of different definitions which I think helps provide some additional nuance.
-		  And rather than those notes all being located in
+		  And rather than those notes all being located in individual literature notes or PDF files by kind of bringing them together into this note, I have them all right there at my fingertips.
 		- 07:39
-		  individual literature notes or PDF files by kind of bringing them together into this note, I have them all right there at my fingertips.
 		  So that's one of the things I love about Obsidian.
 		  So it's a lot of work when you're doing this at the front end of like putting in all the links back and organizing it all.
-		  But
-		- 08:02
-		  you know, five months from now when I'm in the middle of a project and I want to reference something related to personalized learning it just saves me so much time having everything in one place and very organized and interlinked.
+		- 08:02 
+		  But you know, five months from now when I'm in the middle of a project and I want to reference something related to personalized learning it just saves me so much time having everything in one place and very organized and interlinked.
 		  Yes I definitely want to emphasize that there's aspects of personalized learning that have its roots in behaviorism in Skinner.
 		  But you know, eventually the note starts to shape up.
 		- 08:29
@@ -1047,46 +1033,39 @@ public:: false
 		  I think I was trying to see if I had a note.
 		  Let's do this. Oh, you know what I was doing here in the original H in the original quote, they used CAI without referring to computer assisted instruction.
 		  So I have the brackets here because I inserted computer assisted instruction.
-		  But the tricky thing there is that I actually think I want to make this
+		  But the tricky thing there is that I actually think I want to make this a double bracket link. So you know, what I'm going to do.
 		- 09:02
-		  a double bracket link. So you know, what I'm going to do.
 		  I'm going to do this computer assisted instruction and then I'm going to put one of these pipes I think that's what you call and then let's see if this works.
 		  I want to put in quotes actually let's see if I could just do a no I don't know if a bracket will work so I'm going to put quotes computer quotes bracket.
 		  Let's just see what this does.
 		  Yeah look at that it works.
-		  So now I could actually link here to,
 		- 09:39
-		  since I didn't copy and paste this this is the one issue with when you have the same exact quote in multiple notes and you start adjusting one if it's not embedded from another note, you might not have consistency across.
+		  So now I could actually link here to, since I didn't copy and paste this this is the one issue with when you have the same exact quote in multiple notes and you start adjusting one if it's not embedded from another note, you might not have consistency across.
 		  So what I tend to do is treat the sources that came from the original source are sort of true to what they were in the original source.
 		  And any kind of edits or variations I tend to do in the other versions of them.
-		  So if I start tweaking this,
 		- 10:12
-		  it's not going to tweak this over here.
+		  So if I start tweaking this, it's not going to tweak this over here.
 		  Now this for me is a key point.
-		  So we go here
 		- 10:25
-		  and you can start to see why this will eventually be there will be digital there may be a digital delivery systems note in relationship to personalized learning.
+		  So we go here and you can start to see why this will eventually be there will be digital there may be a digital delivery systems note in relationship to personalized learning.
 		  When I do that, what I'll often do is make a note that's still titled Personalized Learning Dashed Digital Systems.
-		  And the reason for that is that you can see here on the left hand side I'm often kind of scrolling through I haven't figured out a way to use the search very
+		  And the reason for that is that you can see here on the left hand side I'm often kind of scrolling through I haven't figured out a way to use the search very robustly.
 		- 10:53
-		  robustly. I don't know what the right word is here for, but like search hasn't been working for me really well.
+		  I don't know what the right word is here for, but like search hasn't been working for me really well.
 		  So I like to kind of go down to the area of where there might be, you know, a personalized learning information.
-		  It's an alphabetical order and then sort of similar to like an index I would have personalized Learning digital systems Personalized Learning Support, personalized learning and so it kind of yes, you can see, I already have some of that
+		  It's an alphabetical order and then sort of similar to like an index I would have personalized Learning digital systems Personalized Learning Support, personalized learning and so it kind of yes, you can see, I already have some of that even if it's not in this document just from when I was reading other things.
 		- 11:19
-		  even if it's not in this document just from when I was reading other things.
-		  So personalized Learning autobiographical map, personalized learning avoiding pitfalls Personalized learning plan challenges, personalized learning plans, personalized learning plans misalignments and then those might all eventually be under a personalized Learning Plans
+		  So personalized Learning autobiographical map, personalized learning avoiding pitfalls Personalized learning plan challenges, personalized learning plans, personalized learning plans misalignments and then those might all eventually be under a personalized Learning Plans note.
 		- 11:37
-		  note. And so eventually this will be a map of content.
+		  And so eventually this will be a map of content.
 		  And with the map of content, it's easy then to go to the map of content and out towards all the other notes.
 		  But for now I like to kind of cluster them all around the same area when I know that they have to do with personalized learning.
 		  Okay so there's quite a bit I know in this article about self regulation.
 		  So I think those for now will go into, I guess support for personalized learning.
-		  I mean this is where the kind of thinking
 		- 12:04
-		  and meaning making habits like so is the importance of student self regulation a characteristic does that go into pedagogical approaches because you would need to support self regulation? Does it need its own category? I feel like this would go under principles and characteristics of personalized learning.
-		  Yes, let's put these here
+		  I mean this is where the kind of thinking and meaning making habits like so is the importance of student self regulation a characteristic does that go into pedagogical approaches because you would need to support self regulation? Does it need its own category? I feel like this would go under principles and characteristics of personalized learning.
 		- 12:36
-		  again. Even though I'm transferring all of these from this specific article down the line, there's probably going to be a lot of other sources that are merging altogether.
+		  Yes, let's put these here again. Even though I'm transferring all of these from this specific article down the line, there's probably going to be a lot of other sources that are merging altogether.
 		  So I want to keep track of where information came from.
 		  This is specific to the liture note.
 		  I don't really need that.
@@ -1094,14 +1073,12 @@ public:: false
 		- 13:09
 		  Some of these concepts will go in here but some of them I'll put them into this broader note about personalized learning.
 		  So students as active learners is going to grab all of this and put it under this specific study because in this case it may be generalizable but really it is specific to this school district or program.
-		  So I'm just going to grab all of this and then I'll make these subheaders
 		- 13:43
-		  and then once I have a better understanding of other programs, I think at that point I could take all of these characteristics and do a sort of meta analysis of some kind and bring them out of the specific research studies or cases into larger principles.
+		  So I'm just going to grab all of this and then I'll make these subheaders and then once I have a better understanding of other programs, I think at that point I could take all of these characteristics and do a sort of meta analysis of some kind and bring them out of the specific research studies or cases into larger principles.
 		  But I don't think I'm quite comfortable doing that yet until I read about more examples.
 		  But I do appreciate that after after these specific examples, they do develop some sort of elements or principles again.
-		  So
 		- 14:21
-		  I'm going to bring these now back up to this more broad part and then I can say, well, these are the people, the people who are making this case are Basham at all.
+		  So I'm going to bring these now back up to this more broad part and then I can say, well, these are the people, the people who are making this case are Basham at all.
 		  Okay so here we are going back to the highly self regulated.
 		  Then they have a designing for self regulation section which is nice.
 		  I'm not necessarily agreeing or disagreeing with this right now I'm just taking the notes so that I can refer to them.
@@ -1110,27 +1087,21 @@ public:: false
 		  So now I can kind of go through and again, this might seem a bit tedious but my point is that what this lets you do is move these notes all around the and remember exactly where they came from so you can always trace them back to the original source.
 		  Okay so transparent, continual, actional data this is a sort of principle, an element of principle.
 		  I'll parse that out at some other point.
-		  I think one of the interesting points that
 		- 15:26
-		  we might talk about in class is that this idea of transparent, continual and actionable data it sometimes gets framed as if the way to do that is through the digital systems.
-		  But as teachers, we're constantly generating data with students to better understand what they're understanding or not understanding when you ask a question to the class or when you
+		  I think one of the interesting points that we might talk about in class is that this idea of transparent, continual and actionable data it sometimes gets framed as if the way to do that is through the digital systems.
+		  But as teachers, we're constantly generating data with students to better understand what they're understanding or not understanding when you ask a question to the class or when you have a conversation with the student or you have them doing something and you're observing what they're doing all of that all of that information could be considered data that are helping us understand the degree to which students are learning something or understanding it.
 		- 15:49
-		  have a conversation with the student or you have them doing something and you're observing what they're doing all of that all of that information could be considered data that are helping us understand the degree to which students are learning something or understanding it.
 		  So I don't think it has to come from digital systems continual feedback on weekly meetings.
 		  Yeah I'm just going to grab all of this here.
-		  I've mentioned in other notes
 		- 16:16
-		  about how one of the techniques that I used to kind of differentiate between verbatim quotes or material that came from a source and my own thinking about it as I tend to, you know, just put these backslashes and italicize with a little astrics.
+		  I've mentioned in other notes about how one of the techniques that I used to kind of differentiate between verbatim quotes or material that came from a source and my own thinking about it as I tend to, you know, just put these backslashes and italicize with a little astrics.
 		  Again, if you're thinking, well, this looks almost the same as a literature note.
-		  It's because this note on personalized learning is pretty early on in its,
 		- 16:43
-		  in its sort of evolution of a note because I'm drawing primarily from a particular source over time when I'm pulling in other readings and other ideas and other resources this is just going to get bigger and bigger and bigger and more expansive and things are going to cluster and then I will be breaking some of these into smaller notes and it will look a lot less like a parallel of a literature note.
-		  But it takes time. It takes the time to go through your notes and constantly working on
+		  It's because this note on personalized learning is pretty early on in its, in its sort of evolution of a note because I'm drawing primarily from a particular source over time when I'm pulling in other readings and other ideas and other resources this is just going to get bigger and bigger and bigger and more expansive and things are going to cluster and then I will be breaking some of these into smaller notes and it will look a lot less like a parallel of a literature note.
+		  But it takes time. It takes the time to go through your notes and constantly working on these more conceptual notes in addition to the literature notes.
 		- 17:17
-		  these more conceptual notes in addition to the literature notes.
-		  And I'll say that prior to using a tool like Obsidian, often my notes would be located in the Pediaf files themselves, which is very difficult to make connections across or when I have done the work to make meaning of multiple readings you know, whether it's to build out a literature review or to make sense of things
+		  And I'll say that prior to using a tool like Obsidian, often my notes would be located in the Pediaf files themselves, which is very difficult to make connections across or when I have done the work to make meaning of multiple readings you know, whether it's to build out a literature review or to make sense of things in the past what I've done is used mind maps to do that kind of work to bring things together and cluster ideas around each other.
 		- 17:46
-		  in the past what I've done is used mind maps to do that kind of work to bring things together and cluster ideas around each other.
 		  And sometimes I've used Tinderbox as well.
 		  But for me using Obsidian was a key to helping with synthesis work because I am able to now synthesize all along the way rather than waiting until the point where I'm writing a paper or working on a presentation or teaching a class or working on a project.
 		- 18:14
@@ -1145,4 +1116,3 @@ public:: false
 		  Hey everyone, I'm Evan Dbias.
 		  I'm on the Music Learning and Teaching faculty at Arizona State University and I support music educators of all kinds.
 		  Imagine possibilities for music learning and teaching and then make those possibilities a reality.
-		- clovanote.naver.com
