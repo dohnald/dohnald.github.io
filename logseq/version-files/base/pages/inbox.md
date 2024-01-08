@@ -1,4 +1,5 @@
 public:: false
+
 - 따스한 자본주의를 생각하면 이들의 투자 실패가 안타깝지만 모든 투자 실패를 보듬어줄 수 없다. 모든 투자는 각자의 판단 하에 진행하는 것이다. high risk high return. 이자 이상의 수익은 위험하다는 것을 기억하라.
   card-last-score:: 5
   card-repeats:: 2
@@ -95,7 +96,9 @@ public:: false
   collapsed:: true
 	- AI
 	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
-	- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
+	- VIDEO
+		- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
+		- {{video https://youtu.be/PN6tjeQfxRc}}
 	- Scripts
 		- **Ramses Oudt** {{youtube-timestamp 00:00}}
 		  Welcome everyone my name is **Ramses Oudt**.
