@@ -1,6 +1,6 @@
 public:: false
 
-- 생각
+- TODO 생각
   card-last-score:: 5
   card-repeats:: 4
   card-next-schedule:: 2024-01-18T07:06:14.738Z
@@ -12,13 +12,10 @@ public:: false
   tags:: card, memo,
   source::
   title::
-  purpose:: [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
-  + [x]
-  + [x]
-  + [X]
-  + [ ]
+  purpose:: 
+  [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
 	- 원문
-		- +[ ]
+		-
 	- 생각의 가지
 		-
 - Student Teacher Dialog
