@@ -1,47 +1,19 @@
 public:: false
 
-- 따스한 자본주의를 생각하면 이들의 투자 실패가 안타깝지만 모든 투자 실패를 보듬어줄 수 없다. 모든 투자는 각자의 판단 하에 진행하는 것이다. high risk high return. 이자 이상의 수익은 위험하다는 것을 기억하라.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
+- 주택 건축에 대해 여러 이야기를 접했는데 직접 건축을 반대하는 의견이 많았다. 만약 모듈러 건축을 한다면 건축 기간과 이웃 민원은 줄어들 수 있는 장점이 있는데 단점에 대해서도 살펴보면 좋겠다.
+  card-last-score:: 3
+  card-repeats:: 3
+  card-next-schedule:: 2024-01-25T18:58:45.699Z
+  card-last-interval:: 9.84
+  card-ease-factor:: 2.46
+  card-last-reviewed:: 2024-01-15T22:58:45.709Z
   tags:: card, memo,
   source:: [[잡지/이코노미조선/521]]
-  title:: 홍콩 ELS 상생금융이 드러낸 후 금융의 규제 불확실성
-  collapsed:: true
-  * 내가 피해자라고 호소하면 피해자가 되는 게 맞을까. 손실은 손실대로, 피해자는 그에 맞게 족집게 대응을 할 필요가 있다.
-  * ((6593a7d4-8d74-4a3c-bce2-3cdbef2813f5)) 이 노트의 생각과 충돌한다.
-	- ELS는 중위험에 중수익을 기대할 수 있는 대표적인 금융자산으로 인식돼 왔다. 기초자산의 주가가 일정 범위 내에서 움직일 경우 약속된 조기상환 스케줄에 맞춰 연 5~7% 수준의 수익률을 확보할 수 있는 구조다. ^^하지만 본질적으로 ELS는 만기가 있고 변동성이 커질 경우 큰 손실을 볼 수밖에 없는 고위험 파생상품이다.^^ 그렇기 때문에 미국, 유럽 등 ^^금융 선진국에서는 일반 투자자들을 대상으로 ELS 같은 구조의 상품을 판매하지 않는다.^^ 특정 기업의 주가나 주가지수가 어느 수준을 넘어서 하락할 경우 원금 손실(녹인•knock-in) 위험에 직면하게 되고, 최악의 경우 투자금 전부를 손해 볼 수 있다.
-	- 금융사고로부터 금융 소비자를 보호하는 조치는 분명 중요하다. 다만 투자상품에 대해 ^^손실이 발생할 때마다 배상 조치가 이뤄지고 금융회사에 과도한 책임이 부여되는 것 또한 문제가 된다.^^ 투자자들은 의사 결정과정에서 자신의 위험 성향에 맞는 금융상품을 선택하고 구조를 명확하게 이해해야 할 필요가 있다. 하지만 ^^손실이 발생해도 이의를 제기하면 보상을 받을 수 있다는 도덕적 해이가 확산할 경우, 금융회사들은 적절한 투자 상품을 공급할 유인을 찾지 못하게 된다^^. 이 는 궁극적으로 건전한 투자 문화의 발전을 저해하는 요소다.
-	- ELS 사태와 상생금융의 전개 방향은 현재 국내 금융기관이 처한 현실의 단면을 보여준다. ^^주식시장에 상장돼 있는 민간 기업이지만 사회적 역할이 강조되고, 때로는 정치적 논리에서도 자유롭지 못한 공공기관의 성격을 지니고 있다.^^
-	- 금융기관의 잘못도 크지만, 그렇다고 정부가 민간 영역에 지나치게 개입해서도 안 된다. ^^자영업자나 ELS 투자자의 실패 원인 역시 스스로 선택한 결과라는 걸 받아들여야 한다. 실패할 자유는 자유가 아니라는 정책은 자본주의를 병들게 한다.^^ 책임 없는 선택은 계약의 신뢰도를 파괴한다. 의도가 선하다고, 결과가 그러한 것은 아니다.
-- 주택 건축에 대해 여러 이야기를 접했는데 직접 건축을 반대하는 의견이 많았다. 만약 모듈러 건축을 한다면 건축 기간과 이웃 민원은 줄어들 수 있는 장점이 있는데 단점에 대해서도 살펴보면 좋겠다.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo,
-  source:: [[잡지/이코노미조선/521]] 
   title:: 레고와 부동산 모듈러 건축 시대의 도래
+  collapsed:: true
 	- 초기 단계이긴 하지만, 장기간에 걸쳐 모듈러 건축이 뉴노멀이 된다면 ^^건설(개발) 기간의 단축은 부동산 수급의 안정화를 꾀할 수 있을 것^^으로 보인다. 부동산 개발 사이클을 보면 수요가 강한 상승장에 인허가 및 착공이 늘었다가 준공 시점에 하락장을 만나 수급 불일치가 발생하는 경우가 많다.
 	- 공급자 중심이 아닌 수요자의 니즈를 반영한 상품화가 가능할 것이다.
 	- 이제 건물은 이동할 수 있다.
-- (내가))이해할 수 없는 컨텐츠는 틀렸다는 생각이 가득한 시대기 때문에 극단의 사회가 되고 있다.
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo,
-  source:: [[잡지/이코노미조선/521]] 
-  title:: 콘텐츠냐, 컨테이너냐? '쓴 약' 같은 정책에 마케팅이 필요한 이유
-	- 요즘 정부 정책은 그 2차, 3차 효과도 있어 이를 유권자에게 설명하기 어려운 것이 다반사인데, 온라인상에서는 이런 복잡한 설명은 잘 안 먹힌다. ^^대학 교육을 받았다고 해도 모든 분야의 전문가가 될 수 없는 네티즌들에게 감성에 호소하는 주장이 수용되기 쉽기 때문이다. 이러한 현상은 대학 교육까지 받은 지성인인 자신(네티즌들)이 잘 이해할 수 없으면 이는 틀린 것이라는 숨은 전제가 깔려 있기 때문인 것으로 풀이된다.^^
-	- 이제는 전 세계가 물가가 아니라 더 깊은 불황을 우려하는 상황이 됐다. 게다가 한국과 같은 중소 경제 국가들은 자국 통화가치의 방어를 위해서 미국 금리를 따라 올려야만 되는 상황에 처했고, 이는 불황의 늪을 더 깊게 만드는 양상으로 이어지고 있다.
 - chatGPT를 활용해 번역하고 읽으면 컨텐츠를 쉽게 이해할 수 있겠다. 
   card-last-score:: 3
   card-repeats:: 3
@@ -52,53 +24,33 @@ public:: false
   tags:: card, memo, #감상/책/읽을
   source:: [[잡지/이코노미조선/521]]
   title:: 찰리 멍거의 필수적인 재치와 지혜
-	- 가난한 찰리의 영감
+  collapsed:: true
+	- 가난한 찰리의 연감
 	- https://www.stripe.press/poor-charlies-almanack/chapter-one
+	- 책 <가난한 찰리의 연감>(Poor Charlie’s Almanack)의 내용을 요약해 주세요. [[chatGPT]]
+		- <가난한 찰리의 연감>(Poor Charlie's Almanack)은 버핏트랙스 회장인 찰리 먼거의 삶과 사고 방식에 대한 내용을 다루는 책입니다. 이 책은 찰리 먼거의 수많은 연설과 글을 모아놓은 형태로 구성되어 있으며, 투자, 경영, 인생 철학 등 다양한 주제를 다루고 있습니다.
+		- 가난한 찰리(Charlie)의 관점에서 본 투자는 합리적인 판단과 철저한 연구에 기반해야 한다는 주장을 하고 있습니다. 찰리 먼거는 투자자들이 통찰력을 갖고 글로벌 경제의 패턴과 동향을 파악하는 것이 중요하다고 강조합니다.
+		- 이 책에서는 찰리 먼거의 인생 철학에 대해서도 많은 언급이 있습니다. 그는 지혜로운 판단과 논리적인 사고를 통해 성공을 이루는 것을 강조합니다. 또한, 본질적인 가치와 지속가능한 성장에 집중하는 비즈니스 모델을 추구하는 것이 중요하다고 말하며, 인간관계와 도덕적 가치에 대한 고찰도 이루어집니다.
+		- 이 책은 찰리 먼거의 지혜로운 조언과 현명한 사고 방식을 전달하며, 독자들에게 자기 계발과 성공에 대한 통찰력을 제공하는 동시에 금융 시장과 경제에 대한 깊은 이해를 도모합니다.
 - 한국전력이 자회사 배당을 요구하며 적자를 줄이려고 하는데 이렇게 해도 되는걸까 걱정이 된다. 
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
+  card-last-score:: 1
+  card-repeats:: 1
+  card-next-schedule:: 2024-01-16T15:00:00.000Z
+  card-last-interval:: -1
   card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo, [[한국 경제]] 
-  source:: [[잡지/매경이코노미/2239]] 
+  card-last-reviewed:: 2024-01-15T23:03:06.977Z
+  tags:: card, memo, [[한국 경제]]
+  source:: [[잡지/매경이코노미/2239]]
   title:: "중간배당 줘" 자회사에 손 벌린 한전 시끌시끌
+  collapsed:: true
 	- 한전이 유례없는 중간배당 요구에 나선 것은 재무위기 악화로 ^^내년 한전채 한도가 대폭 줄어 한전채 신규 발행이 불가능해질 것을 우려해서^^. 한국전력공사법에 따라 한전은 원칙적으로 '자본금+ 적립금'의 5배까지 한전채를 발행할 수 있다. 올해는 지난해 말 기준으로 자본금과 적립금 합계(20조9200억원)의 5배인 104조6000억원까지 한전채를 발행할 수 있었다. 하지만 내년에는 상황이 달라진다. 전망치대로 올해 6조원대 영업손실을 내면 '자본금+적립금'이 14조9000억원으로 줄어든다. 이를 바탕으로 계산한 한전채 발행 한도는 74조5000 억원이다. 현재 한전채 발행 잔액은 79조6000억원 수준인데, 현재 전망대로라면 ^^내년 3월 결산 후 한전채 발행 한도가 초과해 한전은 한전채를 새로 찍어내지 못한다.^^ 신규 발행은커녕 5조원가량 기존 한전채부터 상환해야 한다. 기존처럼 한전채를 발행해 빚을 갚고 전기 구매, 송변전 시설 유지 보수 등에 쓰일 ^^자금을 융통할 수 없는 초유의 위기 상황에 직면할 수 있다는 의미^^다.
 	- 한전의 자회사 중간배당 요구를 두고 배임 논란도 거세다. 발전 자회사 중 한 곳인 한국수력원자력은 올 들어 3분기까지 1600억원 영업손실 을 냈다. 그만큼 경영 여건이 어렵다는 의미다. 재계에서는 상법상 연 간 영업이익을 넘는 수준의 중간배당은 배임 소지가 있다는 우려가 나 온다. 재계 관계자는 "한전 사정이 어렵기는 하지만 ^^모기업 재무 부담을 자회사에 넘기는 만큼 '아랫돌 빼 윗돌 괴기' 조치라는 비난^^을 피할 수 없게 됐다"고 귀띔했다.
-- 감정빼고 상장과 수익만 추구하는 방향이 괜찮은걸까. 돈으로만 움직이는 세상이 아니다.
-  card-last-score:: 3
-  card-repeats:: 3
-  card-next-schedule:: 2024-01-16T02:52:34.643Z
-  card-last-interval:: 9.84
-  card-ease-factor:: 2.46
-  card-last-reviewed:: 2024-01-06T06:52:34.645Z
-  tags:: card, memo,
-  source:: [[잡지/매경이코노미/2239]]
-  title:: 5% - 2.8% 수수료 인하, 난감해진 카카오모빌리티 FI
-	- 택시업계 입장에선 부담이 줄었지만, 카카오모빌리티 수익성 악화는 불가피할 전망이다. 기업가치 측면에도 부정적 영향을 줄 것으로 보인다.
-	- 카카오모빌리티는 지금도 수익성이 썩 높은 기업은 아니다. 기존 수수료 정책에서도 간신히 흑자를 내는 수준이었다.
-	- 이번 개편안으로 ^^성장성에 의문 부호^^가 붙게 됐다.
-	- 수수료 인하로 난처해진 건 ^^기업공개(PO)를 바라 보고 투자한 재무적투자자(FI)들이다. 당장 수천억 원대 투자금 회수 방안이 묘연해졌다.^^
-	  id:: 6593a7d4-8d74-4a3c-bce2-3cdbef2813f5
-- 생각
-  card-last-score:: 5
-  card-repeats:: 2
-  card-next-schedule:: 2023-11-08T08:08:44.614Z
-  card-last-interval:: 4.28
-  card-ease-factor:: 2.6
-  card-last-reviewed:: 2023-11-04T02:08:44.614Z
-  tags:: card, memo,
-  source:: [[잡지/매경이코노미/2239]] 
-  title:: 쌓여가는 아파트 매물 매매. 전세 시장 '엿보기'
-	- 정리해보면 ^^매매 시장에서는 강남권 아파트 매물이 급증하는 가운데, 전월세 시장에서는 강북권 매물이 급감^^하는 양상이다. 즉 강남 매매 수요는 줄고, 강북 전월세 수요는 늘어나고 있다는 의미로 해석된다. 실 수요자의 전월세 선호 현상이 심화될수록 내년 강남 아파트 매매 가격 하락폭이 커질 것으로 보인다. 물론 ^^내년 총선을 앞두고 정부가 대출 규제 완화 등 부양책을 내놓을 경우 상황이 반전될 가능성^^도 배제할 수 없다.
 - How to Use Logseq for Research ft. **Cara Antonaccio**
   collapsed:: true
 	- AI
 	- https://traw.ai/videos/7da95ca2-9707-4db0-97fe-7d4d0f205685
 	- VIDEO
 		- {{video https://www.youtube.com/watch?v=PN6tjeQfxRc}}
-		- {{video https://youtu.be/PN6tjeQfxRc}}
 	- Scripts
 		- **Ramses Oudt** {{youtube-timestamp 00:00}}
 		  Welcome everyone my name is **Ramses Oudt**.
@@ -286,8 +238,8 @@ public:: false
 			- **Cara Antonaccio** {{youtube-timestamp 07:59}}
 			  나와 함께 일하던 데이터와의 분리 같은 느낌이었어요. 그리고 유용한 아사나를 사용했지만, 다시 말해서 계획과 연구에 대한 양립적인 요구를 충족시키지 못했어요.
 			  그래서 내가 원하는 것보다 더 적은 옵션으로 남게 되었어요.
-			  그래서 2021년 초에, 3월에 Rome Research와 관련된 작고 활동적인 커뮤니티와 관련된 액티브 사용자들을 트위터에서 찾았어요. 레이타입 리프 노트북도 포함해서요.
-			  당신의 이름을 말하긴 어려워요, 노트북 라이프 리사는 아마도 제 그래프에 있어서 중요한 사람으로 할 수 있겠지만, 정확하게 어떻게 말하는 지는 잘 모르겠어요.
+			  그래서 2021년 초에, 3월에 Rome Research와 관련된 작고 활동적인 커뮤니티와 관련된 액티브 사용자들을 트위터에서 찾았어요. laytype leaf laptop도 포함해서요.
+			  당신의 이름을 말하긴 어려워요, LaptopLifeLisa는 아마도 제 그래프에 있어서 중요한 사람으로 할 수 있겠지만, 정확하게 어떻게 말하는 지는 잘 모르겠어요.
 		- **Cara Antonaccio** {{youtube-timestamp 08:31}}
 		  So she's really the person I learned from.
 		  I took her magical academic Note taking course.
@@ -444,22 +396,22 @@ public:: false
 			  주제에 대해 수행된 작업이나 사용된 방법, 또는 얼마나 많은 작업이 해당 주제에 수행되었는지에 대한 아이디어를 제시합니다. 보시다시피 특히 최근에는 이에 대한 중점이 과거보다 적을 수도 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 15:30}}
 		  So this tool actually looks at, when you looked at the, basically the related papers it looks at all the papers in the connected papers database, not just the ones that are in basically your graph you've already saved.
-		  So that's a usually useful companion tool if you're already used to this network way of thinking with Logsesq that basically have a similar tool.
+		  So that's a usually useful companion tool if you're already used to this network way of thinking with Logseq that basically have a similar tool.
 		  I also saw people recommend research Rabbit.
 		  I think that's research habit's great as well.
 			- **Ramses Oudt** {{youtube-timestamp 15:30}}
-			  이 도구는 실제로 관련 논문들을 살펴보는데, 기본적으로 연결된 논문 데이터베이스의 모든 논문을 살펴봅니다. 이미 저장된 그래프에 있는 논문뿐만 아니라요.
-			  그래서 만약 로그세스와 같은 네트워크적 사고 방식에 익숙하다면, 이 도구는 보통 유용한 동반 도구입니다.
-			  또한 사람들은 연구 토끼를 추천하기도 했어요.
-			  나도 연구 습관을 대단히 좋아한다고 생각해요.
+			  이 도구는 실제로 연관된 논문들을 살펴볼 때, 연결된 논문 데이터베이스의 모든 논문들을 살펴봅니다. 이미 저장한 그래프 안에 있는 논문들만이 아니라 말이죠.
+			  그래서 만약 이미 이 네트워크 방식으로 생각하는 Logseq를 사용하는 데 익숙하다면, 이것은 일반적으로 유용한 동반 도구입니다.
+			  또한, 사람들이 research Rabbit을 추천하기도 했습니다.
+			  나는 그것도 research habit(습관)이 훌륭하다고 생각합니다.
 		- **Cara Antonaccio** {{youtube-timestamp 16:02}}
 		  Y, yea, those are, I should have put research Rabbit here but yeah so these are just some of the tools that I use to bring things into my, I have to bring sources in before I start to review everything and then just some tips again it's okay to start simple it's okay to stay.
-		  Logik is built on top of your computer's existing file structure.
+		  Logseq is built on top of your computer's existing file structure.
 		  So for each asset that you upload and to do that, you just do this
 			- **Cara Antonaccio** {{youtube-timestamp 16:02}}
-			  응, 그래, 이건, 여기에 연구 Rabbit을 추가해야 했는데, 그래도 이건 그냥 제가 제 자료를 가져오기 위해 사용하는 일부 도구에요. 모든 것을 검토하기 전에 소스를 가져와야 하니까, 그리고 또 몇 가지 팁이에요. 간단하게 시작해도 좋고 계속해서 진행해도 괜찮아요.
-			  Logik은 컴퓨터의 기존 파일 구조 위에 구축되어 있어요.
-			  그래서 업로드하는 각 에셋에 대해 그렇게 하면 되는 거야.
+			  응, 응, 이건 내가 노트북에 연구 래빗을 넣어야 했는데 그래서 이건 그냥 나의 작업에 사용하는 일부 도구들이야. 모든 것을 검토하기 전에 소스를 가져와야 하고 몇 가지 팁을 주자면, 간단하게 시작해도 괜찮고 그대로 머물러도 괜찮아.
+			  Logseq는 컴퓨터의 기존 파일 구조 위에 구축되어 있어.
+			  그래서 업로드하는 각 에셋에 대해, 이렇게 해야만 해.
 		- **Cara Antonaccio** {{youtube-timestamp 16:26}}
 		  and then it brings you all the files.
 		  So for every asset you upload, it creates a markdown file with a consistent naming convention and organizes your literature along with automatically.
@@ -484,15 +436,11 @@ public:: false
 		- **Cara Antonaccio** {{youtube-timestamp 17:20}}
 		  I just summarizing the whole thing in my own words and, and then you're sure, you know, you've, already, you've annotated it but you already know that you're annotating in your own words.
 		  So you can be sure that you're not plagiarizing or that you'll have any copyright issues because as you're annotating it, you're doing it in your own words so you're processing it, you're learning and you're able to take from what you learned and bring it right into your own writing.
-		  So yeah, I guess I,
+		  So yeah, I guess I, yeah it's writing notes in your own words instead of highlighting and then copying over the highlight which you could do also in Logseq you could basically highlight something and then I, I, the question was also in the chat when you highlight something in a PDF automatically copies the block reference to that highlight within the PDF to your clipboard.
 			- **Cara Antonaccio** {{youtube-timestamp 17:20}}
-			  제가 그 전체적인 내용을 제 말로 요약해 보겠습니다. 그럼 확실하게, 알아요, 이미 애노테이션을 해 왔지만 이미 애노테이션을 제 말로 하고 있기 때문에 표절하지 않을 거라고 확신할 수 있습니다. 저작권 문제가 발생하지 않을 거예요. 애노테이션을 진행할 때, 이해하고 학습하며 배운 내용을 자신의 글쓰기에 바로 적용할 수 있습니다.
-			  그래서, 그럴듯하게, 저는
-		- **Ramses Oudt** {{youtube-timestamp 17:48}}
-		  yeah it's writing notes in your own words instead of highlighting and then copying over the highlight which you could do also in Logseq you could basically highlight something and then I, I, the question was also in the chat when you highlight something in a PDF automatically copies the block reference to that highlight within the PDF to your clipboard.
-		  So when you then paste it in a block
-			- **Ramses Oudt** {{youtube-timestamp 17:48}}
-			  네, 하이라이트를 삽입한 다음 하이라이트를 복사하는 대신에, 당신 자신의 말로 노트를 작성하는 것이죠. Logseq에서도 이렇게 할 수 있습니다. 기본적으로 당신은 어떤 부분을 하이라이트한 다음 PDF 내에서 그 하이라이트의 블록 참조를 자동으로 클립보드에 복사할 수 있습니다. 그리고 나서 해당 블록에 붙여넣기 할 수 있습니다.
+			  나는 그 전체를 요약해 보고, 그런 다음에, 음 너는 확실하니, 알려진 대로, 이미 주석을 달았지만 너는 이미 네 말로 주석을 달고 있다는 걸 알고 있어.
+			  그래서 네가 어떤 표절이나 저작권 문제가 없다는 걸 확신할 수 있어, 주석을 달면서 너 자신의 말로 하니까 너는 그것을 처리하고 배우고 배운 것에서 가져와서 네 자신의 글로 적용할 수 있어.
+			  그래서 음, 그렇지, 내가 생각해보면, 강조하는 대신에 자신의 말로 메모하는 것이야 그리고 그 강조 부분을 복사해 넣는 거지, 당신이 Logseq에서도 할 수 있는 거야, 사실상 강조하는 거 하고, 그러고 난 다음에, 질문도 있었어, PDF에서 뭔가를 강조할 때 자동으로 해당 강조 부분의 블록에 대한 참조가 PDF에서 클립보드로 복사된다는 거야.
 		- **Ramses Oudt** {{youtube-timestamp 18:11}}
 		  and then even if you want, you can just hit Enter and then tap and then as a child block take your notes.
 		  That is how I have done a lot of research that way.
@@ -527,27 +475,28 @@ public:: false
 			  그래서 이런 유형의 연구 과정은 분석, 기술 연습, 데이터 유효성 검사, 내 모델들을 포함하고 있어요.
 		- **Cara Antonaccio** {{youtube-timestamp 19:25}}
 		  cross validating and I do this both in Logseq and in other tools.
-		  So to give you an example of what this looks like in Log Seek.
+		  So to give you an example of what this looks like in Logseq.
 		  So I'm writing my discitation part of the analysis is in art.
 		  So I just brought in the read me directly from GitHub for this algorithm MBSB DB scan.
 		  And so I'm writing the code for my desitation in,
 			- **Cara Antonaccio** {{youtube-timestamp 19:25}}
-			  크로스 검증을 하고 있고, 이를 Logseq과 다른 도구에서도 수행합니다. 
-			  로그 색인에서 이는 어떻게 보이는지를 예로 들어 드리겠습니다. 
-			  제 분석의 토론 부분은 예술에서 이루어지고 있습니다. 
-			  따라서 이 알고리즘 MBSB DB 스캔을 위해 GitHub에서 직접 README를 불러왔습니다. 
-			  그리고 분석 토론을 위한 코드를 작성하고 있습니다.
+			  교차 확인 및 이 작업을 Logseq와 다른 도구에서도 수행합니다.
+			  이 작업이 Logseq에서 어떻게 보이는지 예를 들어보겠습니다.
+			  제가 분석의 논의 부분을 작성하고 있습니다.
+			  그래서 MBSB DB 스캔을 위해 GitHub에서 바로 README를 가져왔습니다.
+			  그래서 이 작업을 위해 코드를 작성 중입니다.
 		- **Cara Antonaccio** {{youtube-timestamp 19:49}}
-		  in logs and it makes it nice because I could just, you know, reference anytime I'm working on it, just reference the code directly and it's already here.
+		  in logseq it makes it nice because I could just, you know, reference anytime I'm working on it, just reference the code directly and it's already here.
 		  It takes all of the takes.
 		  This is literally our code.
 		  So this is, you can look at it in this way like it's in the outline or you can work on it as though it's the frame here.
 		  So it's really useful to be able to do this in my graph and, and then also Lucid Chart is another tool that I use in this sort of knowledge synthesis and integration and modeling the ideas that I'm seeing.
 			- **Cara Antonaccio** {{youtube-timestamp 19:49}}
-			  로그에는 정말 편리하다. 작업 중에 언제든지 코드를 참조할 수 있기 때문에 코드를 바로 여기에서 참조할 수 있다.
-			  이건 우리의 코드야.
-			  그래서, 이걸 아웃라인처럼 보거나, 여기 프레임처럼 작업할 수도 있어.
-			  내 그래프에서 이렇게 할 수 있어서 정말 유용하고, 그리고 루시드 차트도 내가 보고 있는 생각들을 종합하고 통합하고 모델링하는 데 사용하는 도구야.
+			  로그시크에서는 좋은데, 작업할 때마다 코드를 바로 참조할 수 있어서 편리합니다.
+			  모든 작업을 다 하기 때문에 최종 응용 프로그램을 만들 수 있습니다.
+			  이건 우리의 코드입니다.
+			  아웃라인으로 볼 수도 있고, 여기 프레임으로 작업할 수도 있습니다.
+			  이걸 그래프에서 할 수 있다는 게 정말 유용하고, 또한 Lucid Chart는 제가 보는 아이디어를 종합하고 통합하는 도구입니다.
 		- **Cara Antonaccio** {{youtube-timestamp 20:21}}
 		  So I use Lucid Chart to diagram.
 		  I know that Logseq has a lot of options for diagramming but I find that it's nice to be able to make things in Lucid Chart and then I export them as SVG files and then I bring them into log seats.
@@ -566,24 +515,22 @@ public:: false
 		  I do want to point out how much I like that.
 		  He used Lucy Chart and actually next week and it's a little bit unrelated but next week there's a session with Dario Suttering Mind on YouTube and we're actually going to talk about using diagrams to plan workflows.
 		  So you already basically gave a sneak peak how you use it to think through your, our script.
-		  This also gives me the idea that we should have some kind of
+		  This also gives me the idea that we should have some kind of called Jupiter Notebook type of functionality within Logseq.
 			- **Ramses Oudt** {{youtube-timestamp 20:56}}
-			  저는 그게 얼마나 좋은지 언급하고 싶습니다.
-			  그는 실제로 Lucy Chart를 사용했고, 사실 다음 주에 Dario Suttering Mind의 YouTube 세션도 있고, 약간은 관련이 없지만 다음 주에는 워크플로우 계획을 위해 다이어그램을 사용하는 방법에 대해 이야기할 예정입니다.
-			  그래서 사실상 이미 우리의 스크립트를 생각하기 위해 그것을 사용하는 방법에 대한 미리보기를 주었습니다.
-			  이로 인해 우리는 어떤 종류의 것을 가져야 한다는 아이디어를 갖게 되었습니다.
+			  저는 그걸 얼마나 좋아하는지 언급해보고 싶습니다. 
+			  그는 실제로 Lucy Chart를 사용했고, 실은 다음 주에는 Dario Suttering Mind와 함께 유튜브에서 워크플로우를 계획하기 위해 다이어그램을 사용하는 방법에 대해 이야기하는 세션이 있을 예정입니다. 
+			  그래서 이미 기본적으로, 스크립트를 생각해보는 데에 사용하는 방법을 알려주셨습니다. 
+			  이로써 Logseq 내에 주피터 노트북과 비슷한 기능을 가지고 있는 것이 좋겠다는 아이디어를 얻을 수 있었습니다.
 		- **Ramses Oudt** {{youtube-timestamp 21:21}}
-		  called Juniper Notebook type of functionality within Logseq.
 		  That would be really cool.
 		  But yeah, using diagrams to think through a process and we'll be talking about workflow design for we'll post the link later in the chat.
 		  There are some questions but let's just keep going because the questions are a little bit unrelated so they are off topic.
 		  Questions more about oh, your Logseq looks pretty how do you create these links how do you add icons? But we'll get to that later if there's time.
 			- **Ramses Oudt** {{youtube-timestamp 21:21}}
-			  로그시크 내부에서 준리퍼 노트북 타입의 기능을 호출합니다.
-			  정말 멋질 것 같습니다.
-			  그래서, 프로세스를 생각하기 위해 다이어그램을 사용하고, 나중에 채팅에 링크를 게시할 것입니다.
-			  일부 질문이 있지만, 일단은 진행하죠. 질문들이 조금 상관없어서 주제와 무관합니다.
-			  "로그시크 멋있어요, 이 링크를 생성하는 방법이나 아이콘을 추가하는 방법은 어떻게 하나요?"와 같은 질문들은 나중에 시간이 되면 알려드리겠습니다.
+			  정말 멋진 거예요.
+			  하지만 그래서, 다이어그램을 사용해서 과정을 생각하는 건 정말 좋은데, 이번 채팅에서는 워크플로우 디자인에 대해 이야기해볼 거예요. 나중에 링크를 채팅 안에 올릴게요.
+			  질문은 있지만, 질문들이 약간 관련이 없어서 주제에서 벗어나는 내용들이에요.
+			  더 많은 질문은 "오, 당신의 Logseq는 아주 좋아 보여요. 이 링크들을 어떻게 생성하고 아이콘을 추가하나요?" 이런 식인데, 시간이 된다면 나중에 얘기해보도록 할게요.
 		- **Cara Antonaccio** {{youtube-timestamp 21:50}}
 		  Yeah I'll save some time at the end for discussion so I'm happy to answer anything like that later on.
 		  Yeah. So this is just, this is some of the analysis planning that I do.
@@ -637,39 +584,67 @@ public:: false
 		- **Ramses Oudt** {{youtube-timestamp 23:59}}
 		  Another great smart notes principle.
 		  And this is actually a question also that I saw several times in the chat how like what is so now we're looking basically at your research and production process.
-		  And what you say now is you also write everything in Lockik or up to a point that you because I can imagine that exporting out of lockk can be a challenge.
-		  How do you do that? Like do you export to HDML and then you copy it into word or Google Docs
+		  And what you say now is you also write everything in Logseq or up to a point that you because I can imagine that exporting out of lockk can be a challenge.
+		  How do you do that? Like do you export to HTML and then you copy it into word or Google Docs
+			- **Ramses Oudt** {{youtube-timestamp 23:59}}
+			  또 다른 훌륭한 스마트 노트 원칙입니다.
+			  그리고 이것은 사실 질문이기도 합니다. 채팅에서도 몇 번이나 봤는데요, 지금은 여러분의 연구와 제작 과정을 살펴보고 있습니다.
+			  그리고 지금 이 순간에도 여러분은 Logseq에 모든 것을 작성하시는 거군요. 하지만 Logseq에서 내보내는 것은 어려울 수도 있다고 생각합니다.
+			  어떻게 하시나요? HTML로 내보내고 그것을 워드나 구글 독스에 복사하시나요?
 		- **Cara Antonaccio** {{youtube-timestamp 24:34}}
 		  The nice thing about exporting two word with HTML is that when you copy it as HTML, the headings just become the word same headings from word but it's harder for with the lay text formatting where it doesn't use lay text it uses an equation builder so it can be easier to export these as images just like screenshot them as images and put them into words like that.
-		  But it's pretty seamless
-		- **Cara Antonaccio** {{youtube-timestamp 25:01}}
-		  just because of the heading mapping.
+		  But it's pretty seamless just because of the heading mapping.
 		  So as long as you stay consistent with your levels of headings, the board will do the same thing.
 		  And, and it can be pretty se mess to do.
+			- **Cara Antonaccio** {{youtube-timestamp 24:34}}
+			  HTML로 두 단어를 내보낼 때 좋은 점은 HTML로 복사하면 제목이 워드에서와 동일한 제목이 되지만 텍스트 서식을 사용하지 않고 수식 빌더를 사용하여 번거롭기 어려워지므로 이미지로 내보내는 것이 더 쉬울 수 있습니다. 이미지로 캡처하고 그림처럼 단어에 넣습니다.
+			  하지만 제목 매핑 때문에 상당히 원활합니다.
+			  따라서 제목의 수준을 일관되게 유지한다면 보드도 동일한 동작을 수행합니다.
+			  그리고, 그것을 수행하는 것은 상당히 혼란스러울 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 25:12}}
 		  Yeah I recently found the same I was struggling with exporting because if you export to plain text, it's, it's not always nice because you don't have basically the wide spaces between the paragraphs.
 		  But when you then export to HTML, just copy to clipboard and in my case I just copy to Google Dock also works perfectly like the headings everything renders perfectly.
 		  So and there's actually also,
+			- **Ramses Oudt** {{youtube-timestamp 25:12}}
+			  네, 최근에 같은 문제를 겪었어요. 내보낼 때 어려웠는데, 평범한 텍스트로 내보낸다면 문단 간 간격이 항상 이쁘지 않아요.
+			  하지만 그런 다음 HTML로 내보내면, 클립보드로 복사해서 제 경우에는 구글 독에 복사해 붙여도 제목 같은 모든 것들이 완벽하게 나온답니다.
+			  그리고 사실 아직도 있어요,
 		- **Ramses Oudt** {{youtube-timestamp 25:40}}
 		  I think Arian Sanny today released an export to PDF plug in.
 		  I'm not sure if it's already in the marketplace.
-		  We were actually going to add support or export functionally to Luxik itself.
+		  We were actually going to add support or export functionally to Logseq itself.
 		  I'm not sure how much we'll do.
-		  I saw Pandoc mentioned Yeah that is one of the things we are looking as a Loxic team to implement natively into Loxic.
-		  But obviously now that Arian Sanni has
-		- **Ramses Oudt** {{youtube-timestamp 26:06}}
-		  release the plug in for PDF export not so sure necessary to rush that functionality but all feedback is welcome on that.
+		  I saw Pandoc mentioned Yeah that is one of the things we are looking as a Logseq team to implement natively into Logseq.
+		  But obviously now that Arian Sanni has release the plug in for PDF export not so sure necessary to rush that functionality but all feedback is welcome on that.
 		  Just approach me on the Discord if you have ideas on that.
+			- **Ramses Oudt** {{youtube-timestamp 25:40}}
+			  오늘 Arian Sanny가 PDF 내보내기 플러그인을 출시한 것 같습니다.
+			  아직 마켓플레이스에 있는지는 확실하지 않습니다.
+			  사실 Logseq 자체에 지원 또는 내보내기 기능을 추가할 예정이었습니다.
+			  하지만 얼마나 할지는 확실하지 않습니다.
+			  Pandoc가 언급되었습니다. 네, 그것은 Logseq 팀이 Logseq에 기본적으로 구현할 예정인 것 중 하나입니다.
+			  하지만 분명히 Arian Sanni가 PDF 내보내기 플러그인을 출시했으므로 그 기능을 서두르지 않아도 될지는 확실하지 않지만, 관련 의견은 모두 환영합니다.
+			  해당 기능에 관한 아이디어가 있으면 Discord에서 저에게 알려주세요.
 		- **Cara Antonaccio** {{youtube-timestamp 26:18}}
 		  So I saw a comment in the chat I'm sorry I haven't been monitoring the chat so just
+			- **Cara Antonaccio** {{youtube-timestamp 26:18}}
+			  그래서 제가 채팅에서 댓글을 봤어요. 죄송한데 저는 채팅을 지켜보지 못한 거 같아요.
 		- **Ramses Oudt** {{youtube-timestamp 26:24}}
 		  I've been monitoring the chat and writing down questions.
 		  So yeah, one question was about your graph and also how you explore relationships basically.
+			- **Ramses Oudt** {{youtube-timestamp 26:24}}
+			  채팅을 모니터링하고 질문을 작성하고 있었습니다.
+			  그래서, 그래프와 관계를 탐색하는 방법에 대한 질문이 있었습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 26:34}}
 		  Yeah that's what I wanted to show here is sort of what it ends up looking like that I have.
 		  So I have an attribute for authors.
 		  So each article that I have has an attribute for tags and an attribute for, for who wrote it and like where they cited.
 		  So each article has these are a lot of citations.
+			- **Cara Antonaccio** {{youtube-timestamp 26:34}}
+			  응, 이 거예요 제가 보여주고 싶은 건, 저의 것이 어떻게 보여지는지에 대한 것입니다.
+			  제가 작성자에 대한 속성을 가지고 있어요.
+			  그래서 제가 가지고 있는 각 기사마다 태그와 작성자 그리고 인용한 곳을 위한 속성이 있어요.
+			  그래서 각 기사마다 정말 많은 인용이 있어요.
 		- **Cara Antonaccio** {{youtube-timestamp 26:53}}
 		  I also have the author's names.
 		  Different authors get connected to different topics and certain articles are more cited certain topics are more cited.
@@ -677,18 +652,33 @@ public:: false
 		  So sort of you see that everything is sort of clustered around this random forest.
 		  There's a ton of different references to it and mostly these are just different articles.
 		  So this is work for Wenzi.
-		  So you can see this is the notes page here
-		- **Cara Antonaccio** {{youtube-timestamp 27:19}}
-		  and you have, this is one of the authors and then these are the different topics and different articles that they cite too.
+		  So you can see this is the notes page here and you have, this is one of the authors and then these are the different topics and different articles that they cite too.
 		  So it's like you can see sort of the lay of your literature and how these different clusters relate to each other and to the broader sort of literature base.
 		  And I'm really excited to see I know that Rome had a nice plug in for making this a more useful.
+			- **Cara Antonaccio** {{youtube-timestamp 26:53}}
+			  저도 저자들의 이름을 가지고 있습니다.
+			  다른 저자들은 다른 주제와 연결되고 특정 논문은 특정 주제와 관련이 더 많이 있습니다.
+			  그래서 제 논문은 랜덤 포레스트라는 방법을 사용합니다.
+			  그래서 어떤 식으로 보면 모든 것이 이 랜덤 포레스트 주위에 뭉쳐 있다고 볼 수 있습니다.
+			  이에 대한 다양한 참고 문헌이 많이 있고 대부분 이는 그저 다른 논문들입니다.
+			  이것은 Wenzi를 위한 작업입니다.
+			  그래서 여기에 노트 페이지가 있고, 여기에 하나의 저자가 있고 다른 주제와 다른 논문들이 인용되어 있습니다.
+			  따라서 문헌의 전체적인 형태와 이러한 다른 클러스터들이 서로 어떻게 관련되어 있는지를 볼 수 있습니다.
+			  그리고 더 넓은 문헌 기반과 관련하여 기대를 가지고 있습니다.
+			  Rome에서 이를 보다 유용하게 만드는 플러그인이 있다는 것을 알고 기대가 됩니다.
 		- **Ramses Oudt** {{youtube-timestamp 27:41}}
 		  This discourse plug in Yeah by Jill Chen he created that because of a grant he was given.
 		  Yeah it's on our basically research roadmap to have conversations with him.
-		  Obviously it's, I think it's an open source plug in but Roam and Luxic are very different under the hood.
+		  Obviously it's, I think it's an open source plug in but Rome and Logseq are very different under the hood.
 		  It's, it's, it would be very useful because basically now you only see what pages are links.
 		  But with the discourse plug in you could basically have, create your own grammar so like your own argumentation grammar.
 		  So
+			- **Ramses Oudt** {{youtube-timestamp 27:41}}
+			  이 발언 플러그인은 제프릴 첸이 그에게 주어진 보조금 때문에 만들었습니다.
+			  그래, 그것은 우리의 기본적인 연구 로드맵에 따라 그와 대화를 나눌 수 있도록 하는 것입니다.
+			  분명히, 이것은 공개 소스 플러그인이지만, Rome과 로그시크는 내부적으로 매우 다릅니다.
+			  지금은 링크된 페이지만 볼 수 있기 때문에 그렇게 유용하지 않습니다.
+			  그러나 발언 플러그인을 사용하면, 직접 문법을 만들어 나만의 근거를 만들 수 있습니다.
 		- **Ramses Oudt** {{youtube-timestamp 28:16}}
 		  this source supports that or this source contradicts that.
 		  And so that is very useful definitely on our roadmap to dive deeper into.
@@ -696,83 +686,131 @@ public:: false
 		  We've seen the plug in by Joel.
 		  We went to talk to him he offered to talk to us.
 		  So it's, things are happening but I can tell, I cannot say anything on the timelines unfortunately but just know that we're actively looking into making Luxic way more powerful specifically for researchers and academic researchers.
+			- **람제스 우트** {{youtube-timestamp 28:16}}
+			  이 소스는 이를 지원한다거나 이 소스는 그것을 부인한다는 것을 말씀드립니다.
+			  그래서 그것은 깊이 파고들기에 매우 유용하며, 우리의 로드맵에서 분명히 중요합니다.
+			  하지만, 우리는 아직 연구 단계에 있습니다.
+			  조엘의 플러그인을 봤고,
+			  그와 대화하러 갔는데 그가 우리에게 이야기하려고 함을 제안했습니다.
+			  그래서, 일어나고 있는 일들은 있지만, 제한된 시간에 관해 아무 말도 할 수 없지만 그냥 알아두세요, 우리는 현재 더 강력한 Logseq을 연구자와 학술 연구자들을 위해 개발하기 위해 적극적으로 노력하고 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 28:49}}
 		  Rock on I see that PDF exploit is now available which is super useful.
 		  Yeah so this is my graph view.
 		  It's sort of messy now but if we're getting there eventually, there should be, you know, nice little clusters where every single one has a circle around it and they're all linked to each other.
 		  But it's a process. And these are the tools that I use for analysis.
-		  Again, Log Seek, Lucy Chart are Python and I do all of my coding, all the planning for coding in,
-		- **Cara Antonaccio** {{youtube-timestamp 29:17}}
-		  in log Seat just because it's easier for me to write and think and read and plan all in one place.
+		  Again, Logseq, Lucy Chart are Python and I do all of my coding, all the planning for coding in, in Logseq just because it's easier for me to write and think and read and plan all in one place.
 		  And the next step is proposing creating, writing, editing.
 		  And then again, this is a dissertation draft and then submission presenting.
 		  So I haven't yet presented anything aside from this in logs but I do tend to use Canva and I'll show you that really quick.
 		  Canva is nice because it does all of the
+			- **Cara Antonaccio** {{youtube-timestamp 28:49}}
+			  와, 그래서 이게 제 그래프 뷰입니다.
+			  지금은 좀 어지럽게 생겼지만 우리는 결국 가서, 알아서 예쁜 작은 클러스터들이 생길 거예요. 그리고 각각에는 원이 둘러져 있고, 모두가 서로 연결되어 있을 거예요.
+			  하지만 이건 과정입니다. 저는 분석을 위해 이 도구들을 사용해요.
+			  다시 말씀드리지만, Log Seek, Lucy Chart는 파이썬 기반인데, 코딩이나 코딩 계획을 할 때는 모두 Logseq에서 하는 편이 편하네요. 하나의 장소에서 작성하고 생각하고 읽고 계획하는 게 좋아서요.
+			  그리고 다음 단계는 제출, 작성, 편집하는 건데요.
+			  저는 아직 로그에 제출한 게 없지만, 일반적으로 Canva라는 도구를 사용하곤 해요. 간단하게 보여드릴게요.
+			  Canva는 모든 것을 할 수 있어요.
 		- **Cara Antonaccio** {{youtube-timestamp 29:44}}
 		  what do you call it animations for you automatically.
-		  And so it's nice to just be able and then you can, I usually export the outline of my presentation and bring the outline into log Zek.
+		  And so it's nice to just be able and then you can, I usually export the outline of my presentation and bring the outline into Logseq.
 		  So I have, I can basically just like read through what I'm doing as I present.
 		  So that's that 5th process of, I mean I'm always somewhere in the middle of all these processes at the same time
+			- **Cara Antonaccio** {{youtube-timestamp 29:44}}
+			  자동으로 애니메이션을 부르는 것을 무엇이라고 하나요.
+			  그래서 당신은 간단히할 수 있다는게 좋아요 그리고 그럼에도 불구하고, 제가 보통 내 발표의 개요를 내보내고 개요를 Logseq에 가져온 다음에 읽으면서 내가 하는 것을 할 수 있어요.
+			  그래서 그게 제가 항상 이 모든 과정의 중간 어딘가에 있는 5번째 프로세스죠.
 		- **Cara Antonaccio** {{youtube-timestamp 30:09}}
 		  10 different projects going and they're all at a different stage.
 		  So it's non linear it's iterative and it's, I'm always changing how things work and how I manage things.
 		  So that's everything that I had in terms of like explicit things to look at
+			- **Cara Antonaccio** {{youtube-timestamp 30:09}}
+			  10가지 다른 프로젝트가 진행 중이며, 모두 다른 단계에 있습니다.
+			  따라서 이것은 선형적이지 않고, 반복적이며, 일을 어떻게 진행하고 관리하는지 항상 변경되고 있습니다.
+			  그래서 명시적으로 살펴볼 것들에 대한 모든 것입니다.
 		- **Ramses Oudt** {{youtube-timestamp 30:25}}
 		  there's more than enough questions there are more than enough questions.
 		  So first of all, thank you so much.
-		  I love really seeing the setup and I'm really happy to see that you do basically everything in lux because normally personally I'm against it.
+		  I love really seeing the setup and I'm really happy to see that you do basically everything in Logseq because normally personally I'm against it.
 		  I also don't encourage normally people using one tool for everything because I really believe in best of breed tools.
-		  But then looking at your process,
-		- **Ramses Oudt** {{youtube-timestamp 30:56}}
-		  it looks like it's really well integrated.
+		  But then looking at your process, it looks like it's really well integrated.
 		  There are no obvious friction points that I can see that would force you to look at other tools.
 		  So that really gives me a lot of hope.
 		  Obviously there's some things that we could improve like the like the discourse graph plug in if we could add that I know there are some things with Zotero.
 		  There was a question actually about this yeah because people saw, hey, there are, how do you use less cards and I see you're learning Suahili
+			- **Ramses Oudt** {{youtube-timestamp 30:25}}
+			  질문은 충분히 많지만, 먼저 감사드리고 싶습니다.
+			  셋업을 보는 걸 정말 좋아하고, 기쁘게 생각합니다. 일반적으로 저는 여러분이 모든 것을 Logseq에서 하는 거를 추천하지 않지만, 여러분의 프로세스를 보면 정말 잘 통합되어 있습니다. 다른 도구를 찾아보도록 강제되는 뚜렷한 마찰점이 없습니다. 그래서 정말 많은 희망을 갖게됩니다. 물론 디스코스 그래프 플러그인과 Zotero와 관련하여 개선할 수 있는 몇 가지 사항이 있습니다. 너무 많은 카드를 사용하는 방법에 대한 질문이 있었던 것으로 알고 있습니다. 그리고 여러분은 수아힐리어를 배우고 계신 걸 볼 수 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 31:28}}
 		  yeah so I took Sohilian College have done some work in East Africa.
 		  So one of the ways that I use flash cards what I'm trying to procrastinate is by teaching myself a Sohili I have for each each I have it both Swahili to English and English to Swahili.
 		  So if I open up the flash cards I've got almost 300 of them.
 		  So this is father. So I show the clothes I said father and
+			- **Cara Antonaccio** {{youtube-timestamp 31:28}}
+			  네, 나는 Sohilian College에 다니고 동아프리카에서 몇 가지 일도 했어요.
+			  작업을 위해 플래시 카드를 사용하는 방법 중 하나는 나 혼자 소힐리어를 가르치는 것이에요. 매 카드마다 스와힐리어에서 영어로, 그리고 영어에서 스와힐리어로 번역되어 있어요.
+			  그래서 플래시 카드를 열어보면 거의 300장이 있어요.
+			  이것은 아버지예요. 그래서 옷을 보여주며 아버지라고 말했어요.
 		- **Cara Antonaccio** {{youtube-timestamp 31:53}}
 		  I remember it and then it just goes through my entire and then as soon as I get, soon as I get sick of doing it, I just close it out and move on to whatever's next.
 		  So it's a productive way to procrastinate and it's, it's, it's a way to sort of make sure that you know, I'm using that repetitive learning.
+			- **Cara Antonaccio** {{youtube-timestamp 31:53}}
+			  나는 그것을 기억하고, 나는 그것을 계속 생각하고, 그리고 내가 그 것을 싫증날 때마다, 그냥 닫고 다음으로 넘어가는 거야.
+			  그래서 이것은 지연을 하는 생산적인 방법이고, 그리고 그것은 반복적인 학습을 사용하는 것을 확실히 하는 방법이야.
 		- **Ramses Oudt** {{youtube-timestamp 32:12}}
 		  Yeah well, I'm addicted to language learning.
-		  So I personally I use anky for flesh cards because I have audio flesh cards and it's a little bit much of a hassle to do that in Loxy currently hopefully they will improve soon.
+		  So I personally I use anky for flesh cards because I have audio flesh cards and it's a little bit much of a hassle to do that in Logseq currently hopefully they will improve soon.
 		  Actually I've also been thinking of some, some workflow to incorporate flash cards basically to expose yourself to notes over time.
-		  So now that the flash card functionality has been fixed a little bit, you can directly edit a flash card and add child blocks
-		- **Ramses Oudt** {{youtube-timestamp 32:47}}
-		  while reviewing the cards.
-		  So what I've been thinking about is taking a Zetto casted approach but more question based.
+		  So now that the flash card functionality has been fixed a little bit, you can directly edit a flash card and add child blocks while reviewing the cards.
+			- **Ramses Oudt** {{youtube-timestamp 32:12}}
+			  네, 저는 언어 학습에 중독되어 있습니다.
+			  그래서 개인적으로 저는 음성 카드가 있는 Anki를 사용합니다. 현재 Logseq에서 그렇게 하기가 조금 귀찮습니다. 아마도 곧 개선될 것입니다.
+			  사실, 시간이 지남에 따라 메모를 노출시키는 데 기본적으로 플래시 카드를 결합하는 몇 가지 워크플로우에도 생각해 보았습니다.
+			  이제 플래시 카드 기능이 약간 수정되었으므로 카드를 검토하는 동안 직접 플래시 카드를 편집하고 하위 블록을 추가할 수 있습니다.
+		- So what I've been thinking about is taking a Zetto casted approach but more question based.
 		  So have a question and then progressively expand on my notes.
 		  So instead of really using it to memorize things, it's more to program my attention.
 		  So I'm not clicking show answer to test myself.
 		  It's more show answer, read the notes that I already have and then expand upon those notes.
-		  So because as it's over time and I'm doing reviews, I might think of
-		- **Ramses Oudt** {{youtube-timestamp 33:28}}
-		  maybe some paper that I recently read but I haven't linked to that note yet.
+		  So because as it's over time and I'm doing reviews, I might think of maybe some paper that I recently read but I haven't linked to that note yet.
 		  So or some other source or maybe some conversation that I had or a video that I saw.
 		  So that way you could use flash cards.
 		  I'm thinking of doing either a session about that or just recording a video about that.
 		  But because I think that will be interesting for many people for language learning I've basically mastered Spanish I would say through flash cards mostly and watching a lot of cartoons.
-		  So let's see what other
+		  So let's see what other questions are there.
+			- 제 생각은 Zetto 방식을 적용하지만 질문 중심으로 더 발전시키는 것입니다.
+			  질문을 하고 나서 내 노트를 점차적으로 확장해 가는 것이죠.
+			  그래서 그걸로 기억하는 게 아니라 내 주의를 프로그래밍하는 데에 더 사용하려고 해요.
+			  그래서 나는 나 자신을 테스트하기 위해 정답을 보기 버튼을 누르는 것이 아니에요.
+			  정답 보기 버튼을 누르고 이미 있는 노트를 읽고 그 노트를 발전시키는 것이죠.
+			  많은 시간이 지나고 내가 리뷰를 하면서, 최근에 읽은 논문이나 아직 그 노트에 링크하지 않은 노트를 떠올릴지도 모르겠습니다.
+			  또는 다른 소스이거나, 나와 한 대화를 나오게 하거나, 본 영상일지도 모르겠네요.
+			  그렇게 하면 플래시 카드를 사용할 수 있겠지요.
+			  그에 대해 세션을 진행하거나, 그것에 대한 비디오를 녹화해 볼까 생각 중입니다.
+			  많은 사람들에게 흥미로울 거라고 생각되기 때문에, 언어 학습을 위해 스페인어를 대부분 플래시 카드로 배우면서 아주 잘 다루고 있다고 할 수 있죠.
+			  자, 다른 질문들을 봅시다.
 		- **Ramses Oudt** {{youtube-timestamp 33:59}}
-		  questions are there. So the question was answered how do you use flash cards? Then let's see there were many, many questions about your CSS.
+		  So the question was answered how do you use flash cards? Then let's see there were many, many questions about your CSS.
 		  So what theme are you using? What other sprinkles do you have? Maybe you could link to some things where you could just show
+			- **람세스 우트** {{youtube-timestamp 33:59}}
+			  그래서 질문이 해결되었어요. 플래시 카드를 어떻게 사용하는지요? 그럼, 여러분의 CSS에 대한 많은 질문들이 있었군요.
+			  그래서 어떤 테마를 사용하고 있나요? 다른 스프링클도 있나요? 아마도 몇 가지를 링크해서 보여줄 수 있을 겁니다.
 		- **Cara Antonaccio** {{youtube-timestamp 34:33}}
 		  yep so it's available in the marketplace I don't really add a whole lot to it.
 		  The way that I do the, the tag styles is if you type shift well I use a MAC so shift command P and then it's this first option here modify block reference styles and you might have to add this plug in in the plug in store but it's in there.
 		  So when you go in here so I've got a ton of different plug in styles.
 		  You can see that some of them are blank because they didn't there's an issue when you
+			- **Cara Antonaccio** {{youtube-timestamp 34:33}} 
+			  네, 이건 마켓플레이스에서 이용 가능한 거라서 제가 크게 추가하는 건 없어요.
+			  태그 스타일을 하는 방법은, 만약에 저는 맥을 사용하니까, shift command P를 입력하면 첫 번째로 "modify block reference styles" 이 옵션이 나와요. 이 플러그인을 플러그인 스토어에 추가해야 할 수도 있어요. 그런데 플러그인 스토어에 이걸 첨부할 수 있다고 해요.
+			  그래서 여기서 제가 다양한 플러그인 스타일을 가지고 있어요.
+			  일부는 비어 있는 걸 보실 수도 있는데, 그건 이슈 때문에 그런 거예요.
 		- **Cara Antonaccio** {{youtube-timestamp 34:59}}
 		  out of them that when you try to delete them that some of these colors overlap into other references.
 		  So some of them are just empty they don't do anything but all of the different processes that I have, all the different topics that are important for my work they all get their own block reference tag.
 		  And then anytime you just like, say, for example, I wanted to look at my library.
 		  I just do the regular block reference for library and it puts the books there.
 		  So it's really nice
-		- 참석자 3 35:26
-		  it was really nice.
 		- **Cara Antonaccio** {{youtube-timestamp 35:27}}
 		  Yeah and you know, it's kind of, it's a little bit overkill.
 		- **Ramses Oudt** {{youtube-timestamp 35:32}}
@@ -794,48 +832,77 @@ public:: false
 		  So it helps me to get my mind in the mode of what's tomorrow going to look like.
 		  Well, tomorrow's going to be two degrees Celsius cloudy pop all that information in the night before.
 		  It would be really bada if anyone wants to write a plug in or get the weather for B.
+			- **카라 안토나치오** {{youtube-timestamp 36:22}}
+			  아니에요. 그래서 저는 그걸 넣어요.
+			  저는 매일 밤마다 그 날 다음에 대한 하루 간 일지를 작성해요.
+			  그래서 내일 어떻게 될지 마음을 가다듬는데 도움이 돼요.
+			  내일은 섭씨 2도, 흐린 날씨이고 그런 정보는 전날 밤에 모두 메모해 놓아요.
+			  B 지역의 날씨를 확인하거나 플러그인을 작성하고 싶은 사람들에게 정말 좋을 거예요.
 		- **Ramses Oudt** {{youtube-timestamp 36:49}}
 		  By the way, there is a way to automatically generate a, basically your daily template.
-		  Obviously when it's hands on like Gara does, you would want to run it manually.
+		  Obviously when it's hands on like kara does, you would want to run it manually.
 		  But I've written an article about how you can set up an automated daily template so that runs every night at midnight as the new journals page is generated.
 		  Yeah there's no weather plug in.
-		  As far as I know, there were some questions about basically your
+		  As far as I know, there were some questions about basically your templates.
+			- **Ramses Oudt** {{youtube-timestamp 36:49}}
+			  그런데, 자동으로 매일의 기본 템플릿을 생성하는 방법이 있습니다.
+			  당연히 카라와 같은 경우는 수동으로 실행하고 싶을 것입니다.
+			  하지만 새로운 일지 페이지가 자정에 생성될 때마다 매일 자정에 실행되는 자동화된 매일 템플릿을 설정하는 방법에 대한 글을 썼습니다.
+			  네, 날씨 플러그인은 없습니다.
+			  내가 알기로 여러분의 템플릿에 대한 몇 가지 질문들이 있었습니다.
 		- **Ramses Oudt** {{youtube-timestamp 37:18}}
-		  templates. And if you use attributes someone also said that you shared a reading notes template on Twitter maybe you could are you able to show a little bit from that?
+		  And if you use attributes someone also said that you shared a reading notes template on Twitter maybe you could are you able to show a little bit from that?
+			- **Ramses Oudt** {{youtube-timestamp 37:18}}
+			  그리고 만약 당신이 속성을 사용한다면, 누군가가 Twitter에 독서 노트 템플릿을 공유했다고 말했는데, 그것 중에서 좀 보여주실 수 있을까요?
 		- **Cara Antonaccio** {{youtube-timestamp 37:33}}
 		  I could so I might not have saved that template.
 		  It's sort of a template that I like.
 		  I wrote it out because it's a process that I implement intuitively but it's nice to have it all in one place.
 		  So it's sort of I think it was like why do I want to read this? I'll, I can send it to you Ramses and sounded around but to talk a little bit about the attributes.
-		  So some of the attributes that I use are tags and these are these
+		  So some of the attributes that I use are tags and these are these this is a plug in so the tags plug in.
+			- **Cara Antonaccio** {{youtube-timestamp 37:33}}
+			  그 템플릿을 저장하지 않았을 수도 있어요.
+			  저는 그런 템플릿을 좋아해서 적어 놨어요.
+			  직관적으로 구현하는 과정이긴 하지만 한 곳에 모두 모아두는 것도 좋아요.
+			  그래서 왜 이걸 읽고 싶은지에 대해 생각했던 거 같아요. 제가 람세스에게 보낼 수도 있고 주변 사람들에게 설명할 수도 있는데, 속성들에 대해 조금 얘기해 볼까요?
+			  사용하는 속성 중 일부는 태그입니다. 태그 플러그인을 사용하죠.
 		- **Cara Antonaccio** {{youtube-timestamp 38:00}}
-		  this is a plug in so the tags plug in.
 		  So these are all the tags that I have in my graph and then I also use one for authors.
 		  So so that's an attribute and then publisher or journal is another one attributes that I use.
 		  And then this a question that I saw oh, is it possible to assign a specific color to tags? And I was trying to show that before a little bit.
 		  But when you go to the
+			- **Cara Antonaccio** {{youtube-timestamp 38:00}}
+			  이렇게 나는 그래프에 가지고 있는 모든 태그들이고, 그리고 저는 작가를 위한 태그도 사용해요.
+			  그래서 그것은 속성이고, 그리고 출판사나 저널은 다른 속성을 사용해요.
+			  그리고 이것은 내가 보았던 질문이에요. 태그에 특정 색상을 할당하는 것이 가능한가? 그리고 그것을 조금 보여주려고 했었어요.
+			  하지만 가서 보면...
 		- **Cara Antonaccio** {{youtube-timestamp 38:24}}
 		  block reference styles, you can just do it right here it's like a color picker so you can do that also.
 		  The other thing I wanted to show is in custom CSS, I have any, anytime I hashtag something so if I do like hashtag, it becomes like a, a different type of CSS style.
 		  So I added that in my custom CSS so I can send this around with that template as well.
 		  So you can,
+			- **Cara Antonaccio** {{youtube-timestamp 38:24}}
+			  블록 참조 스타일은 여기서 진행할 수 있습니다. 마치 색상 선택기처럼 작동하여 해당 스타일을 선택할 수 있습니다.
+			  다른 것을 보여주고 싶은데, 사용자 정의 CSS에서 해시태그(#)가 포함되면 다른 유형의 CSS 스타일로 바뀝니다.
+			  그래서 나는 그것을 내 사용자 정의 CSS에 추가하여 이 템플릿과 함께 전송할 수 있습니다.
+			  그래서 여러분은 이 템플릿과 함께 이를 보낼 수 있습니다.
 		- **Cara Antonaccio** {{youtube-timestamp 38:50}}
 		  you know, change that however you want.
 		  But yeah so just making things pretty I don't know if you're not having fun it's harder to focus.
 		  So that's what I find.
 		- **Ramses Oudt** {{youtube-timestamp 39:02}}
 		  Yeah. And someone asks Bob he says I'm confused by these tags.
-		  When I put a hashtag into Lexic it links my blog to the page for that hashtag.
+		  When I put a hashtag into Logseq it links my blog to the page for that hashtag.
 		  Archara tags a totally different thing altogether.
-		  It's cosmatic
-		- **Cara Antonaccio** {{youtube-timestamp 39:14}}
-		  the CSS that I showed here.
+		  It's cosmatic the CSS that I showed here.
 		  So this custom CSS for those tags typically a tag will just be like a hashtag, whatever but I added this CSS for a tag.
 		  It has a background that's gray and has white writing.
 		  It's got this sort of padding so you can see it in this processes tech here and then you specify how you want it to look using these different parameters.
 		  So I can, I'll put the CSS in the chart so you can just grab it if you want.
 		- **Ramses Oudt** {{youtube-timestamp 39:39}}
 		  Yeah and JKA is asking, please do share the template for booknotes Do you have a standard template for that or do you just start from scratch?
+			- **램세스 우트** {{youtube-timestamp 39:39}}
+			  네, JKA가 묻고 있네요. 책 주석에 대한 템플릿을 공유해주시겠어요? 그런 게 따로 있는 건가요 아니면 모두 처음부터 시작하나요?
 		- **Cara Antonaccio** {{youtube-timestamp 39:47}}
 		  I have a process written out and I can share that.
 		  So for each source, what is a person trying to say is their structure clear and logical? And that's sort of what I'm trying to figure out when I'm doing the outlining process what's their thesis? Just write it out what claims do they make? What evidence do they give to substantiate those claims?
@@ -948,20 +1015,7 @@ public:: false
 		  I hope you learned something and I'm looking forward to learning more in Langsk with all of you.
 		- **Ramses Oudt** {{youtube-timestamp 49:31}}
 		  Great thank you so much. This was it was very useful for me, I think for many people here and hopefully we'll see you back in the future for another workflow Wednesday Have a great day by everyone.
-- 실물 자산보다 현금성 자산을 중심으로 잘 지키는 전략이 필요하다.
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo,
-  source:: [[잡지/매경이코노미/2239]] 
-  title:: 금리 하락의 시대, 채권 주목하라
-  * ((65448855-0be0-44fd-b32e-b5c38ee3c5e4))
-	- **정성진 KB국민은행 PB팀장** 내년 부동산을 비롯한 실물 자산 시장을 어둡게 전망한다. "잘 지키는 전략이 필요하다"
-	- **최선일 신한PWM서울파이낸스센터 PB팀장** 주식과 채권, 실물 포트폴리오 비중은 비슷한 수준(30%, 40%, 30%)으로 유지하는 걸 추천했다. 실물 부문에서는 '예금 등 현금성 자산' 비중을 높게 가져가는 걸 조언했다. 최 팀장은 "아직 연 4% 금리는 무위험 자산 수익률로 매력적"
-	- **홍은미 KB증권 테크노마트지점장** "내년 채권 시장에서 투자 기회가 있을 것으로 예상합니다. 배당이나 이자 수익에 집중하는 '인컴' 전략에 무게를 두고 금리 하락에 따른 자본 차익은 긴 호흡으로 접근하길 추천"
+	-
 - How I create Concept-based notes from literature notes (in Obsidian) - Live note taking
   collapsed:: true
 	- video
@@ -969,30 +1023,69 @@ public:: false
 	- script
 		- {{youtube-timestamp 00:00}} 
 		  Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work.
-			- {{youtube-timestamp 00:00}}
-			  당신은 아직도 주로 읽은 기사와 책의 하이라이트나 메모로부터 작업을 진행하고 계시나요? 아니면 작업과 프로젝트를 지원하기 위해 작성한 모든 메모들을 조직화, 연결 및 종합하기 위한 시스템과 방법을 찾고 계신가요? 메모 작성 시스템을 개발하는 데 많은 시간이 걸렸습니다. Obsidian 앱은 실제로 제가 메모와 학술적인 작업을 조직화하고 종합하는 데 도움을 주었습니다.
+			- | {{youtube-timestamp 00:00}} |
+			  | Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work. | 여전히 당신은 주로 기사와 책에서 하이라이트 또는 메모를 사용하여 작업하시나요? 작성한 모든 메모를 조직화, 연결, 종합하기 위해 시스템과 접근법을 찾고 계신가요? 제 업무와 프로젝트를 지원하기 위해 노트 테이킹 시스템을 개발하는 데 오랜 시간이 걸렸고, Obsidian 앱을 통해 메모와 학술 작업을 효과적으로 조직화하고 종합하는 데 도움이 되었습니다. |
 		- 00:17 {{youtube-timestamp 17}} 
 		  I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.
 		  So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you.
+			- 00:17 {{youtube-timestamp 17}}
+			  나는 대학원 공부를 시작할 때 이런 시스템을 가지고 있었으면 좋았을 텐데, 처음 시작할 때 이런 비디오를 가지고 있었으면 좋았을 텐데.
+			  그래서 만약 노트를 작성하는 방법을 개선하고 싶거나 Obsidian 같은 앱을 사용하는 방법을 알아보려면, 내가 개인화 학습에 대한 논문에서 노트를 정리하면서 생생한 설명과 팁을 공유하는 이 비디오를 확인해보세요. 여러분에게 도움이 될지도 모릅니다.
+			- | 00:17 |
+			  | I wish I had this system when I first started my gradwork and I wish I had videos like this when I first got started.  | 저는 대학원 공부를 처음 시작할 때 이 시스템을 가지고 있었으면 좋았을 뿐만 아니라 처음 시작했을 때 이런 영상이 있었으면 좋았을 거에요. |
+			  | So if you're looking to step up your note taking game or if you're trying to figure out how to use apps like Obsidian, check out this video where I share my note taking and note making process while I organize notes from an article on Personalized Learning live with explanations and tips that might work for you. | 그래서 메모 방식을 업그레이드하고 싶으시거나 Obsidian과 같은 앱을 사용하는 방법에 대해 알아보려면, 이 영상을 확인해보세요. 제가 여기서 개인화 학습에 대한 기사에서 메모 정리 방식과 함께 메모 작성 과정을 설명하고 도움이 될만한 팁을 실시간으로 공유하고 있습니다.  |
 		- {{youtube-timestamp 37}}
 		  So let's get started. Okay, so welcome I'm going to be making some live notes or making some live notes here in Obsidian.
 		  And this comes from an article titled An Operationalized Understanding of Personalized Learning from the Journal of Special Education Technology.
 		  And this is by Basham Hall Carter and Stal.
 		  This is a reading that I use in my learner centered and project based teaching class to make meaning and sense of the idea of personalized learning and what it means.
+			- {{youtube-timestamp 37}}
+			  그럼 시작해봅시다. 좋아요, 여기 옵시디안에서 라이브 노트를 작성하려고 해요.
+			  이 내용은 특수교육 기술 학회지에서 발표된 "개인화 학습의 운영화된 이해" 라는 제목의 논문에서 가져온 것이에요.
+			  저자는 바샘 홀 카터와 스탈이에요.
+			  이 글은 제가 학습자 중심 및 프로젝트 기반 교수법 수업에서 사용하는 글로, 개인화 학습의 개념과 의미를 이해하고 파악하는 데 도움이 되는 자료예요.
+			- | {{youtube-timestamp 37}} |
+			  | So let's get started. | 그러자 시작해보자. |
+			  | Okay, so welcome I'm going to be making some live notes or making some live notes here in Obsidian. | 그래, 그러면 환영합니다. Obsidian에서 실시간으로 노트를 만들거나 여기에 실시간으로 노트를 작성하려고 합니다. |
+			  | And this comes from an article titled An Operationalized Understanding of Personalized Learning from the Journal of Special Education Technology. | 이는 Journal of Special Education Technology에서 발췌된 'An Operationalized Understanding of Personalized Learning'이라는 제목의 기사입니다. |
+			  | And this is by Basham Hall Carter and Stal. | 이것은 Basham Hall Carter와 Stal이 쓴 것입니다. |
+			  | This is a reading that I use in my learner centered and project based teaching class to make meaning and sense of the idea of personalized learning and what it means. | 이것은 학습자 중심 및 프로젝트 기반 교수법 수업에서 사용하는 독서 자료로 개인 맞춤형 학습에 대한 아이디어를 의미 있고 감각 있게 이해하는 데 도움을 줍니다. |
 		- 01:05
 		  And so right now we have a literature note that I have where I took my notes and as I've mentioned in some other videos, my general approach to this is I highlight the PDF file first and then I grab all the highlighted passages into the literature note and I often am using the quotes verbatim from the article and I want to have those original sources and then I can make meaning of them as I sort of parse them out and kind of put them into either other notes or work with them.
+			- | 01:05 |
+			  | And so right now we have a literature note that I have where I took my notes and as I've mentioned in some other videos, my general approach to this is I highlight the PDF file first and then I grab all the highlighted passages into the literature note and I often am using the quotes verbatim from the article and I want to have those original sources and then I can make meaning of them as I sort of parse them out and kind of put them into either other notes or work with them. | 그래서 현재 저희는 우리가 메모한 라이터러처 노트가 있는데, 다른 비디오에서 언급한대로, 이에 대한 저의 일반적인 접근 방식은 먼저 PDF 파일을 강조하고, 그런 다음 모든 강조한 부분을 라이터러처 노트로 옮겨서 종종 기사에서 그 문장을 그대로 인용하고자 합니다. 그래서 그 원문 소스를 가지고 그것들을 해석하고, 다른 노트에 넣거나 그것들과 함께 작업할 수 있도록 조각내고 정리하는 방식으로 의미를 부여하려고 합니다. |
+		- | {{youtube-timestamp 01:36}} |
+		  | So what I'm going to be doing is I have here an evergreen note you might want to call it a sort of longer notes of multiple aspects of personalized learning from different articles here and there. | 지금부터 할 것은 여기에 있는 영구적인 메모입니다. 이는 다양한 기사들에서 개인화 학습의 여러 측면을 포괄하는 긴 메모라고 볼 수도 있습니다. |
+		- | {{youtube-timestamp 112}} |
+		  | And this one does need to be split up into smaller, more conceptual notes notes that are based on a particular concept I don't really subscribe to the like a strict Zalcoastin approach and I'm not sure I would refer to my smaller, more conceptual based notes as atomic notes but I know other people use that sort of language or ways of thinking about things. | 이 메모는 더 작고 개념적인 메모들로 나눠져야 하며, 특정 개념에 기반한 노트들입니다. 저는 엄격한 살코스틴 접근법을 따르지는 않지만, 제 작고 개념적인 기반 노트를 아토믹 노트라고 칭할지는 확실하지 않습니다. 하지만 다른 사람들이 그런 종류의 언어나 사고 방식을 사용한다는 것은 알고 있습니다. |
 		- 01:36
 		  So what I'm going to be doing is I have here an evergreen note you might want to call it a sort of longer notes of multiple aspects of personalized learning from different articles here and there.
 		  And this one does need to be split up into smaller, more conceptual notes notes that are based on a particular concept I don't really subscribe to the like a strict Zalcoastin approach and I'm not sure I would refer to my smaller, more conceptual based notes as atomic notes but I know other people use that sort of language or ways of thinking about things.
+			- 01:36
+			  지금부터 할 것은 여기에 있는 영구적인 메모입니다. 이는 다양한 기사들에서 개인화 학습의 여러 측면을 포괄하는 긴 메모라고 볼 수도 있습니다.
+			  이 메모는 더 작고 개념적인 메모들로 나눠져야 하며, 특정 개념에 기반한 노트들입니다. 저는 엄격한 살코스틴 접근법을 따르지는 않지만, 제 작고 개념적인 기반 노트를 아토믹 노트라고 칭할지는 확실하지 않습니다. 하지만 다른 사람들이 그런 종류의 언어나 사고 방식을 사용한다는 것은 알고 있습니다.
 		- 02:05
 		  I tend to think of them as like concept based notes or notes that are kind of focused on a particular concept.
 		  And often they start off as a concept that's larger or more encompassing like personalized learning and then eventually become split off into more focused notes.
+			- 02:05
+			  나는 그들을 개념 중심적인 노트나 특정 개념에 초점을 맞춘 노트 같이 생각하는 경향이 있습니다.
+			  그리고 종종 그것들은 개인 맞춤 학습과 같은 보다 크고 포괄적인 개념에서 출발하여 점차 좀 더 집중된 노트로 분리됩니다.
+			- | 02:05 |
+			  | I tend to think of them as like concept based notes or notes that are kind of focused on a particular concept. | 저는 그들을 개념을 기반으로 한 노트나 특정 개념에 초점을 맞춘 노트로 생각합니다. |
+			  | And often they start off as a concept that's larger or more encompassing like personalized learning and then eventually become split off into more focused notes. | 종종, 그들은 개인화 학습과 같이 더 크거나 포괄적인 개념으로 시작하여 결국 더 집중된 노트로 분리됩니다. |
 		- 02:32
 		  And then this personalized learning note will essentially become a map of content and MOOC I do keep the original notes in my literature note because I might want to go back to that note and see what's specifically in that literature particularly when I'm working with classes.
 		  So if we're in the middle of class and we're having a discussion, I can pull up my literature note and I have everything that's in the, that specific article there you here I'm just going to grab this and I don't mind having this specific content in two different notes that doesn't bother me at all.
+			- 02:32
+			  그리고 이 맞춤 학습 노트는 본질적으로 내가 수업에서 보유하고 있는 콘텐츠와 MOOC의 맵이 될 것입니다. 원래 노트를 문학 노트에 보관하고 있으므로, 때로는 그 노트로 돌아가서 특정한 문학 내용을 확인하고 싶을 수도 있습니다. 특히 수업을 진행할 때는 수업 노트를 열어서 그 특정한 기사에 대한 모든 내용을 볼 수 있습니다. 여기서 가져올 거예요. 이 특정 콘텐츠가 두 개의 다른 노트에 있는 것은 전혀 걱정되지 않아요.
+			- | 02:32 |
+			  | And then this personalized learning note will essentially become a map of content and MOOC I do keep the original notes in my literature note because I might want to go back to that note and see what's specifically in that literature particularly when I'm working with classes. So if we're in the middle of class and we're having a discussion, I can pull up my literature note and I have everything that's in the, that specific article there you here I'm just going to grab this and I don't mind having this specific content in two different notes that doesn't bother me at all. | 그리고 이 개인화된 학습 노트는 사실상 콘텐츠와 MOOC의 지도가 될 것입니다. 원래 노트는 문학 노트에 남기는데, 나중에 그 노트로 돌아가서 해당 문학에서 무엇이 특히 있었는지 확인하고자 하기 때문입니다. 특히 수업을 진행할 때는 그렇게 작업을 할 때 특히 문학 노트에서 작업을 합니다. 따라서 수업 중간에 토론을 하고 있다면 문학 노트를 찾아볼 수 있고, 그 특정한 기사에 해당하는 모든 것이 거기에 있습니다. 여기 세울 건데, 그냥 가져오고, 그 특정한 내용을 두 개의 다른 노트에 넣어두는 것은 전혀 문제되지 않습니다. |
 		- 02:56
 		  And then the other thing I'd like to do here is I have a hot key and then I can go to the note here Fasham at all in that way if this particular quote gets pulled into some other note at some point, I can trace it back to the original literature note source.
 		  Okay I want this here. So this is where I really am starting to make meaning even though I'm using these verbatim quotes I use my own headers to sort of make meaning of them, to thematize them and to kind of figure out where do these go.
+			- 02:56
+			  그리고 여기서 하고 싶은 다른 것은 단축키를 가지고 있는데, 그러면 여기 노트로 이동할 수 있어요. 특정한 인용문이 어떤 시점에서 다른 노트에 편입될 때, 원래의 문헌 노트 출처로 되돌아갈 수 있어요.
+			  좋아요, 이 부분을 원해요. 이제 저는 진정으로 의미를 만드는 것을 시작하고 있어요. 비록 이 문장들을 정확히 인용하지만, 제가 제목을 사용하여 그 의미를 정리하고, 그들을 테마화하며, 어디에 적용되는지 알아내려고 해요.
 		- 03:32
 		  And so for me this what is personalized learning will grow over time from lots of different other people's perspectives.
 		  And then if these need to become their own notes, that's fine.
@@ -1114,7 +1207,104 @@ public:: false
 		  And you can also check out the Obsidian live note making playlist that I have or my other resources.
 		  And Obsidian if you're a music education person, you can check out my videos on that.
 		  But hope this was useful to you and have a great one and I'll see you around next time.
+			- | {{youtube-timestamp 18:36}} |
+			  | You might find that helpful and it touches on some of these things but goes way more in depth of the different ways I use obsidity in academic work. | 당신은 그걸 유용하게 느낄 수 있고, 그 중 일부에 대해 다루지만, 학문적인 작업에서 obsidity를 사용하는 다양한 방법에 대해 훨씬 깊게 다룹니다. |
+			  | And you can also check out the Obsidian live note making playlist that I have or my other resources. | 또한 내 Obsidian 라이브 노트 제작 재생 목록이나 다른 자료를 확인할 수 있습니다. |
+			  | And Obsidian if you're a music education person, you can check out my videos on that. | 그리고 Obsidian, 음악 교육자이면 그에 대한 내 비디오를 확인할 수 있습니다. |
+			  | But hope this was useful to you and have a great one and I'll see you around next time. | 하지만 이것이 당신에게 유용하길 바라고 좋은 시간이 되길 바라며, 다음에 또 만나요. |
 		- 18:57
 		  Hey everyone, I'm Evan Dbias.
 		  I'm on the Music Learning and Teaching faculty at Arizona State University and I support music educators of all kinds.
 		  Imagine possibilities for music learning and teaching and then make those possibilities a reality.
+			- | Hey everyone, I'm Evan Dbias. | 여러분 안녕하세요, 저는 Evan Dbias입니다. |
+			  | I'm on the Music Learning and Teaching faculty at Arizona State University and I support music educators of all kinds. | 저는 애리조나 주립 대학교의 음악 학습 및 교육 학부에 속해 있으며 모든 종류의 음악 교육자를 지원합니다. |
+			  | Imagine possibilities for music learning and teaching and then make those possibilities a reality. | 음악 학습과 교육을 위한 가능성을 상상하고 그 가능성을 현실로 만드세요. |
+	- | {{youtube-timestamp 00:00}} |
+	  | --- |
+	  | Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work. |
+	  | 아직도 주로 읽는 기사와 책에서 강조표시나 메모로 작업하고 계신가요? 작업과 프로젝트를 지원하기 위해 만든 모든 노트를 조직, 연결 및 종합하는 시스템과 접근 방식을 찾고 계신가요? 메모 작성 시스템을 개발하는 데 오랜 시간이 걸렸고 Obsidian 앱은 제 노트와 학술 작업을 조직하고 종합하는 데 정말 도움이 되었습니다. |
+	- | {{youtube-timestamp 00:00}} | |
+	  | --- | --- |
+	  | Are you still working primarily from highlights or notes in the articles and books you read are you looking for systems and approaches to organize, connect and synthesize across all the notes you take to support your work and projects? Took me a long time to develop a note taking system and the app Obsidian really helped me organize and synthesize my notes, academic work. | 아직도 주로 읽는 기사와 책에서 강조표시나 메모로 작업하고 계신가요? 작업과 프로젝트를 지원하기 위해 만든 모든 노트를 조직, 연결 및 종합하는 시스템과 접근 방식을 찾고 계신가요? 메모 작성 시스템을 개발하는 데 오랜 시간이 걸렸고 Obsidian 앱은 제 노트와 학술 작업을 조직하고 종합하는 데 정말 도움이 되었습니다. |
+- tts로 읽어주기
+- logseq db query로 실제 데이터를 조회해서 sitemap.xml 만들기
+- 아파트 단지 크기에 따른 장단점이 있을까.
+	- 작은 단지 - 관리비가 많이 나온다.
+- 전자잉크를 다양하게 활용해보고 즐겨보는 시간들을 가져보려고 한다. 그래야 더 산업이 성장할 수 있다. 
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, eink,
+  source:: https://news.hada.io/topic?id=3192
+  title:: 자동 업데이트되는 nyt 첫 페이지를 벽에 걸기
+  collapsed:: true
+	- 32인치 전자잉크 디스플레이 구매. nyt 첫 페이지를 저장해 노출
+- 쿠팡 흑자에 대해서만 생각하다보니 쿠팡 성장률에 대해서는 미처 생각하지 못했다. 흑자가 중요한가 성장이 중요한가. 사업마다 다르지만 쿠팡은 성장이 중요한 기업이다.
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, 쿠팡, 스타트업
+  source:: [[잡지/한경비즈니스/1467]] 
+  title:: 온라인 명품 판매는 실패한 비즈니스인데… 쿠팡이 망한 파페치를 인수한 까닭
+	- 쿠팡의 요즘 가장 큰 고민은 성장률이 떨어지는 것입니다. 국내 온라인 유통의 매출 성장률은 2020년까지만 해도 분기당 20%를 웃돌았는데, 2022년에는 10%대 수준으로 떨어졌고, 2023년에는 10%에도 미치지 못 합니다.
+- 관심이 생기는 책이다. 간결한 글쓰기라니.
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, #감상/책/읽을 
+  source:: [[잡지/한경비즈니스/1467]] 
+  title:: 이토록 간결한 글쓰기
+	- 이토록 간결한 글쓰기 저자로 하버드대 공공정책학과 교수이자 행동 과학자인 토드 로저스와 제시카 래스키-핑크는 수많은 정보와 미디 어에 노출된 '바쁜' 사람들과 효과적으로 소통할 수 있는 방법을 연구했고, 이들을 설득하고자 하는 사람들에게 행동과학과 심리학에 기반한 글쓰기 방법을 조언해 왔다. 그 과정에서 누구에게나 적용되지만 잘 알려지지 않은 글쓰기 원칙들을 모두에게 알리기로 결심한다. 꼭 필요한 내용만 담은 이 책으로 베스트셀러 작가들을 사로잡은 글쓰기 비법을 터득하라.
+- 금융소득 과세를 하지 않으면 모든 문제가 해결되는가. 공매도만 못하면 모든 문제가 해결되는가. 큰 틀에서 바라보지 못하고 미시적인 것에 집착함이 아쉽다. 
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, [[한국 경제]] [[경제위기]] 
+  source:: [[잡지/더스쿠프/579]] 
+  title:: 총선의 해 벽두의 '금투세 폐지' 약속 - 코리아 디스카운트 완화보다 증시 불확실성 높일라
+	- 정부가 금투세 폐지를 공식화한 표면적 이유는 글로벌 스탠더드와 코리아 디스카운트(한국 기업 주식 저평가) 해소다. 하지만 글로벌 스탠더드와 관련해선 경제협력개발기구(OECD) 회원국 대부분이 금투세와 주식 양도소득에 과세하고 있다. 금투세 폐지는 오히려 국제 규범에 어긋난다.
+	- 자본시장연구원 보고서를 보면 코리아 디스카운트의 주요 원인은 미흡한 주주 환원 정책과 국내 기업의 저조한 수익성과 성장성, 열악한 기업 지배구조 등이다. 세제는 주요 변수가 아니다. 국제 규범에 어긋나는 금투세 폐지로 인해 오히려 코리아 디스카운트가 커질 수 있다.
+	- 시장이 가장 두려워하는 것은 예측 불가능성이다. 여야 합의로 국회를 통과한 법안까지 폐지하는 것은 불확실성을 높이는 요인으로 작용할 것이다.
+- 한국 대기업의 구독경제란 오히려 불필요함이 있다. 럭키박스를 이용해 재고를 소진하는 것과 같은 느낌이다. 진짜 고객 관점의 혜택을 제공하지 못한다. 골목 상권에서 구독을 제공할 때 고객에게 이득이 발생할 여지가 더 크다.
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, [[구독경제]]
+  source:: [[잡지/더스쿠프/579]]
+  title:: 골목 가게에 아마존 성장전략 주입하면 벌어질 일
+	- 이마트 롯데마트 등 대기업이 구독경제 분야에서 의미있는 성장을 하지 못한 것도 같은 맥락에서 풀이할 수 있다. 특히 대기업 멤버십의 경우, 고객에게 필요하지 않은 상품을 같은 그룹의 서비스란 이유로 밀어 넣었다가 낭패를 본 사례도 숱하다. 고객이 제대로 누리지도 못하는데 혜택이라고 주장하는 건 어불성설이다.
+- 효율화라는 이름으로 테트리스를 하곤 했는데 업무도 그렇지만 switching에 어려움이 생긴다. 동시에 사업을 여러 개 돌리면 돈은 더 벌 수 있겠지만 하나가 무너지면 와장창 무너질 가능성이 있다. 더 생각 발전이 필요하다. 
+  card-last-score:: 5
+  card-repeats:: 4
+  card-next-schedule:: 2024-01-18T07:06:14.738Z
+  card-last-interval:: 31.36
+  card-ease-factor:: 2.8
+  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  tags:: card, memo, [[효율/반]]
+  source:: [[잡지/더스쿠프/579]] 
+  title:: PF 위험 노출된 건설사들 '살얼음판'
+  * 나누고 리스크를 분산하는 것이 자본주의 현대사회 흐름임을 부정할 순 없지만 묵묵히 해내는 사람이나 업체의 가치가 존중받기를.
+  * 레버리지, 자본, 세계화, 분업, 효울화 등등. 모든 것의 실패
+	- 시행사는 자금, 신용이 부족해도 대규모 사업을 추진할 수 있고 금융사는 높은 이자를 챙길 수 있어 '윈윈'이었기 때문이다. 건설사 입장에서도 공사 일감이 다양해지는 만큼 나쁠 게 없었다.
+	- 이런 방식은 부동산 호황기에는 아무런 문제가 없었다. 하지만 경기 침체로 미분양이 급증하고 개발 사업이 삐걱대면 PF가 '위험한 부메랑'으로 되돌아오는 구조다. 특히 코로나19 이후 기준금리가 오르면서 자금 회수에 난항을 겪는 사례가 급증했다. 미분양 물량이 속출하면서 시행사 수익성이 악화돼 원금 상환에 난항을 겪는 경우가 부지기수다.
+- [[아이디어/전자잉크미러]]
+	- 블루투스로 현재화면을 캡쳐해서 가져오기
+	- 버튼을 누르는 순간에만 가져오도록
+	- next 버튼을 누르면 볼륨 업다운 등을 하고 화면 가져오기.
+- 헌금 제외 시  오종철님은 2,663,180원을 돌려 받을 예정이에요
+- 헌금 포함 시 3,169,850
