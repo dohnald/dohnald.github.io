@@ -24,7 +24,6 @@ public:: false
   tags:: card, memo, #감상/책/읽을
   source:: [[잡지/이코노미조선/521]]
   title:: 찰리 멍거의 필수적인 재치와 지혜
-  collapsed:: true
 	- 가난한 찰리의 연감
 	- https://www.stripe.press/poor-charlies-almanack/chapter-one
 	- 책 <가난한 찰리의 연감>(Poor Charlie’s Almanack)의 내용을 요약해 주세요. [[chatGPT]]
@@ -1230,31 +1229,6 @@ public:: false
 - logseq db query로 실제 데이터를 조회해서 sitemap.xml 만들기
 - 아파트 단지 크기에 따른 장단점이 있을까.
 	- 작은 단지 - 관리비가 많이 나온다.
-- 전자잉크를 다양하게 활용해보고 즐겨보는 시간들을 가져보려고 한다. 그래야 더 산업이 성장할 수 있다. 
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo, eink,
-  source:: https://news.hada.io/topic?id=3192
-  title:: 자동 업데이트되는 nyt 첫 페이지를 벽에 걸기
-  collapsed:: true
-	- 32인치 전자잉크 디스플레이 구매. nyt 첫 페이지를 저장해 노출
-- 금융소득 과세를 하지 않으면 모든 문제가 해결되는가. 공매도만 못하면 모든 문제가 해결되는가. 큰 틀에서 바라보지 못하고 미시적인 것에 집착함이 아쉽다. 
-  card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
-  tags:: card, memo, [[한국 경제]] [[경제위기]] 
-  source:: [[잡지/더스쿠프/579]] 
-  title:: 총선의 해 벽두의 '금투세 폐지' 약속 - 코리아 디스카운트 완화보다 증시 불확실성 높일라
-	- 정부가 금투세 폐지를 공식화한 표면적 이유는 글로벌 스탠더드와 코리아 디스카운트(한국 기업 주식 저평가) 해소다. 하지만 글로벌 스탠더드와 관련해선 경제협력개발기구(OECD) 회원국 대부분이 금투세와 주식 양도소득에 과세하고 있다. 금투세 폐지는 오히려 국제 규범에 어긋난다.
-	- 자본시장연구원 보고서를 보면 코리아 디스카운트의 주요 원인은 미흡한 주주 환원 정책과 국내 기업의 저조한 수익성과 성장성, 열악한 기업 지배구조 등이다. 세제는 주요 변수가 아니다. 국제 규범에 어긋나는 금투세 폐지로 인해 오히려 코리아 디스카운트가 커질 수 있다.
-	- 시장이 가장 두려워하는 것은 예측 불가능성이다. 여야 합의로 국회를 통과한 법안까지 폐지하는 것은 불확실성을 높이는 요인으로 작용할 것이다.
 - 한국 대기업의 구독경제란 오히려 불필요함이 있다. 럭키박스를 이용해 재고를 소진하는 것과 같은 느낌이다. 진짜 고객 관점의 혜택을 제공하지 못한다. 골목 상권에서 구독을 제공할 때 고객에게 이득이 발생할 여지가 더 크다.
   card-last-score:: 5
   card-repeats:: 4
