@@ -13,8 +13,12 @@ public:: false
   source::
   title::
   purpose:: [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
+  + [x]
+  + [x]
+  + [X]
+  + [ ]
 	- 원문
-		-
+		- +[ ]
 	- 생각의 가지
 		-
 - Student Teacher Dialog

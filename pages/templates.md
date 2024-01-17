@@ -18,7 +18,7 @@ public:: false
   + [X]
   + [ ]
 	- 원문
-		-
+		- +[ ]
 	- 생각의 가지
 		-
 - Student Teacher Dialog
