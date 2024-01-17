@@ -1,6 +1,6 @@
 public:: false
 
-- TODO 생각
+- 생각
   card-last-score:: 5
   card-repeats:: 4
   card-next-schedule:: 2024-01-18T07:06:14.738Z
@@ -12,14 +12,15 @@ public:: false
   tags:: card, memo,
   source::
   title::
-  purpose:: 
-  * [] [[p1.영감]] 
-  * TODO [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
-	- 원문
-		- TODO [#A] fwfefe
-		- DOING [#C] fwfwefefefdfd
-		- DONE [#B] ffwf
-	- 생각의 가지
+  purpose:: [[p1.영감]] / [[p2.유용]] / [[p3.개인적]] / [[p4.놀랄]]
+	- purpose
+		- TODO [[p1.영감]]
+		- TODO [[p2.유용]]
+		- TODO [[p3.개인적]]
+		- TODO [[p4.놀랄]]
+	- origin
+		-
+	- branches
 		-
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog

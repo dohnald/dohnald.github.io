@@ -12,12 +12,10 @@ public:: false
   tags:: card, memo,
   source::
   title::
-  purpose:: p1 [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
-	- 원문
-		- TODO [#A] fwfefe
-		- DOING [#C] fwfwefefefdfd
-		- DONE [#B] ffwf
-	- 생각의 가지
+  purpose:: [[p1.영감]] / [[p2.유용]] / [[p3.개인적]] / [[p4.놀랄]]
+	- origin
+		-
+	- branches
 		-
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
