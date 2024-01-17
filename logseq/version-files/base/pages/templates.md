@@ -14,6 +14,9 @@ public:: false
   title::
   purpose:: [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
 	- 원문
+		-
+	- 생각의 가지
+		-
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
 	- ```prompt
