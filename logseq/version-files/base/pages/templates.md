@@ -18,6 +18,9 @@ public:: false
 		- TODO [[p2.유용]]
 		- TODO [[p3.개인적]]
 		- TODO [[p4.놀랄]]
+		- purpose
+		  * [X] test
+		  * [X] test
 	- origin
 		-
 	- branches
