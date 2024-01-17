@@ -14,10 +14,9 @@ public:: false
   title::
   purpose:: p1 [[p1.영감]] [[p2.유용]] [[p3.개인적]] [[p4.놀랄]]
 	- 원문
-		- [#A]fwfefe
-		- [#C]fwfwefefefdfd
-		- [#B]ffwf
-		-
+		- TODO [#A] fwfefe
+		- DOING [#C] fwfwefefefdfd
+		- DONE [#B] ffwf
 	- 생각의 가지
 		-
 - Student Teacher Dialog
