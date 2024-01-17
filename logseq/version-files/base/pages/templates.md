@@ -12,7 +12,12 @@ public:: false
   tags:: card, memo,
   source::
   title::
-  purpose:: [[p1.영감]] / [[p2.유용]] / [[p3.개인적]] / [[p4.놀랄]]
+  purpose::
+	- purpose
+		- TODO [[p1.영감]]
+		- TODO [[p2.유용]]
+		- TODO [[p3.개인적]]
+		- TODO [[p4.놀랄]]
 	- origin
 		-
 	- branches
