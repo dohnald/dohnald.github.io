@@ -1,4 +1,3 @@
-- {{query (property :tags [[홍콩]])}}
 - ((658a32fe-2a39-4dd2-9b2f-fb9fc8c7d6ae))
 - ((6563e534-6529-4860-bf80-eed845fec28d))
 - ((ae4396a4-3039-45ee-93b4-021decdc6688))
