@@ -87,3 +87,6 @@ public:: false
 		- epaper hat
 - TODO [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]] 
   - ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
+
+- TODO [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]] 
+  - ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
