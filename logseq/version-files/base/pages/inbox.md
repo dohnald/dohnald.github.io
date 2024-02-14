@@ -54,11 +54,13 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
 - DONE [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
 - DONE [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
 - TODO [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
 - [[2024/02/14]] epaper
 	- test1
