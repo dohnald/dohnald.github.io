@@ -62,18 +62,18 @@ public:: false
 		- http://192.168.124.189
 		- 7.5 v2로 하면 busy 발생
 	- test2
-		- status B
+		- **status B**
 		- nodeMCU 1.0
 		- usb serial0001
 		- http://192.168.124.189
 	- test3
-		- status B
+		- **status B**
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper adaptor
 		- http://192.168.124.189
 	- test4
-		- status B
+		- **status B**
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
