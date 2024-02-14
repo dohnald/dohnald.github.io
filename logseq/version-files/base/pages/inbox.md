@@ -59,3 +59,4 @@ public:: false
 		- status A
 		- nodeMCU 1.0
 		- usb serial0001
+		- http://192.168.124.189
