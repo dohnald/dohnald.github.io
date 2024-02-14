@@ -56,4 +56,6 @@ public:: false
 	- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
 - [[2024/02/14]] epaper
 	- test1
-		-
+		- status A
+		- nodeMCU 1.0
+		- usb serial0001
