@@ -50,7 +50,8 @@ public:: false
 - DONE [보타남김호준-멋진 스키장에서 스노우보드 타는 모습 누구나 찍힐수 있다! feat 인스타360 x3](https://youtube.com/watch?v=J4U_wC6HoEU&si=aW7mwDJJLp7jgTW2) [[2024/02/14]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/J4U_wC6HoEU/hqdefault.jpg)
-- TODO [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
+- DONE [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
 - TODO [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
