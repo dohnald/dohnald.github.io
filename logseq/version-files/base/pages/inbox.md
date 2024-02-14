@@ -70,6 +70,10 @@ public:: false
 		- status B
 		- nodeMCU 1.0
 		- usb serial0001
-		- epaper hat
+		- epaper adaptor
 		- http://192.168.124.189
-		-
+	- test4
+		- status B
+		- nodeMCU 1.0
+		- usb serial0001
+		- epaper hat
