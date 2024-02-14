@@ -8,7 +8,7 @@ public:: false
 	  공룡키트로 나만의 공룡을 만들거나 태양계 행성 비즈로 우주 팔찌를 만드는 프로그램도 제공을 해줍니다
 	  존나 멋진데 어른은 못함
 	- {{tweet https://x.com/2__mxii/status/1747829103494050109?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [교육하는 의사! 이동환TV-머리 숱이 풍성해져요. 탈모 걱정 싹 사라지는 커피 샴푸 만드는 법.](https://youtube.com/watch?v=m2C0b6rz19Y&si=RIYr13n1FNzJHJwt) [[2024/02/10]]
+- DONE [교육하는 의사! 이동환TV-머리 숱이 풍성해져요. 탈모 걱정 싹 사라지는 커피 샴푸 만드는 법.](https://youtube.com/watch?v=m2C0b6rz19Y&si=RIYr13n1FNzJHJwt) [[2024/02/10]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/m2C0b6rz19Y/hqdefault.jpg)
 - TODO [Dearday 디어데이-발리 ep.1 아이와 발리 한달 살기 | 아이와 나의 23번째 나라 | 우붓 에어비앤비 숙소 | 공항 근처 가성비 숙소 | 우붓 맛집 뽀개기 스타트♡](https://youtube.com/watch?v=7YnNaiHUVKg&si=dtyL_bA1OY96CP7A) [[2024/02/11]]
@@ -46,14 +46,11 @@ public:: false
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
 - TODO [보타남김호준-멋진 스키장에서 스노우보드 타는 모습 누구나 찍힐수 있다! feat 인스타360 x3](https://youtube.com/watch?v=J4U_wC6HoEU&si=aW7mwDJJLp7jgTW2) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/J4U_wC6HoEU/hqdefault.jpg)
-- TODO [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]] 
-  - ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
-
-- TODO [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]] 
-  - ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
-
-- TODO [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]] 
-  - ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
-
-- TODO [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]] 
-  - ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
+- TODO [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
+	- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
+- TODO [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]]
+	- ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
+- TODO [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]]
+	- ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
+- TODO [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
+	- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
