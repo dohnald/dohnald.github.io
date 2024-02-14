@@ -48,6 +48,7 @@ public:: false
 - TODO [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
 - DONE [보타남김호준-멋진 스키장에서 스노우보드 타는 모습 누구나 찍힐수 있다! feat 인스타360 x3](https://youtube.com/watch?v=J4U_wC6HoEU&si=aW7mwDJJLp7jgTW2) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/J4U_wC6HoEU/hqdefault.jpg)
 - TODO [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
