@@ -175,3 +175,18 @@ public:: false
 	- DONE [14F 일사에프-외계인도 눈이 두 개일 수밖에 없는 과학적인 이유ㅣ10분토론 / 14F](https://youtube.com/watch?v=vY31_Qiv4jE&si=9cEFT-A49CPefcN9) [[2024/02/11]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/vY31_Qiv4jE/hqdefault.jpg)
+	- DONE [MrDIY-ESP8266 in 5 minutes](https://youtube.com/watch?v=dGrJi-ebZgI&si=VtCk0dT1yZUVE_9j) [[2024/02/09]]
+	- DONE [인터파크 투어 -한달살기의 성지! 인도네시아 발리에서 한달살기 [김은덕 백종민의 한달살기 시즌3] EP8](https://youtube.com/watch?v=0trPYEax9Sw&si=pcEJz6xehqI5L3TH) [[2024/02/11]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/0trPYEax9Sw/hqdefault.jpg)
+	- DONE [Starter Story-How I Built A $1M Business From This Starbucks](https://youtube.com/watch?v=T_wEmB5MapE&si=ovSf-fYSxXYCtfOF) [[2024/02/12]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/T_wEmB5MapE/hqdefault.jpg)
+	- DONE [라이브렉스 LiveREX-아직도 모니터암 안 써요? 몸이 편하고 싶다면 알아두세요! | 펠로우즈 라이징 모니터암](https://youtube.com/watch?v=9-0r153MLNU&si=p8nBu28Hs3doNYA7) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/9-0r153MLNU/hqdefault.jpg)
+	- DONE [책읽기일기-책을 제대로 기억하는 5단계 시스템을 알았습니다](https://youtube.com/watch?v=6bBB6FSjQrQ&si=PeqLyAQkzD9P1zS9) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/6bBB6FSjQrQ/hqdefault.jpg)
+	- DONE tweet [[2024/02/13]]
+		- {{tweet https://x.com/shinmilla/status/1756861943326109932?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
