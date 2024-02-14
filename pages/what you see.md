@@ -172,6 +172,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/azeWGYwChIc/hqdefault.jpg)
 - [[2024/02/13]]
+  collapsed:: true
 	- DONE [14F 일사에프-외계인도 눈이 두 개일 수밖에 없는 과학적인 이유ㅣ10분토론 / 14F](https://youtube.com/watch?v=vY31_Qiv4jE&si=9cEFT-A49CPefcN9) [[2024/02/11]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/vY31_Qiv4jE/hqdefault.jpg)

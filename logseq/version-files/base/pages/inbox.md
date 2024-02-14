@@ -1,11 +1,5 @@
 public:: false
 
-- [[아이디어/전자잉크미러]]
-  collapsed:: true
-	- 블루투스로 현재화면을 캡쳐해서 가져오기
-	  id:: 65a8e381-031e-47f2-a2d7-bfc1ad802e63
-	- 버튼을 누르는 순간에만 가져오도록
-	- next 버튼을 누르면 볼륨 업다운 등을 하고 화면 가져오기.
 - [[아이디어/생일]]
   collapsed:: true
 	- > 서대문 자연사 박물관에 너무너무 가고싶음
@@ -14,8 +8,6 @@ public:: false
 	  공룡키트로 나만의 공룡을 만들거나 태양계 행성 비즈로 우주 팔찌를 만드는 프로그램도 제공을 해줍니다
 	  존나 멋진데 어른은 못함
 	- {{tweet https://x.com/2__mxii/status/1747829103494050109?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
-- collapsed:: true
-	- ![](https://i.ytimg.com/vi/dGrJi-ebZgI/hqdefault.jpg)
 - TODO [교육하는 의사! 이동환TV-머리 숱이 풍성해져요. 탈모 걱정 싹 사라지는 커피 샴푸 만드는 법.](https://youtube.com/watch?v=m2C0b6rz19Y&si=RIYr13n1FNzJHJwt) [[2024/02/10]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/m2C0b6rz19Y/hqdefault.jpg)
@@ -37,8 +29,6 @@ public:: false
 		- {{embed ((658bc155-861b-4309-9273-9dea65735cd7))}}
 	- 원문
 		- 자유롭게 사용할 수 있는 중간 패킷을 꾸준히 만들어 저장해두면 ^^어느 순간부터는 갖고 있는 중간 패킷을 조립하기만 해도 전체 프로젝트를 실행할 수 있다.^^ 이는 생산성을 판단하는 방식을 송두리째 바꿔버릴 마법 같은 경험이다. 아무것도 없이 처음부터 시작한다는 생각은 이제 생소하게 들릴 것이다. 과거에 시간과 노력을 투자하여 만든 풍부한 자산을 새로운 일에 활용하면 어떨까? 사람들은 당신이 어떻게 그렇게 뛰어난 결과물을 꾸준히 만들어낼 수 있는지 놀라워할 것이다. 심지어 특별히 더 열심히 하거나 오랫동안 작업하지 않는데도 어떻게 시간을 내고 좋은 아이디어를 떠올리는지 궁금해할 것이다. ^^실제로 당신이 하는 일은 세컨드 브레인에서 점점 증가하고 있는 중간 패킷 보관실을 활용하는 게 전부다. 중간 패킷이 진정 가치 있는 자산이라면 당신이 소유한 다른 자산처럼 관리될 자격이 충분하다.^^
-- git log에서 파일명만 추출해서 반영
-	- 실제로는 배포가 아닌 ecr 변경이기 때문에 맞지않음
 - TODO [Gimbal Guru-11 unique Insta360 X3 ideas!](https://youtube.com/watch?v=R64wXgl1Rr4&si=YS4i46ss0HAQ5JQZ) [[2024/02/13]]
 	- ![](https://i.ytimg.com/vi/R64wXgl1Rr4/hqdefault.jpg)
 - TODO [과학이 필요한 시간, 과장창-과학자들이 천연세제 3대장을 쉽게 추천하지 못하는 이유(베이킹소다, 구연산, 과탄산소다) ｜청소의 과학](https://youtube.com/watch?v=iJTtdcXPWso&si=cNQk6lUv8KZugnVI) [[2024/02/14]]
