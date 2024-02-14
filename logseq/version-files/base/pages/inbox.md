@@ -94,3 +94,6 @@ public:: false
 
 - TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]] 
   - ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
+
+- TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]] 
+  - ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
