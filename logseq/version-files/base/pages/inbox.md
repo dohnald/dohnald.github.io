@@ -66,3 +66,10 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- http://192.168.124.189
+	- test3
+		- status B
+		- nodeMCU 1.0
+		- usb serial0001
+		- epaper hat
+		- http://192.168.124.189
+		-
