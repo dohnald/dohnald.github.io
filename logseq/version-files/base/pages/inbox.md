@@ -14,7 +14,7 @@ public:: false
 - TODO [Dearday 디어데이-발리 ep.1 아이와 발리 한달 살기 | 아이와 나의 23번째 나라 | 우붓 에어비앤비 숙소 | 공항 근처 가성비 숙소 | 우붓 맛집 뽀개기 스타트♡](https://youtube.com/watch?v=7YnNaiHUVKg&si=dtyL_bA1OY96CP7A) [[2024/02/11]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7YnNaiHUVKg/hqdefault.jpg)
-- TODO [Kevin Darrah-E-Paper + ESP8266 Tutorial - Easy Text & Images](https://youtube.com/watch?v=0IuqL-4UftA&si=oSSbH6bD41gRWDVQ) [[2024/02/11]]
+- DONE [Kevin Darrah-E-Paper + ESP8266 Tutorial - Easy Text & Images](https://youtube.com/watch?v=0IuqL-4UftA&si=oSSbH6bD41gRWDVQ) [[2024/02/11]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0IuqL-4UftA/hqdefault.jpg)
 - TODO [PhotoLukeHawaii-Waikiki at Night International Market Place ABC Stores Kalakaua Ave California Pizza Kitchen Ali Sky](https://youtube.com/watch?v=a2P0OGo2_tQ&si=ZBiZveL4iguCsPtg) [[2024/02/12]]
