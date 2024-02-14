@@ -2,11 +2,11 @@ public:: false
 
 - 생각
   card-last-score:: 5
-  card-repeats:: 4
-  card-next-schedule:: 2024-01-18T07:06:14.738Z
-  card-last-interval:: 31.36
-  card-ease-factor:: 2.8
-  card-last-reviewed:: 2023-12-17T23:06:14.739Z
+  card-repeats:: 5
+  card-next-schedule:: 2024-05-19T18:05:10.497Z
+  card-last-interval:: 97.56
+  card-ease-factor:: 2.9
+  card-last-reviewed:: 2024-02-12T05:05:10.498Z
   template:: highlight 하이라이트
   template-including-parent:: true
   tags:: card, memo,
@@ -17,9 +17,9 @@ public:: false
   * [ ] [[p2.유용]]
   * [ ] [[p3.개인적]]
   * [ ] [[p4.놀랄]]
-	- origin
+	- 생각들
 		-
-	- branches
+	- 인용
 		-
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
