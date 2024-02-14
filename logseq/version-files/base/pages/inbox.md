@@ -60,3 +60,9 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- http://192.168.124.189
+		- 7.5 v2로 하면 busy 발생
+	- test2
+		- status B
+		- nodeMCU 1.0
+		- usb serial0001
+		- http://192.168.124.189
