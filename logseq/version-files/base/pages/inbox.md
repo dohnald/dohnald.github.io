@@ -85,15 +85,13 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- TODO [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]]
+- DONE [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
 - DONE [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
-- TODO [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]] 
-  - ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
-
-- TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]] 
-  - ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
-
-- TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]] 
-  - ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
+- TODO [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]]
+	- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
+- TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
+	- ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
+- TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
+	- ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
