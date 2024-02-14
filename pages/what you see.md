@@ -189,4 +189,17 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/6bBB6FSjQrQ/hqdefault.jpg)
 	- DONE tweet [[2024/02/13]]
+	  collapsed:: true
 		- {{tweet https://x.com/shinmilla/status/1756861943326109932?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [TH K-고프로8을 자전거 블랙박스로! : 보조배터리 달아주기](https://youtube.com/watch?v=6P5dsKMlW54&si=eE6NrIDOBtSmjOve) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/6P5dsKMlW54/hqdefault.jpg)
+	- DONE [Her 86m2-#61 How I Make My Cinematic Videos / Behind the Scenes of Filming / Plan, Shoot, Edit,…](https://youtube.com/watch?v=wE2g_aJ8jW4&si=dOGVdvwU1HmW5sXd) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/wE2g_aJ8jW4/hqdefault.jpg)
+	- DONE [브라이언의 브레인 트리니티 (Brain Trinity)-독서할 때 더이상 하이라이트 하지 마시고 A6카드에 메모하세요 | 브라이언의 종이책 독서법 | 아날로그 제텔카스텐 독서법](https://youtube.com/watch?v=dLvLtKzFxfg&si=ximPpIfDqhxyV2Wt) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/dLvLtKzFxfg/hqdefault.jpg)
+	- DONE [브라이언의 브레인 트리니티 (Brain Trinity)-챗GPT와 생성 AI, 두려워하지 말고 나의 끝없는 성장을 위해 이용하자. 생성 AI 시대에서 새로운 사고방식, 패러다임 | 브레인 트리니티, 3개의 두뇌, 세컨드 브레인](https://youtube.com/watch?v=92RPcHSwSWo&si=MqokZlcZ0VTgB77J) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/92RPcHSwSWo/hqdefault.jpg)
