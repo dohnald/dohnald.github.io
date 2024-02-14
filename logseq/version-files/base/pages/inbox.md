@@ -85,3 +85,5 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
+- TODO [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]] 
+  - ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
