@@ -59,7 +59,7 @@ public:: false
 - DONE [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
-- TODO [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
+- DONE [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
 - [[2024/02/14]] epaper
@@ -85,8 +85,7 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- TODO [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]] 
-  - ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
-
-- TODO [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]] 
-  - ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
+- TODO [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]]
+	- ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
+- DONE [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]]
+	- ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
