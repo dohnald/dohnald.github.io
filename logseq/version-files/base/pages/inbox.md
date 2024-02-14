@@ -17,7 +17,7 @@ public:: false
 - DONE [Kevin Darrah-E-Paper + ESP8266 Tutorial - Easy Text & Images](https://youtube.com/watch?v=0IuqL-4UftA&si=oSSbH6bD41gRWDVQ) [[2024/02/11]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0IuqL-4UftA/hqdefault.jpg)
-- TODO [PhotoLukeHawaii-Waikiki at Night International Market Place ABC Stores Kalakaua Ave California Pizza Kitchen Ali Sky](https://youtube.com/watch?v=a2P0OGo2_tQ&si=ZBiZveL4iguCsPtg) [[2024/02/12]]
+- DONE [PhotoLukeHawaii-Waikiki at Night International Market Place ABC Stores Kalakaua Ave California Pizza Kitchen Ali Sky](https://youtube.com/watch?v=a2P0OGo2_tQ&si=ZBiZveL4iguCsPtg) [[2024/02/12]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/a2P0OGo2_tQ/hqdefault.jpg)
 - `중간 패킷`을 통해 백지에서 시작하는 어려움을 없애고 여유가 있을 때 조금씩 발전을 시킬 수 있다.
@@ -30,8 +30,10 @@ public:: false
 	- 원문
 		- 자유롭게 사용할 수 있는 중간 패킷을 꾸준히 만들어 저장해두면 ^^어느 순간부터는 갖고 있는 중간 패킷을 조립하기만 해도 전체 프로젝트를 실행할 수 있다.^^ 이는 생산성을 판단하는 방식을 송두리째 바꿔버릴 마법 같은 경험이다. 아무것도 없이 처음부터 시작한다는 생각은 이제 생소하게 들릴 것이다. 과거에 시간과 노력을 투자하여 만든 풍부한 자산을 새로운 일에 활용하면 어떨까? 사람들은 당신이 어떻게 그렇게 뛰어난 결과물을 꾸준히 만들어낼 수 있는지 놀라워할 것이다. 심지어 특별히 더 열심히 하거나 오랫동안 작업하지 않는데도 어떻게 시간을 내고 좋은 아이디어를 떠올리는지 궁금해할 것이다. ^^실제로 당신이 하는 일은 세컨드 브레인에서 점점 증가하고 있는 중간 패킷 보관실을 활용하는 게 전부다. 중간 패킷이 진정 가치 있는 자산이라면 당신이 소유한 다른 자산처럼 관리될 자격이 충분하다.^^
 - DONE [Gimbal Guru-11 unique Insta360 X3 ideas!](https://youtube.com/watch?v=R64wXgl1Rr4&si=YS4i46ss0HAQ5JQZ) [[2024/02/13]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/R64wXgl1Rr4/hqdefault.jpg)
 - DONE [과학이 필요한 시간, 과장창-과학자들이 천연세제 3대장을 쉽게 추천하지 못하는 이유(베이킹소다, 구연산, 과탄산소다) ｜청소의 과학](https://youtube.com/watch?v=iJTtdcXPWso&si=cNQk6lUv8KZugnVI) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/iJTtdcXPWso/hqdefault.jpg)
 - 생각
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
@@ -41,6 +43,7 @@ public:: false
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
 - DONE [세아로그 Se.A Log-남자친구? 직업? 생애 첫 QnA를 가져왔는데..](https://youtube.com/watch?v=PSHLhQksiNI&si=7CBPwWHUZ8Nk0Mhm) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/PSHLhQksiNI/hqdefault.jpg)
 - TODO [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
