@@ -91,3 +91,6 @@ public:: false
 	- ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
 - TODO [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]] 
   - ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
+
+- TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]] 
+  - ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
