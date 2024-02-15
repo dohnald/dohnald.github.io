@@ -158,7 +158,6 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > < 내가 뉴스레터 노트 정리하는 법 >  
-  
   1\. 경제 뉴스레터 [pic.twitter.com/1YbktNSWtl](https://t.co/1YbktNSWtl)
   
   collapsed:: true
