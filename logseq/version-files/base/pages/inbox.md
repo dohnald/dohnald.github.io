@@ -71,7 +71,7 @@ public:: false
 - DONE [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
-- TODO [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
+- DONE [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/yGRCF0Z2Bqk/hqdefault.jpg)
 - TODO [샾잉 #ing-[#뿅뿅지구오락실2] 김미현 본업 모먼트ㄷㄷ 다들 잊지 마 미미 아이돌인 거⭐ 4번의 기본기에 머리 쓸기 말만 듣고 박진영 Groove Back 안무 완벽 재현한 오마이걸 메덴💯](https://youtube.com/watch?v=zZ8VLEovn54&si=cAoTKoFG0rHHeRDh) [[2024/02/15]] 
@@ -219,17 +219,14 @@ public:: false
 - [[아이디어/날씨]]
 	- 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
 - TODO [소람 soram-아이폰 단축어로 자동 일기를 써요 | 3년만의 업그레이드✨](https://youtube.com/watch?v=DELhKD1zVcw&si=C46hgzggpXFWrWmk) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/DELhKD1zVcw/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/DELhKD1zVcw/hqdefault.jpg)
 - TODO [뉴스안하니-우울할 때 보세요😂 박소영 아나의 발레 체험기🦢 쏘요와쏘요? ep.2](https://youtube.com/watch?v=okR_W_3LgJ8&si=QdAn1SUEPFFsamGJ) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/okR_W_3LgJ8/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/okR_W_3LgJ8/hqdefault.jpg)
 - TODO [ootb STUDIO-창섭이 쏘아올린 말왕 등판 [무인도 5일차] | 무이자 ep.05 [EN/ID/JP]](https://youtube.com/watch?v=jCBPKxOg8sI&si=FMjQ7zHVvMTXKnZW) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/jCBPKxOg8sI/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/jCBPKxOg8sI/hqdefault.jpg)
 - TODO [Matthew Encina-How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow](https://youtube.com/watch?v=5Kb3mlUwwL0&si=2PhpTMJIVPXZK0e3) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/5Kb3mlUwwL0/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/5Kb3mlUwwL0/hqdefault.jpg)
