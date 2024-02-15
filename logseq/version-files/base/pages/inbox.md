@@ -77,7 +77,7 @@ public:: false
 - DONE [샾잉 #ing-[#뿅뿅지구오락실2] 김미현 본업 모먼트ㄷㄷ 다들 잊지 마 미미 아이돌인 거⭐ 4번의 기본기에 머리 쓸기 말만 듣고 박진영 Groove Back 안무 완벽 재현한 오마이걸 메덴💯](https://youtube.com/watch?v=zZ8VLEovn54&si=cAoTKoFG0rHHeRDh) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/zZ8VLEovn54/hqdefault.jpg)
-- TODO [Occupied Studios-Insta360 X3 | Creating Virtual Tours with Matterport](https://youtube.com/watch?v=Duu1N9ZFhuk&si=aSXBlGuJlpKP1TB2) [[2024/02/15]] 
+- DONE [Occupied Studios-Insta360 X3 | Creating Virtual Tours with Matterport](https://youtube.com/watch?v=Duu1N9ZFhuk&si=aSXBlGuJlpKP1TB2) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Duu1N9ZFhuk/hqdefault.jpg)
 - TODO [광장-의사보다 유튜버? 유튜브로 돈벌기 끝판왕](https://youtube.com/watch?v=Sl11X4qo53g&si=Paoed7aSEJSO_DIk) [[2024/02/15]] 
