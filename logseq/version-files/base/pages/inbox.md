@@ -258,3 +258,7 @@ collapsed:: true
 - TODO [Krister Anne-my iphone vlogging setup 🎬🎙️ filming accessories + sample asmr unboxing (ft. Hollyland Lark C1)](https://youtube.com/watch?v=P9C4ezIIY_4&si=gcT5OPj60ruB57tj) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/P9C4ezIIY_4/hqdefault.jpg)
+
+- TODO [둥지언니 Doongsis-발리 한 달 살기 솔직 후기.. 역대 최고 생활비 쓰고 떠납니다 【발리.04】](https://youtube.com/watch?v=RmYUdEadJlU&si=IHcqzfWrN3l6REpm) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/RmYUdEadJlU/hqdefault.jpg)
