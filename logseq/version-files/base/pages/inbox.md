@@ -242,3 +242,11 @@ collapsed:: true
 - TODO [Thomas Frank-How I Automate My Finances](https://youtube.com/watch?v=XImly72tLw0&si=aSGkqYgFgzU_Z4tE) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/XImly72tLw0/hqdefault.jpg)
+
+- TODO [EBSDocumentary (EBS 다큐)-[Full] 귀하신 몸 - 23화 척추측만증, 당신의 척추는 몇 도입니까?](https://youtube.com/watch?v=GOX7CMPigZk&si=d0XYNi6tfQVRVRJp) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/GOX7CMPigZk/hqdefault.jpg)
+
+- TODO [시칠리안 SICILIAN-돈 안써도 행복하고 돈 쓰면 더 행복한 발리 한달살기 [시칠리안 인도네시아 01]_우붓에서 시작!](https://youtube.com/watch?v=LfJlLeG5mzg&si=QYCIwHKUvqaoVaF2) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/LfJlLeG5mzg/hqdefault.jpg)
