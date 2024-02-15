@@ -97,14 +97,13 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > 3 years ago, I quit everything to build the life I want.  
   I went from $0 → $500,000.  
   Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
 	- {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
-  
-  collapsed:: true
+- TODO [[2024/02/15]]
 	- {{tweet https://x.com/la_jardiniere_/status/1754842447124086944?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
