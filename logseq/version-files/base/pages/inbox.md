@@ -72,33 +72,25 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
 - TODO [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/yGRCF0Z2Bqk/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/yGRCF0Z2Bqk/hqdefault.jpg)
 - TODO [샾잉 #ing-[#뿅뿅지구오락실2] 김미현 본업 모먼트ㄷㄷ 다들 잊지 마 미미 아이돌인 거⭐ 4번의 기본기에 머리 쓸기 말만 듣고 박진영 Groove Back 안무 완벽 재현한 오마이걸 메덴💯](https://youtube.com/watch?v=zZ8VLEovn54&si=cAoTKoFG0rHHeRDh) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/zZ8VLEovn54/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/zZ8VLEovn54/hqdefault.jpg)
 - TODO [Occupied Studios-Insta360 X3 | Creating Virtual Tours with Matterport](https://youtube.com/watch?v=Duu1N9ZFhuk&si=aSXBlGuJlpKP1TB2) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Duu1N9ZFhuk/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Duu1N9ZFhuk/hqdefault.jpg)
 - TODO [광장-의사보다 유튜버? 유튜브로 돈벌기 끝판왕](https://youtube.com/watch?v=Sl11X4qo53g&si=Paoed7aSEJSO_DIk) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Sl11X4qo53g/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Sl11X4qo53g/hqdefault.jpg)
 - TODO [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [[2024/02/15]] 
-> 얼마전에 탐라에 돌던 기력 파라미터 참고해서 나한테 맞게 수정하고   
-원래 쓰던 기분 파라미터...도 그려서 열매책 맨 앞장에 붙여놓음  
-한층 더 객관적으로 자신의 상태를 파악할 수 있게 되어 좋습니다 [pic.twitter.com/NPAlQaZ6OB](https://t.co/NPAlQaZ6OB)
-
-collapsed:: true
-  - {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  > 얼마전에 탐라에 돌던 기력 파라미터 참고해서 나한테 맞게 수정하고   
+  원래 쓰던 기분 파라미터...도 그려서 열매책 맨 앞장에 붙여놓음  
+  한층 더 객관적으로 자신의 상태를 파악할 수 있게 되어 좋습니다 [pic.twitter.com/NPAlQaZ6OB](https://t.co/NPAlQaZ6OB)
+	- {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
