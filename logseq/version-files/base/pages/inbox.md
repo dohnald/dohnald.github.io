@@ -53,10 +53,10 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
+- DONE [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
-- TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
+- DONE [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
 - https://babybilly.app/contents/detail/2451
@@ -68,7 +68,7 @@ public:: false
   Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
 	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 	-
-- TODO [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
+- DONE [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
 - TODO [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
@@ -155,7 +155,8 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > < 내가 뉴스레터 노트 정리하는 법 >  
   1\. 경제 뉴스레터 [pic.twitter.com/1YbktNSWtl](https://t.co/1YbktNSWtl)
   
@@ -185,7 +186,6 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > 영어 원서에 도전해보고 싶은 분들을 위한 팁  
   우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
 	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
