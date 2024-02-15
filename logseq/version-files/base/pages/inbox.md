@@ -217,3 +217,18 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/d_ijk_stra/status/1451073947080945668?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
+\- 총 47종의 접는 종이비행기 디자인들   
+\- 접는 방법 단계별 설명 & 비디오   
+\- 출력 가능한 PDF로도 제공 ($5.99 1회성 결제 필요)
+
+collapsed:: true
+  - {{tweet https://x.com/geeknewsbot/status/1549932180046249985?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 여름맞이 제습제 갈이. 제습제 통을 씻은 후 염화칼슘 가루 보충. 귀찮고 번거롭지만 가격이 싸고 쓰레기가 적게 나온다. [pic.twitter.com/rH8trSWIqL](https://t.co/rH8trSWIqL)
+
+collapsed:: true
+  - {{tweet https://x.com/aperitif89/status/1676132824649441286?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
