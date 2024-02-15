@@ -234,3 +234,11 @@ public:: false
 - TODO [썰플리-가족여행시 부모님 금지어 십계명 | 가족여행썰 | 썰플리 | 이석훈 | 오키나와](https://youtube.com/watch?v=fS7bHWY2dVc&si=58RUrh5aJ59rYsB1) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/fS7bHWY2dVc/hqdefault.jpg)
+
+- TODO [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
+
+- TODO [Thomas Frank-How I Automate My Finances](https://youtube.com/watch?v=XImly72tLw0&si=aSGkqYgFgzU_Z4tE) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/XImly72tLw0/hqdefault.jpg)
