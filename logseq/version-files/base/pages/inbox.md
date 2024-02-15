@@ -115,7 +115,8 @@ public:: false
   — Sian (@iamjustsian) February 11, 2024
 	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] VC�먭쾶 �ъ옄瑜� 諛쏆� �딄퀬 �먯튃�� 吏��ㅻŉ 留뚮뱺 �듭떆�붿뼵�� �덈Т�� 醫뗫떎.  �몄긽�� �섎쭖�� �깅뱾�� 怨쇱뿰 �곕━�먭쾶 �꾩슂�덈뜕媛�? 洹몃━怨� 洹몃윴 �깅뱾�� �ъ옄湲덉씠 �뺣쭚 �꾩슂�덉쓣源�? https://t.co/VSzh3Q0uDU
-— Sian (@iamjustsian) February 11, 2024
+  — Sian (@iamjustsian) February 11, 2024
+  
+  collapsed:: true
+	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 
-collapsed:: true
-  - {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
