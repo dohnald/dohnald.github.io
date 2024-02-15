@@ -137,8 +137,11 @@ public:: false
   > 주 3일 쉬고 싶다🙏  
   주 4일 근로자가 3일이 된 주말을 활용하는 방법 - BBC News 코리아 <https://t.co/SXk0BudCEz>
 	- {{tweet https://x.com/momo_424242/status/1645031331825606659?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > 내 생각에 영유라는 것은 영어실력을 배우는 게 중요한 게 아니라 부모가 나는 자식의 미래를 위해 떼돈을 태우고 있다는 자기학대적 상황이 더 중요한 거라서 게임은 언제나 계속되리라고 본다. 부모들이 영어실력이 뭐일 거고 그걸 체크업할 수 있다고 믿기 힘듬. <https://t.co/sMW6fv1BhB>
+  
+  collapsed:: true
 	- {{tweet https://x.com/seemswicked/status/1639710275602620416?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
