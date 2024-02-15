@@ -254,3 +254,7 @@ collapsed:: true
 - TODO [라디오스타-[뒤풀이스타] 클린스만의 미소, 아이돌 연애, 놀토 회식, 낚시 키보드 워리어가 한 영상에 다 나옵니다. l Ep.4 김동현&KCM&조원희&손동표](https://youtube.com/watch?v=8-sO9gjcnes&si=AQgCB51QCHz8qEwO) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/8-sO9gjcnes/hqdefault.jpg)
+
+- TODO [Krister Anne-my iphone vlogging setup 🎬🎙️ filming accessories + sample asmr unboxing (ft. Hollyland Lark C1)](https://youtube.com/watch?v=P9C4ezIIY_4&si=gcT5OPj60ruB57tj) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/P9C4ezIIY_4/hqdefault.jpg)
