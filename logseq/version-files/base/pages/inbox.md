@@ -134,10 +134,7 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 주 3일 쉬고 싶다🙏  
-  
   주 4일 근로자가 3일이 된 주말을 활용하는 방법 - BBC News 코리아 <https://t.co/SXk0BudCEz>
-  
-  collapsed:: true
 	- {{tweet https://x.com/momo_424242/status/1645031331825606659?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
