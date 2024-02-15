@@ -176,3 +176,16 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/dzuffii/status/1625441316908978176?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
+  
+7천만원 빚 못갚아서 울고있는 주부  
+서빙 그만하고 실제로는 예술하고 싶은 웨이트리스  
+사업 성공했는데 일찍 은퇴하고 싶은 부부  
+반짝 돈 받고 다 탕진해버린 운동선수   
+  
+이렇게 넷이 재정전문가의 도움받는 이야기임
+
+collapsed:: true
+  - {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
