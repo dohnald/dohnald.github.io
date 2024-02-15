@@ -27,8 +27,10 @@ public:: false
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
 - TODO [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
 - [[2024/02/14]] epaper
+  collapsed:: true
 	- test1
 		- status A
 		- nodeMCU 1.0
@@ -52,8 +54,10 @@ public:: false
 		- usb serial0001
 		- epaper hat
 - TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
 - TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
