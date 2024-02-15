@@ -189,3 +189,17 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
+
+collapsed:: true
+  - {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
+아마 다들 아실만한 도구들입니다.  
+요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
+
+collapsed:: true
+  - {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
