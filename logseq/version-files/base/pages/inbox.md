@@ -232,3 +232,9 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/aperitif89/status/1676132824649441286?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 영어공부 이렇게 하래서... 넷플에서 hack my home 틀어놓고 무자막으로 봐봤는데 내가 여태까지 영어공부 하면서 쓰던 뇌세포보다 무자막으로 보는 지금의 뇌세포가 더 많을 거 같음...에너지쓰임 장난 아님요 <https://t.co/oNNHRxQ63X>
+
+collapsed:: true
+  - {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
