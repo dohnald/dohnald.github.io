@@ -26,7 +26,7 @@ public:: false
 		- {{embed ((654a5d27-f3b7-4a37-9789-e0770477272f))}}
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
-- TODO [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
+- DONE [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
 - [[2024/02/14]] epaper
@@ -68,3 +68,6 @@ public:: false
   Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
 	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 	-
+- TODO [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
