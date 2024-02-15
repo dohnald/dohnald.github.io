@@ -98,143 +98,140 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 3 years ago, I quit everything to build the life I want.  
+  > 3 years ago, I quit everything to build the life I want.  
   
-I went from $0 → $500,000.  
+  I went from $0 → $500,000.  
   
-Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
-
-collapsed:: true
-  - {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
+	- {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-
-collapsed:: true
-  - {{tweet https://x.com/la_jardiniere_/status/1754842447124086944?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> GN⁺: OpenAI의 프롬프트 엔지니어링 가이드 <https://t.co/UkWl4VLrzj>   
-\- 대규모 언어 모델(GPT 모델이라고도 함)에서 더 나은 결과를 얻기 위한 전략과 기술을 공유하는 가이드   
-\- 여기서 설명하는 방법들은 때때로 결합하여 더 큰 효과를 낼 수 있으며, 가장 적합한 방법을 찾기 위해 실험을 ...
-
-collapsed:: true
-  - {{tweet https://x.com/geeknewsbot/status/1736548591722963381?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 일주일에 최소 4시간은 '규칙적으로 딴짓'을 하기로 결심했습니다. 덮어놨던 사이드 프로젝트도 살펴보고, 하고 싶은 개발(공부)도 하면서 자기 계발을 하고자 합니다. 함께하실 분들은 스윗미라 생각하시고 틀어놔 주시면 감사하겠습니다.  
   
-월화수목 19:30부터 1시간+ <https://t.co/lURjOlRN85>
-
-collapsed:: true
-  - {{tweet https://x.com/hyunbinseo97/status/1700738168151257330?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+	- {{tweet https://x.com/la_jardiniere_/status/1754842447124086944?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 시간이 허락한다면, 아래 타래의 알랭드보통이 쓴 두권의 책과 함께 꼭 한번 볼만한 다큐  
+  collapsed:: true
+  > GN⁺: OpenAI의 프롬프트 엔지니어링 가이드 <https://t.co/UkWl4VLrzj>   
+  \- 대규모 언어 모델(GPT 모델이라고도 함)에서 더 나은 결과를 얻기 위한 전략과 기술을 공유하는 가이드   
+  \- 여기서 설명하는 방법들은 때때로 결합하여 더 큰 효과를 낼 수 있으며, 가장 적합한 방법을 찾기 위해 실험을 ...
   
-Check out “Working: What We Do All Day” on Netflix<https://t.co/OKqADsKOHN>
-
-collapsed:: true
-  - {{tweet https://x.com/moomini00/status/1659200621587861506?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+	- {{tweet https://x.com/geeknewsbot/status/1736548591722963381?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 넷플릭스 다큐멘터리 '인투 더 딥: 어느 발명가의 살인' 보고 있는데 존나 무섭다 ...  
-처음엔 발명 다큐멘터리 찍으려고 촬영하기 시작한건데 어느날 그 발명가가 잠수함에서 다른 기자를 살해하면서... 갑자기 범죄 다큐멘터리가 돼버림...
-
-collapsed:: true
-  - {{tweet https://x.com/jukeboxhumvee/status/1647614809385627648?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 주 3일 쉬고 싶다🙏  
+  collapsed:: true
+  > 일주일에 최소 4시간은 '규칙적으로 딴짓'을 하기로 결심했습니다. 덮어놨던 사이드 프로젝트도 살펴보고, 하고 싶은 개발(공부)도 하면서 자기 계발을 하고자 합니다. 함께하실 분들은 스윗미라 생각하시고 틀어놔 주시면 감사하겠습니다.  
   
-주 4일 근로자가 3일이 된 주말을 활용하는 방법 - BBC News 코리아 <https://t.co/SXk0BudCEz>
-
-collapsed:: true
-  - {{tweet https://x.com/momo_424242/status/1645031331825606659?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 내 생각에 영유라는 것은 영어실력을 배우는 게 중요한 게 아니라 부모가 나는 자식의 미래를 위해 떼돈을 태우고 있다는 자기학대적 상황이 더 중요한 거라서 게임은 언제나 계속되리라고 본다. 부모들이 영어실력이 뭐일 거고 그걸 체크업할 수 있다고 믿기 힘듬. <https://t.co/sMW6fv1BhB>
-
-collapsed:: true
-  - {{tweet https://x.com/seemswicked/status/1639710275602620416?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> API 개념을 이렇게 흥미롭게 설명할 수 있다니. 인간을 흉내 내며 인터페이스를 조작하지 않고, 유튜브 서버와 직접 소통하는 방식으로 유튜브 영상의 제목을 업데이트할 수 있는 방법 - 이렇게 이야기를 풀어가네 <https://t.co/zNLkAL78tV>
-
-collapsed:: true
-  - {{tweet https://x.com/hyunbinseo97/status/1636931905487777793?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
-
-collapsed:: true
-  - {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> < 내가 뉴스레터 노트 정리하는 법 >  
+  월화수목 19:30부터 1시간+ <https://t.co/lURjOlRN85>
   
-1\. 경제 뉴스레터 [pic.twitter.com/1YbktNSWtl](https://t.co/1YbktNSWtl)
-
-collapsed:: true
-  - {{tweet https://x.com/dzuffii/status/1625441316908978176?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+	- {{tweet https://x.com/hyunbinseo97/status/1700738168151257330?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
+  collapsed:: true
+  > 시간이 허락한다면, 아래 타래의 알랭드보통이 쓴 두권의 책과 함께 꼭 한번 볼만한 다큐  
   
-7천만원 빚 못갚아서 울고있는 주부  
-서빙 그만하고 실제로는 예술하고 싶은 웨이트리스  
-사업 성공했는데 일찍 은퇴하고 싶은 부부  
-반짝 돈 받고 다 탕진해버린 운동선수   
+  Check out “Working: What We Do All Day” on Netflix<https://t.co/OKqADsKOHN>
   
-이렇게 넷이 재정전문가의 도움받는 이야기임
-
-collapsed:: true
-  - {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+	- {{tweet https://x.com/moomini00/status/1659200621587861506?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
-
-collapsed:: true
-  - {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
-아마 다들 아실만한 도구들입니다.  
-요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
-
-collapsed:: true
-  - {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
-- TODO [[2024/02/15]] 
-> 영어 원서에 도전해보고 싶은 분들을 위한 팁  
+  collapsed:: true
+  > 넷플릭스 다큐멘터리 '인투 더 딥: 어느 발명가의 살인' 보고 있는데 존나 무섭다 ...  
+  처음엔 발명 다큐멘터리 찍으려고 촬영하기 시작한건데 어느날 그 발명가가 잠수함에서 다른 기자를 살해하면서... 갑자기 범죄 다큐멘터리가 돼버림...
   
-우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
-
-collapsed:: true
-  - {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+	- {{tweet https://x.com/jukeboxhumvee/status/1647614809385627648?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 추천해주신 책 how to talk so little kids will listen 너무 잘 읽고 있습니다…
-
-collapsed:: true
-  - {{tweet https://x.com/d_ijk_stra/status/1451073947080945668?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+  > 주 3일 쉬고 싶다🙏  
+  
+  주 4일 근로자가 3일이 된 주말을 활용하는 방법 - BBC News 코리아 <https://t.co/SXk0BudCEz>
+  
+  collapsed:: true
+	- {{tweet https://x.com/momo_424242/status/1645031331825606659?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
-\- 총 47종의 접는 종이비행기 디자인들   
-\- 접는 방법 단계별 설명 & 비디오   
-\- 출력 가능한 PDF로도 제공 ($5.99 1회성 결제 필요)
-
-collapsed:: true
-  - {{tweet https://x.com/geeknewsbot/status/1549932180046249985?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+  > 내 생각에 영유라는 것은 영어실력을 배우는 게 중요한 게 아니라 부모가 나는 자식의 미래를 위해 떼돈을 태우고 있다는 자기학대적 상황이 더 중요한 거라서 게임은 언제나 계속되리라고 본다. 부모들이 영어실력이 뭐일 거고 그걸 체크업할 수 있다고 믿기 힘듬. <https://t.co/sMW6fv1BhB>
+  
+  collapsed:: true
+	- {{tweet https://x.com/seemswicked/status/1639710275602620416?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 여름맞이 제습제 갈이. 제습제 통을 씻은 후 염화칼슘 가루 보충. 귀찮고 번거롭지만 가격이 싸고 쓰레기가 적게 나온다. [pic.twitter.com/rH8trSWIqL](https://t.co/rH8trSWIqL)
-
-collapsed:: true
-  - {{tweet https://x.com/aperitif89/status/1676132824649441286?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-
+  collapsed:: true
+  > API 개념을 이렇게 흥미롭게 설명할 수 있다니. 인간을 흉내 내며 인터페이스를 조작하지 않고, 유튜브 서버와 직접 소통하는 방식으로 유튜브 영상의 제목을 업데이트할 수 있는 방법 - 이렇게 이야기를 풀어가네 <https://t.co/zNLkAL78tV>
+  
+  collapsed:: true
+	- {{tweet https://x.com/hyunbinseo97/status/1636931905487777793?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-> 영어공부 이렇게 하래서... 넷플에서 hack my home 틀어놓고 무자막으로 봐봤는데 내가 여태까지 영어공부 하면서 쓰던 뇌세포보다 무자막으로 보는 지금의 뇌세포가 더 많을 거 같음...에너지쓰임 장난 아님요 <https://t.co/oNNHRxQ63X>
-
-collapsed:: true
-  - {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  collapsed:: true
+  > 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
+  
+  collapsed:: true
+	- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > < 내가 뉴스레터 노트 정리하는 법 >  
+  
+  1\. 경제 뉴스레터 [pic.twitter.com/1YbktNSWtl](https://t.co/1YbktNSWtl)
+  
+  collapsed:: true
+	- {{tweet https://x.com/dzuffii/status/1625441316908978176?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
+  
+  7천만원 빚 못갚아서 울고있는 주부  
+  서빙 그만하고 실제로는 예술하고 싶은 웨이트리스  
+  사업 성공했는데 일찍 은퇴하고 싶은 부부  
+  반짝 돈 받고 다 탕진해버린 운동선수   
+  
+  이렇게 넷이 재정전문가의 도움받는 이야기임
+  
+  collapsed:: true
+	- {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
+  
+  collapsed:: true
+	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
+  아마 다들 아실만한 도구들입니다.  
+  요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
+  
+  collapsed:: true
+	- {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 영어 원서에 도전해보고 싶은 분들을 위한 팁  
+  
+  우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
+  
+  collapsed:: true
+	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 추천해주신 책 how to talk so little kids will listen 너무 잘 읽고 있습니다…
+  
+  collapsed:: true
+	- {{tweet https://x.com/d_ijk_stra/status/1451073947080945668?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
+  \- 총 47종의 접는 종이비행기 디자인들   
+  \- 접는 방법 단계별 설명 & 비디오   
+  \- 출력 가능한 PDF로도 제공 ($5.99 1회성 결제 필요)
+  
+  collapsed:: true
+	- {{tweet https://x.com/geeknewsbot/status/1549932180046249985?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 여름맞이 제습제 갈이. 제습제 통을 씻은 후 염화칼슘 가루 보충. 귀찮고 번거롭지만 가격이 싸고 쓰레기가 적게 나온다. [pic.twitter.com/rH8trSWIqL](https://t.co/rH8trSWIqL)
+  
+  collapsed:: true
+	- {{tweet https://x.com/aperitif89/status/1676132824649441286?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] 
+  collapsed:: true
+  > 영어공부 이렇게 하래서... 넷플에서 hack my home 틀어놓고 무자막으로 봐봤는데 내가 여태까지 영어공부 하면서 쓰던 뇌세포보다 무자막으로 보는 지금의 뇌세포가 더 많을 거 같음...에너지쓰임 장난 아님요 <https://t.co/oNNHRxQ63X>
+  
+  collapsed:: true
+	- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
