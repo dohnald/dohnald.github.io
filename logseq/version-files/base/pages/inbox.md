@@ -101,6 +101,3 @@ public:: false
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
-- TODO https://publish.twitter.com/oembed?url=https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw [[2024/02/15]] 
-collapsed:: true
-  - {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
