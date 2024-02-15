@@ -218,3 +218,5 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- [[아이디어/날씨]]
+	- 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
