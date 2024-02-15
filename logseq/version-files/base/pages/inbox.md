@@ -250,3 +250,7 @@ collapsed:: true
 - TODO [시칠리안 SICILIAN-돈 안써도 행복하고 돈 쓰면 더 행복한 발리 한달살기 [시칠리안 인도네시아 01]_우붓에서 시작!](https://youtube.com/watch?v=LfJlLeG5mzg&si=QYCIwHKUvqaoVaF2) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/LfJlLeG5mzg/hqdefault.jpg)
+
+- TODO [라디오스타-[뒤풀이스타] 클린스만의 미소, 아이돌 연애, 놀토 회식, 낚시 키보드 워리어가 한 영상에 다 나옵니다. l Ep.4 김동현&KCM&조원희&손동표](https://youtube.com/watch?v=8-sO9gjcnes&si=AQgCB51QCHz8qEwO) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/8-sO9gjcnes/hqdefault.jpg)
