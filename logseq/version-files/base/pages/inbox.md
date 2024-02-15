@@ -62,7 +62,7 @@ public:: false
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
-- TODO [[2024/02/15]]
+- DONE [[2024/02/15]]
   collapsed:: true
   > GeekNews Weekly #240 지금이 30년만에 회사를 창업하기 가장 좋은 시기입니다 <https://t.co/td0oAAaHqI>   
   Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
@@ -90,7 +90,6 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > 얼마전에 탐라에 돌던 기력 파라미터 참고해서 나한테 맞게 수정하고   
   원래 쓰던 기분 파라미터...도 그려서 열매책 맨 앞장에 붙여놓음  
   한층 더 객관적으로 자신의 상태를 파악할 수 있게 되어 좋습니다 [pic.twitter.com/NPAlQaZ6OB](https://t.co/NPAlQaZ6OB)
@@ -165,15 +164,11 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
-  
   7천만원 빚 못갚아서 울고있는 주부  
   서빙 그만하고 실제로는 예술하고 싶은 웨이트리스  
   사업 성공했는데 일찍 은퇴하고 싶은 부부  
   반짝 돈 받고 다 탕진해버린 운동선수   
-  
   이렇게 넷이 재정전문가의 도움받는 이야기임
-  
-  collapsed:: true
 	- {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
@@ -192,10 +187,7 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 영어 원서에 도전해보고 싶은 분들을 위한 팁  
-  
   우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
-  
-  collapsed:: true
 	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
