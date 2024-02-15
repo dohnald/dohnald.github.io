@@ -205,7 +205,6 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/92RPcHSwSWo/hqdefault.jpg)
 - [[2024/02/14]]
-  collapsed:: true
 	- DONE [Gimbal Guru-11 unique Insta360 X3 ideas!](https://youtube.com/watch?v=R64wXgl1Rr4&si=YS4i46ss0HAQ5JQZ) [[2024/02/13]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/R64wXgl1Rr4/hqdefault.jpg)
