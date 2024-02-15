@@ -120,16 +120,14 @@ public:: false
   > 일주일에 최소 4시간은 '규칙적으로 딴짓'을 하기로 결심했습니다. 덮어놨던 사이드 프로젝트도 살펴보고, 하고 싶은 개발(공부)도 하면서 자기 계발을 하고자 합니다. 함께하실 분들은 스윗미라 생각하시고 틀어놔 주시면 감사하겠습니다.  
   월화수목 19:30부터 1시간+ <https://t.co/lURjOlRN85>
 	- {{tweet https://x.com/hyunbinseo97/status/1700738168151257330?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > 시간이 허락한다면, 아래 타래의 알랭드보통이 쓴 두권의 책과 함께 꼭 한번 볼만한 다큐  
   Check out “Working: What We Do All Day” on Netflix<https://t.co/OKqADsKOHN>
 	- {{tweet https://x.com/moomini00/status/1659200621587861506?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > 넷플릭스 다큐멘터리 '인투 더 딥: 어느 발명가의 살인' 보고 있는데 존나 무섭다 ...  
   처음엔 발명 다큐멘터리 찍으려고 촬영하기 시작한건데 어느날 그 발명가가 잠수함에서 다른 기자를 살해하면서... 갑자기 범죄 다큐멘터리가 돼버림...
-  
-  collapsed:: true
 	- {{tweet https://x.com/jukeboxhumvee/status/1647614809385627648?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
