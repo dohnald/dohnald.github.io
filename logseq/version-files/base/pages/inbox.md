@@ -89,7 +89,8 @@ public:: false
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > 얼마전에 탐라에 돌던 기력 파라미터 참고해서 나한테 맞게 수정하고   
   원래 쓰던 기분 파라미터...도 그려서 열매책 맨 앞장에 붙여놓음  
   한층 더 객관적으로 자신의 상태를 파악할 수 있게 되어 좋습니다 [pic.twitter.com/NPAlQaZ6OB](https://t.co/NPAlQaZ6OB)
