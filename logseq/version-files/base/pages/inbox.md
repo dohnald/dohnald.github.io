@@ -231,3 +231,6 @@ public:: false
 - TODO [Matthew Encina-How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow](https://youtube.com/watch?v=5Kb3mlUwwL0&si=2PhpTMJIVPXZK0e3) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/5Kb3mlUwwL0/hqdefault.jpg)
+- TODO [썰플리-가족여행시 부모님 금지어 십계명 | 가족여행썰 | 썰플리 | 이석훈 | 오키나와](https://youtube.com/watch?v=fS7bHWY2dVc&si=58RUrh5aJ59rYsB1) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/fS7bHWY2dVc/hqdefault.jpg)
