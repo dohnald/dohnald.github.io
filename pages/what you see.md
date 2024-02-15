@@ -204,3 +204,22 @@ public:: false
 	- DONE [브라이언의 브레인 트리니티 (Brain Trinity)-챗GPT와 생성 AI, 두려워하지 말고 나의 끝없는 성장을 위해 이용하자. 생성 AI 시대에서 새로운 사고방식, 패러다임 | 브레인 트리니티, 3개의 두뇌, 세컨드 브레인](https://youtube.com/watch?v=92RPcHSwSWo&si=MqokZlcZ0VTgB77J) [[2024/02/13]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/92RPcHSwSWo/hqdefault.jpg)
+- [[2024/02/14]]
+	- DONE [Gimbal Guru-11 unique Insta360 X3 ideas!](https://youtube.com/watch?v=R64wXgl1Rr4&si=YS4i46ss0HAQ5JQZ) [[2024/02/13]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/R64wXgl1Rr4/hqdefault.jpg)
+	- DONE [과학이 필요한 시간, 과장창-과학자들이 천연세제 3대장을 쉽게 추천하지 못하는 이유(베이킹소다, 구연산, 과탄산소다) ｜청소의 과학](https://youtube.com/watch?v=iJTtdcXPWso&si=cNQk6lUv8KZugnVI) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/iJTtdcXPWso/hqdefault.jpg)
+	- DONE [교육하는 의사! 이동환TV-머리 숱이 풍성해져요. 탈모 걱정 싹 사라지는 커피 샴푸 만드는 법.](https://youtube.com/watch?v=m2C0b6rz19Y&si=RIYr13n1FNzJHJwt) [[2024/02/10]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/m2C0b6rz19Y/hqdefault.jpg)
+	- DONE [Dearday 디어데이-발리 ep.1 아이와 발리 한달 살기 | 아이와 나의 23번째 나라 | 우붓 에어비앤비 숙소 | 공항 근처 가성비 숙소 | 우붓 맛집 뽀개기 스타트♡](https://youtube.com/watch?v=7YnNaiHUVKg&si=dtyL_bA1OY96CP7A) [[2024/02/11]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/7YnNaiHUVKg/hqdefault.jpg)
+	- DONE [Kevin Darrah-E-Paper + ESP8266 Tutorial - Easy Text & Images](https://youtube.com/watch?v=0IuqL-4UftA&si=oSSbH6bD41gRWDVQ) [[2024/02/11]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/0IuqL-4UftA/hqdefault.jpg)
+	- DONE [PhotoLukeHawaii-Waikiki at Night International Market Place ABC Stores Kalakaua Ave California Pizza Kitchen Ali Sky](https://youtube.com/watch?v=a2P0OGo2_tQ&si=ZBiZveL4iguCsPtg) [[2024/02/12]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/a2P0OGo2_tQ/hqdefault.jpg)

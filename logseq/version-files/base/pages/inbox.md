@@ -120,3 +120,9 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 
+
+- TODO [[2024/02/15]] > GeekNews Weekly #240 지금이 30년만에 회사를 창업하기 가장 좋은 시기입니다 <https://t.co/td0oAAaHqI>   
+Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
+
+collapsed:: true
+  - {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
