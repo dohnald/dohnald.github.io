@@ -71,3 +71,10 @@ public:: false
 - TODO [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
+- TODO [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/yGRCF0Z2Bqk/hqdefault.jpg)
+
+- TODO [샾잉 #ing-[#뿅뿅지구오락실2] 김미현 본업 모먼트ㄷㄷ 다들 잊지 마 미미 아이돌인 거⭐ 4번의 기본기에 머리 쓸기 말만 듣고 박진영 Groove Back 안무 완벽 재현한 오마이걸 메덴💯](https://youtube.com/watch?v=zZ8VLEovn54&si=cAoTKoFG0rHHeRDh) [[2024/02/15]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/zZ8VLEovn54/hqdefault.jpg)
