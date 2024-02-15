@@ -241,3 +241,12 @@ public:: false
 	- DONE [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
+	- DONE [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
+	- DONE [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
+	- DONE [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)

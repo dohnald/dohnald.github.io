@@ -51,15 +51,6 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- DONE [The Signal Path-TSP #136 - Tutorial on Programming a Waveshare 7.5-Inch Multi-Color e-Paper Display & Info-Frame](https://youtube.com/watch?v=mr6Lt0gKjsI&si=fz3UGO4BG0WrhRdA) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/mr6Lt0gKjsI/hqdefault.jpg)
-- DONE [VIVO TV - 비보티비-마라맛 언니 세 명이 모이면? | 개 세 모 | EP.24](https://youtube.com/watch?v=z1Q0RAJW8DQ&si=y6CCD1u3cRbxKW1F) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/z1Q0RAJW8DQ/hqdefault.jpg)
-- DONE [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
 - TODO [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
 - TODO [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
@@ -67,26 +58,7 @@ public:: false
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
-- TODO [[2024/02/15]] GeekNews Weekly #240 吏�湲덉씠 30�꾨쭔�� �뚯궗瑜� 李쎌뾽�섍린 媛��� 醫뗭� �쒓린�낅땲�� https://t.co/td0oAAaHqI  Greg Isenberg�� Islands �� 5by�쇰뒗 �뚯궗瑜� 李쎌뾽�댁꽌 WeWork�� SumbleUpon�� 留ㅺ컖�� �곗뇙 李쎌뾽媛�濡� 諛붾줈 �� 李쎌뾽�덈뒗�곗슂. "吏�湲덉씠 30�� 留뚯뿉 �뚯궗瑜� 李쎌뾽�섍린 媛��� 醫뗭� �쒓린"�쇰뒗 �λ�濡�...
-  — GeekNews (@GeekNewsBot) February 12, 2024
-  
-  collapsed:: true
+- TODO [[2024/02/15]]
 	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] VC�먭쾶 �ъ옄瑜� 諛쏆� �딄퀬 �먯튃�� 吏��ㅻŉ 留뚮뱺 �듭떆�붿뼵�� �덈Т�� 醫뗫떎.  �몄긽�� �섎쭖�� �깅뱾�� 怨쇱뿰 �곕━�먭쾶 �꾩슂�덈뜕媛�? 洹몃━怨� 洹몃윴 �깅뱾�� �ъ옄湲덉씠 �뺣쭚 �꾩슂�덉쓣源�? https://t.co/VSzh3Q0uDU
-  — Sian (@iamjustsian) February 11, 2024
-  
-  collapsed:: true
-	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] VC에게 투자를 받지 않고 원칙을 지키며 만든 옵시디언이 너무도 좋다.  세상의 수많은 앱들이 과연 우리에게 필요했던가? 그리고 그런 앱들에 투자금이 정말 필요했을까? https://t.co/VSzh3Q0uDU
-  — Sian (@iamjustsian) February 11, 2024
-	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] VC�먭쾶 �ъ옄瑜� 諛쏆� �딄퀬 �먯튃�� 吏��ㅻŉ 留뚮뱺 �듭떆�붿뼵�� �덈Т�� 醫뗫떎.  �몄긽�� �섎쭖�� �깅뱾�� 怨쇱뿰 �곕━�먭쾶 �꾩슂�덈뜕媛�? 洹몃━怨� 洹몃윴 �깅뱾�� �ъ옄湲덉씠 �뺣쭚 �꾩슂�덉쓣源�? https://t.co/VSzh3Q0uDU
-  — Sian (@iamjustsian) February 11, 2024
-  
-  collapsed:: true
-	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] > GeekNews Weekly #240 지금이 30년만에 회사를 창업하기 가장 좋은 시기입니다 <https://t.co/td0oAAaHqI>   
-  Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
-  
-  collapsed:: true
-	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- > GeekNews Weekly #240 지금이 30년만에 회사를 창업하기 가장 좋은 시기입니다 <https://t.co/td0oAAaHqI>   
+	  Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
