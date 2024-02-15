@@ -222,7 +222,7 @@ public:: false
 - TODO [소람 soram-아이폰 단축어로 자동 일기를 써요 | 3년만의 업그레이드✨](https://youtube.com/watch?v=DELhKD1zVcw&si=C46hgzggpXFWrWmk) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/DELhKD1zVcw/hqdefault.jpg)
-- TODO [뉴스안하니-우울할 때 보세요😂 박소영 아나의 발레 체험기🦢 쏘요와쏘요? ep.2](https://youtube.com/watch?v=okR_W_3LgJ8&si=QdAn1SUEPFFsamGJ) [[2024/02/15]] 
+- DONE [뉴스안하니-우울할 때 보세요😂 박소영 아나의 발레 체험기🦢 쏘요와쏘요? ep.2](https://youtube.com/watch?v=okR_W_3LgJ8&si=QdAn1SUEPFFsamGJ) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/okR_W_3LgJ8/hqdefault.jpg)
 - TODO [ootb STUDIO-창섭이 쏘아올린 말왕 등판 [무인도 5일차] | 무이자 ep.05 [EN/ID/JP]](https://youtube.com/watch?v=jCBPKxOg8sI&si=FMjQ7zHVvMTXKnZW) [[2024/02/15]] 
