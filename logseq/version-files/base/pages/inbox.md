@@ -101,3 +101,14 @@ public:: false
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
+- TODO [[2024/02/15]] GeekNews Weekly #240 吏�湲덉씠 30�꾨쭔�� �뚯궗瑜� 李쎌뾽�섍린 媛��� 醫뗭� �쒓린�낅땲�� https://t.co/td0oAAaHqI  Greg Isenberg�� Islands �� 5by�쇰뒗 �뚯궗瑜� 李쎌뾽�댁꽌 WeWork�� SumbleUpon�� 留ㅺ컖�� �곗뇙 李쎌뾽媛�濡� 諛붾줈 �� 李쎌뾽�덈뒗�곗슂. "吏�湲덉씠 30�� 留뚯뿉 �뚯궗瑜� 李쎌뾽�섍린 媛��� 醫뗭� �쒓린"�쇰뒗 �λ�濡�...
+— GeekNews (@GeekNewsBot) February 12, 2024
+
+collapsed:: true
+  - {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] VC�먭쾶 �ъ옄瑜� 諛쏆� �딄퀬 �먯튃�� 吏��ㅻŉ 留뚮뱺 �듭떆�붿뼵�� �덈Т�� 醫뗫떎.  �몄긽�� �섎쭖�� �깅뱾�� 怨쇱뿰 �곕━�먭쾶 �꾩슂�덈뜕媛�? 洹몃━怨� 洹몃윴 �깅뱾�� �ъ옄湲덉씠 �뺣쭚 �꾩슂�덉쓣源�? https://t.co/VSzh3Q0uDU
+— Sian (@iamjustsian) February 11, 2024
+
+collapsed:: true
+  - {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
