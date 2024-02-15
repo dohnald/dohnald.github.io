@@ -81,8 +81,7 @@ public:: false
 	- DONE [VIVO TV - 비보티비-미디어랩시소 세 명이 모이면? | 개 세 모 | EP.23](https://youtube.com/watch?v=dduAwjQh108&si=WSXrbnbRUy9ATnGI) [[2024/02/07]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/dduAwjQh108/hqdefault.jpg)
-		  
-		  [후기] 코딩도 하고, 사장도 합니다.
+		- [후기] 코딩도 하고, 사장도 합니다.
 		  
 		  https://greypencil.tistory.com/211
 	- [[2024. 2. 7.]] [잡지/주간조선 2795호 (2024년 02월 05일)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179639792%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179639792)
