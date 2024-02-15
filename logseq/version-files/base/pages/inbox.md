@@ -108,12 +108,9 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/la_jardiniere_/status/1754842447124086944?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > GN⁺: OpenAI의 프롬프트 엔지니어링 가이드 <https://t.co/UkWl4VLrzj>   
   \- 대규모 언어 모델(GPT 모델이라고도 함)에서 더 나은 결과를 얻기 위한 전략과 기술을 공유하는 가이드   
   \- 여기서 설명하는 방법들은 때때로 결합하여 더 큰 효과를 낼 수 있으며, 가장 적합한 방법을 찾기 위해 실험을 ...
-  
-  collapsed:: true
 	- {{tweet https://x.com/geeknewsbot/status/1736548591722963381?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
