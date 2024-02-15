@@ -119,3 +119,11 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/geeknewsbot/status/1736548591722963381?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 일주일에 최소 4시간은 '규칙적으로 딴짓'을 하기로 결심했습니다. 덮어놨던 사이드 프로젝트도 살펴보고, 하고 싶은 개발(공부)도 하면서 자기 계발을 하고자 합니다. 함께하실 분들은 스윗미라 생각하시고 틀어놔 주시면 감사하겠습니다.  
+  
+월화수목 19:30부터 1시간+ <https://t.co/lURjOlRN85>
+
+collapsed:: true
+  - {{tweet https://x.com/hyunbinseo97/status/1700738168151257330?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
