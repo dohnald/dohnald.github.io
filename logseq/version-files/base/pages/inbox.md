@@ -99,9 +99,7 @@ public:: false
 	- {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   > 3 years ago, I quit everything to build the life I want.  
-  
   I went from $0 → $500,000.  
-  
   Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
 	- {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
@@ -119,18 +117,12 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 일주일에 최소 4시간은 '규칙적으로 딴짓'을 하기로 결심했습니다. 덮어놨던 사이드 프로젝트도 살펴보고, 하고 싶은 개발(공부)도 하면서 자기 계발을 하고자 합니다. 함께하실 분들은 스윗미라 생각하시고 틀어놔 주시면 감사하겠습니다.  
-  
   월화수목 19:30부터 1시간+ <https://t.co/lURjOlRN85>
-  
-  collapsed:: true
 	- {{tweet https://x.com/hyunbinseo97/status/1700738168151257330?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 시간이 허락한다면, 아래 타래의 알랭드보통이 쓴 두권의 책과 함께 꼭 한번 볼만한 다큐  
-  
   Check out “Working: What We Do All Day” on Netflix<https://t.co/OKqADsKOHN>
-  
-  collapsed:: true
 	- {{tweet https://x.com/moomini00/status/1659200621587861506?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
