@@ -108,4 +108,9 @@ public:: false
 	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] VC�먭쾶 �ъ옄瑜� 諛쏆� �딄퀬 �먯튃�� 吏��ㅻŉ 留뚮뱺 �듭떆�붿뼵�� �덈Т�� 醫뗫떎.  �몄긽�� �섎쭖�� �깅뱾�� 怨쇱뿰 �곕━�먭쾶 �꾩슂�덈뜕媛�? 洹몃━怨� 洹몃윴 �깅뱾�� �ъ옄湲덉씠 �뺣쭚 �꾩슂�덉쓣源�? https://t.co/VSzh3Q0uDU
   — Sian (@iamjustsian) February 11, 2024
+  
+  collapsed:: true
+	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/15]] VC에게 투자를 받지 않고 원칙을 지키며 만든 옵시디언이 너무도 좋다.  세상의 수많은 앱들이 과연 우리에게 필요했던가? 그리고 그런 앱들에 투자금이 정말 필요했을까? https://t.co/VSzh3Q0uDU
+  — Sian (@iamjustsian) February 11, 2024
 	- {{tweet https://x.com/iamjustsian/status/1756641371186966533?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
