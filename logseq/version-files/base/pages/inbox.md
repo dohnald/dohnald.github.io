@@ -90,3 +90,7 @@ collapsed:: true
 - TODO [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
+
+- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
