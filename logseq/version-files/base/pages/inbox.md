@@ -82,3 +82,7 @@ collapsed:: true
 - TODO [Occupied Studios-Insta360 X3 | Creating Virtual Tours with Matterport](https://youtube.com/watch?v=Duu1N9ZFhuk&si=aSXBlGuJlpKP1TB2) [[2024/02/15]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/Duu1N9ZFhuk/hqdefault.jpg)
+
+- TODO [광장-의사보다 유튜버? 유튜브로 돈벌기 끝판왕](https://youtube.com/watch?v=Sl11X4qo53g&si=Paoed7aSEJSO_DIk) [[2024/02/15]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Sl11X4qo53g/hqdefault.jpg)
