@@ -162,3 +162,17 @@ collapsed:: true
 
 collapsed:: true
   - {{tweet https://x.com/hyunbinseo97/status/1636931905487777793?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
+
+collapsed:: true
+  - {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+
+- TODO [[2024/02/15]] 
+> < 내가 뉴스레터 노트 정리하는 법 >  
+  
+1\. 경제 뉴스레터 [pic.twitter.com/1YbktNSWtl](https://t.co/1YbktNSWtl)
+
+collapsed:: true
+  - {{tweet https://x.com/dzuffii/status/1625441316908978176?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
