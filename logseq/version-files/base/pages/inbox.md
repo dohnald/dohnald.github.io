@@ -21,30 +21,13 @@ public:: false
 - 생각의 플라이휠이다. 플라이휠은 $AMZN 관련해서 알게 되었는데 상승작용을 일으키는 것이다. 정보가 자산이 되고 재투자된다.
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
   tag:: card, memo, #감상/책/읽는, [[2024/02/14]]
+  collapsed:: true
 	- 생각의 가지
 		- {{embed ((654a5d27-f3b7-4a37-9789-e0770477272f))}}
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
-- DONE [세아로그 Se.A Log-남자친구? 직업? 생애 첫 QnA를 가져왔는데..](https://youtube.com/watch?v=PSHLhQksiNI&si=7CBPwWHUZ8Nk0Mhm) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/PSHLhQksiNI/hqdefault.jpg)
 - TODO [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
 	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
-- DONE [보타남김호준-멋진 스키장에서 스노우보드 타는 모습 누구나 찍힐수 있다! feat 인스타360 x3](https://youtube.com/watch?v=J4U_wC6HoEU&si=aW7mwDJJLp7jgTW2) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/J4U_wC6HoEU/hqdefault.jpg)
-- DONE [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
-- DONE [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
-- DONE [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
-- DONE [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
 - [[2024/02/14]] epaper
 	- test1
 		- status A

@@ -223,3 +223,21 @@ public:: false
 	- DONE [PhotoLukeHawaii-Waikiki at Night International Market Place ABC Stores Kalakaua Ave California Pizza Kitchen Ali Sky](https://youtube.com/watch?v=a2P0OGo2_tQ&si=ZBiZveL4iguCsPtg) [[2024/02/12]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/a2P0OGo2_tQ/hqdefault.jpg)
+	- DONE [세아로그 Se.A Log-남자친구? 직업? 생애 첫 QnA를 가져왔는데..](https://youtube.com/watch?v=PSHLhQksiNI&si=7CBPwWHUZ8Nk0Mhm) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/PSHLhQksiNI/hqdefault.jpg)
+	- DONE [보타남김호준-멋진 스키장에서 스노우보드 타는 모습 누구나 찍힐수 있다! feat 인스타360 x3](https://youtube.com/watch?v=J4U_wC6HoEU&si=aW7mwDJJLp7jgTW2) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/J4U_wC6HoEU/hqdefault.jpg)
+	- DONE [박곰희TV-🚨 자산배분 투자자는 비상금 얼마나 빼둬요?ㅣ투자마인드](https://youtube.com/watch?v=s1lZLqZpXzE&si=TYXJKuQZ4GUFht1v) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/s1lZLqZpXzE/hqdefault.jpg)
+	- DONE [Mudeen Studio-Hiking Insta360 X3 Type of Shots](https://youtube.com/watch?v=RroKdfgkFug&si=i_0DoysxsA6JGTp8) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/RroKdfgkFug/hqdefault.jpg)
+	- DONE [Aidin Robbins-How I PLAN My TRAVEL VIDEOS - Pre-Production Process](https://youtube.com/watch?v=0yzSH7IqG1k&si=TjnkFUXxo8OjGWBQ) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/0yzSH7IqG1k/hqdefault.jpg)
+	- DONE [엠뚜루마뚜루 : MBC 공식 종합 채널-[#구해줘홈즈] 공중파 3사 간판 아나운서끼리 모이면?🎙️ 방송사고 썰부터 맞춤법까지 꿀딕션으로 감상 가능🍯ㅣ#김대호 #손범수 #최기환 #아나운서 MBC240208방송](https://youtube.com/watch?v=p9QxKn0wli8&si=gHejJOBIOaf62DvA) [[2024/02/14]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/p9QxKn0wli8/hqdefault.jpg)
