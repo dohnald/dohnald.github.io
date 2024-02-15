@@ -143,7 +143,7 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/seemswicked/status/1639710275602620416?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
   collapsed:: true
   > API 개념을 이렇게 흥미롭게 설명할 수 있다니. 인간을 흉내 내며 인터페이스를 조작하지 않고, 유튜브 서버와 직접 소통하는 방식으로 유튜브 영상의 제목을 업데이트할 수 있는 방법 - 이렇게 이야기를 풀어가네 <https://t.co/zNLkAL78tV>
   
