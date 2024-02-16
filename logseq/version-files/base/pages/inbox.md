@@ -159,3 +159,7 @@ public:: false
 - TODO [채널십오야-[sub] 이건와글와글이아니라우르릉쾅카ㅇ왕 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=ArVNxIctIqY&si=XyzUCQQ7rj-LvqbW) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/ArVNxIctIqY/hqdefault.jpg)
+
+- TODO [자이언트 펭TV-브라이언 집 파괴하러 온 청소광 펭수 [EP.328](ENG)](https://youtube.com/watch?v=-iweJawfofo&si=ytwDc26ZYHgKo-dF) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/-iweJawfofo/hqdefault.jpg)
