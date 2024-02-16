@@ -66,15 +66,6 @@ public:: false
 	- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
-  > 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
-  7천만원 빚 못갚아서 울고있는 주부  
-  서빙 그만하고 실제로는 예술하고 싶은 웨이트리스  
-  사업 성공했는데 일찍 은퇴하고 싶은 부부  
-  반짝 돈 받고 다 탕진해버린 운동선수   
-  이렇게 넷이 재정전문가의 도움받는 이야기임
-	- {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
-  collapsed:: true
   > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
   
   collapsed:: true
@@ -120,7 +111,7 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - [[아이디어/날씨]]
-	- 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
+	- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
 - TODO [소람 soram-아이폰 단축어로 자동 일기를 써요 | 3년만의 업그레이드✨](https://youtube.com/watch?v=DELhKD1zVcw&si=C46hgzggpXFWrWmk) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/DELhKD1zVcw/hqdefault.jpg)
@@ -161,7 +152,5 @@ public:: false
   * [X] 우붓 살기
   * [X]인박스 done to wys
   * [X] 잡지읽기 api 확인
-- [[2024/02/16]]
-  * [ ] soram
 - {{query (and (page [[inbox]]) (task DONE))}}
   query-table:: true
