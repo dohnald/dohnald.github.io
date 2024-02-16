@@ -1,5 +1,6 @@
 public:: false
 
+- {{query (and (page [[inbox]]) (task DONE))}}
 - [[아이디어/생일]]
   collapsed:: true
 	- > 서대문 자연사 박물관에 너무너무 가고싶음
@@ -148,8 +149,7 @@ public:: false
   * [X] 우붓 살기
   * [X]인박스 done to wys
   * [X] 잡지읽기 api 확인
-- {{query (and (page [[inbox]]) (task DONE))}}
-  query-table:: true
+- query-table:: true
 - TODO [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)

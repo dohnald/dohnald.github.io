@@ -351,6 +351,7 @@ public:: false
 	  Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
 		- {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - [[2024/02/16]]
+  collapsed:: true
 	- DONE [[2024/02/15]] 
 	  collapsed:: true
 	  > 넷플 돈을 아십니까? 봤냐? 저 어제 보다가 ㄹㅇ 오열했잖음   
