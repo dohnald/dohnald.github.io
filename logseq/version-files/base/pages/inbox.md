@@ -156,3 +156,6 @@ public:: false
 - TODO [그것이 알고싶다-무기수 장동오 씨 재심 개시 확정! 담당PD의 '이제는 말할 수 있다' | 그알저알 EP.87](https://youtube.com/watch?v=OS3BadoPUKw&si=6587AsHCOT0ve_EQ) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/OS3BadoPUKw/hqdefault.jpg)
+- TODO [채널십오야-[sub] 이건와글와글이아니라우르릉쾅카ㅇ왕 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=ArVNxIctIqY&si=XyzUCQQ7rj-LvqbW) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/ArVNxIctIqY/hqdefault.jpg)
