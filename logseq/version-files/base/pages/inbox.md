@@ -160,6 +160,6 @@ public:: false
   * [X] 해외 출퇴근?
   * [X] 우붓 살기
   * [X]인박스 done to wys
-  * [ ] 잡지읽기 api 확인
+  * [X] 잡지읽기 api 확인
 - {{query (and (page [[inbox]]) (task DONE))}}
   query-table:: true
