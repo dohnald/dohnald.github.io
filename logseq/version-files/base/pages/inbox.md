@@ -138,7 +138,7 @@ public:: false
 - TODO [Krister Anne-my iphone vlogging setup 🎬🎙️ filming accessories + sample asmr unboxing (ft. Hollyland Lark C1)](https://youtube.com/watch?v=P9C4ezIIY_4&si=gcT5OPj60ruB57tj) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P9C4ezIIY_4/hqdefault.jpg)
-- TODO [둥지언니 Doongsis-발리 한 달 살기 솔직 후기.. 역대 최고 생활비 쓰고 떠납니다 【발리.04】](https://youtube.com/watch?v=RmYUdEadJlU&si=IHcqzfWrN3l6REpm) [[2024/02/16]] 
+- DONE [둥지언니 Doongsis-발리 한 달 살기 솔직 후기.. 역대 최고 생활비 쓰고 떠납니다 【발리.04】](https://youtube.com/watch?v=RmYUdEadJlU&si=IHcqzfWrN3l6REpm) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RmYUdEadJlU/hqdefault.jpg)
 - 할 일
@@ -151,5 +151,5 @@ public:: false
 - {{query (and (page [[inbox]]) (task DONE))}}
   query-table:: true
 - TODO [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)
