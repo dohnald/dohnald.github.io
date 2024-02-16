@@ -163,3 +163,7 @@ collapsed:: true
 - TODO [자이언트 펭TV-브라이언 집 파괴하러 온 청소광 펭수 [EP.328](ENG)](https://youtube.com/watch?v=-iweJawfofo&si=ytwDc26ZYHgKo-dF) [[2024/02/16]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/-iweJawfofo/hqdefault.jpg)
+
+- TODO [스튜디오헤이 StudioHey-어디 인공지능이 감히? | 고나리자 EP.06](https://youtube.com/watch?v=XP5HWZw7imE&si=VUxMFkNYJoQzA098) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/XP5HWZw7imE/hqdefault.jpg)
