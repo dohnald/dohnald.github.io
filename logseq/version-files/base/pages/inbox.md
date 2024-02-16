@@ -155,7 +155,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RmYUdEadJlU/hqdefault.jpg)
 - 할 일
-  * [ ] 질병명 추가
+  * [X] 질병명 추가
   * [X] 생일 쿠폰? 할인? 방법 확인
   * [ ] 해외 출퇴근?
   * [ ] 우붓 살기

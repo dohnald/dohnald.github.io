@@ -249,6 +249,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
 - [[2024/02/15]]
+  collapsed:: true
 	- DONE [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
