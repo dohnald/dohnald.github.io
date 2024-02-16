@@ -50,7 +50,7 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- https://babybilly.app/contents/detail/2451
+- 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
@@ -60,10 +60,6 @@ public:: false
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-- TODO [[2024/02/15]] 
-  collapsed:: true
-  > 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
-	- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
