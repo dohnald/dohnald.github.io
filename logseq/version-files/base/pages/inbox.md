@@ -26,9 +26,6 @@ public:: false
 		- {{embed ((654a5d27-f3b7-4a37-9789-e0770477272f))}}
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
-- DONE [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/czzA6fsnaWI/hqdefault.jpg)
 - [[2024/02/14]] epaper
   collapsed:: true
 	- test1
@@ -53,36 +50,10 @@ public:: false
 		- nodeMCU 1.0
 		- usb serial0001
 		- epaper hat
-- DONE [David Watts-Images and Text on the Waveshare 1.54inch e-Paper Display](https://youtube.com/watch?v=OPaCF-XJhqc&si=NEx4pZ2lWrNL0_oX) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/OPaCF-XJhqc/hqdefault.jpg)
-- DONE [InterlinkKnight-Arduino Tutorial: E-Paper Display](https://youtube.com/watch?v=g7nUAa2SQqI&si=5e7pu8C-sMYfpB3J) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/g7nUAa2SQqI/hqdefault.jpg)
 - https://babybilly.app/contents/detail/2451
 - TODO [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)
-- DONE [[2024/02/15]]
-  collapsed:: true
-  > GeekNews Weekly #240 지금이 30년만에 회사를 창업하기 가장 좋은 시기입니다 <https://t.co/td0oAAaHqI>   
-  Greg Isenberg는 Islands 와 5by라는 회사를 창업해서 WeWork와 SumbleUpon에 매각한 연쇄 창업가로 바로 또 창업했는데요. "지금이 30년 만에 회사를 창업하기 가장 좋은 시기"라는 흥미로...
-	- {{tweet https://x.com/geeknewsbot/status/1756835899646918867?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-	-
-- DONE [Bas van der Sluis-How to solder header pins to the Raspberry Pi Zero (W)](https://youtube.com/watch?v=UDdbaMk39tM&si=cleEJ4iejd2r0R27) [[2024/02/15]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/UDdbaMk39tM/hqdefault.jpg)
-- DONE [류석-6년 바이크 유튜버 고프로 노하우 모두 공개! ∥ 마운트 구매법, 고프로 장착법, 실시간 충전법, 영상 화질 선택법, 고프로 5~8 선택법, 소니캠 안쓰는 이유 등](https://youtube.com/watch?v=yGRCF0Z2Bqk&si=oTjA26uY9HODuEnZ) [[2024/02/15]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/yGRCF0Z2Bqk/hqdefault.jpg)
-- DONE [샾잉 #ing-[#뿅뿅지구오락실2] 김미현 본업 모먼트ㄷㄷ 다들 잊지 마 미미 아이돌인 거⭐ 4번의 기본기에 머리 쓸기 말만 듣고 박진영 Groove Back 안무 완벽 재현한 오마이걸 메덴💯](https://youtube.com/watch?v=zZ8VLEovn54&si=cAoTKoFG0rHHeRDh) [[2024/02/15]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/zZ8VLEovn54/hqdefault.jpg)
-- DONE [Occupied Studios-Insta360 X3 | Creating Virtual Tours with Matterport](https://youtube.com/watch?v=Duu1N9ZFhuk&si=aSXBlGuJlpKP1TB2) [[2024/02/15]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Duu1N9ZFhuk/hqdefault.jpg)
-- DONE [광장-의사보다 유튜버? 유튜브로 돈벌기 끝판왕](https://youtube.com/watch?v=Sl11X4qo53g&si=Paoed7aSEJSO_DIk) [[2024/02/15]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Sl11X4qo53g/hqdefault.jpg)
 - TODO [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
