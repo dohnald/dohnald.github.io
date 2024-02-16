@@ -127,7 +127,7 @@ public:: false
 - DONE [Thomas Frank-How I Automate My Finances](https://youtube.com/watch?v=XImly72tLw0&si=aSGkqYgFgzU_Z4tE) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XImly72tLw0/hqdefault.jpg)
-- TODO [EBSDocumentary (EBS 다큐)-[Full] 귀하신 몸 - 23화 척추측만증, 당신의 척추는 몇 도입니까?](https://youtube.com/watch?v=GOX7CMPigZk&si=d0XYNi6tfQVRVRJp) [[2024/02/16]] 
+- DONE [EBSDocumentary (EBS 다큐)-[Full] 귀하신 몸 - 23화 척추측만증, 당신의 척추는 몇 도입니까?](https://youtube.com/watch?v=GOX7CMPigZk&si=d0XYNi6tfQVRVRJp) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GOX7CMPigZk/hqdefault.jpg)
 - DONE [시칠리안 SICILIAN-돈 안써도 행복하고 돈 쓰면 더 행복한 발리 한달살기 [시칠리안 인도네시아 01]_우붓에서 시작!](https://youtube.com/watch?v=LfJlLeG5mzg&si=QYCIwHKUvqaoVaF2) [[2024/02/16]] 
@@ -150,20 +150,21 @@ public:: false
   * [X]인박스 done to wys
   * [X] 잡지읽기 api 확인
 - query-table:: true
-- TODO [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
+- DONE [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)
-- TODO [그것이 알고싶다-무기수 장동오 씨 재심 개시 확정! 담당PD의 '이제는 말할 수 있다' | 그알저알 EP.87](https://youtube.com/watch?v=OS3BadoPUKw&si=6587AsHCOT0ve_EQ) [[2024/02/16]] 
+- DONE [그것이 알고싶다-무기수 장동오 씨 재심 개시 확정! 담당PD의 '이제는 말할 수 있다' | 그알저알 EP.87](https://youtube.com/watch?v=OS3BadoPUKw&si=6587AsHCOT0ve_EQ) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/OS3BadoPUKw/hqdefault.jpg)
-- TODO [채널십오야-[sub] 이건와글와글이아니라우르릉쾅카ㅇ왕 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=ArVNxIctIqY&si=XyzUCQQ7rj-LvqbW) [[2024/02/16]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/ArVNxIctIqY/hqdefault.jpg)
-
-- TODO [자이언트 펭TV-브라이언 집 파괴하러 온 청소광 펭수 [EP.328](ENG)](https://youtube.com/watch?v=-iweJawfofo&si=ytwDc26ZYHgKo-dF) [[2024/02/16]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/-iweJawfofo/hqdefault.jpg)
-
-- TODO [스튜디오헤이 StudioHey-어디 인공지능이 감히? | 고나리자 EP.06](https://youtube.com/watch?v=XP5HWZw7imE&si=VUxMFkNYJoQzA098) [[2024/02/16]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/XP5HWZw7imE/hqdefault.jpg)
+- DONE [채널십오야-[sub] 이건와글와글이아니라우르릉쾅카ㅇ왕 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=ArVNxIctIqY&si=XyzUCQQ7rj-LvqbW) [[2024/02/16]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/ArVNxIctIqY/hqdefault.jpg)
+- DONE [자이언트 펭TV-브라이언 집 파괴하러 온 청소광 펭수 [EP.328](ENG)](https://youtube.com/watch?v=-iweJawfofo&si=ytwDc26ZYHgKo-dF) [[2024/02/16]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/-iweJawfofo/hqdefault.jpg)
+- DONE [스튜디오헤이 StudioHey-어디 인공지능이 감히? | 고나리자 EP.06](https://youtube.com/watch?v=XP5HWZw7imE&si=VUxMFkNYJoQzA098) [[2024/02/16]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/XP5HWZw7imE/hqdefault.jpg)
+- TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
