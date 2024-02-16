@@ -109,34 +109,34 @@ public:: false
 	- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - [[아이디어/날씨]]
 	- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
-- TODO [소람 soram-아이폰 단축어로 자동 일기를 써요 | 3년만의 업그레이드✨](https://youtube.com/watch?v=DELhKD1zVcw&si=C46hgzggpXFWrWmk) [[2024/02/15]] 
+- DONE [소람 soram-아이폰 단축어로 자동 일기를 써요 | 3년만의 업그레이드✨](https://youtube.com/watch?v=DELhKD1zVcw&si=C46hgzggpXFWrWmk) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/DELhKD1zVcw/hqdefault.jpg)
-- TODO [ootb STUDIO-창섭이 쏘아올린 말왕 등판 [무인도 5일차] | 무이자 ep.05 [EN/ID/JP]](https://youtube.com/watch?v=jCBPKxOg8sI&si=FMjQ7zHVvMTXKnZW) [[2024/02/15]] 
+- DONE [ootb STUDIO-창섭이 쏘아올린 말왕 등판 [무인도 5일차] | 무이자 ep.05 [EN/ID/JP]](https://youtube.com/watch?v=jCBPKxOg8sI&si=FMjQ7zHVvMTXKnZW) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/jCBPKxOg8sI/hqdefault.jpg)
-- TODO [Matthew Encina-How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow](https://youtube.com/watch?v=5Kb3mlUwwL0&si=2PhpTMJIVPXZK0e3) [[2024/02/15]] 
+- DONE [Matthew Encina-How to Make YouTube Videos – Plan, Shoot, Edit, Post, Grow](https://youtube.com/watch?v=5Kb3mlUwwL0&si=2PhpTMJIVPXZK0e3) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/5Kb3mlUwwL0/hqdefault.jpg)
-- TODO [썰플리-가족여행시 부모님 금지어 십계명 | 가족여행썰 | 썰플리 | 이석훈 | 오키나와](https://youtube.com/watch?v=fS7bHWY2dVc&si=58RUrh5aJ59rYsB1) [[2024/02/16]] 
+- DONE [썰플리-가족여행시 부모님 금지어 십계명 | 가족여행썰 | 썰플리 | 이석훈 | 오키나와](https://youtube.com/watch?v=fS7bHWY2dVc&si=58RUrh5aJ59rYsB1) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/fS7bHWY2dVc/hqdefault.jpg)
 - TODO [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
-- TODO [Thomas Frank-How I Automate My Finances](https://youtube.com/watch?v=XImly72tLw0&si=aSGkqYgFgzU_Z4tE) [[2024/02/16]] 
+- DONE [Thomas Frank-How I Automate My Finances](https://youtube.com/watch?v=XImly72tLw0&si=aSGkqYgFgzU_Z4tE) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XImly72tLw0/hqdefault.jpg)
 - TODO [EBSDocumentary (EBS 다큐)-[Full] 귀하신 몸 - 23화 척추측만증, 당신의 척추는 몇 도입니까?](https://youtube.com/watch?v=GOX7CMPigZk&si=d0XYNi6tfQVRVRJp) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GOX7CMPigZk/hqdefault.jpg)
-- TODO [시칠리안 SICILIAN-돈 안써도 행복하고 돈 쓰면 더 행복한 발리 한달살기 [시칠리안 인도네시아 01]_우붓에서 시작!](https://youtube.com/watch?v=LfJlLeG5mzg&si=QYCIwHKUvqaoVaF2) [[2024/02/16]] 
+- DONE [시칠리안 SICILIAN-돈 안써도 행복하고 돈 쓰면 더 행복한 발리 한달살기 [시칠리안 인도네시아 01]_우붓에서 시작!](https://youtube.com/watch?v=LfJlLeG5mzg&si=QYCIwHKUvqaoVaF2) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LfJlLeG5mzg/hqdefault.jpg)
-- TODO [라디오스타-[뒤풀이스타] 클린스만의 미소, 아이돌 연애, 놀토 회식, 낚시 키보드 워리어가 한 영상에 다 나옵니다. l Ep.4 김동현&KCM&조원희&손동표](https://youtube.com/watch?v=8-sO9gjcnes&si=AQgCB51QCHz8qEwO) [[2024/02/16]] 
+- DONE [라디오스타-[뒤풀이스타] 클린스만의 미소, 아이돌 연애, 놀토 회식, 낚시 키보드 워리어가 한 영상에 다 나옵니다. l Ep.4 김동현&KCM&조원희&손동표](https://youtube.com/watch?v=8-sO9gjcnes&si=AQgCB51QCHz8qEwO) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/8-sO9gjcnes/hqdefault.jpg)
-- TODO [Krister Anne-my iphone vlogging setup 🎬🎙️ filming accessories + sample asmr unboxing (ft. Hollyland Lark C1)](https://youtube.com/watch?v=P9C4ezIIY_4&si=gcT5OPj60ruB57tj) [[2024/02/16]] 
+- DONE [Krister Anne-my iphone vlogging setup 🎬🎙️ filming accessories + sample asmr unboxing (ft. Hollyland Lark C1)](https://youtube.com/watch?v=P9C4ezIIY_4&si=gcT5OPj60ruB57tj) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P9C4ezIIY_4/hqdefault.jpg)
 - DONE [둥지언니 Doongsis-발리 한 달 살기 솔직 후기.. 역대 최고 생활비 쓰고 떠납니다 【발리.04】](https://youtube.com/watch?v=RmYUdEadJlU&si=IHcqzfWrN3l6REpm) [[2024/02/16]] 
