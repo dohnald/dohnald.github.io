@@ -161,5 +161,7 @@ public:: false
   * [X] 우붓 살기
   * [X]인박스 done to wys
   * [X] 잡지읽기 api 확인
+- [[2024/02/16]]
+  * [ ] soram
 - {{query (and (page [[inbox]]) (task DONE))}}
   query-table:: true
