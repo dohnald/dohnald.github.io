@@ -332,3 +332,20 @@ public:: false
 	  
 	  collapsed:: true
 		- {{tweet https://x.com/dzuffii/status/1625441316908978176?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [뉴스안하니-우울할 때 보세요😂 박소영 아나의 발레 체험기🦢 쏘요와쏘요? ep.2](https://youtube.com/watch?v=okR_W_3LgJ8&si=QdAn1SUEPFFsamGJ) [[2024/02/15]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/okR_W_3LgJ8/hqdefault.jpg)
+	- DONE [[2024/02/15]] 
+	  collapsed:: true
+	  > 얼마전에 탐라에 돌던 기력 파라미터 참고해서 나한테 맞게 수정하고   
+	  원래 쓰던 기분 파라미터...도 그려서 열매책 맨 앞장에 붙여놓음  
+	  한층 더 객관적으로 자신의 상태를 파악할 수 있게 되어 좋습니다 [pic.twitter.com/NPAlQaZ6OB](https://t.co/NPAlQaZ6OB)
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/415sairo/status/1758075671946158217?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [[2024/02/15]] 
+	  collapsed:: true
+	  > 3 years ago, I quit everything to build the life I want.  
+	  I went from $0 → $500,000.  
+	  Here's how I would do it again: [pic.twitter.com/QjUBJ3UqXg](https://t.co/QjUBJ3UqXg)
+		- {{tweet https://x.com/modestmitkus/status/1757749720288821546?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
