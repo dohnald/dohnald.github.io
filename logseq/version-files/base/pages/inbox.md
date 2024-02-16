@@ -150,3 +150,6 @@ public:: false
   * [X] 잡지읽기 api 확인
 - {{query (and (page [[inbox]]) (task DONE))}}
   query-table:: true
+- TODO [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)
