@@ -169,9 +169,31 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
 - TODO [아침서가-아침서가 📓 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐈𝐭𝐞𝐦  | 1년에 📚 100권 읽는 북튜버가 사용하는 찐 독서템 | 이거 없인 책 못 읽어요 | 독서 용품](https://youtube.com/watch?v=191IohPgGT4&si=Tp4qGp_OvAlWTr8t) [[2024/02/17]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/191IohPgGT4/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/191IohPgGT4/hqdefault.jpg)
 - TODO [KyuQ캡틴규큐-지식산업센터를 작업실로 만들면? 허접한 나의 작업실 소개~](https://youtube.com/watch?v=gRmJ5GzM-A0&si=KJjk-FPmGiv0f5An) [[2024/02/17]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/gRmJ5GzM-A0/hqdefault.jpg)
+- TODO [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/4vzZdLWIj3s/hqdefault.jpg)
+- TODO [신동댕동 Shindongdengdong-비전 프로가 필요한 것은, 슈주신동? 신동댕동? 감독신동?](https://youtube.com/watch?v=YU45EGdzxOg&si=nsxJ815MwcBNM6Oq) [[2024/02/17]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/YU45EGdzxOg/hqdefault.jpg)
+- TODO [[2024/02/17]] https://twitter.com/momo_424242
+  > 요즘은 게임을 전혀 안해서 이걸 느낄수 없네. [pic.twitter.com/qTXkoeI5Us](https://t.co/qTXkoeI5Us)
+	- {{tweet https://x.com/momo_424242/status/1637734305517690880?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- DONE [[2024/02/17]] 
+  
+  collapsed:: true
+	- {{tweet https://x.com/andromedarabbit/status/1593816468826619904?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/17]] https://twitter.com/John_Grib
+  collapsed:: true
+  > 이 책 엄청 재밌습니다. <https://t.co/NIQokzPYua>
+	- {{tweet https://x.com/john_grib/status/1592118000651767808?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/xI1ShY-zKus/hqdefault.jpg)
+- TODO [TEO 테오-[SUB] 제로 웨이스트 식당 가다가 제로 만난 사건에 대해 | 트렌디할 조영지 EP.4-1](https://youtube.com/watch?v=wRHP5oDb7hg&si=dFUufhSG3jNg-x5l) [[2024/02/17]] 
 collapsed:: true
-  - ![](https://i.ytimg.com/vi/gRmJ5GzM-A0/hqdefault.jpg)
+  - ![](https://i.ytimg.com/vi/wRHP5oDb7hg/hqdefault.jpg)
