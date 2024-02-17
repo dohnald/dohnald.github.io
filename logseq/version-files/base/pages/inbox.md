@@ -168,3 +168,6 @@ public:: false
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
+- TODO [아침서가-아침서가 📓 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐈𝐭𝐞𝐦  | 1년에 📚 100권 읽는 북튜버가 사용하는 찐 독서템 | 이거 없인 책 못 읽어요 | 독서 용품](https://youtube.com/watch?v=191IohPgGT4&si=Tp4qGp_OvAlWTr8t) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/191IohPgGT4/hqdefault.jpg)
