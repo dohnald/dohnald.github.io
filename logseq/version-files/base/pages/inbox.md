@@ -197,3 +197,7 @@ public:: false
 - TODO [TEO 테오-[SUB] 제로 웨이스트 식당 가다가 제로 만난 사건에 대해 | 트렌디할 조영지 EP.4-1](https://youtube.com/watch?v=wRHP5oDb7hg&si=dFUufhSG3jNg-x5l) [[2024/02/17]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/wRHP5oDb7hg/hqdefault.jpg)
+
+- TODO [Moto Feelz-My Insta360 Workflow Revealed | How to Shoot and Edit Like a Pro](https://youtube.com/watch?v=KpF7Ltt5Plo&si=0cJBp0iSiNwEQHYw) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/KpF7Ltt5Plo/hqdefault.jpg)
