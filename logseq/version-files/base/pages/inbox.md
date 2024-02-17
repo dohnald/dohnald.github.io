@@ -171,3 +171,7 @@ public:: false
 - TODO [아침서가-아침서가 📓 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐈𝐭𝐞𝐦  | 1년에 📚 100권 읽는 북튜버가 사용하는 찐 독서템 | 이거 없인 책 못 읽어요 | 독서 용품](https://youtube.com/watch?v=191IohPgGT4&si=Tp4qGp_OvAlWTr8t) [[2024/02/17]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/191IohPgGT4/hqdefault.jpg)
+
+- TODO [KyuQ캡틴규큐-지식산업센터를 작업실로 만들면? 허접한 나의 작업실 소개~](https://youtube.com/watch?v=gRmJ5GzM-A0&si=KJjk-FPmGiv0f5An) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/gRmJ5GzM-A0/hqdefault.jpg)
