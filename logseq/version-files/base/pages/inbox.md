@@ -1,6 +1,5 @@
 public:: false
 
-- {{query (and (page [[inbox]]) (task DONE))}}
 - [[아이디어/생일]]
   collapsed:: true
 	- > 서대문 자연사 박물관에 너무너무 가고싶음
@@ -200,3 +199,25 @@ public:: false
 - TODO [Moto Feelz-My Insta360 Workflow Revealed | How to Shoot and Edit Like a Pro](https://youtube.com/watch?v=KpF7Ltt5Plo&si=0cJBp0iSiNwEQHYw) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/KpF7Ltt5Plo/hqdefault.jpg)
+- TODO [지다나_지금과는 다른 나-1년에 책 50권 읽는 사람의 독서아이템 6가지. 새털처럼(?) 가벼운 휴대용 독서대부터 감성있는 연필까지.ㅣ자기계발브이로그. 독서브이로그ㅣ거치대,북클립,이북리더기](https://youtube.com/watch?v=auxSo_V-KVs&si=JotSGAN86rgaAfbV) [[2024/02/17]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/auxSo_V-KVs/hqdefault.jpg)
+- TODO [긱블 Geekble-고기를 맛있게 먹을 수 있는 초고속 세탁기 숙성 방법](https://youtube.com/watch?v=og0eCeMKEQk&si=1RqAy1O5lkn3k_64) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/og0eCeMKEQk/hqdefault.jpg)
+
+- TODO [빨강도깨비-명령어 몇개만 넣으면 영화 한편이 뚝딱 만들어지는 기술](https://youtube.com/watch?v=wHsDXl_VXl8&si=FcU0Dn9qIyycXBeD) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/wHsDXl_VXl8/hqdefault.jpg)
+
+- TODO [SBS 뉴스-무료배송 돈줄이 우리 세금? 중국이 세계 장악하는 방법 / 귀에 빡종원 / 모아보는 뉴스](https://youtube.com/watch?v=NbZXC6Y_zzg&si=7tKyDfhO7SyRrJX5) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/NbZXC6Y_zzg/hqdefault.jpg)
+
+- TODO [하이픽션-다른 여자 비키니 봤니?](https://youtube.com/watch?v=OI0WP3VleJY&si=7TGQyqkthZJR0Vby) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/OI0WP3VleJY/hqdefault.jpg)
+
+- TODO [유랑쓰 YOURANGSS-어쩐지 싸다 했는데... 또 속았다 에어비앤비](https://youtube.com/watch?v=EzLhW5cH0Cg&si=r1iayO2q6W1moPIA) [[2024/02/17]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/EzLhW5cH0Cg/hqdefault.jpg)
