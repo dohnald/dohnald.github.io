@@ -156,30 +156,24 @@ public:: false
 	  | So what I have here is the Inster 360x. | 여기 있는 것은 인스터 360x입니다. |
 	  | You've probably seen some clips from this camera in my videos where I use it to document the trip from one place to another or just to add some extra to the video giving you a wider field of view of the surroundings around me. | 아마도 제 영상에서 이 카메라의 클립 중 일부를 보셨을 겁니다. 제가 이를 사용하여 한 장소에서 다른 곳으로 여행을 기록하거나 비디오에 추가로 더해 일상 주변 환경을 더 넓게 볼 수 있도록 합니다. |
 	  | So in today's video, I'm going to tell you everything there is to know about the X3 and also to get the best possible footage out of this how to export | 그래서 오늘의 영상에서는 X3에 대해 알아야 할 모든 것을 알려드리고, 최상의 영상을 어떻게 내보낼 수 있는지 알려드리겠습니다. |
-	- 00:27
-	  the settings I use and how convenient it is to have something like this because this is not like any other action camera on the market.
-	  So first, let's take a look at the specs which the X3 offer.
-	  Now the INSTA 360 X3 comes with two half inch 48 megapixel sensors, a massive 2.1 inch touch screen, the ability to shoot me mode, HDR and 8K time lapses.
-		- | {{youtube-timestamp 00:27}} |
-		  | the settings I use and how convenient it is to have something like this because this is not like any other action camera on the market. | 내가 사용하는 설정과 이것과 같은 것을 가지는 것이 얼마나 편리한 지, 왜냐하면 시장에 있는 다른 액션 카메라와는 다르기 때문입니다. |
-		  | Now the INSTA 360 X3 comes with two half inch 48 megapixel sensors, a massive 2.1 inch touch screen, the ability to shoot me mode, HDR and 8K time lapses. | 이제 INSTA 360 X3는 2개의 반인치 48메가픽셀 센서, 거대한 2.1인치 터치 스크린, 미 모드 촬영이 가능하며, HDR, 8K 타임랩스를 제공합니다. |
-	- 00:54
-	  How awesome is that with industry leading flow state stabilization and a single lens mode which allows you to shoot videos just like any other action camera and 72 megapixel photos.
-	  Is it really the only camera you need?
-	  Let's find out.
-	- 02:58
-	  So one of the reasons you would want to get a 360 camera is the overall versatility it gives compared to the standard action camera.
-	  So if you want to go from a blogging style perspective to reveal a shot of your destination or capture a fast cinematic beerll, you would most likely end up changing the direction of how your camera is pointing and mounted.
-	  And maybe you want to double check your shot before so you make sure that you didn't miss it.
-	- 03:23
-	  But with the 360 camera, you will never miss the shot.
-	  Basically it films everything 360 degrees so you won't miss the shot.
-	  An example here is this PV shot where I'm holding the camera behind me creating this awesome third person view.
-	  But by just pulling the camera in front of me, I have the typical blogging style perspective.
-	- 03:41
-	  And with the install 360 Studio up on your phone or desktop, you can easily adjust the sum and the direction to get your preferred angle.
-	  Now what I found to be a few cones with a regular camera or a regular action camera, it is that you will always have a selfish stake in your frame.
-	  And let's say if you want to go from the perspective here to a Pio vicha of my son,
+	- | {{youtube-timestamp 00:27}} |
+	  | the settings I use and how convenient it is to have something like this because this is not like any other action camera on the market. | 내가 사용하는 설정과 이것과 같은 것을 가지는 것이 얼마나 편리한 지, 왜냐하면 시장에 있는 다른 액션 카메라와는 다르기 때문입니다. |
+	  | Now the INSTA 360 X3 comes with two half inch 48 megapixel sensors, a massive 2.1 inch touch screen, the ability to shoot me mode, HDR and 8K time lapses. | 이제 INSTA 360 X3는 2개의 반인치 48메가픽셀 센서, 거대한 2.1인치 터치 스크린, 미 모드 촬영이 가능하며, HDR, 8K 타임랩스를 제공합니다. |
+	- | {{youtube-timestamp 00:54}} |
+	  | How awesome is that with industry leading flow state stabilization and a single lens mode which allows you to shoot videos just like any other action camera and 72 megapixel photos. Is it really the only camera you need? Let's find out. | 산업 선두의 플로우 상태 안정화와 단일 렌즈 모드로 멋지게 촬영할 수 있으며 72메가픽셀 사진을 찍을 수 있습니다. 정말 당신이 필요로 하는 유일한 카메라인가요? 알아보도록 합시다. |
+	- | {{youtube-timestamp 02:58}} |
+	  | So one of the reasons you would want to get a 360 camera is the overall versatility it gives compared to the standard action camera. | 360 카메라를 구매하고 싶은 이유 중 하나는 일반 액션 카메라와 비교했을 때 제공하는 전반적인 다양성입니다. |
+	  | So if you want to go from a blogging style perspective to reveal a shot of your destination or capture a fast cinematic beerll, you would most likely end up changing the direction of how your camera is pointing and mounted. | 블로깅 스타일의 관점에서 여행지 촬영을 공개하거나 빠른 시네마틱 비롤을 촬영하려면 카메라의 방향과 장착 방법을 바꿀 가능성이 높습니다. |
+	  | And maybe you want to double check your shot before so you make sure that you didn't miss it. | 그리고 아마도 촬영하기 전에 샷을 다시 확인하고 놓치지 않았는지 확인하고 싶을 것입니다. |
+	- |{{youtube-timestamp 03:23}}|
+	  |But with the 360 camera, you will never miss the shot. | 360 카메라를 사용하면 샷을 놓칠 일이 없습니다.|
+	  |Basically, it films everything 360 degrees so you won't miss the shot. | 기본적으로, 모든 것을 360도로 촬영하여 샷을 놓칠 일이 없습니다.|
+	  |An example here is this PV shot where I'm holding the camera behind me creating this awesome third-person view. | 여기 예시가 있습니다. 제가 카메라를 뒤에 들고 멋진 제삼자 시점을 만드는 PV 샷입니다.|
+	  |But by just pulling the camera in front of me, I have the typical blogging style perspective. | 하지만 카메라를 앞으로 당기면 전형적인 블로깅 스타일의 시각을 얻습니다.|
+	- | {{youtube-timestamp 03:41}} | 
+	  | And with the install 360 Studio up on your phone or desktop, you can easily adjust the sum and the direction to get your preferred angle. | 360 스튜디오를 휴대전화나 데스크탑에 설치하면 쉽게 각도와 방향을 조절하여 원하는 각도를 얻을 수 있습니다. |
+	  | Now what I found to be a few cones with a regular camera or a regular action camera, it is that you will always have a selfish stake in your frame. | 일반 카메라나 액션 카메라로 발견한 몇 가지 문제는 항상 자신이 프레임 안에 있게 된다는 것입니다. |
+	  | And let's say if you want to go from the perspective here to a Pio vicha of my son, | 그리고 예를 들어 여기서 내 아들의 시점으로 가고 싶다고 해 봅시다. |
 	- 04:03
 	  then I need to adjust the camera to get a clean shot if I don't want the selfie stick to be in the frame and also trying to do a third person view with the regular action camera, it's not going to look good at all.
 	  It looks so weird. So if you want to get shots like that, you really want to have something like a camera.
