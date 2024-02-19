@@ -341,14 +341,14 @@ public:: false
 	  | I'm really excited to bring this to Hawaii. | 이것을 하와이에 가져가는 것이 정말 기대돼요. |
 	  | We are going to Hawaii again soon so I can't wait to bring the X3 with my good old install 360 Go two. | 우리는 곧 다시 하와이로 가기 때문에 X3와 제 오랜 친구 인스타 360 고2를 가져가는 것이 너무 기대돼요. |
 	  | Hopefully we can see a goal three soon | 희망차례로 골 3를 곧 볼 수 있으면 좋겠습니다. |
-	- 19:33
-	  and that would be really amazing.
-	  I love this go to so much and I love the versatility of the 360, the X3 camera and it's a must have if you ask me.
-	  So there will be some links down to that in the description bow if you want to check it out also the accessories that I used with the Instar 360 X3.
-	  Now if you found any value in this video, let me know by dropping a light down below.
-	  And also if this is the first time that you are here considering subscribing for more videos, that would be
-	- 20:02
-	  I appreciate it and until next time take care and I will see you in the next Tok.
+	- | {{youtube-timestamp 19:33}} |
+	  | and that would be really amazing. | 그건 정말 놀라울 것이다. |
+	  | I love this go to so much and I love the versatility of the 360, the X3 camera and it's a must have if you ask me. | 나는 이것을 너무 좋아하고 360, X3 카메라의 다양성을 사랑합니다. 그리고 이것은 필수품이에요. |
+	  | So there will be some links down to that in the description bow if you want to check it out also the accessories that I used with the Instar 360 X3. | 따라서 설명란에 그에 대한 링크가 있을 것이며, 그것을 확인하고 싶다면 또한 Instar 360 X3와 함께 사용한 악세사리도 있을 것입니다. |
+	  | Now if you found any value in this video, let me know by dropping a light down below. | 이 비디오에서 어떤 가치를 찾았다면, 아래에 좋아요를 눌러 알려주세요. |
+	  | And also if this is the first time that you are here considering subscribing for more videos, that would be | 그리고 만약 처음 방문하신 거라면 더 많은 비디오를 위해 구독을 고려해보세요. |
+	- | {{youtube-timestamp 20:02}} |
+	  | I appreciate it and until next time take care and I will see you in the next Tok. | 감사합니다. 다음에 또 봐요. 건강하세요. 다음 토크에서 뵙겠습니다. |
 	- clovanote.naver.com
 - TODO [CHIMERA STUDIO-직업탐구)  드라마팀 데이터매니저는 무슨일을 할까요?](https://youtube.com/watch?v=Mdl5qVTp-6M&si=7iJE3ZixUfzKlfSm) [[2024/02/18]] 
   collapsed:: true
