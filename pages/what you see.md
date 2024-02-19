@@ -248,6 +248,29 @@ public:: false
 	- DONE [윤주부 YJB-애 둘 데리고 발리여행 괜찮을까? 😱 아야나, 우붓, 식스센스, 바이스로이 | 가족여행VLOG](https://youtube.com/watch?v=3gt3puJNvS8&si=_Pynqg-pgCuA2KRA) [[2024/02/15]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
+	- [[2024/02/14]] epaper
+		- test1
+			- status A
+			- nodeMCU 1.0
+			- usb serial0001
+			- http://192.168.124.189
+			- 7.5 v2로 하면 busy 발생
+		- test2
+			- **status B**
+			- nodeMCU 1.0
+			- usb serial0001
+			- http://192.168.124.189
+		- test3
+			- **status B**
+			- nodeMCU 1.0
+			- usb serial0001
+			- epaper adaptor
+			- http://192.168.124.189
+		- test4
+			- **status B**
+			- nodeMCU 1.0
+			- usb serial0001
+			- epaper hat
 - [[2024/02/15]]
   collapsed:: true
 	- DONE [정리마켓-매일 밤 주방 마감해요, 정리 습관을 만드는 42세 주부 | 전국살림자랑 ep.37](https://youtube.com/watch?v=czzA6fsnaWI&si=5OJYOcIgikTeq-_9) [[2024/02/14]]
@@ -581,4 +604,9 @@ public:: false
 		  공룡키트로 나만의 공룡을 만들거나 태양계 행성 비즈로 우주 팔찌를 만드는 프로그램도 제공을 해줍니다
 		  존나 멋진데 어른은 못함
 		- {{tweet https://x.com/2__mxii/status/1747829103494050109?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
-	-
+	- TODO [[2024/02/15]] https://x.com/k1e1t1o1/status/1700327393838481581
+	  > 영어공부 이렇게 하래서... 넷플에서 hack my home 틀어놓고 무자막으로 봐봤는데 내가 여태까지 영어공부 하면서 쓰던 뇌세포보다 무자막으로 보는 지금의 뇌세포가 더 많을 거 같음...에너지쓰임 장난 아님요 <https://t.co/oNNHRxQ63X>
+		- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+		- 어떤 외국인은 자기 전 영상을 시청하고, 다음날은 그 영상을 음성만 듣는다고 한다. 보는 것과 같은 효과가 나면서 음성에 더 깊게 빠져드는 효과.
+	- [[아이디어/날씨]]
+		- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
