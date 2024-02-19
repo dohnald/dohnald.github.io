@@ -174,18 +174,21 @@ public:: false
 	  | And with the install 360 Studio up on your phone or desktop, you can easily adjust the sum and the direction to get your preferred angle. | 360 스튜디오를 휴대전화나 데스크탑에 설치하면 쉽게 각도와 방향을 조절하여 원하는 각도를 얻을 수 있습니다. |
 	  | Now what I found to be a few cones with a regular camera or a regular action camera, it is that you will always have a selfish stake in your frame. | 일반 카메라나 액션 카메라로 발견한 몇 가지 문제는 항상 자신이 프레임 안에 있게 된다는 것입니다. |
 	  | And let's say if you want to go from the perspective here to a Pio vicha of my son, | 그리고 예를 들어 여기서 내 아들의 시점으로 가고 싶다고 해 봅시다. |
-	- 04:03
-	  then I need to adjust the camera to get a clean shot if I don't want the selfie stick to be in the frame and also trying to do a third person view with the regular action camera, it's not going to look good at all.
-	  It looks so weird. So if you want to get shots like that, you really want to have something like a camera.
-	  So with the 360 camera and the invisible selfish stick, I don't have to worry about any
-	- 04:26
-	  this. I can just put it in my backpack, hold it behind me or in front of me and then later just reframe everything in the studio app or by using the free go Pro reframe atom for Premier Pro or after effect.
-	  Now let's talk about the key features of the X 3 here and why I think this is the perfect addition to your setup.
-	  First, we have the upgraded half inch sensors on the X3 which gives you a resolution of up to 5.7k, up to 30 FPS.
-	- 04:54
-	  And this will also bring better low light capabilities and a crisper image in bright conditions with active HTR.
-	  The upgraded image sensor gives you a whooping 72 megapixel photos which looks amazing.
-	  Now the photos coming from this has to be processed in the studio but this also gives you the option to reframe and save the image you want something you can't do with a standard action camera.
+	- | {{youtube-timestamp 04:03}} |
+	  | then I need to adjust the camera to get a clean shot if I don't want the selfie stick to be in the frame | 그럼 셀카봉이 화면에 들어가지 않도록 깨끗한 샷을 얻기 위해 카메라를 조정해야 해요. |
+	  | also trying to do a third person view with the regular action camera, it's not going to look good at all. | 그리고 일반 액션 카메라로 써드 페르슨 뷰를 시도하려고 해도 전혀 좋지 않아 보일 거에요. |
+	  | It looks so weird. So if you want to get shots like that, you really want to have something like a camera. | 정말 이상하게 보여요. 그래서 그런 샷을 원하면 카메라 같은 걸 써야 해요. |
+	  | So with the 360 camera and the invisible selfish stick, I don't have to worry about any | 그래서 360 카메라와 보이지 않는 셀피쉬 스틱을 사용하면 아무런 걱정 없이 즐길 수 있어요. |
+	- | {{youtube-timestamp 04:26}} |
+	  | this. I can just put it in my backpack, hold it behind me or in front of me and then later just reframe everything in the studio app or by using the free go Pro reframe atom for Premier Pro or after effect. | 이것은 나는 그냥 가방에 넣고, 뒤나 앞에 들고나서 나중에 스튜디오 앱에서 모든 것을 다시 구상하거나 프리미어 프로나 애프터 이펙트에서 무료로 제공되는 go Pro reframe atom을 사용할 수 있습니다. |
+	  | {{youtube-timestamp 04:26}} |
+	  | Now let's talk about the key features of the X 3 here and why I think this is the perfect addition to your setup.
+	  First, we have the upgraded half inch sensors on the X3 which gives you a resolution of up to 5.7k, up to 30 FPS. | 이제 X 3의 주요 기능에 대해 얘기하고, 나는 이것이 당신의 설정에 완벽한 추가라고 생각하는 이유에 대해 이야기해 보겠습니다.
+	  먼저, X3의 업그레이드된 반인치 센서가 있어 최대 5.7k, 최대 30 FPS의 해상도를 제공합니다. |
+	- | {{youtube-timestamp 04:54}} |
+	  | And this will also bring better low light capabilities and a crisper image in bright conditions with active HTR. | 그리고 이는 더 나은 어두운 조건에서의 낮은 빛 성능 및 밝은 조건에서는 더 선명한 이미지를 제공합니다. 활성 HTR을 사용하면 이미지가 개선됩니다. |
+	  | The upgraded image sensor gives you a whooping 72 megapixel photos which looks amazing. | 업그레이드된 이미지 센서는 놀라운 72메가픽셀 사진을 제공합니다. 그것은 놀라운 것을 보입니다. |
+	  | Now the photos coming from this has to be processed in the studio but this also gives you the option to reframe and save the image you want something you can't do with a standard action camera. | 이제 이것에서 나오는 사진들은 스튜디오에서 처리되어야 하지만, 이는 당신에게 리프레임하고 원하는 이미지를 저장할 수 있는 선택권을 제공합니다. 일반 액션 카메라로는 할 수 없는 것입니다. |
 	- 05:18
 	  With the standard action camera, you take the photo you want at that direction and you can't really go back and reframe and select a different, a photo from a different angle later.
 	  So basically the photo you take is what you get and you will have to turn around to the different directions to take multiple photos of everything.
