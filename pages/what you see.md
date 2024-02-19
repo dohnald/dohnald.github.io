@@ -573,3 +573,11 @@ public:: false
 	  collapsed:: true
 	  > 요즘은 게임을 전혀 안해서 이걸 느낄수 없네. [pic.twitter.com/qTXkoeI5Us](https://t.co/qTXkoeI5Us)
 		- {{tweet https://x.com/momo_424242/status/1637734305517690880?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- [[아이디어/생일]]
+	  collapsed:: true
+		- > 서대문 자연사 박물관에 너무너무 가고싶음
+		  서대문자연사박물관에서는 무려 생일파티도 할 수가 있는데요
+		  생일파티 신청하면 파티용품은 기본이고
+		  공룡키트로 나만의 공룡을 만들거나 태양계 행성 비즈로 우주 팔찌를 만드는 프로그램도 제공을 해줍니다
+		  존나 멋진데 어른은 못함
+		- {{tweet https://x.com/2__mxii/status/1747829103494050109?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
