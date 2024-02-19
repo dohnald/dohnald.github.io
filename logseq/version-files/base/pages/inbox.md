@@ -1,7 +1,6 @@
 public:: false
 
 - [[아이디어/생일]]
-  collapsed:: true
 	- > 서대문 자연사 박물관에 너무너무 가고싶음
 	  서대문자연사박물관에서는 무려 생일파티도 할 수가 있는데요
 	  생일파티 신청하면 파티용품은 기본이고
@@ -60,22 +59,14 @@ public:: false
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
-  
-  collapsed:: true
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- DONE [[2024/02/15]] 
-  collapsed:: true
-  > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
-  아마 다들 아실만한 도구들입니다.  
-  요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
-  
-  collapsed:: true
-	- {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
+  collapsed:: true
   > 영어 원서에 도전해보고 싶은 분들을 위한 팁  
   우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
 	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 	- TODO [[2024/02/15]] 
+	  collapsed:: true
 	  > 추천해주신 책 how to talk so little kids will listen 너무 잘 읽고 있습니다…
 	  
 	  collapsed:: true
@@ -113,18 +104,14 @@ public:: false
 - TODO [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
--
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
 - TODO [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/4vzZdLWIj3s/hqdefault.jpg)
-- TODO [[2024/02/17]] https://twitter.com/momo_424242
-  collapsed:: true
-  > 요즘은 게임을 전혀 안해서 이걸 느낄수 없네. [pic.twitter.com/qTXkoeI5Us](https://t.co/qTXkoeI5Us)
-	- {{tweet https://x.com/momo_424242/status/1637734305517690880?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/17]] https://twitter.com/John_Grib
+  collapsed:: true
   > 이 책 엄청 재밌습니다. <https://t.co/NIQokzPYua>
 	- {{tweet https://x.com/john_grib/status/1592118000651767808?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
@@ -133,15 +120,9 @@ public:: false
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
-- TODO [Full Time Filmmaker-8 Steps to Shooting Interviews // Job Shadow 2022](https://youtube.com/watch?v=Xmn5JhlL3PI&si=4wFLtxtytaxfFWwD) [[2024/02/17]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Xmn5JhlL3PI/hqdefault.jpg)
 - TODO [jessica quiambao-how i film & edit my youtube videos using phone📱: intro, music, fonts + more (aesthetic & pastel)](https://youtube.com/watch?v=13mpKPOah54&si=btRjwNl9GLOn6KIP) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/13mpKPOah54/hqdefault.jpg)
-- TODO [제인톤 (jane_tone) -강력한 선순환을 일으키는 '나의 찐 독서생활‘ (필사, 연초에 읽기 좋은 책 추천, 노르잇 독서대)](https://youtube.com/watch?v=2nNWXcSy8cQ&si=2kvncxopYbR9pr7_) [[2024/02/17]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/2nNWXcSy8cQ/hqdefault.jpg)
 - TODO [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
@@ -151,9 +132,6 @@ public:: false
 - TODO [법무법인 별-1시간을 4시간처럼 쓰는 법? 16년차 변호사의 시간관리법 [슬기로운변호사생활 #1]](https://youtube.com/watch?v=n7mLeZ09MXc&si=bhLyrtE3BCgY6VfO) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/n7mLeZ09MXc/hqdefault.jpg)
-- TODO [봉수아 누리 Bonsoir Nuli-서울대 박사생의 불렛 저널 훔쳐보기 📓👀 I 2024년 다이어리 I 불렛저널 쓰는 법 I 박사생 VLOG I 🇫🇷 🇰🇷 한프커플 I 국제부부 VLOG I Bullet journal](https://youtube.com/watch?v=LbpA3-bT2Rc&si=EJJUc6YMO8u8Zard) [[2024/02/18]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/LbpA3-bT2Rc/hqdefault.jpg)
 - TODO [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/eM-vyQRKOSU/hqdefault.jpg)
@@ -352,32 +330,32 @@ public:: false
 	- | {{youtube-timestamp 20:02}} |
 	  | I appreciate it and until next time take care and I will see you in the next Tok. | 감사합니다. 다음에 또 봐요. 건강하세요. 다음 토크에서 뵙겠습니다. |
 	- clovanote.naver.com
-- TODO [CHIMERA STUDIO-직업탐구)  드라마팀 데이터매니저는 무슨일을 할까요?](https://youtube.com/watch?v=Mdl5qVTp-6M&si=7iJE3ZixUfzKlfSm) [[2024/02/18]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Mdl5qVTp-6M/hqdefault.jpg)
-- TODO [자취남-혁신적인 원룸 l l 세상에 이런 공간활용법이 있네요 l l 연남동 6평 원룸 월세](https://youtube.com/watch?v=6RJ68I-eY6A&si=5fBr360TUGyBaP_b) [[2024/02/18]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/6RJ68I-eY6A/hqdefault.jpg)
-- TODO [anuyk -20대 미니멀리스트가 딱 한 개만 가진 물건 20가지](https://youtube.com/watch?v=Hq6nbbx5OLA&si=YohPXIDC61k00Tzv) [[2024/02/19]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Hq6nbbx5OLA/hqdefault.jpg)
 - TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
-- TODO [시칠리안 SICILIAN-시도때도 없이 해외여행하는 부부의 현실적인 고민 [라오스 02]](https://youtube.com/watch?v=7zBGJUg_wuU&si=KNtjTJPEj-Nl9vf7) [[2024/02/19]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/7zBGJUg_wuU/hqdefault.jpg)
 - TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
-- 할 일 
-  * [X] 스팀맨 문의 https://naver.me/xc9B6NBz
-  * [ ] 세탁특공대 서비스 검토
-  * [X] 너무 피곤하다
-  * [ ] 생일캐시백 사용기한 확인
-  * [ ] s3 file remove 확인
-  * [X] s3 archives 요금 비교
-    * deep archives가 가장 저렴하고, 내 패턴에도 맞을 것 같다.
+- TODO [다국어 개발자-개발자 돈 버는 모든 방법 종결](https://youtube.com/watch?v=xWSwohmOrzQ&si=LxJQZ4zLJ_dESD8z) [[2024/02/19]] 
+  id:: 65d2eab5-952f-4371-9813-e815eebd9e00
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/xWSwohmOrzQ/hqdefault.jpg)
+- TODO [이래도 될래나  iamRENA-아름다운 몰디브 여행에 취해 미처 몰랐던 목숨의 위협들.... I 프리다이빙 & 스쿠버 다이빙 도전하는 여성라이더  I   오토바이 여름휴가  I     아야다 리조트](https://youtube.com/watch?v=_eMSe_wSDBU&si=fF5vxFEofhdMPIVS) [[2024/02/19]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/_eMSe_wSDBU/hqdefault.jpg)
+- TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
+- TODO [공부 How-전직 Microsoft 개발자가 전해 주는 챗GPT 활용 기본편 | 최근 교수님 실습 세미나 만족도 ⭐⭐⭐⭐⭐](https://youtube.com/watch?v=gOq-udl1WQI&si=JtmUn2ofRNxD3UV_) [[2024/02/19]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/gOq-udl1WQI/hqdefault.jpg)
+- TODO [백종원 PAIK JONG WON-[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집](https://youtube.com/watch?v=yfP87sVfWQU&si=YdIqF_7xvjpyXLHP) [[2024/02/19]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/yfP87sVfWQU/hqdefault.jpg)
+- TODO [진리에어 JINRI AIR-다이빙 제발 이렇게 하지 마세요!! 잊지 못할 추억 남긴 남싸이전망대 & 블루라군 [라오스_방비엥.05]](https://youtube.com/watch?v=7BV-lf2frJQ&si=hYDw_UypnxVMCWJI) [[2024/02/19]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7BV-lf2frJQ/hqdefault.jpg)
+- TODO [진리에어 JINRI AIR-30대 부부 동반 퇴사 후 세계여행 떠난 사연은...? [라오스_방비엥.07]](https://youtube.com/watch?v=IxFbg9iKmQ8&si=wVFfsdJLK485Ae1A) [[2024/02/19]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/IxFbg9iKmQ8/hqdefault.jpg)

@@ -509,3 +509,67 @@ public:: false
 	- DONE [굥리-굥리_사무직 직장인 브이로그 |  고작 10분 넘기는 편집도 쉽지않네 | 회사 저소음 키보드 추천 | 중소기업 경리 | 20대 직장인 | 사무직업무](https://youtube.com/watch?v=qyTnqfdOgLU&si=K_T1qSTgq2j4PsqR) [[2024/02/18]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/qyTnqfdOgLU/hqdefault.jpg)
+- [[2024/02/19]]
+	- DONE [[2024/02/15]] 
+	  collapsed:: true
+	  > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
+	  아마 다들 아실만한 도구들입니다.  
+	  요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/totuworld/status/1539788390723645440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [Full Time Filmmaker-8 Steps to Shooting Interviews // Job Shadow 2022](https://youtube.com/watch?v=Xmn5JhlL3PI&si=4wFLtxtytaxfFWwD) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Xmn5JhlL3PI/hqdefault.jpg)
+	- DONE [제인톤 (jane_tone) -강력한 선순환을 일으키는 '나의 찐 독서생활‘ (필사, 연초에 읽기 좋은 책 추천, 노르잇 독서대)](https://youtube.com/watch?v=2nNWXcSy8cQ&si=2kvncxopYbR9pr7_) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/2nNWXcSy8cQ/hqdefault.jpg)
+	- DONE [봉수아 누리 Bonsoir Nuli-서울대 박사생의 불렛 저널 훔쳐보기 📓👀 I 2024년 다이어리 I 불렛저널 쓰는 법 I 박사생 VLOG I 🇫🇷 🇰🇷 한프커플 I 국제부부 VLOG I Bullet journal](https://youtube.com/watch?v=LbpA3-bT2Rc&si=EJJUc6YMO8u8Zard) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/LbpA3-bT2Rc/hqdefault.jpg)
+	- DONE [CHIMERA STUDIO-직업탐구)  드라마팀 데이터매니저는 무슨일을 할까요?](https://youtube.com/watch?v=Mdl5qVTp-6M&si=7iJE3ZixUfzKlfSm) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Mdl5qVTp-6M/hqdefault.jpg)
+	- DONE [자취남-혁신적인 원룸 l l 세상에 이런 공간활용법이 있네요 l l 연남동 6평 원룸 월세](https://youtube.com/watch?v=6RJ68I-eY6A&si=5fBr360TUGyBaP_b) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/6RJ68I-eY6A/hqdefault.jpg)
+	- DONE [anuyk -20대 미니멀리스트가 딱 한 개만 가진 물건 20가지](https://youtube.com/watch?v=Hq6nbbx5OLA&si=YohPXIDC61k00Tzv) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Hq6nbbx5OLA/hqdefault.jpg)
+	- DONE [시칠리안 SICILIAN-시도때도 없이 해외여행하는 부부의 현실적인 고민 [라오스 02]](https://youtube.com/watch?v=7zBGJUg_wuU&si=KNtjTJPEj-Nl9vf7) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/7zBGJUg_wuU/hqdefault.jpg)
+	- 할 일 
+	  * [X] 스팀맨 문의 https://naver.me/xc9B6NBz
+	  * [X] 세탁특공대 서비스 검토
+	    * 둘 다 별로. 개주는 서비스만 있으면 좋겠다
+	  * [X] 너무 피곤하다
+	  * [ ] 생일캐시백 사용기한 확인
+	  * [ ] s3 file remove 확인
+	  * [X] s3 archives 요금 비교
+	    * deep archives가 가장 저렴하고, 내 패턴에도 맞을 것 같다.
+	- DONE [WOODY FILM 우디필름-고프로 사용 후기 | DJI Pocket2 vs Gopro | 고프로 브이로그 | 고프로 여행 | 고프로 11 | gopro 11](https://youtube.com/watch?v=ffo1H-jO1jA&si=eUThvxkoifDYb3ma) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ffo1H-jO1jA/hqdefault.jpg)
+	- DONE [카메라는 훌륭하다 - Camera is Great-고프로11에 오즈모액션 마그네틱 마운트 달기](https://youtube.com/watch?v=JDTLkv-yqtc&si=2n7BM6vw18qBrCzo) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/JDTLkv-yqtc/hqdefault.jpg)
+	- DONE [제인톤 (jane_tone) -독서하기 가장 쉬운 환경을 만들기 위해 내가 늘 하는 것 (북클럽, 요즘 읽는 책, 독서루틴)](https://youtube.com/watch?v=0zAJ92COm0g&si=755R5fxMm_JcOrCw) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/0zAJ92COm0g/hqdefault.jpg)
+	- DONE [아하부장_JOHNCOOK-[칼국수집 메인선수] 이 레시피 고대로만 하시면 100% 대박납니다 무생채의 정석무생채](https://youtube.com/watch?v=vLjrkr9uh7g&si=XOtPWWSBxrWpVq5R) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/vLjrkr9uh7g/hqdefault.jpg)
+	- DONE [류석-인스타360을 깨버렸던 날, 아직도 고프로5를 중고로 구입하는 이유 (고프로와 인스타360에 바라는 점)](https://youtube.com/watch?v=xPRS_xAZdQs&si=wu8ZIJnW9vY3aqUh) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/xPRS_xAZdQs/hqdefault.jpg)
+	- DONE [ 개그콘서트-[무삭제풀버전✂+비하인드] 이제는 관객이 대사치는 데프콘 '데프콘 어때요' [개그 콘서트/Gag Concert Ep.1063] | KBS 240218 방송](https://youtube.com/watch?v=Ar40hR7GrsY&si=enldLqGoIzgWLhxC) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Ar40hR7GrsY/hqdefault.jpg)
+	- DONE [슈카월드 코믹스-대한민국에만 있는 단어, 전관예우](https://youtube.com/watch?v=-imBPlqmKVc&si=LgkOyOWb98Rxltqw) [[2024/02/19]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/-imBPlqmKVc/hqdefault.jpg)
+	- DONE [[2024/02/17]] https://twitter.com/momo_424242
+	  collapsed:: true
+	  > 요즘은 게임을 전혀 안해서 이걸 느낄수 없네. [pic.twitter.com/qTXkoeI5Us](https://t.co/qTXkoeI5Us)
+		- {{tweet https://x.com/momo_424242/status/1637734305517690880?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
