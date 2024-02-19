@@ -64,7 +64,6 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
   아마 다들 아실만한 도구들입니다.  
   요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
@@ -151,6 +150,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LbpA3-bT2Rc/hqdefault.jpg)
 - TODO [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/eM-vyQRKOSU/hqdefault.jpg)
 	- | {{youtube-timestamp 00:00}} |
 	  | So what I have here is the Inster 360x. | 여기 있는 것은 인스터 360x입니다. |
@@ -374,4 +374,5 @@ public:: false
   * [X] 너무 피곤하다
   * [ ] 생일캐시백 사용기한 확인
   * [ ] s3 file remove 확인
-  * [ ] s3 archives 요금 비교
+  * [X] s3 archives 요금 비교
+    * deep archives가 가장 저렴하고, 내 패턴에도 맞을 것 같다.
