@@ -211,25 +211,22 @@ public:: false
 	  | You can also set this to take a photo or record a video. But since we have the dedicated record button on the left hand side, I would keep this sitching lenses because it's going to be so much more convenient when you go back and forth between the different editing styles whether you want to use the single lens or a 30 | 사진을 찍거나 비디오를 녹화하도록 이 설정을 변경할 수도 있습니다. 하지만 좌측면에 전용 녹화 버튼이 있기 때문에, 당신이 단일 렌즈를 사용할지 30을 사용할지 여부에 관계없이 다른 편집 스타일 사이를 왔다갔다하는 경우에 훨씬 더 편리해질 것입니다. |
 	- | {{youtube-timestamp 07:33}} |
 	  | camera. On the side, we have the power on off button and a quick switch button to select a pre made profile or your own custom made profile. On the other side, we have the upgraded 1800 million power battery which also holds your S car and above that you have the USBC connection to transfer media or charge your. Now the X3 also has four microphones with direction focus. | 카메라. 한 쪽에는 전원 버튼이 있고 빠른 전환 버튼이 있어 미리 만든 프로필이나 사용자 정의 프로필을 선택할 수 있습니다. 반대편에는 업그레이드된 1800만 파워 배터리가 있으며 여기에는 귀하의 S자동차가 포함되어 있으며 그 위에 미디어를 전송하거나 충전할 수 있는 USBC 연결이 있습니다. 이제 X3에는 방향을 봐야 하는 4개의 마이크도 있습니다. |
-	- 07:57
-	  This means your audio will always come from the direction your camera is facing.
-	  And when you reframe your shot in the studio app, the audio will follow no matter direction, which is really awesome.
-	  That means however you record with this and however you reframe in post if you change the direction in the studio app, the order are going to follow to that direction.
-	  So if I'm talking here and another one is talking over there.
-	- 08:21
-	  I can frame myself and then the audio will come from me.
-	  But as soon as I turn the camera in the studio app towards the other person, the audio is going to follow to person which is really intuitive and something which you can only find with the X.
-	  Now as for durability, it's also waterproof down to 10 meters or 33 feet.
-	  So you don't have to worry about getting any dive cases for this if you just want to take it out for a dip and do some
-	- 08:49
-	  basic snorkling. But if you're going to scoop a dive, anything like that which is deeper, highly recommend that you get a dive case.
-	  The X3 also has Deep Track 2.0 which easily tracks your subject or object with a single tap.
-	  So yeah, is it really the camera you need?
-	  Well, I will leave that up to you but I know for a fact that this is the perfect addition to my Gopro Hero 10 and my action and also with the other travel equipment that I bring like my Mini3 Pro and my Avata and my Soni7
-	- 09:20
-	  this is the perfect addition for me and this is basically recording everything around me and I can go back and reframe later by zooming in if I want to SH be closer or I can do some crazy stuff with it which looks pretty cool if you ask me.
-	  So this is, you know, this is a keeper.
-	  If I should recommend it by now, I would because it's going to make everything more fun and it's going to make your overall
+	- | {{youtube-timestamp 07:57}} |
+	  | This means your audio will always come from the direction your camera is facing. | 이것은 당신의 오디오가 항상 당신의 카메라가 향한 방향에서 나온다는 것을 의미합니다. |
+	  | And when you reframe your shot in the studio app, the audio will follow no matter direction, which is really awesome. | 스튜디오 앱에서 샷을 다시 구성할 때, 오디오는 어떠한 방향이든 따라갈 것이며, 이는 정말 멋진 기능입니다. |
+	  | That means however you record with this and however you reframe in post if you change the direction in the studio app, the order are going to follow to that direction. | 이것은 스튜디오 앱에서 방향을 바꾼다면, 녹화하거나 포스트에서 다시프레임하든지 무슨 방법이든, 순서가 그 방향으로 따라갈 것을 의미합니다. |
+	  | So if I'm talking here and another one is talking over there. | 그래서 내가 여기서 말하고, 또 다른 사람이 저기서 말하고 있다면. |
+	- | {{youtube-timestamp 08:21}} |
+	  | I can frame myself and then the audio will come from me. | 내가 나 자신을 프레임하면 오디오가 나에게서 나올 것이다. |
+	  | But as soon as I turn the camera in the studio app towards the other person, the audio is going to follow to person which is really intuitive and something which you can only find with the X. | 그러나 스튜디오 앱의 카메라를 다른 사람쪽으로 돌리자마자, 오디오가 실제로 사람에게 따라갈 것이며 이는 정말 직관적이며 X에서만 찾을 수 있는 것입니다. |
+	  | Now as for durability, it's also waterproof down to 10 meters or 33 feet. | 내구성에 관해서는, 이것은 10 미터 또는 33 피트까지 방수가 가능합니다. |
+	  | So you don't have to worry about getting any dive cases for this if you just want to take it out for a dip and do some | 그래서 이것에 대해 다이빙 케이스를 구매해야 하는 걱정은 하지 않아도 괜찮으며, 그냥 들고 나가서 간단한 수영을 하고 몇몇을 해보고 싶다면 |
+	- | basic snorkling. But if you're going to scoop a dive, anything like that which is deeper, highly recommend that you get a dive case. | 기본 스노클링. 그러나 다이빙을 하려면, 더 깊고 그러한 것들에 관하여, 다이브 케이스를 구하는 것을 강력히 권장합니다. |
+	  | The X3 also has Deep Track 2.0 which easily tracks your subject or object with a single tap. | X3에는 Deep Track 2.0도 있습니다. 이는 단 한 번의 탭으로 주제나 물체를 쉽게 추적합니다. |
+	  | So yeah, is it really the camera you need? | 그래서, 그것이 정말 필요한 카메라인가요? |
+	  | Well, I will leave that up to you but I know for a fact that this is the perfect addition to my Gopro Hero 10 and my action and also with the other travel equipment that I bring like my Mini3 Pro and my Avata and my Soni7 | 음, 그건 당신에게 달려 있지만, 나도 모르게, 나의 Gopro Hero 10 및 내 행동과 또한 나의 Mini3 Pro, 나의 Avata 및 나의 Soni7 같은 내 다른 여행 장비에 완벽한 추가라는 사실을 알고 있습니다. |
+	- | {{youtube-timestamp 09:20}} |
+	  | this is the perfect addition for me and this is basically recording everything around me and I can go back and reframe later by zooming in if I want to SH be closer or I can do some crazy stuff with it which looks pretty cool if you ask me. So this is, you know, this is a keeper. If I should recommend it by now, I would because it's going to make everything more fun and it's going to make your overall | 이것은 나에게 완벽한 보완이며 주변의 모든 것을 기록하고 원한다면 더 가깝게 SH되기 위해 나중에 줌을 확대해서 다시 만들거나 이것으로 어떤 미친 짓을 할 수도 있어요. 제게 물어봐 주신다면 정말 멋지게 보일 거에요. 그러니, 이건, 알지요, 이건 꼭 지킬 가치가 있는 것입니다. 만약 지금 이걸 추천해야 한다면, 나는 정말로 추천할 것입니다. 왜냐하면 이것이 모든 것을 더 재미있게 만들어 주고 전체적으로 좋게 만들어 줄 거니까 |
 	- 09:46
 	  a solar creating experience much better.
 	  Because this is such a versatile camera and you can capture different angles.
