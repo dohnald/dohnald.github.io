@@ -321,15 +321,11 @@ public:: false
 - TODO [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
--
--
--
--
--
 - 할 일 
   * [ ] 스팀맨 문의 [네이버 지도]
   스팀맨 안양비산점
   경기 안양시 동안구 경수대로883번길 26
   https://naver.me/xc9B6NBz
   * [ ] 세탁특공대 서비스 검토
-  *[ ] 너무 피곤하다
+  * [ ] 너무 피곤하다
+  * [ ] 생일캐시백 사용기한 확인
