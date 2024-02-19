@@ -581,3 +581,4 @@ public:: false
 		  공룡키트로 나만의 공룡을 만들거나 태양계 행성 비즈로 우주 팔찌를 만드는 프로그램도 제공을 해줍니다
 		  존나 멋진데 어른은 못함
 		- {{tweet https://x.com/2__mxii/status/1747829103494050109?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
+	-
