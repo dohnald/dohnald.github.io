@@ -365,6 +365,13 @@ public:: false
 	  collapsed:: true
 	  > 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
 		- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- 할 일
+	  * [X] 질병명 추가
+	  * [X] 생일 쿠폰? 할인? 방법 확인
+	  * [X] 해외 출퇴근?
+	  * [X] 우붓 살기
+	  * [X]인박스 done to wys
+	  * [X] 잡지읽기 api 확인
 - [[2024/02/18]]
 	- DONE [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	  collapsed:: true
@@ -399,3 +406,69 @@ public:: false
 		- DONE [둥지언니 Doongsis-발리 한 달 살기 솔직 후기.. 역대 최고 생활비 쓰고 떠납니다 【발리.04】](https://youtube.com/watch?v=RmYUdEadJlU&si=IHcqzfWrN3l6REpm) [[2024/02/16]] 
 		  collapsed:: true
 			- ![](https://i.ytimg.com/vi/RmYUdEadJlU/hqdefault.jpg)
+	- DONE [복구천재 꼬마신발-5만원에 쉽게 만드는 DIY 포터블 모니터, 잠자는 노트북을 깨우세요](https://youtube.com/watch?v=POmIhFhDvsw&si=O25q7O7WfPEb26MM) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/POmIhFhDvsw/hqdefault.jpg)
+	- DONE [그것이 알고싶다-무기수 장동오 씨 재심 개시 확정! 담당PD의 '이제는 말할 수 있다' | 그알저알 EP.87](https://youtube.com/watch?v=OS3BadoPUKw&si=6587AsHCOT0ve_EQ) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/OS3BadoPUKw/hqdefault.jpg)
+	- DONE [채널십오야-[sub] 이건와글와글이아니라우르릉쾅카ㅇ왕 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=ArVNxIctIqY&si=XyzUCQQ7rj-LvqbW) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ArVNxIctIqY/hqdefault.jpg)
+	- DONE [자이언트 펭TV-브라이언 집 파괴하러 온 청소광 펭수 [EP.328](ENG)](https://youtube.com/watch?v=-iweJawfofo&si=ytwDc26ZYHgKo-dF) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/-iweJawfofo/hqdefault.jpg)
+	- DONE [스튜디오헤이 StudioHey-어디 인공지능이 감히? | 고나리자 EP.06](https://youtube.com/watch?v=XP5HWZw7imE&si=VUxMFkNYJoQzA098) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/XP5HWZw7imE/hqdefault.jpg)
+	- DONE [아침서가-아침서가 📓 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐈𝐭𝐞𝐦  | 1년에 📚 100권 읽는 북튜버가 사용하는 찐 독서템 | 이거 없인 책 못 읽어요 | 독서 용품](https://youtube.com/watch?v=191IohPgGT4&si=Tp4qGp_OvAlWTr8t) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/191IohPgGT4/hqdefault.jpg)
+	- DONE [KyuQ캡틴규큐-지식산업센터를 작업실로 만들면? 허접한 나의 작업실 소개~](https://youtube.com/watch?v=gRmJ5GzM-A0&si=KJjk-FPmGiv0f5An) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/gRmJ5GzM-A0/hqdefault.jpg)
+	- DONE [신동댕동 Shindongdengdong-비전 프로가 필요한 것은, 슈주신동? 신동댕동? 감독신동?](https://youtube.com/watch?v=YU45EGdzxOg&si=nsxJ815MwcBNM6Oq) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/YU45EGdzxOg/hqdefault.jpg)
+	- DONE [TEO 테오-[SUB] 제로 웨이스트 식당 가다가 제로 만난 사건에 대해 | 트렌디할 조영지 EP.4-1](https://youtube.com/watch?v=wRHP5oDb7hg&si=dFUufhSG3jNg-x5l) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/wRHP5oDb7hg/hqdefault.jpg)
+	- DONE [Moto Feelz-My Insta360 Workflow Revealed | How to Shoot and Edit Like a Pro](https://youtube.com/watch?v=KpF7Ltt5Plo&si=0cJBp0iSiNwEQHYw) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/KpF7Ltt5Plo/hqdefault.jpg)
+	- DONE [지다나_지금과는 다른 나-1년에 책 50권 읽는 사람의 독서아이템 6가지. 새털처럼(?) 가벼운 휴대용 독서대부터 감성있는 연필까지.ㅣ자기계발브이로그. 독서브이로그ㅣ거치대,북클립,이북리더기](https://youtube.com/watch?v=auxSo_V-KVs&si=JotSGAN86rgaAfbV) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/auxSo_V-KVs/hqdefault.jpg)
+	- DONE [긱블 Geekble-고기를 맛있게 먹을 수 있는 초고속 세탁기 숙성 방법](https://youtube.com/watch?v=og0eCeMKEQk&si=1RqAy1O5lkn3k_64) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/og0eCeMKEQk/hqdefault.jpg)
+	- DONE [빨강도깨비-명령어 몇개만 넣으면 영화 한편이 뚝딱 만들어지는 기술](https://youtube.com/watch?v=wHsDXl_VXl8&si=FcU0Dn9qIyycXBeD) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/wHsDXl_VXl8/hqdefault.jpg)
+	- DONE [SBS 뉴스-무료배송 돈줄이 우리 세금? 중국이 세계 장악하는 방법 / 귀에 빡종원 / 모아보는 뉴스](https://youtube.com/watch?v=NbZXC6Y_zzg&si=7tKyDfhO7SyRrJX5) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/NbZXC6Y_zzg/hqdefault.jpg)
+	- DONE [하이픽션-다른 여자 비키니 봤니?](https://youtube.com/watch?v=OI0WP3VleJY&si=7TGQyqkthZJR0Vby) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/OI0WP3VleJY/hqdefault.jpg)
+	- DONE [유랑쓰 YOURANGSS-어쩐지 싸다 했는데... 또 속았다 에어비앤비](https://youtube.com/watch?v=EzLhW5cH0Cg&si=r1iayO2q6W1moPIA) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/EzLhW5cH0Cg/hqdefault.jpg)
+	- DONE [다크사이드코리아-호갱구조대. 채널 구매 의혹. 충격적인 비밀. 자청유니버스의 시작.](https://youtube.com/watch?v=AlEcrJygo_8&si=IFP19h_x_7aRDwVN) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/AlEcrJygo_8/hqdefault.jpg)
+	- DONE [머니그라피 Moneygraphy-원의 독백 영상미의 비밀은 인간 삼각대? 📹 1인 크리에이터를 위한 컴팩트한 촬영 장비 추천 | 개런티드](https://youtube.com/watch?v=CO8X7T7wxP0&si=UIyUhsZnTFNieNTF) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/CO8X7T7wxP0/hqdefault.jpg)
+	- DONE [SBS 뉴스-"힘들다는 건 알지만..." 40대가 자영업으로 내몰리는 이유 / SBS / 모아보는 뉴스 / 복면제보](https://youtube.com/watch?v=doBRS4Y2bW8&si=J0FfIHCX2JWiJCJ0) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/doBRS4Y2bW8/hqdefault.jpg)
+	- DONE [William Park-촬영을 1도 안하고 G리는 영상 만드는 노하우](https://youtube.com/watch?v=7yryK40iet4&si=q_C8YLm_n7fRWWX-) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/7yryK40iet4/hqdefault.jpg)
+	- DONE [KBS Entertain-[어남선생 레시피] 만원으로 배달보다 빠르게 치킨먹자! 불양념치킨★ 치밥으로도 예술 [신상출시 편스토랑/Fun-Staurant] | KBS 230818 방송](https://youtube.com/watch?v=XnEANwySB6w&si=YqzPHWM9GNBMNNOp) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/XnEANwySB6w/hqdefault.jpg)
+	- DONE [anuyk -3주 여행 백팩 하나, 미니멀하게 겨울 여행하기](https://youtube.com/watch?v=pMSXR7aavKs&si=UQmACNTHChpmbdab) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/pMSXR7aavKs/hqdefault.jpg)
