@@ -296,25 +296,25 @@ public:: false
 	  | So taking a look at the yellow line between the key frames here if we click on that, you have a few options to choose from. | 그래서 여기 키프레임 사이의 노란 선을 살펴보면, 그 위를 클릭하면 몇 가지 옵션이 나타납니다. |
 	  | What I found to be the best is the last option, the fade in, fade out. | 제가 가장 좋다고 생각하는 것은 마지막 옵션인 페이드 인, 페이드 아웃입니다. |
 	  | So selecting this on all the lines between the key frames, our shot looks so much better. | 그래서 키프레임 사이의 모든 라인에 이 옵션을 선택하면, 우리의 샷이 훨씬 더 나아집니다. |
-	- 15:49
-	  So I went ahead and added a few more key frames as well.
-	  So let's export this and see how the quality comes out.
-	  So to export this, we're going to click on the yellow button on the bottom right corner.
-	  So now we have the export settings and the location of where we want to export to.
-	  So the export settings you want to change is the encoding format.
-	- 16:13
-	  We're going to change this to PROs 422.
-	  We can also see that the resolution is set to 10 ATP so we're going to change this to 4k.
-	  So this is basically the only settings you have to change upon export.
-	  And you can also save this as a preset.
-	  So the next time you export, it will automatically select this preset.
-	  Now let's say you want to export the same video but in 9 by 16 for let's say Instagram or Tik Tok.
-	- 16:38
-	  Then we're just going to add this to queue.
-	  On the left side you can see the file that's ready to be exported.
-	  But first we're going to change the aspect of the next export to 9 by.
-	  And once we change this again, we're going to click on the yellow export button and then add to queue but also make sure that the resolution is to 4K so that's going to be 2160 by 30,840.
-	  So just like 16 by 9 but the other way and now clicking on queue, we have the two files ready to be export.
+	- | {{youtube-timestamp 15:49}} |
+	  | So I went ahead and added a few more key frames as well. | 그래서 저는 추가적으로 몇 개의 중요한 프레임도 추가했어요. |
+	  | So let's export this and see how the quality comes out. | 그래서 우리 이것을 내보내서 품질이 어떻게 나오는지 봐요. |
+	  | So to export this, we're going to click on the yellow button on the bottom right corner. | 이것을 내보내기 위해서, 우리는 오른쪽 하단의 노란 버튼을 클릭할 거에요. |
+	  | So now we have the export settings and the location of where we want to export to. | 그래서 이제 우리는 내보내기 설정과 내보내기할 위치를 가지고 있어요. |
+	  | So the export settings you want to change is the encoding format. | 그래서 바꾸고 싶은 내보내기 설정은 인코딩 형식입니다. |
+	- | {{youtube-timestamp 16:13}} |
+	  | We're going to change this to PROs 422. | PROs 422로 변경할 예정입니다. |
+	  | We can also see that the resolution is set to 10 ATP so we're going to change this to 4k. | 해상도는 현재 10 ATP로 설정되어 있는데, 이를 4k로 변경할 것입니다. |
+	  | So this is basically the only settings you have to change upon export. | 이것이 수출 시 변경해야 할 기본 설정입니다. |
+	  | And you can also save this as a preset. | 또한 이것을 프리셋으로 저장할 수도 있습니다. |
+	  | So the next time you export, it will automatically select this preset. | 다음 번 수출 시 자동으로 이 프리셋이 선택됩니다. |
+	  | Now let's say you want to export the same video but in 9 by 16 for let's say Instagram or Tik Tok. | 이제 동일한 영상을 9:16 비율로 수출하고 싶다고 가정해봅시다. Instagram이나 Tik Tok을 위한 것이죠. |
+	- | {{youtube-timestamp 16:38}} |
+	  | Then we're just going to add this to queue. | 그럼 이걸 큐에 추가할 겁니다. |
+	  | On the left side you can see the file that's ready to be exported. | 왼쪽에 내보내기 준비가 된 파일이 보입니다. |
+	  | But first we're going to change the aspect of the next export to 9 by. | 하지만 먼저, 다음 내보내기의 측면을 9로 변경할 겁니다. |
+	  | And once we change this again, we're going to click on the yellow export button and then add to queue but also make sure that the resolution is to 4K so that's going to be 2160 by 30,840. | 그리고 다시 이것을 변경하고, 노란색 내보내기 버튼을 클릭한 다음 큐에 추가하지만, 해상도가 4K로 설정되었는지 꼭 확인해야 합니다. 그래서 2160x30840이 될 거예요. |
+	  | So just like 16 by 9 but the other way and now clicking on queue, we have the two files ready to be exported. | 그래서 16x9와 같지만 반대 방향이고, 이제 '큐'를 클릭하면 두 파일이 내보내기 준비가 됩니다. |
 	- 17:11
 	  So now we can select both of the clips and right click and then start the exp.
 	  Now once we're done with the export, we can take a quick look here.
