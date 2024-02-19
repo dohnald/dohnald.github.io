@@ -81,7 +81,12 @@ public:: false
 	  collapsed:: true
 		- {{tweet https://x.com/d_ijk_stra/status/1451073947080945668?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 		- [[chatGPT]]
-			- how to talk so little kids will listen 내용을 요약해 줘.
+			- how to talk so little kids will listen 책의 내용을 요약해 줘. 구매를 고민중이야.
+			  * 아이들과의 소통 방법과 대화 기술에 관한 실용적인 조언을 제공하는 책
+			  * 아이들이 어떻게 생각하고 느끼는지 이해하고 그에 맞게 대화하는 방법 소개
+			  * 어떻게 하면 아이들이 더 잘 듣고 협력할 수 있을지에 대한 전략 제시
+			  * 칭찬과 격려를 통해 아이들의 자존감을 높이고 긍정적인 관계를 구축하는 방법 제안
+			  * 부모나 교사가 아이들과의 대화를 통해 더 나은 관계를 형성하고 긍정적인 영향을 미칠 수 있도록 돕는 내용 포함
 - TODO [[2024/02/15]] 
   collapsed:: true
   > 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
@@ -120,7 +125,6 @@ public:: false
   > 요즘은 게임을 전혀 안해서 이걸 느낄수 없네. [pic.twitter.com/qTXkoeI5Us](https://t.co/qTXkoeI5Us)
 	- {{tweet https://x.com/momo_424242/status/1637734305517690880?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/17]] https://twitter.com/John_Grib
-  collapsed:: true
   > 이 책 엄청 재밌습니다. <https://t.co/NIQokzPYua>
 	- {{tweet https://x.com/john_grib/status/1592118000651767808?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
