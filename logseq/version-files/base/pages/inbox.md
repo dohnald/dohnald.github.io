@@ -238,36 +238,32 @@ public:: false
 	  | Now the key element is of course the sun. | 이제 핵심 요소는 물론 해가 됩니다. |
 	  | You always want bright conditions when you're recording videos with a 360 camera. | 360 카메라로 비디오를 녹화할 때 언제나 밝은 조건이 되길 원합니다. |
 	  | And there's also a few settings that you want to change before you start recording and also before you export. | 그리고 녹화를 시작하기 전에 변경하고 내보내기 전에도 변경하고 싶은 몇 가지 설정도 있습니다. |
-	- 10:32
-	  So turning on the X3 here, you want to set your record settings first.
-	  By default it should be 5.7k, 30 FPS and this is what you're going to use anyway so you don't have to change any of that.
-	  Now if you select the camera icon, you can see all the different shooting modes and also the option to change to single lens mode.
-	  Now the first thing you should do is to go through all the different shooting modes not only the ones you'll be using the most but all,
-	- 10:59
-	  trust me, you'll end up using them or testing them at least.
-	  So you want to change the settings on them.
-	  So by starting off with changing all the settings once you get your X3, they will be locked in place.
-	  So whenever you change to photos, HDR or time lapse, the settings you change to will stay in place unless you
-	- 11:16
-	  again, this makes it much faster and easier to record your next session.
-	  And the same thing goes for the other settings as well like color wipeals, etc.
-	  So to change this, you swipe left on the screen from the right side.
-	  Now the settings that I use with the X3 are auto settings with a custom white balance and a custom exposure value and also the color profile Vivid.
-	  Now as for normal settings, I use a max ISO of 800.
-	  The shutter speed is one of 60 since I'm recording in 30 FPS
-	- 11:46
-	  and also used the A Vivid color profile and a white balance between 5,000 and 6,000 Calvin.
-	  So these are pretty common settings and there's not much to change to be honest but where I have noticed the difference is in the sky and this actually tends to blow out sky a little bit more.
-	  So our PROTIP here is to decrease the exposure value to minus 0.5 or minus 1.
-	  And once you do that, you can also take a quick
-	- 12:11
-	  shot of your scenery and then you can flip out your phone, go into the studio up on your phone and check out the content you recorded and then see if the sky is blown or not.
-	  And then go out from the settings that you tested and choose the correct settings for your sequence.
-	  Simplest that really, really intuitive when you have the app which makes it so much convenient
-	- 12:33
-	  to get into the 360 world.
-	  There's also tons of awesome features that you can test out which is really cool and we're going to come back to that in a now going back to the main screen here and swiping down, we get into the quick menu.
-	  Here you have the settings like screen brightness, wind reduction, audio level, pre record time and more.
+	- | {{youtube-timestamp 10:32}} |
+	  | So turning on the X3 here, you want to set your record settings first. By default it should be 5.7k, 30 FPS and this is what you're going to use anyway so you don't have to change any of that. | 이제 X3을 켜면 먼저 레코드 설정을 해야 합니다. 기본적으로 5.7k, 30 FPS여야 하며 당신이 사용할 것이기 때문에 그대로 둘 필요가 있습니다. |
+	  | Now if you select the camera icon, you can see all the different shooting modes and also the option to change to single lens mode. Now the first thing you should do is to go through all the different shooting modes not only the ones you'll be using the most but all. | 이제 카메라 아이콘을 선택하면 모든 다양한 촬영 모드와 싱글 렌즈 모드로 변경하는 옵션을 볼 수 있습니다. 이제 해야 할 첫 번째 일은 당신이 가장 많이 사용하는 것뿐 아니라 모든 다양한 촬영 모드를 모두 살펴보는 것입니다. |
+	- | {{youtube-timestamp 10:59}} |
+	  | trust me, you'll end up using them or testing them at least. | 믿어요, 적어도 사용하거나 테스트하게 될 거에요. |
+	  | So you want to change the settings on them. | 그래서 당신은 그들의 설정을 변경하길 원해요. |
+	  | So by starting off with changing all the settings once you get your X3, they will be locked in place. | 그래서 처음부터 X3를 가져올 때 모든 설정을 변경하면 그들은 잠기게 될 거에요. |
+	  | So whenever you change to photos, HDR or time lapse, the settings you change to will stay in place unless you | 그래서 사진, HDR 또는 타임 랩스로 변경할 때마다, 바꾼 설정은 그대로 유지될 거에요. |
+	- | {{youtube-timestamp 11:16}} |
+	  | again, this makes it much faster and easier to record your next session. | 다시, 다음 세션을 기록하기가 훨씬 빨라지고 쉬워집니다. |
+	  | And the same thing goes for the other settings as well like color wipeals, etc. | 그리고 색상 와이플섭등 다른 설정들에도 똑같은 원리가 적용됩니다. |
+	  | So to change this, you swipe left on the screen from the right side. | 이것을 변경하려면, 오른쪽에서 화면을 왼쪽으로 스와이프합니다. |
+	  | Now the settings that I use with the X3 are auto settings with a custom white balance and a custom exposure value and also the color profile Vivid. | 지금 X3와 사용하는 설정은 사용자 정의 화이트 밸런스와 사용자 정의 노출 값 및 생생한 컬러 프로필입니다. |
+	  | Now as for normal settings, I use a max ISO of 800. | 일반 설정으로는 최대 ISO 800을 사용합니다. | 
+	  | The shutter speed is one of 60 since I'm recording in 30 FPS. | 셔터 속도는 30 FPS로 녹화 중이기 때문에 1/60 중 하나입니다. |
+	- | {{youtube-timestamp 11:46}} | 
+	  | and also used the A Vivid color profile and a white balance between 5,000 and 6,000 Calvin. | 그리고 Vivid 컬러 프로필을 사용하고 5,000 ~ 6,000 켈빈 사이의 화이트 밸런스를 사용했습니다. |
+	  | So these are pretty common settings and there's not much to change to be honest but where I have noticed the difference is in the sky and this actually tends to blow out sky a little bit more. | 이 설정들은 상당히 일반적이며 솔직히 변경할 것은 많지 않습니다. 그러나 제가 차이를 느낀 곳은 하늘이며 이는 사실 상대적으로 하늘이 조금 더 터진다는 것입니다. |
+	  | So our PROTIP here is to decrease the exposure value to minus 0.5 or minus 1. | 그래서 여기 제 팁은 노출 값을 -0.5 또는 -1로 줄이는 것입니다. |
+	  | And once you do that, you can also take a quick | 그리고 그렇게 하면 빠르게 해볼 수 있습니다. |
+	- | {{youtube-timestamp 12:11}} |
+	  | shot of your scenery and then you can flip out your phone, go into the studio up on your phone and check out the content you recorded and then see if the sky is blown or not. And then go out from the settings that you tested and choose the correct settings for your sequence. Simplest that really, really intuitive when you have the app which makes it so much convenient | 당신의 풍경을 촬영하고 전화를 꺼내서 전화에 있는 스튜디오로 가서 녹화한 콘텐츠를 확인하고 하늘이 흐려졌는지 확인하십시오. 그런 다음 테스트한 설정으로부터 나가서 시퀀스에 대한 올바른 설정을 선택하십시오. 어플을 가지고 있을 때 정말 정말 직관적입니다. 많이 편리해집니다 |
+	- | {{youtube-timestamp 12:33}} |
+	  | to get into the 360 world. | 360도 세계로 들어가려면. |
+	  | There's also tons of awesome features that you can test out which is really cool and we're going to come back to that in a now going back to the main screen here and swiping down, we get into the quick menu. | 테스트할 수 있는 놀라운 기능이 많이 있습니다. 그것은 정말 멋지고 현재는 그에 대해 다시 돌아올 것이며 여기 메인 화면으로 돌아가서 아래로 스와이핑하면 빠른 메뉴로 이동합니다. |
+	  | Here you have the settings like screen brightness, wind reduction, audio level, pre-record time, and more. | 여기에는 화면 밝기, 풍력 감소, 오디오 레벨, 사전 녹화 시간 및 기타 설정이 있습니다. |
 	- 12:57
 	  And on the bottom right section here we have the settings menu here you want to scroll down and make sure that the bit rate is set to high and the video sharpness is set to medium or low.
 	  So if you're going to export your videos from your phone, I recommend having this on medium as he adds a little bit more crisp to your image.
