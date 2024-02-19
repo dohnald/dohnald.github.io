@@ -287,6 +287,7 @@ public:: false
 - DONE [이과장-극한직업 나왔던 회사 다니는 중소인의 하루](https://youtube.com/watch?v=8oxdXVZ86XQ&si=5hIKxJ2GRN2_366U) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/8oxdXVZ86XQ/hqdefault.jpg)
+-
 - DONE [미니멀유목민-사랑 없이 결혼한 10살 연상연하 한일부부의 제주도 생활 VLOG](https://youtube.com/watch?v=f4gAkA8k4CM&si=DzkcU2P08_xg0MY1) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/f4gAkA8k4CM/hqdefault.jpg)
@@ -306,21 +307,29 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/6RJ68I-eY6A/hqdefault.jpg)
 - TODO [anuyk -20대 미니멀리스트가 딱 한 개만 가진 물건 20가지](https://youtube.com/watch?v=Hq6nbbx5OLA&si=YohPXIDC61k00Tzv) [[2024/02/19]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Hq6nbbx5OLA/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Hq6nbbx5OLA/hqdefault.jpg)
 - TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-시도때도 없이 해외여행하는 부부의 현실적인 고민 [라오스 02]](https://youtube.com/watch?v=7zBGJUg_wuU&si=KNtjTJPEj-Nl9vf7) [[2024/02/19]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/7zBGJUg_wuU/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7zBGJUg_wuU/hqdefault.jpg)
 - TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
+-
+-
+-
+-
+-
+- 할 일 
+  * [ ] 스팀맨 문의 [네이버 지도]
+  스팀맨 안양비산점
+  경기 안양시 동안구 경수대로883번길 26
+  https://naver.me/xc9B6NBz
+  * [ ] 세탁특공대 서비스 검토
+  *[ ] 너무 피곤하다
