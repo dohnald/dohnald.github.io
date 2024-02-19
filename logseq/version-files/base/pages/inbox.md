@@ -329,18 +329,18 @@ public:: false
 	  | Now the X3 is not only a 360 camera it's a creative tool to enhance your videos, to give your videos a different perspective and to add the extra spice on your next | 이제 X3는 단순히 360 카메라가 아니라 비디오를 향상시키는 창의적인 도구입니다. 비디오에 다른 시각을 제공하고 다음 비디오에 추가 매력을 더할 수 있습니다. |
 	- | {{youtube-timestamp 18:09}} |
 	  | trip. And that's why I love the X3 so much. It's such a versatile camera and has a solar crater so easy to capture the shots that I would normally need my wife to come with me to capture. Now I can do all of that with the, and it's such a versatile and a must have camera in addition to your current setup. And with the three meter invisible selfish stick, you know, you can capture some really amazing | 여행. 그래서 나는 X3를 그렇게 좋아한다. 그것은 정말 다재다능한 카메라이며 태양 크레이터가 있어 내가 보통 아내가 같이 와야 하는 촬영을 쉽게 촬영할 수 있다. 그제서야 나는 그 모든 것을 할 수 있으며 현재 설정에 추가로 꼭 필요한 카메라이다. 그리고 무선 셀카봉 때문에 정말 놀라운 것들을 촬영할 수 있다. |
-	- 18:34
-	  shots. You can do some fake drawn shots which you can actually reframe to look a little bit cooler than maybe just a static cinema, a drone shot.
-	  Like I said if you have the perfect conditions, perfect bright conditions, it's going to look awesome anyway.
-	  And you can really create some amazing things with this which I'm also coming back to in one of the next videos with the X3 creative shot list.
-	  If you don't have the three meter invisible selfish stick I highly recommend that you
-	- 19:04
-	  grab this because this is the difference between creating unique shots with the X3 and not.
-	  So let me know what you think of the INSTA 360x3.
-	  Do you have it already or will you be getting it before the summer holidays?
-	  I'm really excited to bring this to Hawaii.
-	  We are going to Hawaii again soon so I can't wait to bring the X3 with my good old install 360 Go two.
-	  Hopefully we can see a goal three soon
+	- | {{youtube-timestamp 18:34}} |
+	  | shots. You can do some fake drawn shots which you can actually reframe to look a little bit cooler than maybe just a static cinema, a drone shot. | 샷을. 당신은 실제로 프레임을 재구성하여 조금 더 쿨하게 보일 수 있는 가짜 그림촬영을 할 수 있습니다. |
+	  | Like I said if you have the perfect conditions, perfect bright conditions, it's going to look awesome anyway. | 내가 말한대로 완벽한 조건, 완벽한 밝은 조건이 있다면, 아무튼 멋질 것이다. |
+	  | And you can really create some amazing things with this which I'm also coming back to in one of the next videos with the X3 creative shot list. | 그리고 당신은 이것으로 정말 멋진 것들을 만들어낼 수 있습니다. X3 창작 촬영 목록 중 하나의 다음 비디오에서 다시 다루고 있습니다. |
+	  | If you don't have the three meter invisible selfish stick I highly recommend that you | 3미터의 보이지 않는 이기적인 막대가 없다면 강력히 추천합니다. |
+	- | {{youtube-timestamp 19:04}} |
+	  | grab this because this is the difference between creating unique shots with the X3 and not. | 이것을 잡으세요. 이것은 X3로 독특한 촬영을 하는 것과 그렇지 않은 것의 차이입니다. |
+	  | So let me know what you think of the INSTA 360x3. | 그래서 INSTA 360x3에 대해 어떻게 생각하는지 알려주세요. |
+	  | Do you have it already or will you be getting it before the summer holidays? | 이미 가지고 계신가요, 아니면 여름 휴가 전에 구입할 예정인가요? |
+	  | I'm really excited to bring this to Hawaii. | 이것을 하와이에 가져가는 것이 정말 기대돼요. |
+	  | We are going to Hawaii again soon so I can't wait to bring the X3 with my good old install 360 Go two. | 우리는 곧 다시 하와이로 가기 때문에 X3와 제 오랜 친구 인스타 360 고2를 가져가는 것이 너무 기대돼요. |
+	  | Hopefully we can see a goal three soon | 희망차례로 골 3를 곧 볼 수 있으면 좋겠습니다. |
 	- 19:33
 	  and that would be really amazing.
 	  I love this go to so much and I love the versatility of the 360, the X3 camera and it's a must have if you ask me.
