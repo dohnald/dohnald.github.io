@@ -279,23 +279,23 @@ public:: false
 	  | Now this is where you do all the magic. | 지금이 바로 마법을 부리는 곳입니다. |
 	  | So if we double click on a file here, you will get a preview and on the right side of that preview screen, you can see the different sections to adjust stabilization, audio, color boosts and etc. | 여기 파일을 두 번 클릭하면 미리보기를 볼 수 있고, 이 미리보기 화면의 오른쪽에는 안정화, 오디오, 색상 부스트 등을 조절할 수 있는 다양한 섹션이 표시됩니다. |
 	  | And by click holding on the video inside the previous screen, you can drag this to either side and up and down to reframe your shot. | 이전 화면에서 비디오를 클릭하고 드래그하면 좌우 및 상하로 이동하여 샷을 다시 맞출 수 있습니다. |
-	- 14:21
-	  On the bottom section you have a trim out and trim in also the audio levels, key frameworkers, deep track 2.0 and time shift and motion.
-	  Now on the right side of the previous screen, you can also see it says 16 by 9 and this is the aspect.
-	  Now what's really awesome here is that you can export the exact same video in both 16 by 9 and 9 by 16 for either TikTok or Instagram at the same time.
-	  I will come back to that in a second.
-	  But first, let's take a look at the key framing.
-	- 14:49
-	  So what I'm going to do is to find a position in the clip here and use the trim handles to find the in and out of the clip I want to use.
-	  And I'm also going to put a key frame at the beginning and then a reframe.
-	  Now the next step is to go to somewhere in your video right before you want to apply a change to the angle and then make another key frame.
-	  And now to the part where you want to add that change and then adjust the angle and add a new key frame.
-	- 15:17
-	  So now we have three key frames here.
-	  And if we do a playback, we can see the camera changing from one position to another but something is off it doesn't have a smooth start or ending.
-	  So taking a look at the yellow line between the key frames here if we click on that, you have a few options to choose from.
-	  What I found to be the best is the last option, the fade in, fade out.
-	  So selecting this on all the lines between the key frames, our shot looks so much better.
+	- | {{youtube-timestamp 14:21}} |
+	  | On the bottom section you have a trim out and trim in also the audio levels, key frameworkers, deep track 2.0 and time shift and motion. | 아래 섹션에는 트림 아웃과 트림 인, 오디오 레벨, 키프레이밍, 딥 트랙 2.0, 타임 쉬프트 및 모션도 있습니다. |
+	  | Now on the right side of the previous screen, you can also see it says 16 by 9 and this is the aspect. | 지난 화면의 오른쪽에도 16 대 9로 표시되어 있고 이것이 비율입니다. |
+	  | Now what's really awesome here is that you can export the exact same video in both 16 by 9 and 9 by 16 for either TikTok or Instagram at the same time. | 여기서 정말 멋진 점은 동일한 비디오를 TikTok이나 Instagram에 동시에 16 대 9 및 9 대 16으로 내보낼 수 있다는 것입니다. |
+	  | I will come back to that in a second. | 나중에 그것에 다시 돌아올 것입니다. |
+	  | But first, let's take a look at the key framing. | 하지만 먼저 키프레이밍을 살펴보겠습니다. |
+	- | {{youtube-timestamp 14:49}} |
+	  | So what I'm going to do is to find a position in the clip here and use the trim handles to find the in and out of the clip I want to use. | 내가 할 일은 여기 클립에서 위치를 찾고, 사용하려는 클립의 시작과 끝을 찾기 위해 트리밍 핸들을 사용하는 것이다. |
+	  | And I'm also going to put a key frame at the beginning and then a reframe. | 그리고 나는 시작 부분에 키프레임을 넣을 것이고 그리고 다시 프레임을 할 것이다. |
+	  | Now the next step is to go to somewhere in your video right before you want to apply a change to the angle and then make another key frame. | 이제 다음 단계는 비디오에서 원하는 각도를 변경하기 전에 가서 다른 키프레임을 만든다. |
+	  | And now to the part where you want to add that change and then adjust the angle and add a new key frame. | 그리고 이제 그 변경 사항을 추가하려는 부분으로 이동하여 각도를 조정하고 새로운 키프레임을 추가한다. |
+	- | {{youtube-timestamp 15:17}} |
+	  | So now we have three key frames here. | 지금 여기 우리에게 세 개의 키프레임이 있습니다. |
+	  | And if we do a playback, we can see the camera changing from one position to another but something is off it doesn't have a smooth start or ending. | 만약 우리가 재생을 한다면, 카메라가 한 위치에서 다른 위치로 변경되는 것을 볼 수 있습니다. 그러나 무언가가 잘못되어 부드러운 시작이나 끝이 없습니다. |
+	  | So taking a look at the yellow line between the key frames here if we click on that, you have a few options to choose from. | 그래서 여기 키프레임 사이의 노란 선을 살펴보면, 그 위를 클릭하면 몇 가지 옵션이 나타납니다. |
+	  | What I found to be the best is the last option, the fade in, fade out. | 제가 가장 좋다고 생각하는 것은 마지막 옵션인 페이드 인, 페이드 아웃입니다. |
+	  | So selecting this on all the lines between the key frames, our shot looks so much better. | 그래서 키프레임 사이의 모든 라인에 이 옵션을 선택하면, 우리의 샷이 훨씬 더 나아집니다. |
 	- 15:49
 	  So I went ahead and added a few more key frames as well.
 	  So let's export this and see how the quality comes out.
