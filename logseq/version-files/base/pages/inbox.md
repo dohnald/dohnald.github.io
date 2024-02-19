@@ -374,7 +374,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
 - 할 일 
-  * [ ] 스팀맨 문의 https://naver.me/xc9B6NBz
+  * [X] 스팀맨 문의 https://naver.me/xc9B6NBz
   * [ ] 세탁특공대 서비스 검토
   * [X] 너무 피곤하다
   * [ ] 생일캐시백 사용기한 확인
