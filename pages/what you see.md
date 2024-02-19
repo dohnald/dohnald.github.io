@@ -472,3 +472,39 @@ public:: false
 	- DONE [anuyk -3주 여행 백팩 하나, 미니멀하게 겨울 여행하기](https://youtube.com/watch?v=pMSXR7aavKs&si=UQmACNTHChpmbdab) [[2024/02/17]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/pMSXR7aavKs/hqdefault.jpg)
+	- DONE [William Park-당신의 컷 편집을 간지나게 만들어줄 압도적 핵꿀팁](https://youtube.com/watch?v=9cdJI5wr8lc&si=Yw7Qav55V5cKfwVR) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/9cdJI5wr8lc/hqdefault.jpg)
+	- DONE [시칠리안 SICILIAN-출발 직전에 비행기 취소? 생각보다 험난한 겸업 여행 유튜버의 현실](https://youtube.com/watch?v=MmHRxxW2hPc&si=LmyewavQLr19V526) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/MmHRxxW2hPc/hqdefault.jpg)
+	- DONE [튜나-한국 영화는 정말 망해가고 있을까? [튜나]](https://youtube.com/watch?v=ZlPt4HfQAt4&si=OalXpxY1EjJUbZEv) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ZlPt4HfQAt4/hqdefault.jpg)
+	- DONE [180초-김밥천국](https://youtube.com/watch?v=E-7mM9HRXW0&si=Bzy_EeRH9acl-XAX) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/E-7mM9HRXW0/hqdefault.jpg)
+	- DONE [스타폐인TV-스타 역사상 손꼽힐 만한 역대급 스킬, 그 누구도 예상치 못한 플레이](https://youtube.com/watch?v=lKwhlgYtr-I&si=YHageJNscy6hUVHb) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/lKwhlgYtr-I/hqdefault.jpg)
+	- DONE [히조heejo-책방 창업 브이로그를 시작합니다. 독립서점을 열기로 결심한 이유.](https://youtube.com/watch?v=JmFGLvX4xZY&si=f7Qh-Tm_IRQTjqGO) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/JmFGLvX4xZY/hqdefault.jpg)
+	- DONE [lrnjulie-I deleted all my social media and made a website](https://youtube.com/watch?v=r0RqucKwIcw&si=8JauyTXG-PG5vzDk) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/r0RqucKwIcw/hqdefault.jpg)
+	- DONE [영민하다-영화 《벤자민 버튼의 시간은 거꾸로 간다》 비하인드 스토리](https://youtube.com/watch?v=ZmTflSyvP3Q&si=ZxOoiAlS0ZBy2Mk1) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ZmTflSyvP3Q/hqdefault.jpg)
+	- DONE [이과장-극한직업 나왔던 회사 다니는 중소인의 하루](https://youtube.com/watch?v=8oxdXVZ86XQ&si=5hIKxJ2GRN2_366U) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/8oxdXVZ86XQ/hqdefault.jpg)
+	- DONE [미니멀유목민-사랑 없이 결혼한 10살 연상연하 한일부부의 제주도 생활 VLOG](https://youtube.com/watch?v=f4gAkA8k4CM&si=DzkcU2P08_xg0MY1) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/f4gAkA8k4CM/hqdefault.jpg)
+	- DONE [방구석 리뷰룸-아이폰 슈퍼 꿀팁 🤩 이거 정말 쉽고 편합니다! 아이폰, 아이패드 사진, 파일 네트워크 자동 공유](https://youtube.com/watch?v=r-aZpnvDWGI&si=PVigWBMClG5jSC9Q) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/r-aZpnvDWGI/hqdefault.jpg)
+	- DONE [굥리-굥리_사무직 직장인 브이로그 |  고작 10분 넘기는 편집도 쉽지않네 | 회사 저소음 키보드 추천 | 중소기업 경리 | 20대 직장인 | 사무직업무](https://youtube.com/watch?v=qyTnqfdOgLU&si=K_T1qSTgq2j4PsqR) [[2024/02/18]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/qyTnqfdOgLU/hqdefault.jpg)
