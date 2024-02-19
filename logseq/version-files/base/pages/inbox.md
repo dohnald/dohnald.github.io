@@ -63,7 +63,8 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
+  collapsed:: true
   > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
   아마 다들 아실만한 도구들입니다.  
   요즘 코로나로 옆 자리 동료가 무슨 도구 쓰는지 알아보기 힘든듯해서 제가 쓰는거라도 공유해봅니다. 다른 분들도 어떤거 쓰시는지 많이 자랑해주세요.<https://t.co/L53mCR0xGJ>
@@ -76,7 +77,6 @@ public:: false
   우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
 	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
-  collapsed:: true
   > 추천해주신 책 how to talk so little kids will listen 너무 잘 읽고 있습니다…
   
   collapsed:: true
