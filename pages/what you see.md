@@ -373,6 +373,7 @@ public:: false
 	  * [X]인박스 done to wys
 	  * [X] 잡지읽기 api 확인
 - [[2024/02/18]]
+  collapsed:: true
 	- DONE [비교공방-개발자가 해피해킹 키보드를 쓰는 진짜 이유 |  (ft. 하이브리드 Type-S , 리얼포스 R2 )](https://youtube.com/watch?v=mu165FX2YO8&si=OBo2LbVFJBxjRbBx) [[2024/02/15]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/mu165FX2YO8/hqdefault.jpg)

@@ -179,3 +179,5 @@ public:: false
   * [ ] 세탁특공대 서비스 검토
   * [X] 너무 피곤하다
   * [ ] 생일캐시백 사용기한 확인
+  * [ ] s3 file remove 확인
+  * [ ] s3 archives 요금 비교
