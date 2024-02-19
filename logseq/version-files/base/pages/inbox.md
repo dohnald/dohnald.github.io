@@ -197,24 +197,20 @@ public:: false
 	  | It gives me that standard action camera look without needing to reframe the shot later just a running gun. | 나에게 표준 액션 캠 룩을 제공하며 최후에 재프레임할 필요 없이 그냥 진행 도중 실행할 수 있게 합니다. |
 	  | Unfortunately, we're limited to 4k 30 and I wish we had at least 50 FPS but 4K 30 is still doing an amazing job to be honest. | 유감스럽게도, 4k 30으로 제한되어 있고 적어도 50 FPS가 있었으면 했지만 솔직히 말해서 4K 30은 여전히 놀랍게 잘하고 있습니다. |
 	  | Now talking about ME mode, this just has to be the perfect feature if you're out doing some blogging or if you just want to be center framed throughout the entire | 이제 ME 모드에 대해 이야기해보면, 이것은 블로깅을 하거나 전체 과정 동안 중앙에 맞춰져 있기를 원하는 경우 완벽한 기능이어야 합니다. |
-	- 06:14
-	  shot. What the memode does is basically active tracking the subject and making sure that the subject is always in frame which is really awesome and you don't have to worry about how you hold.
-	  The camera is always going to track you anyway.
-	  Now the only downside is that you're limited to 10 ATP up to 6 FPS but in good conditions, in bright conditions, it's actually doing a pretty good job.
-	  Now let's talk about the screen of the instal 360x.
-	- 06:43
-	  This is huge. Now I've said the screen on the Action three is by far the best screen I've used but this is coming straight at it with a lot of power.
-	  It's super responsive and navigating through the settings is extremely satisfying.
-	  It feels like you're swiping on a phone.
-	  Now on the X3 itself, here we have a dedicated record button next to a custom button which you can set to switch between
-	- 07:09
-	  lenses whether you want to record with the lens on the front or the back in a single lens mode or use both to shoot a.
-	  You can also set this to take a photo or record a video.
-	  But since we have the dedicated record button on the left hand side, I would keep this sitching lenses because it's going to be so much more convenient when you go back and forth between the different editing styles whether you want to use the single lens or a 30
-	- 07:33
-	  camera. On the side, we have the power on off button and a quick switch button to select a pre made profile or your own custom made profile.
-	  On the other side, we have the upgraded 1800 million power battery which also holds your S car and above that you have the USBC connection to transfer media or charge your.
-	  Now the X3 also has four microphones with direction focus.
+	- | {{youtube-timestamp 06:14}} |
+	  | shot. What the memode does is basically active tracking the subject and making sure that the subject is always in frame which is really awesome and you don't have to worry about how you hold. The camera is always going to track you anyway. Now the only downside is that you're limited to 10 ATP up to 6 FPS but in good conditions, in bright conditions, it's actually doing a pretty good job. | memode가 하는 것은 기본적으로 주제를 능동적으로 추적하고 주제가 항상 프레임 내에 있다는 것을 보장하는 것입니다. 그것은 정말 멋진데, 어떻게 들고 있는지 걱정할 필요가 없습니다. 카메라가 항상 당신을 추적할 것입니다. 이제 유일한 단점은 10 ATP까지 6 FPS로 제한되지만, 좋은 환경에서는 실제로 아주 잘하고 있습니다. | 
+	  | Now let's talk about the screen of the instal 360x. | 이제 인스탈 360x의 화면에 대해 이야기해 보겠습니다. |
+	- | {{youtube-timestamp 06:43}} |
+	  | This is huge. | 이건 엄청난 일입니다. |
+	  | Now I've said the screen on the Action three is by far the best screen I've used but this is coming straight at it with a lot of power. | 지금까지 사용해본 것 중 Action three의 스크린이 최고라고 했지만 이것은 힘을 행사하며 바로 직면합니다. |
+	  | It's super responsive and navigating through the settings is extremely satisfying. | 매우 반응이 빠르고 설정을 탐색하는 것이 매우 만족스럽습니다. |
+	  | It feels like you're swiping on a phone. | 휴대폰에서 스와이프하는 것 같은 느낌입니다. |
+	  | Now on the X3 itself, here we have a dedicated record button next to a custom button which you can set to switch between | X3 자체에는 이제 여기 녹화 전용 버튼과 사용자 정의 버튼이 옆에 있습니다. 이 버튼은 전환할 수 있습니다. |
+	- | {{youtube-timestamp 07:09}} |
+	  | lenses whether you want to record with the lens on the front or the back in a single lens mode or use both to shoot a. | 렌즈는 당신이 전면 렌즈 또는 후면 렌즈로 녹화하고 싶은지, 단일 렌즈 모드로 사용할지 또는 양측 렌즈를 사용하여 촬영할지 여부를 결정합니다. | 
+	  | You can also set this to take a photo or record a video. But since we have the dedicated record button on the left hand side, I would keep this sitching lenses because it's going to be so much more convenient when you go back and forth between the different editing styles whether you want to use the single lens or a 30 | 사진을 찍거나 비디오를 녹화하도록 이 설정을 변경할 수도 있습니다. 하지만 좌측면에 전용 녹화 버튼이 있기 때문에, 당신이 단일 렌즈를 사용할지 30을 사용할지 여부에 관계없이 다른 편집 스타일 사이를 왔다갔다하는 경우에 훨씬 더 편리해질 것입니다. |
+	- | {{youtube-timestamp 07:33}} |
+	  | camera. On the side, we have the power on off button and a quick switch button to select a pre made profile or your own custom made profile. On the other side, we have the upgraded 1800 million power battery which also holds your S car and above that you have the USBC connection to transfer media or charge your. Now the X3 also has four microphones with direction focus. | 카메라. 한 쪽에는 전원 버튼이 있고 빠른 전환 버튼이 있어 미리 만든 프로필이나 사용자 정의 프로필을 선택할 수 있습니다. 반대편에는 업그레이드된 1800만 파워 배터리가 있으며 여기에는 귀하의 S자동차가 포함되어 있으며 그 위에 미디어를 전송하거나 충전할 수 있는 USBC 연결이 있습니다. 이제 X3에는 방향을 봐야 하는 4개의 마이크도 있습니다. |
 	- 07:57
 	  This means your audio will always come from the direction your camera is facing.
 	  And when you reframe your shot in the studio app, the audio will follow no matter direction, which is really awesome.
