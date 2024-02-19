@@ -152,7 +152,226 @@ public:: false
 	- ![](https://i.ytimg.com/vi/LbpA3-bT2Rc/hqdefault.jpg)
 - TODO [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
 	- ![](https://i.ytimg.com/vi/eM-vyQRKOSU/hqdefault.jpg)
-	- 번역 필요
+	- | {{youtube-timestamp 00:00}} |
+	  | So what I have here is the Inster 360x. | 여기 있는 것은 인스터 360x입니다. |
+	  | You've probably seen some clips from this camera in my videos where I use it to document the trip from one place to another or just to add some extra to the video giving you a wider field of view of the surroundings around me. | 아마도 제 영상에서 이 카메라의 클립 중 일부를 보셨을 겁니다. 제가 이를 사용하여 한 장소에서 다른 곳으로 여행을 기록하거나 비디오에 추가로 더해 일상 주변 환경을 더 넓게 볼 수 있도록 합니다. |
+	  | So in today's video, I'm going to tell you everything there is to know about the X3 and also to get the best possible footage out of this how to export | 그래서 오늘의 영상에서는 X3에 대해 알아야 할 모든 것을 알려드리고, 최상의 영상을 어떻게 내보낼 수 있는지 알려드리겠습니다. |
+	- 00:27
+	  the settings I use and how convenient it is to have something like this because this is not like any other action camera on the market.
+	  So first, let's take a look at the specs which the X3 offer.
+	  Now the INSTA 360 X3 comes with two half inch 48 megapixel sensors, a massive 2.1 inch touch screen, the ability to shoot me mode, HDR and 8K time lapses.
+		- | {{youtube-timestamp 00:27}} |
+		  | the settings I use and how convenient it is to have something like this because this is not like any other action camera on the market. | 내가 사용하는 설정과 이것과 같은 것을 가지는 것이 얼마나 편리한 지, 왜냐하면 시장에 있는 다른 액션 카메라와는 다르기 때문입니다. |
+		  | Now the INSTA 360 X3 comes with two half inch 48 megapixel sensors, a massive 2.1 inch touch screen, the ability to shoot me mode, HDR and 8K time lapses. | 이제 INSTA 360 X3는 2개의 반인치 48메가픽셀 센서, 거대한 2.1인치 터치 스크린, 미 모드 촬영이 가능하며, HDR, 8K 타임랩스를 제공합니다. |
+	- 00:54
+	  How awesome is that with industry leading flow state stabilization and a single lens mode which allows you to shoot videos just like any other action camera and 72 megapixel photos.
+	  Is it really the only camera you need?
+	  Let's find out.
+	- 02:58
+	  So one of the reasons you would want to get a 360 camera is the overall versatility it gives compared to the standard action camera.
+	  So if you want to go from a blogging style perspective to reveal a shot of your destination or capture a fast cinematic beerll, you would most likely end up changing the direction of how your camera is pointing and mounted.
+	  And maybe you want to double check your shot before so you make sure that you didn't miss it.
+	- 03:23
+	  But with the 360 camera, you will never miss the shot.
+	  Basically it films everything 360 degrees so you won't miss the shot.
+	  An example here is this PV shot where I'm holding the camera behind me creating this awesome third person view.
+	  But by just pulling the camera in front of me, I have the typical blogging style perspective.
+	- 03:41
+	  And with the install 360 Studio up on your phone or desktop, you can easily adjust the sum and the direction to get your preferred angle.
+	  Now what I found to be a few cones with a regular camera or a regular action camera, it is that you will always have a selfish stake in your frame.
+	  And let's say if you want to go from the perspective here to a Pio vicha of my son,
+	- 04:03
+	  then I need to adjust the camera to get a clean shot if I don't want the selfie stick to be in the frame and also trying to do a third person view with the regular action camera, it's not going to look good at all.
+	  It looks so weird. So if you want to get shots like that, you really want to have something like a camera.
+	  So with the 360 camera and the invisible selfish stick, I don't have to worry about any
+	- 04:26
+	  this. I can just put it in my backpack, hold it behind me or in front of me and then later just reframe everything in the studio app or by using the free go Pro reframe atom for Premier Pro or after effect.
+	  Now let's talk about the key features of the X 3 here and why I think this is the perfect addition to your setup.
+	  First, we have the upgraded half inch sensors on the X3 which gives you a resolution of up to 5.7k, up to 30 FPS.
+	- 04:54
+	  And this will also bring better low light capabilities and a crisper image in bright conditions with active HTR.
+	  The upgraded image sensor gives you a whooping 72 megapixel photos which looks amazing.
+	  Now the photos coming from this has to be processed in the studio but this also gives you the option to reframe and save the image you want something you can't do with a standard action camera.
+	- 05:18
+	  With the standard action camera, you take the photo you want at that direction and you can't really go back and reframe and select a different, a photo from a different angle later.
+	  So basically the photo you take is what you get and you will have to turn around to the different directions to take multiple photos of everything.
+	  But with a 360 camera, you snap one shot and you have everything and I think that is really awesome and you can reframe it exactly how you want in the studio which
+	- 05:45
+	  again, it's really convenient.
+	  Now what I really like with the X3 is the single lens mode.
+	  It gives me that standard action camera look without needing to reframe the shot later just a running gun.
+	  Unfortunately, we're limited to 4k 30 and I wish we had at least 50 FPS but 4K 30 is still doing an amazing job to be honest.
+	  Now talking about ME mode, this just has to be the perfect feature if you're out doing some blogging or if you just want to be center framed throughout the entire
+	- 06:14
+	  shot. What the memode does is basically active tracking the subject and making sure that the subject is always in frame which is really awesome and you don't have to worry about how you hold.
+	  The camera is always going to track you anyway.
+	  Now the only downside is that you're limited to 10 ATP up to 6 FPS but in good conditions, in bright conditions, it's actually doing a pretty good job.
+	  Now let's talk about the screen of the instal 360x.
+	- 06:43
+	  This is huge. Now I've said the screen on the Action three is by far the best screen I've used but this is coming straight at it with a lot of power.
+	  It's super responsive and navigating through the settings is extremely satisfying.
+	  It feels like you're swiping on a phone.
+	  Now on the X3 itself, here we have a dedicated record button next to a custom button which you can set to switch between
+	- 07:09
+	  lenses whether you want to record with the lens on the front or the back in a single lens mode or use both to shoot a.
+	  You can also set this to take a photo or record a video.
+	  But since we have the dedicated record button on the left hand side, I would keep this sitching lenses because it's going to be so much more convenient when you go back and forth between the different editing styles whether you want to use the single lens or a 30
+	- 07:33
+	  camera. On the side, we have the power on off button and a quick switch button to select a pre made profile or your own custom made profile.
+	  On the other side, we have the upgraded 1800 million power battery which also holds your S car and above that you have the USBC connection to transfer media or charge your.
+	  Now the X3 also has four microphones with direction focus.
+	- 07:57
+	  This means your audio will always come from the direction your camera is facing.
+	  And when you reframe your shot in the studio app, the audio will follow no matter direction, which is really awesome.
+	  That means however you record with this and however you reframe in post if you change the direction in the studio app, the order are going to follow to that direction.
+	  So if I'm talking here and another one is talking over there.
+	- 08:21
+	  I can frame myself and then the audio will come from me.
+	  But as soon as I turn the camera in the studio app towards the other person, the audio is going to follow to person which is really intuitive and something which you can only find with the X.
+	  Now as for durability, it's also waterproof down to 10 meters or 33 feet.
+	  So you don't have to worry about getting any dive cases for this if you just want to take it out for a dip and do some
+	- 08:49
+	  basic snorkling. But if you're going to scoop a dive, anything like that which is deeper, highly recommend that you get a dive case.
+	  The X3 also has Deep Track 2.0 which easily tracks your subject or object with a single tap.
+	  So yeah, is it really the camera you need?
+	  Well, I will leave that up to you but I know for a fact that this is the perfect addition to my Gopro Hero 10 and my action and also with the other travel equipment that I bring like my Mini3 Pro and my Avata and my Soni7
+	- 09:20
+	  this is the perfect addition for me and this is basically recording everything around me and I can go back and reframe later by zooming in if I want to SH be closer or I can do some crazy stuff with it which looks pretty cool if you ask me.
+	  So this is, you know, this is a keeper.
+	  If I should recommend it by now, I would because it's going to make everything more fun and it's going to make your overall
+	- 09:46
+	  a solar creating experience much better.
+	  Because this is such a versatile camera and you can capture different angles.
+	  You can really spice up your videos by using something and also something to add to that.
+	  This is a 360 camera so it records everything and you will never miss the shot which is
+	- 10:06
+	  one of the reasons that this is coming with me everywhere.
+	  But having a 360 camera is one thing but how do you actually get the most out of this?
+	  And how do you get the best quality coming from a 360 camera and especially the X?
+	  Now the key element is of course the sun.
+	  You always want bright conditions when you're recording videos with a 360 camera.
+	  And there's also a few settings that you want to change before you start recording and also before you export.
+	- 10:32
+	  So turning on the X3 here, you want to set your record settings first.
+	  By default it should be 5.7k, 30 FPS and this is what you're going to use anyway so you don't have to change any of that.
+	  Now if you select the camera icon, you can see all the different shooting modes and also the option to change to single lens mode.
+	  Now the first thing you should do is to go through all the different shooting modes not only the ones you'll be using the most but all,
+	- 10:59
+	  trust me, you'll end up using them or testing them at least.
+	  So you want to change the settings on them.
+	  So by starting off with changing all the settings once you get your X3, they will be locked in place.
+	  So whenever you change to photos, HDR or time lapse, the settings you change to will stay in place unless you
+	- 11:16
+	  again, this makes it much faster and easier to record your next session.
+	  And the same thing goes for the other settings as well like color wipeals, etc.
+	  So to change this, you swipe left on the screen from the right side.
+	  Now the settings that I use with the X3 are auto settings with a custom white balance and a custom exposure value and also the color profile Vivid.
+	  Now as for normal settings, I use a max ISO of 800.
+	  The shutter speed is one of 60 since I'm recording in 30 FPS
+	- 11:46
+	  and also used the A Vivid color profile and a white balance between 5,000 and 6,000 Calvin.
+	  So these are pretty common settings and there's not much to change to be honest but where I have noticed the difference is in the sky and this actually tends to blow out sky a little bit more.
+	  So our PROTIP here is to decrease the exposure value to minus 0.5 or minus 1.
+	  And once you do that, you can also take a quick
+	- 12:11
+	  shot of your scenery and then you can flip out your phone, go into the studio up on your phone and check out the content you recorded and then see if the sky is blown or not.
+	  And then go out from the settings that you tested and choose the correct settings for your sequence.
+	  Simplest that really, really intuitive when you have the app which makes it so much convenient
+	- 12:33
+	  to get into the 360 world.
+	  There's also tons of awesome features that you can test out which is really cool and we're going to come back to that in a now going back to the main screen here and swiping down, we get into the quick menu.
+	  Here you have the settings like screen brightness, wind reduction, audio level, pre record time and more.
+	- 12:57
+	  And on the bottom right section here we have the settings menu here you want to scroll down and make sure that the bit rate is set to high and the video sharpness is set to medium or low.
+	  So if you're going to export your videos from your phone, I recommend having this on medium as he adds a little bit more crisp to your image.
+	  But if you use a laptop or a desktop computer to adjust your videos, you want this to be set too low.
+	- 13:22
+	  That means you can add the sharpening in post if needed.
+	  And this will also give you a much better image as you have more control over the sharpness.
+	  So how do you get good quality footage from the X3?
+	  First, you need a computer even though the INSTA 360 mobile app is fantastic and allows you to edit videos and anywhere even use crazy time lapses to create something wild.
+	  You would need a computer to get the best image quality from this device.
+	  So let's head over to the INSTA 360 Studio app.
+	- 13:52
+	  Now plugging in your SD card, you will get the option to select clips to import or import all.
+	  So let's just go on and import all.
+	  Now this is where you do all the magic.
+	  So if we double click on a file here, you will get a preview and on the right side of that preview screen, you can see the different sections to adjust stabilization, audio, color boosts and etc.
+	  And by click holding on the video inside the previous screen, you can drag this to either side and up and down to reframe your shot.
+	- 14:21
+	  On the bottom section you have a trim out and trim in also the audio levels, key frameworkers, deep track 2.0 and time shift and motion.
+	  Now on the right side of the previous screen, you can also see it says 16 by 9 and this is the aspect.
+	  Now what's really awesome here is that you can export the exact same video in both 16 by 9 and 9 by 16 for either TikTok or Instagram at the same time.
+	  I will come back to that in a second.
+	  But first, let's take a look at the key framing.
+	- 14:49
+	  So what I'm going to do is to find a position in the clip here and use the trim handles to find the in and out of the clip I want to use.
+	  And I'm also going to put a key frame at the beginning and then a reframe.
+	  Now the next step is to go to somewhere in your video right before you want to apply a change to the angle and then make another key frame.
+	  And now to the part where you want to add that change and then adjust the angle and add a new key frame.
+	- 15:17
+	  So now we have three key frames here.
+	  And if we do a playback, we can see the camera changing from one position to another but something is off it doesn't have a smooth start or ending.
+	  So taking a look at the yellow line between the key frames here if we click on that, you have a few options to choose from.
+	  What I found to be the best is the last option, the fade in, fade out.
+	  So selecting this on all the lines between the key frames, our shot looks so much better.
+	- 15:49
+	  So I went ahead and added a few more key frames as well.
+	  So let's export this and see how the quality comes out.
+	  So to export this, we're going to click on the yellow button on the bottom right corner.
+	  So now we have the export settings and the location of where we want to export to.
+	  So the export settings you want to change is the encoding format.
+	- 16:13
+	  We're going to change this to PROs 422.
+	  We can also see that the resolution is set to 10 ATP so we're going to change this to 4k.
+	  So this is basically the only settings you have to change upon export.
+	  And you can also save this as a preset.
+	  So the next time you export, it will automatically select this preset.
+	  Now let's say you want to export the same video but in 9 by 16 for let's say Instagram or Tik Tok.
+	- 16:38
+	  Then we're just going to add this to queue.
+	  On the left side you can see the file that's ready to be exported.
+	  But first we're going to change the aspect of the next export to 9 by.
+	  And once we change this again, we're going to click on the yellow export button and then add to queue but also make sure that the resolution is to 4K so that's going to be 2160 by 30,840.
+	  So just like 16 by 9 but the other way and now clicking on queue, we have the two files ready to be export.
+	- 17:11
+	  So now we can select both of the clips and right click and then start the exp.
+	  Now once we're done with the export, we can take a quick look here.
+	  This is how it looks on Instagram and this is how it looks on YouTube.
+	  And in order to get the best possible quality coming from this, you have to export everything in progress 22 and you also have to export in 4k.
+	  And you also have to do some adjustments in post production like maybe adding
+	- 17:40
+	  some different color tweaks like correcting the image a little bit.
+	  So we don't have that much grain in the highs and lows and you can also add some noise reduction in case you're experiencing some grain.
+	  But the key is bright conditions.
+	  As long as you record in bright conditions, you're going to have a perfect result with your Igs.
+	  Now the X3 is not only a 360 camera it's a creative tool to enhance your videos, to give your videos a different perspective and to add the extra spice on your next
+	- 18:09
+	  trip. And that's why I love the X3 so much.
+	  It's such a versatile camera and has a solar crater so easy to capture the shots that I would normally need my wife to come with me to capture.
+	  Now I can do all of that with the, and it's such a versatile and a must have camera in addition to your current setup.
+	  And with the three meter invisible selfish stick, you know, you can capture some really amazing
+	- 18:34
+	  shots. You can do some fake drawn shots which you can actually reframe to look a little bit cooler than maybe just a static cinema, a drone shot.
+	  Like I said if you have the perfect conditions, perfect bright conditions, it's going to look awesome anyway.
+	  And you can really create some amazing things with this which I'm also coming back to in one of the next videos with the X3 creative shot list.
+	  If you don't have the three meter invisible selfish stick I highly recommend that you
+	- 19:04
+	  grab this because this is the difference between creating unique shots with the X3 and not.
+	  So let me know what you think of the INSTA 360x3.
+	  Do you have it already or will you be getting it before the summer holidays?
+	  I'm really excited to bring this to Hawaii.
+	  We are going to Hawaii again soon so I can't wait to bring the X3 with my good old install 360 Go two.
+	  Hopefully we can see a goal three soon
+	- 19:33
+	  and that would be really amazing.
+	  I love this go to so much and I love the versatility of the 360, the X3 camera and it's a must have if you ask me.
+	  So there will be some links down to that in the description bow if you want to check it out also the accessories that I used with the Instar 360 X3.
+	  Now if you found any value in this video, let me know by dropping a light down below.
+	  And also if this is the first time that you are here considering subscribing for more videos, that would be
+	- 20:02
+	  I appreciate it and until next time take care and I will see you in the next Tok.
+	- clovanote.naver.com
 - TODO [CHIMERA STUDIO-직업탐구)  드라마팀 데이터매니저는 무슨일을 할까요?](https://youtube.com/watch?v=Mdl5qVTp-6M&si=7iJE3ZixUfzKlfSm) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Mdl5qVTp-6M/hqdefault.jpg)
