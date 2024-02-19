@@ -227,18 +227,17 @@ public:: false
 	  | Well, I will leave that up to you but I know for a fact that this is the perfect addition to my Gopro Hero 10 and my action and also with the other travel equipment that I bring like my Mini3 Pro and my Avata and my Soni7 | 음, 그건 당신에게 달려 있지만, 나도 모르게, 나의 Gopro Hero 10 및 내 행동과 또한 나의 Mini3 Pro, 나의 Avata 및 나의 Soni7 같은 내 다른 여행 장비에 완벽한 추가라는 사실을 알고 있습니다. |
 	- | {{youtube-timestamp 09:20}} |
 	  | this is the perfect addition for me and this is basically recording everything around me and I can go back and reframe later by zooming in if I want to SH be closer or I can do some crazy stuff with it which looks pretty cool if you ask me. So this is, you know, this is a keeper. If I should recommend it by now, I would because it's going to make everything more fun and it's going to make your overall | 이것은 나에게 완벽한 보완이며 주변의 모든 것을 기록하고 원한다면 더 가깝게 SH되기 위해 나중에 줌을 확대해서 다시 만들거나 이것으로 어떤 미친 짓을 할 수도 있어요. 제게 물어봐 주신다면 정말 멋지게 보일 거에요. 그러니, 이건, 알지요, 이건 꼭 지킬 가치가 있는 것입니다. 만약 지금 이걸 추천해야 한다면, 나는 정말로 추천할 것입니다. 왜냐하면 이것이 모든 것을 더 재미있게 만들어 주고 전체적으로 좋게 만들어 줄 거니까 |
-	- 09:46
-	  a solar creating experience much better.
-	  Because this is such a versatile camera and you can capture different angles.
-	  You can really spice up your videos by using something and also something to add to that.
-	  This is a 360 camera so it records everything and you will never miss the shot which is
-	- 10:06
-	  one of the reasons that this is coming with me everywhere.
-	  But having a 360 camera is one thing but how do you actually get the most out of this?
-	  And how do you get the best quality coming from a 360 camera and especially the X?
-	  Now the key element is of course the sun.
-	  You always want bright conditions when you're recording videos with a 360 camera.
-	  And there's also a few settings that you want to change before you start recording and also before you export.
+	- | {{youtube-timestamp 09:46}} |
+	  | a solar creating experience much better. | 태양 에너지를 이용하는 경험이 훨씬 더 나아졌습니다. |
+	  | Because this is such a versatile camera and you can capture different angles. | 이 카메라가 매우 다재다능하기 때문에 다양한 각도를 촬영할 수 있습니다. |
+	  | You can really spice up your videos by using something and also something to add to that. | 무언가를 사용하여 영상에 풍부함을 더할 수 있습니다. |
+	  | This is a 360 camera so it records everything and you will never miss the shot which is | 이 카메라는 360도를 녹화하기 때문에 모든 것을 기록하며, 놓치지 않습니다. |
+	- | one of the reasons that this is coming with me everywhere. | 이게 저한테 계속 지금 당장 가져가야 하는 이유 중 하나에요. |
+	  | But having a 360 camera is one thing but how do you actually get the most out of this? | 하지만 360 카메라를 가지는 것은 한 가지지만 이를 가능한 최대로 활용하는 방법은 무엇일까요? |
+	  | And how do you get the best quality coming from a 360 camera and especially the X? | 360 카메라와 특히 X에서 나오는 최상의 품질을 어떻게 얻을까요? |
+	  | Now the key element is of course the sun. | 이제 핵심 요소는 물론 해가 됩니다. |
+	  | You always want bright conditions when you're recording videos with a 360 camera. | 360 카메라로 비디오를 녹화할 때 언제나 밝은 조건이 되길 원합니다. |
+	  | And there's also a few settings that you want to change before you start recording and also before you export. | 그리고 녹화를 시작하기 전에 변경하고 내보내기 전에도 변경하고 싶은 몇 가지 설정도 있습니다. |
 	- 10:32
 	  So turning on the X3 here, you want to set your record settings first.
 	  By default it should be 5.7k, 30 FPS and this is what you're going to use anyway so you don't have to change any of that.
