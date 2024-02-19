@@ -181,10 +181,7 @@ public:: false
 	  | So with the 360 camera and the invisible selfish stick, I don't have to worry about any | 그래서 360 카메라와 보이지 않는 셀피쉬 스틱을 사용하면 아무런 걱정 없이 즐길 수 있어요. |
 	- | {{youtube-timestamp 04:26}} |
 	  | this. I can just put it in my backpack, hold it behind me or in front of me and then later just reframe everything in the studio app or by using the free go Pro reframe atom for Premier Pro or after effect. | 이것은 나는 그냥 가방에 넣고, 뒤나 앞에 들고나서 나중에 스튜디오 앱에서 모든 것을 다시 구상하거나 프리미어 프로나 애프터 이펙트에서 무료로 제공되는 go Pro reframe atom을 사용할 수 있습니다. |
-	  | {{youtube-timestamp 04:26}} |
-	  | Now let's talk about the key features of the X 3 here and why I think this is the perfect addition to your setup.
-	  First, we have the upgraded half inch sensors on the X3 which gives you a resolution of up to 5.7k, up to 30 FPS. | 이제 X 3의 주요 기능에 대해 얘기하고, 나는 이것이 당신의 설정에 완벽한 추가라고 생각하는 이유에 대해 이야기해 보겠습니다.
-	  먼저, X3의 업그레이드된 반인치 센서가 있어 최대 5.7k, 최대 30 FPS의 해상도를 제공합니다. |
+	  | Now let's talk about the key features of the X 3 here and why I think this is the perfect addition to your setup. First, we have the upgraded half inch sensors on the X3 which gives you a resolution of up to 5.7k, up to 30 FPS. | 이제 X 3의 주요 기능에 대해 얘기하고, 나는 이것이 당신의 설정에 완벽한 추가라고 생각하는 이유에 대해 이야기해 보겠습니다. 먼저, X3의 업그레이드된 반인치 센서가 있어 최대 5.7k, 최대 30 FPS의 해상도를 제공합니다. |
 	- | {{youtube-timestamp 04:54}} |
 	  | And this will also bring better low light capabilities and a crisper image in bright conditions with active HTR. | 그리고 이는 더 나은 어두운 조건에서의 낮은 빛 성능 및 밝은 조건에서는 더 선명한 이미지를 제공합니다. 활성 HTR을 사용하면 이미지가 개선됩니다. |
 	  | The upgraded image sensor gives you a whooping 72 megapixel photos which looks amazing. | 업그레이드된 이미지 센서는 놀라운 72메가픽셀 사진을 제공합니다. 그것은 놀라운 것을 보입니다. |
