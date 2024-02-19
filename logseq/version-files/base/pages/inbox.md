@@ -316,3 +316,11 @@ collapsed:: true
 - TODO [시칠리안 SICILIAN-시도때도 없이 해외여행하는 부부의 현실적인 고민 [라오스 02]](https://youtube.com/watch?v=7zBGJUg_wuU&si=KNtjTJPEj-Nl9vf7) [[2024/02/19]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/7zBGJUg_wuU/hqdefault.jpg)
+
+- TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
+
+- TODO [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
