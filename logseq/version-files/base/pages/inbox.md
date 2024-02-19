@@ -264,23 +264,21 @@ public:: false
 	  | to get into the 360 world. | 360도 세계로 들어가려면. |
 	  | There's also tons of awesome features that you can test out which is really cool and we're going to come back to that in a now going back to the main screen here and swiping down, we get into the quick menu. | 테스트할 수 있는 놀라운 기능이 많이 있습니다. 그것은 정말 멋지고 현재는 그에 대해 다시 돌아올 것이며 여기 메인 화면으로 돌아가서 아래로 스와이핑하면 빠른 메뉴로 이동합니다. |
 	  | Here you have the settings like screen brightness, wind reduction, audio level, pre-record time, and more. | 여기에는 화면 밝기, 풍력 감소, 오디오 레벨, 사전 녹화 시간 및 기타 설정이 있습니다. |
-	- 12:57
-	  And on the bottom right section here we have the settings menu here you want to scroll down and make sure that the bit rate is set to high and the video sharpness is set to medium or low.
-	  So if you're going to export your videos from your phone, I recommend having this on medium as he adds a little bit more crisp to your image.
-	  But if you use a laptop or a desktop computer to adjust your videos, you want this to be set too low.
-	- 13:22
-	  That means you can add the sharpening in post if needed.
-	  And this will also give you a much better image as you have more control over the sharpness.
-	  So how do you get good quality footage from the X3?
-	  First, you need a computer even though the INSTA 360 mobile app is fantastic and allows you to edit videos and anywhere even use crazy time lapses to create something wild.
-	  You would need a computer to get the best image quality from this device.
-	  So let's head over to the INSTA 360 Studio app.
-	- 13:52
-	  Now plugging in your SD card, you will get the option to select clips to import or import all.
-	  So let's just go on and import all.
-	  Now this is where you do all the magic.
-	  So if we double click on a file here, you will get a preview and on the right side of that preview screen, you can see the different sections to adjust stabilization, audio, color boosts and etc.
-	  And by click holding on the video inside the previous screen, you can drag this to either side and up and down to reframe your shot.
+	- | {{youtube-timestamp 12:57}} |
+	  | And on the bottom right section here we have the settings menu here you want to scroll down and make sure that the bit rate is set to high and the video sharpness is set to medium or low. | 여기 하단 오른쪽 섹션에 설정 메뉴가 있습니다. 여기서 아래로 스크롤하여 비트 속도가 높게 설정되어 있는지, 비디오 선명도가 중간 또는 낮게 설정되어 있는지 확인하십시오. 그래서 휴대폰에서 비디오를 내보낼 예정이라면, 이미지에 약간의 선명함을 추가하기 위해 중간으로 설정하는 것을 권장합니다. 하지만 노트북이나 데스크탑 컴퓨터를 사용하여 비디오를 조정하는 경우에는, 낮게 설정해야 합니다. |
+	- | {{youtube-timestamp 13:22}} |
+	  | That means you can add the sharpening in post if needed. | 필요한 경우 후에 날카로운 정도를 추가할 수 있습니다. |
+	  | And this will also give you a much better image as you have more control over the sharpness. | 더 많은 제어권으로 훨씬 더 좋은 이미지를 얻을 수 있습니다. |
+	  | So how do you get good quality footage from the X3? | 그렇다면 X3에서 좋은 품질의 영상을 어떻게 얻을까요? |
+	  | First, you need a computer even though the INSTA 360 mobile app is fantastic and allows you to edit videos and anywhere even use crazy time lapses to create something wild. | 먼저, INSTA 360 모바일 앱이 훌륭하고 어디에서든 비디오를 편집하고 미친 타임 랩스를 사용하여 무언가를 만들 수 있지만 컴퓨터가 필요합니다. |
+	  | You would need a computer to get the best image quality from this device. | 이 장치로부터 최상의 이미지 품질을 얻으려면 컴퓨터가 필요합니다. |
+	  | So let's head over to the INSTA 360 Studio app. | 그럼 INSTA 360 Studio 앱으로 이동해 보겠습니다. |
+	- | {{youtube-timestamp 13:52}} |
+	  | Now plugging in your SD card, you will get the option to select clips to import or import all. | 이제 SD 카드를 꽂으면 클립을 선택하거나 모두 가져올 수 있는 옵션이 표시됩니다. |
+	  | So let's just go on and import all. | 그러니 모두 가져오기로 진행합시다. | 
+	  | Now this is where you do all the magic. | 지금이 바로 마법을 부리는 곳입니다. |
+	  | So if we double click on a file here, you will get a preview and on the right side of that preview screen, you can see the different sections to adjust stabilization, audio, color boosts and etc. | 여기 파일을 두 번 클릭하면 미리보기를 볼 수 있고, 이 미리보기 화면의 오른쪽에는 안정화, 오디오, 색상 부스트 등을 조절할 수 있는 다양한 섹션이 표시됩니다. |
+	  | And by click holding on the video inside the previous screen, you can drag this to either side and up and down to reframe your shot. | 이전 화면에서 비디오를 클릭하고 드래그하면 좌우 및 상하로 이동하여 샷을 다시 맞출 수 있습니다. |
 	- 14:21
 	  On the bottom section you have a trim out and trim in also the audio levels, key frameworkers, deep track 2.0 and time shift and motion.
 	  Now on the right side of the previous screen, you can also see it says 16 by 9 and this is the aspect.
