@@ -189,16 +189,14 @@ public:: false
 	  | And this will also bring better low light capabilities and a crisper image in bright conditions with active HTR. | 그리고 이는 더 나은 어두운 조건에서의 낮은 빛 성능 및 밝은 조건에서는 더 선명한 이미지를 제공합니다. 활성 HTR을 사용하면 이미지가 개선됩니다. |
 	  | The upgraded image sensor gives you a whooping 72 megapixel photos which looks amazing. | 업그레이드된 이미지 센서는 놀라운 72메가픽셀 사진을 제공합니다. 그것은 놀라운 것을 보입니다. |
 	  | Now the photos coming from this has to be processed in the studio but this also gives you the option to reframe and save the image you want something you can't do with a standard action camera. | 이제 이것에서 나오는 사진들은 스튜디오에서 처리되어야 하지만, 이는 당신에게 리프레임하고 원하는 이미지를 저장할 수 있는 선택권을 제공합니다. 일반 액션 카메라로는 할 수 없는 것입니다. |
-	- 05:18
-	  With the standard action camera, you take the photo you want at that direction and you can't really go back and reframe and select a different, a photo from a different angle later.
-	  So basically the photo you take is what you get and you will have to turn around to the different directions to take multiple photos of everything.
-	  But with a 360 camera, you snap one shot and you have everything and I think that is really awesome and you can reframe it exactly how you want in the studio which
-	- 05:45
-	  again, it's really convenient.
-	  Now what I really like with the X3 is the single lens mode.
-	  It gives me that standard action camera look without needing to reframe the shot later just a running gun.
-	  Unfortunately, we're limited to 4k 30 and I wish we had at least 50 FPS but 4K 30 is still doing an amazing job to be honest.
-	  Now talking about ME mode, this just has to be the perfect feature if you're out doing some blogging or if you just want to be center framed throughout the entire
+	- | {{youtube-timestamp 05:18}} |
+	  | With the standard action camera, you take the photo you want at that direction and you can't really go back and reframe and select a different, a photo from a different angle later. So basically the photo you take is what you get and you will have to turn around to the different directions to take multiple photos of everything. But with a 360 camera, you snap one shot and you have everything and I think that is really awesome and you can reframe it exactly how you want in the studio. | 표준 액션 카메라로 원하는 방향에 사진을 찍을 수 있지만 다시 돌아가 보정하거나 다른 각도에서 다음 사진을 선택할 수는 없습니다. 따라서 찍은 사진이 얻는 결과이며 모든 것에 대해 여러 장의 사진을 찍기 위해 서로 다른 방향으로 서로 제자리를 돌아야합니다. 그러나 360 카메라로 하나의 샷을 찍으면 모든 것이 담기며 이것이 정말 멋지다고 생각하며 스튜디오에서 정확히 원하는대로 다시 구성할 수 있습니다. |
+	- | {{youtube-timestamp 05:45}} |
+	  | again, it's really convenient. | 다시 말하지만, 정말 편리합니다. |
+	  | Now what I really like with the X3 is the single lens mode. | X3에서 싱글 렌즈 모드로 좋아하는 것 |
+	  | It gives me that standard action camera look without needing to reframe the shot later just a running gun. | 나에게 표준 액션 캠 룩을 제공하며 최후에 재프레임할 필요 없이 그냥 진행 도중 실행할 수 있게 합니다. |
+	  | Unfortunately, we're limited to 4k 30 and I wish we had at least 50 FPS but 4K 30 is still doing an amazing job to be honest. | 유감스럽게도, 4k 30으로 제한되어 있고 적어도 50 FPS가 있었으면 했지만 솔직히 말해서 4K 30은 여전히 놀랍게 잘하고 있습니다. |
+	  | Now talking about ME mode, this just has to be the perfect feature if you're out doing some blogging or if you just want to be center framed throughout the entire | 이제 ME 모드에 대해 이야기해보면, 이것은 블로깅을 하거나 전체 과정 동안 중앙에 맞춰져 있기를 원하는 경우 완벽한 기능이어야 합니다. |
 	- 06:14
 	  shot. What the memode does is basically active tracking the subject and making sure that the subject is always in frame which is really awesome and you don't have to worry about how you hold.
 	  The camera is always going to track you anyway.
