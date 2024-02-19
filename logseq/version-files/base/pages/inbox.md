@@ -315,23 +315,20 @@ public:: false
 	  | But first we're going to change the aspect of the next export to 9 by. | 하지만 먼저, 다음 내보내기의 측면을 9로 변경할 겁니다. |
 	  | And once we change this again, we're going to click on the yellow export button and then add to queue but also make sure that the resolution is to 4K so that's going to be 2160 by 30,840. | 그리고 다시 이것을 변경하고, 노란색 내보내기 버튼을 클릭한 다음 큐에 추가하지만, 해상도가 4K로 설정되었는지 꼭 확인해야 합니다. 그래서 2160x30840이 될 거예요. |
 	  | So just like 16 by 9 but the other way and now clicking on queue, we have the two files ready to be exported. | 그래서 16x9와 같지만 반대 방향이고, 이제 '큐'를 클릭하면 두 파일이 내보내기 준비가 됩니다. |
-	- 17:11
-	  So now we can select both of the clips and right click and then start the exp.
-	  Now once we're done with the export, we can take a quick look here.
-	  This is how it looks on Instagram and this is how it looks on YouTube.
-	  And in order to get the best possible quality coming from this, you have to export everything in progress 22 and you also have to export in 4k.
-	  And you also have to do some adjustments in post production like maybe adding
-	- 17:40
-	  some different color tweaks like correcting the image a little bit.
-	  So we don't have that much grain in the highs and lows and you can also add some noise reduction in case you're experiencing some grain.
-	  But the key is bright conditions.
-	  As long as you record in bright conditions, you're going to have a perfect result with your Igs.
-	  Now the X3 is not only a 360 camera it's a creative tool to enhance your videos, to give your videos a different perspective and to add the extra spice on your next
-	- 18:09
-	  trip. And that's why I love the X3 so much.
-	  It's such a versatile camera and has a solar crater so easy to capture the shots that I would normally need my wife to come with me to capture.
-	  Now I can do all of that with the, and it's such a versatile and a must have camera in addition to your current setup.
-	  And with the three meter invisible selfish stick, you know, you can capture some really amazing
+	- | {{youtube-timestamp 17:11}} |
+	  | So now we can select both of the clips and right click and then start the exp. | 그래서 우리는 두 클립을 모두 선택한 후 마우스 오른쪽 버튼을 클릭한 다음 익스포트를 시작할 수 있습니다. |
+	  | Now once we're done with the export, we can take a quick look here. | 이제 익스포트가 완료되면 여기에서 빠르게 살펴볼 수 있습니다. |
+	  | This is how it looks on Instagram and this is how it looks on YouTube. | 이것이 인스타그램에서 보이는 모습이며 유튜브에서 보이는 모습입니다. |
+	  | And in order to get the best possible quality coming from this, you have to export everything in progress 22 and you also have to export in 4k. | 이 작업에서의 최상의 품질을 얻기 위해서는 모든 것을 progress 22로 익스포트해야 하며 4k로도 익스포트해야 합니다. |
+	  | And you also have to do some adjustments in post-production like maybe adding | 그리고 또한 post-production에서 조정 작업을 해야 합니다. 예를 들어 추가해야 하는 것이 있다면 |
+	- | {{youtube-timestamp 17:40}} |
+	  | some different color tweaks like correcting the image a little bit. | 약간 이미지를 교정하는 것과 같은 다양한 색상 조정을 수행합니다. |
+	  | So we don't have that much grain in the highs and lows and you can also add some noise reduction in case you're experiencing some grain. | 그래서 저음과 고음에서 많은 노이즈가 나타나지 않도록 하며, 필요하다면 일부 노이즈 감소를 추가할 수도 있습니다. |
+	  | But the key is bright conditions. | 하지만 키포인트는 밝은 조건입니다. |
+	  | As long as you record in bright conditions, you're going to have a perfect result with your Igs. | 밝은 조건에서 녹화한다면 Igs로 완벽한 결과를 얻게 될 것입니다. |
+	  | Now the X3 is not only a 360 camera it's a creative tool to enhance your videos, to give your videos a different perspective and to add the extra spice on your next | 이제 X3는 단순히 360 카메라가 아니라 비디오를 향상시키는 창의적인 도구입니다. 비디오에 다른 시각을 제공하고 다음 비디오에 추가 매력을 더할 수 있습니다. |
+	- | {{youtube-timestamp 18:09}} |
+	  | trip. And that's why I love the X3 so much. It's such a versatile camera and has a solar crater so easy to capture the shots that I would normally need my wife to come with me to capture. Now I can do all of that with the, and it's such a versatile and a must have camera in addition to your current setup. And with the three meter invisible selfish stick, you know, you can capture some really amazing | 여행. 그래서 나는 X3를 그렇게 좋아한다. 그것은 정말 다재다능한 카메라이며 태양 크레이터가 있어 내가 보통 아내가 같이 와야 하는 촬영을 쉽게 촬영할 수 있다. 그제서야 나는 그 모든 것을 할 수 있으며 현재 설정에 추가로 꼭 필요한 카메라이다. 그리고 무선 셀카봉 때문에 정말 놀라운 것들을 촬영할 수 있다. |
 	- 18:34
 	  shots. You can do some fake drawn shots which you can actually reframe to look a little bit cooler than maybe just a static cinema, a drone shot.
 	  Like I said if you have the perfect conditions, perfect bright conditions, it's going to look awesome anyway.
