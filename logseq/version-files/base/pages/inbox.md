@@ -307,15 +307,13 @@ public:: false
 	- Ori 03:12
 	  Now that made me come to realization to enjoy the moment the moment.
 	  Yes and just to have fun
-	- Rafa 03:19
-	  are you always doing something related to E commerce and social media or did you change something to do what you're doing?
-	  Now
-	- Ori 03:27
-	  I changed rapidly working as a PPC manager.
-	  It's like paper click like paid campaigns on Facebook and stuff like that.
-	  And I learned it's a digital course so I never went to university or something like that.
-	  I had my own startup. I built a website that celebrities can register and people can buy birthday videos from them.
-	  Videos in general
+	- | {{youtube-timestamp 03:19}} |
+	  | are you always doing something related to E commerce and social media or did you change something to do what you're doing? | 항상 전자 상거래 및 소셜 미디어와 관련된 일을 하고 있나요, 아니면 지금 하는 일을 하기 위해 무언가를 변경했나요? | 
+	  | Now | 지금 |
+	  | I changed rapidly working as a PPC manager. | 빠르게 변경했습니다. PPC 매니저로 일하며. |
+	  | It's like paper click like paid campaigns on Facebook and stuff like that. | 페이퍼클릭과 같아요, 페이스북에서의 유료 캠페인과 그런 것들. |
+	  | And I learned it's a digital course so I never went to university or something like that. | 그리고 배웠는데, 디지털 코스라서 대학에 다니지 않았거나 그런 거예요. |
+	  | I had my own startup. I built a website that celebrities can register and people can buy birthday videos from them. Videos in general | 제 자신의 스타트업이 있었어요. 유명인들이 등록할 수 있는 웹사이트를 만들었고 사람들이 그들로부터 생일 비디오를 구매할 수 있어요. 일반적으로 비디오. |
 	- Rafa 03:50
 	  kind of video sorry like them saying happy birthday
 	- Ori 03:52
