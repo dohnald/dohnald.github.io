@@ -734,17 +734,14 @@ public:: false
 	- ![](https://i.ytimg.com/vi/9qruuSWEJyo/hqdefault.jpg)
 - TODO [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
 - TODO [NAVER Cloud Platform : 네이버 클라우드 플랫폼-쿠버네티스 안 써도 되지 않나요? 조훈 님에게 물어봤습니다. (쿠버네티스 담당자 필수 시청)](https://youtube.com/watch?v=m-EmnMFRgeQ&si=iT6iBPZAPr0oVA6B) [[2024/02/21]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/m-EmnMFRgeQ/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/m-EmnMFRgeQ/hqdefault.jpg)
 - TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - TODO [정영민TV -돈버는 공부(트렌드헌터)-진짜 블루오션은 여기입니다! 스마트스토어, 쿠팡 경쟁에서 피하세요 @1999JYU](https://youtube.com/watch?v=X5lebT1YYYA&si=KhWK_A8h3KPlXLUu) [[2024/02/21]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/X5lebT1YYYA/hqdefault.jpg)
-
-- TODO [내일은 투자왕 - 김단테-엔비디아 130조원이 증발한 이유.](https://youtube.com/watch?v=9h_hC_dK_R4&si=hGjZbNbxG0KXkw8J) [[2024/02/21]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/9h_hC_dK_R4/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/X5lebT1YYYA/hqdefault.jpg)
+- DONE [내일은 투자왕 - 김단테-엔비디아 130조원이 증발한 이유.](https://youtube.com/watch?v=9h_hC_dK_R4&si=hGjZbNbxG0KXkw8J) [[2024/02/21]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/9h_hC_dK_R4/hqdefault.jpg)
