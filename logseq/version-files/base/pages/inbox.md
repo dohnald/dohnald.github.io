@@ -266,14 +266,14 @@ public:: false
 	  | This is the swimming pool. | 이것은 수영장입니다. |
 	  | This is the area that they stay and they also have a co-working space right there | 이곳은 그들이 머무르는 공간이자 코워킹 공간도 있습니다. |
 	- | {{youtube-timestamp 00:47}} |
-	  | but it's full of digital noms and I'm super excited to ask them all the questions. | 그러나 디지털 콘텐츠로 가득 차 있고 모든 질문을 하기 위해 매우 흥분하고 있습니다. |Rafa 00:47
+	  | but it's full of digital noms and I'm super excited to ask them all the questions. | 그러나 디지털 콘텐츠로 가득 차 있고 모든 질문을 하기 위해 매우 흥분하고 있습니다. |
 	  | So let's go and get into it. | 그러니 출발해서 이야기에 들어가 보죠. |
 	  | What's your name and where are you from? | 당신의 이름은 무엇이며 어디 출신이십니까? |
-	- Ori 00:58
-	  I'm from TEL Aviv, Israel.
-	- Rafa 01:00
-	  Are you living here in Brazil or just working?
-	  Do you work remotely?
+	- | {{youtube-timestamp 00:58}} |
+	  | I'm from TEL Aviv, Israel. | 저는 이스라엘의 텔 아비브 출신입니다. |
+	- | {{youtube-timestamp 01:02}} |
+	  | Are you living here in Brazil or just working? | 브라질에 살고 있나요 아니면 일하고만 있나요? |
+	  | Do you work remotely? | 원격으로 일하시나요? |
 	- Ori 01:05
 	  I work remotely I travel in South America for around four months.
 	  I'm out here in Florenapolis having a great time.
