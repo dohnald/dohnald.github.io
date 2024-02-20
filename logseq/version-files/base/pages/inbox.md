@@ -34,7 +34,7 @@ public:: false
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
-- TODO [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
+- DONE [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/4vzZdLWIj3s/hqdefault.jpg)
 - TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
@@ -55,7 +55,7 @@ public:: false
 - TODO [법무법인 별-1시간을 4시간처럼 쓰는 법? 16년차 변호사의 시간관리법 [슬기로운변호사생활 #1]](https://youtube.com/watch?v=n7mLeZ09MXc&si=bhLyrtE3BCgY6VfO) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/n7mLeZ09MXc/hqdefault.jpg)
-- TODO [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
+- DONE [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/eM-vyQRKOSU/hqdefault.jpg)
 	- | {{youtube-timestamp 00:00}} |
