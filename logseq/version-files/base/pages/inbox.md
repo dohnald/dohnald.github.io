@@ -728,3 +728,7 @@ collapsed:: true
 - TODO [다크사이드코리아-용감한 내부자의 제보. 완전히 빠다칠을 당해버린 변호사와 의사들. 이상한마케팅의 전혀 이상하지 않은 수익구조. 자청 유니버스의 핵심.](https://youtube.com/watch?v=LNWMc4hia7c&si=UJ__RKMv8L4j8Tcm) [[2024/02/20]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/LNWMc4hia7c/hqdefault.jpg)
+
+- TODO [긱블 Geekble-로드킬 당한 고라니를 박제로 만드는 사람들...](https://youtube.com/watch?v=0y92GyIgOeU&si=nbi_E2ZXQUSnkVMW) [[2024/02/20]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/0y92GyIgOeU/hqdefault.jpg)
