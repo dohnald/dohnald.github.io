@@ -286,14 +286,14 @@ public:: false
 	  | So we helped them automate that I'm getting paid as a freelancer kind of, you know, to that company I only work for them. | 지금 난 그들이 하는 일을 자동화하는 데 도와줬어. 난 프리랜서로 돈을 받아, 그 회사에 근무하고 있어. |
 	  | Now you know, I was thinking of opening an agency because what I do I do like marketing on social media actually Twitter, LinkedIn and influencer marketing. | 지금 너는 알게 된 거야, 나 지금 말로하는 걸 해. 소셜 미디어에서 진짜 트위터나 링크드인 가지고, 인플루언서 마케팅도 해. |
 	  | I worked with influencers to help them promote the company. I was thinking of opening an agency last year but I decided to just stick to one company. | 나는 인플루언서들과 함께 일해서 그들이 회사를 홍보하는 데 도와줬어. 작년에 에이전시를 열 생각까지 했는데, 결국 한 회사에만 전념하기로 결정했어. |
-	- Rafa 02:19
-	  and then maybe in the future it'll be
-	- Ori 02:21
-	  because I found now like, you know, the balance between working and traveling my goal is to continue progress with my work while enjoying life.
-	  You know, I don't want to be Florianapolis and everyone's outside.
-	  This is happening right now.
-	  It's like major formal like I used to believe that I should make it early and then I'm going to retire and go to Brazil.
-	  But then I realized
+	- | {{youtube-timestamp 02:19}} |
+	  | and then maybe in the future it'll be | 그리고 아마도 미래에는 |
+	  | {{youtube-timestamp 02:21}} |
+	  | because I found now like, you know, the balance between working and traveling my goal is to continue progress with my work while enjoying life. | 지금 비슷한 느낌이 들어요, 아시죠, 일하고 여행하며 잘 조화를 맞춘 지금 나의 목표는 일을 진행하면서 삶을 즐기는 것입니다. |
+	  | You know, I don't want to be Florianapolis and everyone's outside. | 아시다시피, 나는 Florianapolis에 있다는 것을 원하지 않아. 모두가 밖에 있는데. |
+	  | This is happening right now. | 이게 지금 일어나고 있어. |
+	  | It's like major formal like I used to believe that I should make it early and then I'm going to retire and go to Brazil. | 이건 제가 예전에 믿어왔던 것과 처럼 큰 검토입니다. 일찍 이루면서 미래에는 은퇴하고 브라질로 가겠다고 생각했었는데. |
+	  | But then I realized | 그런데 그러다가 깨달았죠 |
 	- Rafa 02:41
 	  we're going to be too old to enjoy the, we need to enjoy it when we are still young.
 	- Ori 02:48
