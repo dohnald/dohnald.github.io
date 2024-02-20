@@ -135,6 +135,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/a2l1uZfsRi0/hqdefault.jpg)
 	- DONE [존쌤의 언어습득법-외국어 학습 vs. 공부 vs. 습득 vs. 연습](https://youtube.com/watch?v=gZTPJX3KVMY&si=udEU296xyobUlTjb) [[2024/02/10]]
+	  id:: 65cc1c9a-ee14-48eb-a068-758d422cd71a
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/gZTPJX3KVMY/hqdefault.jpg)
 	- DONE [월급쟁이부자들TV-은퇴해도 평생 먹고 살 돈 만드는 방법은 의외로 간단합니다 (연금박사 이영주)](https://youtube.com/watch?v=rPkQtNh83L8&si=Mu9jdPL-X7ET2_QT) [[2024/02/10]]
@@ -609,6 +610,6 @@ public:: false
 	- TODO [[2024/02/15]] https://x.com/k1e1t1o1/status/1700327393838481581
 	  > 영어공부 이렇게 하래서... 넷플에서 hack my home 틀어놓고 무자막으로 봐봤는데 내가 여태까지 영어공부 하면서 쓰던 뇌세포보다 무자막으로 보는 지금의 뇌세포가 더 많을 거 같음...에너지쓰임 장난 아님요 <https://t.co/oNNHRxQ63X>
 		- {{tweet https://x.com/k1e1t1o1/status/1700327393838481581?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-		- 어떤 외국인은 자기 전 영상을 시청하고, 다음날은 그 영상을 음성만 듣는다고 한다. 보는 것과 같은 효과가 나면서 음성에 더 깊게 빠져드는 효과.
+		- {{embed ((65cc1c9a-ee14-48eb-a068-758d422cd71a)) 자기 전 영상을 시청하고, 다음날은 그 영상을 음성만 듣는다고 한다. 보는 것과 같은 효과가 나면서 음성에 더 깊게 빠져드는 효과.
 	- [[아이디어/날씨]]
 		- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
