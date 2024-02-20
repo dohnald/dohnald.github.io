@@ -696,7 +696,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/_eMSe_wSDBU/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
-- TODO [공부 How-전직 Microsoft 개발자가 전해 주는 챗GPT 활용 기본편 | 최근 교수님 실습 세미나 만족도 ⭐⭐⭐⭐⭐](https://youtube.com/watch?v=gOq-udl1WQI&si=JtmUn2ofRNxD3UV_) [[2024/02/19]] 
+- DONE [공부 How-전직 Microsoft 개발자가 전해 주는 챗GPT 활용 기본편 | 최근 교수님 실습 세미나 만족도 ⭐⭐⭐⭐⭐](https://youtube.com/watch?v=gOq-udl1WQI&si=JtmUn2ofRNxD3UV_) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/gOq-udl1WQI/hqdefault.jpg)
 - DONE [백종원 PAIK JONG WON-[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집](https://youtube.com/watch?v=yfP87sVfWQU&si=YdIqF_7xvjpyXLHP) [[2024/02/19]] 
@@ -717,7 +717,7 @@ public:: false
 	- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
 	- target url이 아닌 target directory로 배포하면 될 것 같은데...
-- TODO [ootb STUDIO-기네스북 등재된 지하상가 (부평역) | 전역자 ep.07 [EN/JP/ID]](https://youtube.com/watch?v=Fp7j5qd-wFA&si=p-gbIGprVn6jzked) [[2024/02/20]] 
+- DONE [ootb STUDIO-기네스북 등재된 지하상가 (부평역) | 전역자 ep.07 [EN/JP/ID]](https://youtube.com/watch?v=Fp7j5qd-wFA&si=p-gbIGprVn6jzked) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Fp7j5qd-wFA/hqdefault.jpg)
 - DONE [윰곰 yumgom-새벽에 공부하고 저녁에 홈트해도 하루가 여유로운 이유 | 갓생러 하루 4시간 공부하기 | 직장인 평일 미라클모닝 | 시간관리 꿀팁](https://youtube.com/watch?v=XtmgotQY3WA&si=-7GMnDiDDnS4kTUc) [[2024/02/20]] 
