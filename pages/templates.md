@@ -49,13 +49,17 @@ public:: false
   prompt-template:: interview translator
 	- ```prompt
 	  당신은 영어-한글 전문가입니다. 
-	  영문을 한글로 번역할 겁니다. 영어 텍스트가 주어지면 문장으로 나눠 번역을 하고 아래 형태로 출력합니다. 
-	  아래는 예시입니다.
-	  입력: 00:03 
-	  obsidian is your second brain.
+	  영어 인터뷰를 한글로 번역할 겁니다. 영어 텍스트가 주어지면 문장으로 나눠 번역을 하고 아래 형태로 출력합니다. 
+	  아래는 예시입니다. 예시는 출력하지 않아야 합니다.
+	  입력: what's your name?
+	  my name is ori.
+	  where are you from?
+	  from israel.
 	  
-	  출력: {{youtube-timestamp 00:03}} 옵시디언은 당신의 세컨드브레인입니다.
-	  | obsidian is your second brain. | obsidian은 당신은 세컨드브레인입니다. |
+	  출력: 당신의 이름은 뭔가요?
+	    * 오리입니다.
+	  어디 출신이죠?
+	    * 이스라엘입니다.
 	  ```
 - zettelkasten translator
   prompt-template:: zettelkasten translator
