@@ -52,9 +52,11 @@ public:: false
 - DONE [보다 BODA-고대에 사랑니를 뽑았던 충격적인 방법 (이발사가 머리 자르면서 그냥 뽑음 ㄷㄷ) ㅣ역사를 보다](https://youtube.com/watch?v=lyawMoxXOOs&si=4auZ_2MEYCnjTZzZ) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/lyawMoxXOOs/hqdefault.jpg)
-- TODO [법무법인 별-1시간을 4시간처럼 쓰는 법? 16년차 변호사의 시간관리법 [슬기로운변호사생활 #1]](https://youtube.com/watch?v=n7mLeZ09MXc&si=bhLyrtE3BCgY6VfO) [[2024/02/18]] 
-  collapsed:: true
+- DONE [법무법인 별-1시간을 4시간처럼 쓰는 법? 16년차 변호사의 시간관리법 [슬기로운변호사생활 #1]](https://youtube.com/watch?v=n7mLeZ09MXc&si=bhLyrtE3BCgY6VfO) [[2024/02/18]]
 	- ![](https://i.ytimg.com/vi/n7mLeZ09MXc/hqdefault.jpg)
+	- [[도둑맞은 집중력]] 추천
+	- 알림 끄기
+	- 초집중시간에 할 일을 체크하고 처리
 - DONE [RobHK-Insta360 X3 - What Nobody Tells You. Watch Before You EDIT 360 Videos!](https://youtube.com/watch?v=eM-vyQRKOSU&si=z3aWd8vPKcqc5Us2) [[2024/02/18]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/eM-vyQRKOSU/hqdefault.jpg)
@@ -253,7 +255,7 @@ public:: false
 	- | {{youtube-timestamp 20:02}} |
 	  | I appreciate it and until next time take care and I will see you in the next Tok. | 감사합니다. 다음에 또 봐요. 건강하세요. 다음 토크에서 뵙겠습니다. |
 	- clovanote.naver.com
-- TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]]
+- DONE [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
 	- script
@@ -682,14 +684,14 @@ public:: false
 - TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
-- TODO [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
+- DONE [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
-- TODO [다국어 개발자-개발자 돈 버는 모든 방법 종결](https://youtube.com/watch?v=xWSwohmOrzQ&si=LxJQZ4zLJ_dESD8z) [[2024/02/19]] 
+- DONE [다국어 개발자-개발자 돈 버는 모든 방법 종결](https://youtube.com/watch?v=xWSwohmOrzQ&si=LxJQZ4zLJ_dESD8z) [[2024/02/19]]
   id:: 65d2eab5-952f-4371-9813-e815eebd9e00
-  collapsed:: true
 	- ![](https://i.ytimg.com/vi/xWSwohmOrzQ/hqdefault.jpg)
-- TODO [이래도 될래나  iamRENA-아름다운 몰디브 여행에 취해 미처 몰랐던 목숨의 위협들.... I 프리다이빙 & 스쿠버 다이빙 도전하는 여성라이더  I   오토바이 여름휴가  I     아야다 리조트](https://youtube.com/watch?v=_eMSe_wSDBU&si=fF5vxFEofhdMPIVS) [[2024/02/19]] 
+	- 인디해커
+- DONE [이래도 될래나  iamRENA-아름다운 몰디브 여행에 취해 미처 몰랐던 목숨의 위협들.... I 프리다이빙 & 스쿠버 다이빙 도전하는 여성라이더  I   오토바이 여름휴가  I     아야다 리조트](https://youtube.com/watch?v=_eMSe_wSDBU&si=fF5vxFEofhdMPIVS) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/_eMSe_wSDBU/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
@@ -699,7 +701,7 @@ public:: false
 - DONE [백종원 PAIK JONG WON-[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집](https://youtube.com/watch?v=yfP87sVfWQU&si=YdIqF_7xvjpyXLHP) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/yfP87sVfWQU/hqdefault.jpg)
-- TODO [진리에어 JINRI AIR-다이빙 제발 이렇게 하지 마세요!! 잊지 못할 추억 남긴 남싸이전망대 & 블루라군 [라오스_방비엥.05]](https://youtube.com/watch?v=7BV-lf2frJQ&si=hYDw_UypnxVMCWJI) [[2024/02/19]] 
+- DONE [진리에어 JINRI AIR-다이빙 제발 이렇게 하지 마세요!! 잊지 못할 추억 남긴 남싸이전망대 & 블루라군 [라오스_방비엥.05]](https://youtube.com/watch?v=7BV-lf2frJQ&si=hYDw_UypnxVMCWJI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7BV-lf2frJQ/hqdefault.jpg)
 - TODO [진리에어 JINRI AIR-30대 부부 동반 퇴사 후 세계여행 떠난 사연은...? [라오스_방비엥.07]](https://youtube.com/watch?v=IxFbg9iKmQ8&si=wVFfsdJLK485Ae1A) [[2024/02/19]] 
