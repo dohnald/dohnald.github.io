@@ -256,6 +256,320 @@ public:: false
 - TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
+	- Rafa 00:00
+	  After my first series interviewing digital nomads in Bali getting to know several ways of how to make money online and receiving thousands of comments with questions about this community I decided to start a new season of interviews to ask them all we want to know.
+	  But in different hubs across the world.
+	  This time I'm on a remote island in the south of Brazil and it's called Florianopolis.
+	  This island is becoming the new digital nomet hub
+	- Rafa 00:25
+	  because of its tropical, beautiful beaches, the super clear water and you can also find people from all over the world.
+	  The place that I chose today for the interviews is this hostel called Selina.
+	  It's a corking hostel right in front of that beach that I was.
+	  There are many digital moments here.
+	  This is the swimming pool.
+	  This is the area that they stay and they also have a co working space right there
+	- Rafa 00:47
+	  but it's full of digital noms and I'm super excited to ask them all the questions.
+	  So let's go and get into it.
+	  What's your name and where are you from?
+	- Ori 00:58
+	  I'm from TEL Aviv, Israel.
+	- Rafa 01:00
+	  Are you living here in Brazil or just working?
+	  Do you work remotely?
+	- Ori 01:05
+	  I work remotely I travel in South America for around four months.
+	  I'm out here in Florenapolis having a great time.
+	  Stand just came out. So yeah, no
+	- Rafa 01:14
+	  and what kind of job do you do that lets you work
+	- Ori 01:18
+	  I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks.
+	  Do you know what chargebacks are?
+	  Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or
+	- Ori 01:40
+	  defrauded me on this. So you would go to the bank and file a charge against me like you would sue me some way and I would have to handle this and it became like a very headache for a lot of businesses, you know, especially in E commerce and that hurts their revenue.
+	- Ori 01:55
+	  So we helped them automate that I'm getting paid as a freelancer kind of, you know, to that company I only work for them.
+	  Now you know, I was thinking of opening an agency because what I do I do like marketing on social media actually Twitter, LinkedIn and influencer marketing.
+	  I worked with influencers to help them promote the company.
+	  I was thinking of opening an agency last year but I decided to just stick to one company
+	- Rafa 02:19
+	  and then maybe in the future it'll be
+	- Ori 02:21
+	  because I found now like, you know, the balance between working and traveling my goal is to continue progress with my work while enjoying life.
+	  You know, I don't want to be Florianapolis and everyone's outside.
+	  This is happening right now.
+	  It's like major formal like I used to believe that I should make it early and then I'm going to retire and go to Brazil.
+	  But then I realized
+	- Rafa 02:41
+	  we're going to be too old to enjoy the, we need to enjoy it when we are still young.
+	- Ori 02:48
+	  Exactly. Yeah so then I decided to switch it and I said, okay, maybe I could like, maybe these ambitious projects would wait for me.
+	  In the meantime I could just find a sustainable income travel a bit because who knows what's going to happen tomorrow you know, the world is crazy, a lot of hectic shit going on and especially where I'm from.
+	  So that's cool. It is what it is you know, free of hostages
+	- Ori 03:12
+	  and ceasefire. Now that made me come to realization to enjoy the moment the moment.
+	  Yes and just to have fun
+	- Rafa 03:19
+	  are you always doing something related to E commerce and social media or did you change something to do what you're doing?
+	  Now
+	- Ori 03:27
+	  I changed rapidly working as a PPC manager.
+	  It's like paper click like paid campaigns on Facebook and stuff like that.
+	  And I learned it's a digital course so I never went to university or something like that.
+	  I had my own startup. I built a website that celebrities can register and people can buy birthday videos from them.
+	  Videos in general
+	- Rafa 03:50
+	  kind of video sorry like them saying happy birthday
+	- Ori 03:52
+	  yeah say one like Nimar or have your young sisters say happy birthday.
+	  Oh, that's so interesting.
+	  Yeah they have a version like this is very popular in America.
+	  It's called Kamo. My first job that I got remotely it started off as a upward gig.
+	  I started working for them and then I became like head of social media but I ended up switching to another to the company I work for now.
+	  So yeah it's definitely like kind of making something out of nothing in a very informal way.
+	- Rafa 04:24
+	  One last question if you want to share with us, how much money do you make per month?
+	  Usually
+	- Ori 04:30
+	  I wouldn't feel so comfortable saying this like I don't want the tax authorities would come to me and be like, you know, just kidding, I pay taxes but I would say enough enough to make a living to have the freedom to the way I want to live and eat outside.
+	  And if I want to like sometime I want a private room instead of dorms I can do this.
+	  You know,
+	- Rafa 04:58
+	  it's a comfortable life you'd
+	- Ori 05:00
+	  it's comfortable.
+	- Rafa 05:01
+	  Nice. Thank you so much. She was lovely talking to you and I hope you enjoyed Flori.
+	- Ori 05:05
+	  Thank you Ralph I will
+	- 참석자 3 05:09
+	  My name is Ashling. Where are you from?
+	  I'm from Dublin, from Ireland.
+	- Rafa 05:13
+	  What do you do that likes you work remotely?
+	  What kind of job is that?
+	- 참석자 3 05:17
+	  So I'm a graphic designer and I do freelance so it's perfect because it's totally my own schedule and total freedom and I can pick how many days I want to work for a client and that means I can use extra days I have during the week to travel.
+	- Rafa 05:33
+	  Were you always a graphic designer?
+	  Did you change something to become a digital nomad?
+	  What's your ST?
+	- 참석자 3 05:38
+	  Actually I've been a graphic designer full time in London and for 6 or 7 years very much just commuting working like sort of rat race London life.
+	  And then once the pandemic started I decided to make a change and I wanted to do some volunteering in Greece.
+	  That's what brought me to Greece where it started and then yeah, then the volunteering ended and then I said right this is the time to go freelance now.
+	- 참석자 3 06:04
+	  But also I didn't even study graphic design at university.
+	  I did marketing and sociology.
+	  So it's been a big journey from there to becoming a freelance designer.
+	- Rafa 06:13
+	  And how did you learn to be a graphic designer?
+	  Did you do any courses?
+	- 참석자 3 06:18
+	  Yes I did an amazing course which I really recommend for anyone who wants to become a designer who doesn't have a degree.
+	  It's a three month portfolio course and it's called Shillington Education.
+	  And there's one in London, one in New York, one in with you in Australia and it's a three month intensive portfolio course that
+	- 참석자 3 06:34
+	  you've got all the skills you need to build a portfolio ready to start looking for your first graphic design job as a junior and then you build from there all Jeul clients, Jul brands that you work for Yes Mostly
+	- Rafa 06:46
+	  what do you do? Do you create the jewelry itself?
+	  Do you create the social media graphics?
+	- 참석자 3 06:51
+	  Yeah so basically think of anything that a brand might need for selling their products.
+	  So they might need like website banners to be updated.
+	  They'll need like look books they'll need product line sheets they might need a rebrand they'll need their newsletters designed and sent out.
+	  I do all of this
+	- 참석자 3 07:08
+	  that's you're doing a competition.
+	  You need text on an image and make it look really cool and do all that.
+	  I'm lucky that I have mostly the same clients for the past three years that we work together in a really nice way and we have like a nice relationship.
+	  So sometimes I find new clients just through word of mouth, from recommendations from friends but mostly it is from the very first year that I got my clients and
+	- 참석자 3 07:31
+	  them. So I charge a day rate for my clients and then I bill just at the end of the month or hours.
+	  It just depends on the project.
+	  I'm really, really flexible and like whatever suits my clients or I'm cool with anything.
+	  Really
+	- Rafa 07:42
+	  I did it become your idea to become a Digudo noman
+	- 참석자 3 07:45
+	  from working in Greece for that first year I saw it was really possible to live this life to work remotely like I've never even met my clients in real life but they're totally fine with that because at the time it just was so normal to work remotely anyway.
+	  And then I just sort of got addicted to that feeling of being able to continue on like a normal life but just to be in totally different environments like every couple of months.
+	- Rafa 08:09
+	  Did you choose Brazil this time?
+	- 참석자 3 08:11
+	  Wow, I chose Brazil because a shadow to my friend Harriet she brought me here last year first time because she came for a Selina retreat experience and she loved it and then she said we gotta go so she brought me with her and this time last year and I just went because she said it was amazing.
+	  I didn't really know much about here in Floripa exactly.
+	- 참석자 3 08:30
+	  And so this year Harriet couldn't come this time but I said okay I'm going to go anyway myself and I have a few friends from last year so I'm reconnecting with them but also making new friends.
+	- Rafa 08:40
+	  One last question just if you feel comfortable sharing how much money do you usually make per Moot?
+	- 참석자 3 08:45
+	  I make about 6,000 pounds a month.
+	  60. Yeah it's pretty good.
+	  Absolutely yes I feel very grateful that I'm able to make that money and just to live life as well like this.
+	  So it's yeah I feel very grateful.
+	- Rafa 09:02
+	  Awesome. Well, thank you so much for sharing your story and good luck is being a digital nom
+	- 참석자 3 09:08
+	  Thank you so much. It was great to.
+	- Rafa 09:09
+	  So what's your name?
+	- 참석자 4 09:11
+	  Hi my name is Celippe. I work as a software engineer for an American company.
+	  I work remotely. It's an asynchronous company so we don't have meetings we don't have phone calls and it gives me a lot of freedom to work.
+	  Yea
+	- Rafa 09:26
+	  what kind of work do you do that lets you work remotely?
+	- 참석자 4 09:30
+	  Oh as a software engineer I build websites.
+	  I work on a NO called website builder.
+	  It's like a competitor to Web Flow Wicks.
+	- Rafa 09:41
+	  Oh, okay I know weeks my website is through weeks I need to maybe change to your.
+	- 참석자 4 09:46
+	  I became a digital noman by accident.
+	  So yeah so first become a developer then worked towards the a synchronous role.
+	  Yeah it's really good. I wouldn't come back you enough.
+	- Rafa 10:00
+	  No no. And when did you start being when did you start working at this company?
+	- 참석자 4 10:06
+	  Three years ago years yeah during the pandemic so everybody was hiring and I found this role line so I just had to submit my Res.
+	- Rafa 10:16
+	  Yeah and what's your favorite thing from working remotely and having this freedom?
+	- 참석자 4 10:21
+	  I do my own time so that's the best part.
+	  It's really flexible in that regard.
+	  So you're not stuck to the opposite.
+	  I need to be there at the AAM otherwise they're not going to let me in.
+	- Rafa 10:32
+	  Did you study engineering or something different?
+	  Did you change your life to do what you're doing nowadays?
+	- 참석자 4 10:38
+	  No always from the beginning.
+	  I've been a developer when I was a kid I had this blog.
+	  We're having millions of views every month.
+	  Wow so it was only logical for me to go this route.
+	  You know,
+	- Rafa 10:53
+	  did you study on university or you learned by
+	- 참석자 4 10:55
+	  I learned by myself but I did go to the university.
+	  Yeah I did analysis and system development and MBA in artificial intelligence and machine learning.
+	- Rafa 11:08
+	  I think this is a very valuable skill that you have.
+	- 참석자 4 11:11
+	  Yeah I think so too. It's the, it's of the future.
+	- Rafa 11:14
+	  One last question for you if you want to share how much money do you usually make per month?
+	  Okay so 1,200,012,000 so he makes 12,000 dollars working from his computer and staying here in the swimming pool.
+	  Maybe it's time for you to leave your office job and go to the computer and find a way out there.
+	  Thank you so much Philippe and I hope you enjoy your stay here in Floripa.
+	  See you what's your name?
+	- 참석자 5 11:43
+	  My name is Akira. I work nowadays as a content creator
+	- Rafa 11:47
+	  and where are you from?
+	- 참석자 5 11:48
+	  I'm actually from Curitiba but I started my digital nomad life actually working for other corporate companies in the past.
+	  And right now I just decided to quit everything and decided to be like a content creator and I also keep traveling.
+	- Rafa 12:02
+	  Oh so it's very recent. Your lifestyle as an omed or were you doing it before?
+	  What's your story?
+	- 참석자 5 12:10
+	  Okay so I actually started on the startup world five years ago actually found myself as a product manager and then I started to develop my career into that.
+	  But at one time in my life I decided, okay I don't want to work to anyone anymore.
+	  I wanted to create my own company and some people on LinkedIn they invited me to create a company like insurance company.
+	  I enjoined the company help them to build from zero day company to 120 clients I think.
+	- 참석자 5 12:38
+	  And but then I realized that I was actually working a lot like too too much.
+	  I was working from 2, 12 hours to 14 hours a day.
+	  Wow and then I got like a really heavy burnout and I said to myself okay I cannot have this life anymore like life is not just working it's also like sleeping a little bit more.
+	- 참석자 5 13:00
+	  So I decided to, okay, let's try to get another work that is fully remote and I can get paid in dollars.
+	  It was pretty great. I was been able to travel a lot but then I got burned out again and I said, okay, that's enough for me.
+	  I don't want to work in the corporate job.
+	- Rafa 13:17
+	  I understand I had to quit my job as well to start a new life and I totally understand.
+	- 참석자 5 13:24
+	  So right now I'm building content creation about lifestyle trying to convince people to actually quit their jobs and their
+	- Rafa 13:33
+	  what, what's your handle?
+	- 참석자 5 13:35
+	  Yeah so it's a curot to Camoto under
+	- Rafa 13:37
+	  also follow him and follow his journey.
+	- 참석자 5 13:40
+	  Only three weeks since I quit my job.
+	  And like Floripo is a place that I love to go like here we can find like a lot of you can.
+	  It's really easy to meet a lot of people in here and to make new friends especially like people from all around the wor.
+	- Rafa 13:54
+	  Was it hard for you to do the transition between a corporate job to content creation?
+	  Was it difficult for you and for your family?
+	- 참석자 5 14:05
+	  My family doesn't know anything about it actually
+	- Rafa 14:08
+	  you're going to discover now
+	- 참석자 5 14:11
+	  mom and dad if you're watching this like,
+	- Rafa 14:13
+	  you know you quit
+	- 참석자 5 14:14
+	  they don't know they have no idea.
+	- Rafa 14:16
+	  Oh, okay
+	- 참석자 5 14:17
+	  they have no idea because like when I quit the corporate job and like was going to build my own startup, they already got really upset with me and that also happened when I quit university.
+	  Yeah I didn't like I tried three units and really yeah and it didn't work out like it wasn't for me and creative Yes they got like really fuck and upset with me.
+	  So like this one, I'm just going to tell like after like I started to make a lot of money in it and they'll be safe.
+	- Rafa 14:46
+	  Okay do you have any future plans for your content creation?
+	  What are your goals with that?
+	- 참석자 5 14:53
+	  I think my main go with that is I realize that because when I was building my own company I know that I was a really workaholic person.
+	  But after the burnouts I understood that like, okay, that's not living at all like you need to enjoy other things.
+	  So I think my main objective of living is like just to get to know more people and understand like try to get my curiosity like all inside my head to outside of the world.
+	- 참석자 5 15:23
+	  Do my personal objective with my content creation all there's much more things to do besides work.
+	  And here are the interesting things that you can learn about.
+	- Rafa 15:33
+	  And one last question just if you want to share how much money do you make per month as a content creator?
+	- 참석자 5 15:39
+	  Sure okay as a content creator I'm actually making zero money right now
+	- Rafa 15:44
+	  because you just started.
+	- 참석자 5 15:45
+	  Yes it's been like only two weeks.
+	- Rafa 15:48
+	  So guys, let's help him out.
+	- 참석자 5 15:49
+	  But before that I was working for a U S company I was making 4,000 dollars a
+	- Rafa 15:55
+	  mon. Yeah so you saved that money to do what you're doing
+	- 참석자 5 15:59
+	  yes 100.
+	- Rafa 16:00
+	  Yeah. And do you have any goal of like when you want to start making money do you have any ideas about that or you
+	- 참석자 5 16:07
+	  be on the first three months to get a lot of followers get a lot of loyal followers that will like my content.
+	  And after the three months passes, all of them tried to search it out for like some partnership, paid partnerships and stuff like that.
+	  So my main goal is to get 100, 100,000 followers in three months and then in 6 months,
+	- Rafa 16:29
+	  100,000 in three months.
+	- 참석자 5 16:31
+	  Yes that's the goal and for 6 months then to start monetizing and getting around the money that I used to make on the corporate job.
+	- Rafa 16:41
+	  Okay so he's an ambitious guy and thank you so much.
+	  Wish you on the luck in your journey.
+	  Another digital noma here by the pool.
+	  And I've already asked her she prefers to do the interview in Spanish so I'm going to do it in Spanish and put the sub titles for you to know.
+	- Ori 21:26
+	  I'm sorry. What did you say?
+	- 참석자 6 21:31
+	  Would you like to give me an interview?
+	- Ori 21:34
+	  Absolutely.
 - TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
