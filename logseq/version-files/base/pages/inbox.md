@@ -49,7 +49,7 @@ public:: false
 - TODO [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
-- TODO [보다 BODA-고대에 사랑니를 뽑았던 충격적인 방법 (이발사가 머리 자르면서 그냥 뽑음 ㄷㄷ) ㅣ역사를 보다](https://youtube.com/watch?v=lyawMoxXOOs&si=4auZ_2MEYCnjTZzZ) [[2024/02/18]] 
+- DONE [보다 BODA-고대에 사랑니를 뽑았던 충격적인 방법 (이발사가 머리 자르면서 그냥 뽑음 ㄷㄷ) ㅣ역사를 보다](https://youtube.com/watch?v=lyawMoxXOOs&si=4auZ_2MEYCnjTZzZ) [[2024/02/18]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/lyawMoxXOOs/hqdefault.jpg)
 - TODO [법무법인 별-1시간을 4시간처럼 쓰는 법? 16년차 변호사의 시간관리법 [슬기로운변호사생활 #1]](https://youtube.com/watch?v=n7mLeZ09MXc&si=bhLyrtE3BCgY6VfO) [[2024/02/18]] 
@@ -254,6 +254,7 @@ public:: false
 	  | I appreciate it and until next time take care and I will see you in the next Tok. | 감사합니다. 다음에 또 봐요. 건강하세요. 다음 토크에서 뵙겠습니다. |
 	- clovanote.naver.com
 - TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
 - TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
   collapsed:: true
