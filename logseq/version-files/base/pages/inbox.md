@@ -681,7 +681,7 @@ public:: false
 	  Would you like to give me an interview?
 	- Ori 21:34
 	  Absolutely.
-- TODO [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
+- DONE [정리마켓-25년 구축에 사는 두 딸 엄마아빠의 살림, 정리의 기준이 서로 달라요. | 전국살림자랑 ep.36](https://youtube.com/watch?v=vpMn5vYDa5M&si=ijzVmpp0HVSEWoVI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vpMn5vYDa5M/hqdefault.jpg)
 - DONE [시칠리안 SICILIAN-싸다고 위치 생각 안하고 숙소 예약했다가 교통비로 돈 더든 사연 [태국 29_후아힌]](https://youtube.com/watch?v=7LglmcdWrZM&si=ctiJnJpEXqvfml1_) [[2024/02/19]] 
