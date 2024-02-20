@@ -19,11 +19,10 @@ public:: false
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
 - 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
-- TODO [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
+- DONE [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
-- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]] 
-  collapsed:: true
+- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [[2024/02/15]] 
   collapsed:: true
