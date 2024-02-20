@@ -716,3 +716,4 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
+	- target url이 아닌 target directory로 배포하면 될 것 같은데...
