@@ -744,3 +744,7 @@ collapsed:: true
 - TODO [정영민TV -돈버는 공부(트렌드헌터)-진짜 블루오션은 여기입니다! 스마트스토어, 쿠팡 경쟁에서 피하세요 @1999JYU](https://youtube.com/watch?v=X5lebT1YYYA&si=KhWK_A8h3KPlXLUu) [[2024/02/21]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/X5lebT1YYYA/hqdefault.jpg)
+
+- TODO [내일은 투자왕 - 김단테-엔비디아 130조원이 증발한 이유.](https://youtube.com/watch?v=9h_hC_dK_R4&si=hGjZbNbxG0KXkw8J) [[2024/02/21]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/9h_hC_dK_R4/hqdefault.jpg)
