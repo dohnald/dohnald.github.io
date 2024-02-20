@@ -707,3 +707,9 @@ public:: false
 - TODO [진리에어 JINRI AIR-30대 부부 동반 퇴사 후 세계여행 떠난 사연은...? [라오스_방비엥.07]](https://youtube.com/watch?v=IxFbg9iKmQ8&si=wVFfsdJLK485Ae1A) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/IxFbg9iKmQ8/hqdefault.jpg)
+- TODO [[2024/02/20]] https://twitter.com/mytory
+> 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
+6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
+
+collapsed:: true
+  - {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
