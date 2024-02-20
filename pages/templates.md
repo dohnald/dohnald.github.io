@@ -45,6 +45,10 @@ public:: false
 	  | 원문 | 번역문 |
 	  
 	  ```
+- translator
+  prompt-template:: translator
+	- ```prompt
+	  ```
 - zettelkasten translator
   prompt-template:: zettelkasten translator
 	- ```prompt
