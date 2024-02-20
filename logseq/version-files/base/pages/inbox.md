@@ -729,6 +729,6 @@ public:: false
 - DONE [긱블 Geekble-로드킬 당한 고라니를 박제로 만드는 사람들...](https://youtube.com/watch?v=0y92GyIgOeU&si=nbi_E2ZXQUSnkVMW) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0y92GyIgOeU/hqdefault.jpg)
-- TODO [이래도 될래나  iamRENA-여성라이더 프리다이빙 도전  I 오토바이 비시즌 컨텐츠  I  AIDA2 자격증 I  이래도 될래나  I ENG SUB I](https://youtube.com/watch?v=9qruuSWEJyo&si=Kb5zVxWrbPCHnS8b) [[2024/02/20]] 
+- DONE [이래도 될래나  iamRENA-여성라이더 프리다이빙 도전  I 오토바이 비시즌 컨텐츠  I  AIDA2 자격증 I  이래도 될래나  I ENG SUB I](https://youtube.com/watch?v=9qruuSWEJyo&si=Kb5zVxWrbPCHnS8b) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9qruuSWEJyo/hqdefault.jpg)
