@@ -720,13 +720,13 @@ public:: false
 - TODO [ootb STUDIO-기네스북 등재된 지하상가 (부평역) | 전역자 ep.07 [EN/JP/ID]](https://youtube.com/watch?v=Fp7j5qd-wFA&si=p-gbIGprVn6jzked) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Fp7j5qd-wFA/hqdefault.jpg)
-- TODO [윰곰 yumgom-새벽에 공부하고 저녁에 홈트해도 하루가 여유로운 이유 | 갓생러 하루 4시간 공부하기 | 직장인 평일 미라클모닝 | 시간관리 꿀팁](https://youtube.com/watch?v=XtmgotQY3WA&si=-7GMnDiDDnS4kTUc) [[2024/02/20]] 
+- DONE [윰곰 yumgom-새벽에 공부하고 저녁에 홈트해도 하루가 여유로운 이유 | 갓생러 하루 4시간 공부하기 | 직장인 평일 미라클모닝 | 시간관리 꿀팁](https://youtube.com/watch?v=XtmgotQY3WA&si=-7GMnDiDDnS4kTUc) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XtmgotQY3WA/hqdefault.jpg)
 - DONE [다크사이드코리아-용감한 내부자의 제보. 완전히 빠다칠을 당해버린 변호사와 의사들. 이상한마케팅의 전혀 이상하지 않은 수익구조. 자청 유니버스의 핵심.](https://youtube.com/watch?v=LNWMc4hia7c&si=UJ__RKMv8L4j8Tcm) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LNWMc4hia7c/hqdefault.jpg)
-- TODO [긱블 Geekble-로드킬 당한 고라니를 박제로 만드는 사람들...](https://youtube.com/watch?v=0y92GyIgOeU&si=nbi_E2ZXQUSnkVMW) [[2024/02/20]] 
+- DONE [긱블 Geekble-로드킬 당한 고라니를 박제로 만드는 사람들...](https://youtube.com/watch?v=0y92GyIgOeU&si=nbi_E2ZXQUSnkVMW) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0y92GyIgOeU/hqdefault.jpg)
 - TODO [이래도 될래나  iamRENA-여성라이더 프리다이빙 도전  I 오토바이 비시즌 컨텐츠  I  AIDA2 자격증 I  이래도 될래나  I ENG SUB I](https://youtube.com/watch?v=9qruuSWEJyo&si=Kb5zVxWrbPCHnS8b) [[2024/02/20]] 
