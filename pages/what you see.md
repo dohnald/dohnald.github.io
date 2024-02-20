@@ -249,6 +249,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/3gt3puJNvS8/hqdefault.jpg)
 	- [[2024/02/14]] epaper
+	  collapsed:: true
 		- test1
 			- status A
 			- nodeMCU 1.0
@@ -384,7 +385,7 @@ public:: false
 	  반짝 돈 받고 다 탕진해버린 운동선수   
 	  이렇게 넷이 재정전문가의 도움받는 이야기임
 		- {{tweet https://x.com/gtinjacked9ri/status/1570392274386751494?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-	- TODO [[2024/02/15]] 
+	- DONE [[2024/02/15]] 
 	  collapsed:: true
 	  > 내가 쓰는 노트 앱 <https://t.co/Dp314X9spp> 지금쓰는 에버노트, 애플노트 이야기. 그리고 OneNote, Bear, Notion 에 대하여
 		- {{tweet https://x.com/tebica/status/1627082029920833538?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
