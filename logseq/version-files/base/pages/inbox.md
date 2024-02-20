@@ -274,18 +274,15 @@ public:: false
 	- | {{youtube-timestamp 01:02}} |
 	  | Are you living here in Brazil or just working? | 브라질에 살고 있나요 아니면 일하고만 있나요? |
 	  | Do you work remotely? | 원격으로 일하시나요? |
-	- Ori 01:05
-	  I work remotely I travel in South America for around four months.
-	  I'm out here in Florenapolis having a great time.
-	  Stand just came out. So yeah, no
-	- Rafa 01:14
-	  and what kind of job do you do that lets you work
-	- Ori 01:18
-	  I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks.
-	  Do you know what chargebacks are?
-	  Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or
-	- Ori 01:40
-	  defrauded me on this. So you would go to the bank and file a charge against me like you would sue me some way and I would have to handle this and it became like a very headache for a lot of businesses, you know, especially in E commerce and that hurts their revenue.
+	  | I work remotely I travel in South America for around four months. | 저는 원격으로 일하고 남미를 약 4개월간 여행했습니다. |
+	  | I'm out here in Florenapolis having a great time. | 저는 현재 플로렌아폴리스에 있어 좋은 시간을 보내고 있습니다. |
+	  | Stand just came out. So yeah, no | 새로운 제품이 나왔습니다. 네, 맞아요 |
+	- I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks. Do you know what chargebacks are? Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or defrauded me on this.
+	- | {{youtube-timestamp 00:03}} |
+	  | I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks. | Charge Flow라는 회사에서 일합니다. 이 회사는 전자상거래 상인들이 차지백을 자동화하는 전자상거래 앱입니다. |
+	  | Do you know what chargebacks are? Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or defrauded me on this. | 차지백이 무엇인지 아십니까? 차지벅스? 예를 들어, 제가 사업을 하고 있고 당신이 클라이언트인 경우 제품을 구입하셨다고 가정해봅시다. 그리고 한 달 후에 당신이 제게 와서, 은행에 하듯이, "이 주문을 하지 않았다거나 속이거나 했다"고 말할 때입니다. |
+	- | {{youtube-timestamp 01:40}} |
+	  | So you would go to the bank and file a charge against me like you would sue me some way and I would have to handle this and it became like a very headache for a lot of businesses, you know, especially in E commerce and that hurts their revenue. | 이것을 사기 치웠습니다. 그래서 당신은 나에 대해 은행에 가셔서 나를 고소하고, 저를 어떤 방식으로든 고소할 것이며 나는 이를 처리해야 했고, 이는 많은 비즈니스에게 매우 머리아프게 되었고, 특히 전자 상거래에서는 이로 인해 그들의 수익이 감소합니다. |
 	- Ori 01:55
 	  So we helped them automate that I'm getting paid as a freelancer kind of, you know, to that company I only work for them.
 	  Now you know, I was thinking of opening an agency because what I do I do like marketing on social media actually Twitter, LinkedIn and influencer marketing.
