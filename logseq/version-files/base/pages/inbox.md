@@ -24,7 +24,7 @@ public:: false
 	- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-- TODO [[2024/02/15]] 
+- DONE [[2024/02/15]] 
   collapsed:: true
   > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
