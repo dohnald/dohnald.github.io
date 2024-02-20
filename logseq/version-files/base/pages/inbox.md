@@ -337,7 +337,40 @@ public:: false
 		    * 네, 그것은 아키라입니다. @akiratsukamoto_ 맞아요. 그의 여정을 따라 가보세요. 제가 일을 그만두고 지난 3주가 지났거든요. 오, 그리고, 플로리파라고 하는 곳을 정말 좋아해요. 여기에서는 많은 사람들을 만나기 정말 쉽죠. 그렇죠. 그래서 친구를 사귀는 것, 특히 세계 각국 사람들과, 이전에 기업에서 일하는 것에서 콘텐츠 크리에이션으로 전환이 쉽게 되었나요? 당신과 당신의 가족에게 어려웠나요? 사실 제 가족은 전혀 모르고 있어요. 네. 이제야 알게 될 거예요. 엄마 아빠, 지금 이것을 보고 있으면...
 		    * 그들은 그 LS?? 그것은 모르죠. 아뇨. 무슨 일이 있는지 모르고 있어요. 아, 그건 그렇죠. 외국 회사에서 일하다가 사실이에요. 매달 $4,000를 벌고 있었죠. 매달요? 네. 그래서 지금 하고 있는 일에 돈을 저축했나요? 네, 정확히. 네. 그리고 돈을 벌기 시작할 때, 돈에 대한 어떤 계획이 있나요? 당신의 생각은 무엇인가요?
 		    * 컨텐츠 크리에이터로는 지금은 돈을 벌고 있지 않아요. 왜냐하면 딱 2주전 시작했기 때문에. 그 전에 미국 회사에 일하고 있었어요. 그때는 매달 $4,000를 벌었죠. 당신의 여정에 행운을 빕니다. 감사합니다.
-		- So what’s your name? Victoria, and where are you from? From Argentina. From which part of Argentina? I’m from Patagonia. Wow, beautiful! From Santa Cruz. And currently I live in Buenos Aires. And do you work remotely? Yeah. What is your job that lets you work remotely? I work for different organizations and companies that take care of the environment all around the  And I manage the communication strategies.For different companies, the community in general and also governments so they can implement good practices solutions against the climate change And you can do it all online? Yes. Since when have you been traveling and working? Around 2 years. Yeah, and do you need to follow a schedule or can you decide it? How does it work? I can decide always, there is this freedom.A lot of times, in the morning after a meeting I do Yoga... Oh nice. I just got back from surfing. and then I’ll work until 9pm. Usually, I try to understand what are the goals for the week. And then move foward. Always. It doesn’t matter the day, the moment or the place. That’s good. With the laptop and good internet Everything is gonna work out...And where did you travel to after you became a nomad? I had the opportunity to work onile in Canada, now in Brazil, Switzerland, Spain, Germany, Malta Wow! Yeah, I like it a lot and there are many other countries I want to visit. And I always try to travel in a sustainable way and slow, not to pollute so much with the transportation.And It requires a lot of effort to move around so much also... Were you always a digital nomad or did you change something in your life to become one? No. Una transición? I finished school online. Really? Yes. That’s so different! When I was 16 I already liked traveling a lot. And I went to Switzerland for a while.I didn’t know you could finish school online. Yes, you can. The ones who want it, can do it. Yeah, university as well. Oh okay. When I was working I realized I was not very efficient in an office. I liked the interaction with other people But at the end, I really like to have my quiet moments  and work moments, when my body wants to work. And understand that energy.Last question, if you want to share How much money do you usually make per month? Per month.. It’s $3000. It’s good. I obviously try to save it. I try to live and travel. Obviously, It would be financially better to stay at home. Yes, of course. But yeah, it is around that. One more thing before finishing it, what are your future plans? Oh, I thought about that today.I would like to live in Germany. Yeah. Sometime to improve my German. And keep exercising with different sports. In different parts of the world.  Maybe doing surf or skate. Maybe roller skating. I don’t know but going to new places and exercising my body. Having a healthy life. while traveling to different places.I think you are the first person when I ask what your future plans are doesn’t talk about your career. And I like that a lot because you... I feel like I achieved what I wanted. Exactly, you think first about you, your body... In my actions Thank you so much! It was a pleasure. Thank you. Are you a nomad? Sorry, what did you say? Are you a nomad? I’m a nomad, yeah.Would you like to give me an interview? Absolutely.
+		- * 당신의 이름은 뭔가요?
+		    * 빅토리아입니다.
+		  어디 출신이죠?
+		    * 아르헨티나에서 왔어요.
+		  아르헨티나 어디 부분에서 왔나요?
+		    * 파타고니아에서 왔어요. 와, 아름다운 곳이죠! 산타 크루즈에서 왔어요. 현재는 브에노스 아이레스에 살고 있어요.
+		  리모트로 일하나요?
+		    * 네.
+		  일할 수 있는 일이 무엇인가요?
+		    * 환경을 보호하는 다양한 단체와 회사들을 위해 일해요. 그리고 커뮤니케이션 전략을 관리해요.
+		  온라인에서 모든 일을 할 수 있나요?
+		    * 네.
+		  여행하면서 일하기 시작한 건 언제인가요?
+		    * 약 2년 전부터에요.
+		  근무 일정을 따라야 하나요 아니면 스스로 정할 수 있나요? 어떻게 일을 하나요?
+		    * 항상 스스로 정할 수 있어요. 항상 자유가 있거든.
+		  많은 시간에는 아침에 회의를 한 뒤에 요가도 해요.
+		    * 그만큼 공부하고 나서 서핑도 했어요. 그리고 저녁 9시까지 일해요. 일주일 목표를 이해하려고 노력해요. 그리고 나아가요. 언제든지 상관없어요. 날짜나 시간, 그리고 장소가 중요하지 않죠.
+		  노트북과 좋은 인터넷만 있으면 모든 것이 잘 풀리겠군요...
+		    * 네. 겹쳐 간 시간 후에 나는 어디로 여행했나요?
+		  캐나다에서 온라인으로 일할 수 있는 기회를 가졌었어요. 지금은 브라질, 스위스, 스페인, 독일, 몰타에 있어요.
+		    * 와! 네, 정말 좋아하고 싶어하는 나라도 많아요. 언제나 지속가능한 길로 여행하려고 하죠. 그리고 환경을 오염시키지 않도록 천천히 가려고 노력해요.
+		  그만큼 많은 고통이 필요할까요?
+		    * 항상 디지털 노마드였나요 아니면 그렇게 일하게 되기 위해 삶에서 무언가를 바꾼 적이 있나요?
+		    * 아니요. 스쿨 온라인을 마친 후에 이전 길로 서서 스위스에 한동안 머물렀어요.
+		    * 네, 학부도 가능하죠. 아, 알았어요. 덧붙여서 공유하고 싶은 사항이 있나요? 한 달에 얼마나 벌어요? 한 달에.. $3,000입니다. 하는 거죠. 돈을 절약하려 노력하죠 당연히 살고 여행하려 노력하죠. 당연히 집에 있으면 경제적으로 더 좋겠지만요. 네, 물론요. 그렇지만, 그 정도입니다.
+		  마침내 맺는다면, 앞으로의 계획은 무엇인가요?
+		    * 오늘 이에 대해 생각해봤어요. 독일에서 살고 싶어해요. 때로는 독일어를 향상시키고 싶어요. 다양한 스포츠를 하며 운동하고 싶어요. 세계 곳곳에서. 서핑이나 스케이트를 해볼지 모르겠어요. 롤러 스케이팅을 해봐도 좋을 것 같아서요. 모르겠지만 새로운 장소로 가면서 몸을 운동시키고 싶어요. 건강한 삶을 살면서 다양한 장소로 여행하고 싶어요.
+		  * 미래 계획에 대해 물어봤을 때, 대부분의 사람이 자신의 경력에 대해 이야기하지만 당신은 그렇지 않아서 정말 좋습니다. 다른사람과 상호작용 하는 것을 좋아하지만 결국은 조용한 순간과 일하는 순간을 좋아하는 걸 알았죠. 그리고 에너지를 이해하는 걸 좋아하네요.
+		    * 정말 감사합니다! 즐거웠어요. 감사합니다.
+		    * 노마드인가요? 죄송한데 무슨 말씀이신가요?
+		  노마드이신가요?
+		    * 네, 노마드입니다. 인터뷰를 받고 싶으세요?
+		    * 절대로요.
 	- | {{youtube-timestamp 00:00}} |
 	  | After my first series interviewing digital nomads in Bali getting to know several ways of how to make money online and receiving thousands of comments with questions about this community I decided to start a new season of interviews to ask them all we want to know. | 바리에서 디지털 노마드를 인터뷰한 첫 시리즈를 마치며 온라인으로 돈을 벌 방법을 알아가고 이 커뮤니티에 대한 수천 개의 질문을 받았습니다. 이제 우리가 알고 싶어하는 모든 것을 물어보기 위해 새로운 인터뷰 시즌을 시작하기로 결정했습니다. | 
 	  | This time I'm on a remote island in the south of Brazil and it's called Florianopolis. This island is becoming the new digital nomad hub. | 이번에는 브라질 남부의 한 원격 섬에 있습니다. 이 곳은 플로리아노폴리스(Florianopolis)라고 합니다. 이 섬은 새로운 디지털 노매드 허브가 되고 있습니다. |
