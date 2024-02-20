@@ -705,7 +705,7 @@ public:: false
 - DONE [진리에어 JINRI AIR-다이빙 제발 이렇게 하지 마세요!! 잊지 못할 추억 남긴 남싸이전망대 & 블루라군 [라오스_방비엥.05]](https://youtube.com/watch?v=7BV-lf2frJQ&si=hYDw_UypnxVMCWJI) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7BV-lf2frJQ/hqdefault.jpg)
-- TODO [진리에어 JINRI AIR-30대 부부 동반 퇴사 후 세계여행 떠난 사연은...? [라오스_방비엥.07]](https://youtube.com/watch?v=IxFbg9iKmQ8&si=wVFfsdJLK485Ae1A) [[2024/02/19]] 
+- DONE [진리에어 JINRI AIR-30대 부부 동반 퇴사 후 세계여행 떠난 사연은...? [라오스_방비엥.07]](https://youtube.com/watch?v=IxFbg9iKmQ8&si=wVFfsdJLK485Ae1A) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/IxFbg9iKmQ8/hqdefault.jpg)
 - TODO [[2024/02/20]] https://twitter.com/mytory
