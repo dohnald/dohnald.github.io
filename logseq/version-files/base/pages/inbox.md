@@ -740,3 +740,7 @@ collapsed:: true
 - TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
+
+- TODO [정영민TV -돈버는 공부(트렌드헌터)-진짜 블루오션은 여기입니다! 스마트스토어, 쿠팡 경쟁에서 피하세요 @1999JYU](https://youtube.com/watch?v=X5lebT1YYYA&si=KhWK_A8h3KPlXLUu) [[2024/02/21]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/X5lebT1YYYA/hqdefault.jpg)
