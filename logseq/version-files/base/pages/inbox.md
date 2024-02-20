@@ -31,24 +31,6 @@ public:: false
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/15]] 
   collapsed:: true
-  > 영어 원서에 도전해보고 싶은 분들을 위한 팁  
-  우선 <https://t.co/DkuLhoWbDD> 에서 자신의 단어실력 테스트를 해봅니다. 나열된 단어들 중 아는 것을 체크하면 됩니다. Step 3에 나오는 (research survey)는 딱히 체크 안 하고 넘기셔도 괜찮습니다.
-	- {{tweet https://x.com/oneshot_istp/status/1344317164157767683?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-	- TODO [[2024/02/15]] 
-	  collapsed:: true
-	  > 추천해주신 책 how to talk so little kids will listen 너무 잘 읽고 있습니다…
-	  
-	  collapsed:: true
-		- {{tweet https://x.com/d_ijk_stra/status/1451073947080945668?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-		- [[chatGPT]]
-			- how to talk so little kids will listen 책의 내용을 요약해 줘. 구매를 고민중이야.
-			  * 아이들과의 소통 방법과 대화 기술에 관한 실용적인 조언을 제공하는 책
-			  * 아이들이 어떻게 생각하고 느끼는지 이해하고 그에 맞게 대화하는 방법 소개
-			  * 어떻게 하면 아이들이 더 잘 듣고 협력할 수 있을지에 대한 전략 제시
-			  * 칭찬과 격려를 통해 아이들의 자존감을 높이고 긍정적인 관계를 구축하는 방법 제안
-			  * 부모나 교사가 아이들과의 대화를 통해 더 나은 관계를 형성하고 긍정적인 영향을 미칠 수 있도록 돕는 내용 포함
-- TODO [[2024/02/15]] 
-  collapsed:: true
   > 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
   \- 총 47종의 접는 종이비행기 디자인들   
   \- 접는 방법 단계별 설명 & 비디오   
