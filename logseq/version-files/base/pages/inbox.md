@@ -273,7 +273,7 @@ public:: false
 - TODO [공부 How-전직 Microsoft 개발자가 전해 주는 챗GPT 활용 기본편 | 최근 교수님 실습 세미나 만족도 ⭐⭐⭐⭐⭐](https://youtube.com/watch?v=gOq-udl1WQI&si=JtmUn2ofRNxD3UV_) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/gOq-udl1WQI/hqdefault.jpg)
-- TODO [백종원 PAIK JONG WON-[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집](https://youtube.com/watch?v=yfP87sVfWQU&si=YdIqF_7xvjpyXLHP) [[2024/02/19]] 
+- DONE [백종원 PAIK JONG WON-[내꺼내먹_EP.7] 골목식당 그 후, 제주 금악마을 | 폐업 위기의 타코집](https://youtube.com/watch?v=yfP87sVfWQU&si=YdIqF_7xvjpyXLHP) [[2024/02/19]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/yfP87sVfWQU/hqdefault.jpg)
 - TODO [진리에어 JINRI AIR-다이빙 제발 이렇게 하지 마세요!! 잊지 못할 추억 남긴 남싸이전망대 & 블루라군 [라오스_방비엥.05]](https://youtube.com/watch?v=7BV-lf2frJQ&si=hYDw_UypnxVMCWJI) [[2024/02/19]] 
