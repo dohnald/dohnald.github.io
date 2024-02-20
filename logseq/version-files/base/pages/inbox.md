@@ -732,6 +732,9 @@ public:: false
 - DONE [이래도 될래나  iamRENA-여성라이더 프리다이빙 도전  I 오토바이 비시즌 컨텐츠  I  AIDA2 자격증 I  이래도 될래나  I ENG SUB I](https://youtube.com/watch?v=9qruuSWEJyo&si=Kb5zVxWrbPCHnS8b) [[2024/02/20]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9qruuSWEJyo/hqdefault.jpg)
-- TODO [-](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
+- TODO [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
 	- ![]()
 -
+- TODO [-](https://youtube.com/watch?v=Cs9XmTKEY7I&si=hqTj5hyaHVWaXbgn) [[2024/02/21]] 
+  collapsed:: true
+	- ![]()
