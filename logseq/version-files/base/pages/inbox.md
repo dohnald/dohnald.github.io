@@ -29,19 +29,6 @@ public:: false
   collapsed:: true
   > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
 	- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
-  collapsed:: true
-  > 종이비행기 디자인 모음 <https://t.co/o54kQR1G7K>   
-  \- 총 47종의 접는 종이비행기 디자인들   
-  \- 접는 방법 단계별 설명 & 비디오   
-  \- 출력 가능한 PDF로도 제공 ($5.99 1회성 결제 필요)
-  
-  collapsed:: true
-	- {{tweet https://x.com/geeknewsbot/status/1549932180046249985?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/15]] 
-  collapsed:: true
-  > 여름맞이 제습제 갈이. 제습제 통을 씻은 후 염화칼슘 가루 보충. 귀찮고 번거롭지만 가격이 싸고 쓰레기가 적게 나온다. [pic.twitter.com/rH8trSWIqL](https://t.co/rH8trSWIqL)
-	- {{tweet https://x.com/aperitif89/status/1676132824649441286?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
@@ -51,10 +38,6 @@ public:: false
 - TODO [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/4vzZdLWIj3s/hqdefault.jpg)
-- TODO [[2024/02/17]] https://twitter.com/John_Grib
-  collapsed:: true
-  > 이 책 엄청 재밌습니다. <https://t.co/NIQokzPYua>
-	- {{tweet https://x.com/john_grib/status/1592118000651767808?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xI1ShY-zKus/hqdefault.jpg)

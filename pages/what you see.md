@@ -533,6 +533,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/qyTnqfdOgLU/hqdefault.jpg)
 - [[2024/02/19]]
+  collapsed:: true
 	- DONE [[2024/02/15]] 
 	  collapsed:: true
 	  > 일할 때 자주 쓰는 도구에 관한 글을 써봤어요.  
