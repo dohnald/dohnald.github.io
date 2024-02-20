@@ -733,8 +733,6 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9qruuSWEJyo/hqdefault.jpg)
 - TODO [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
-	- ![]()
--
-- TODO [-](https://youtube.com/watch?v=Cs9XmTKEY7I&si=hqTj5hyaHVWaXbgn) [[2024/02/21]] 
-  collapsed:: true
-	- ![]()
+- TODO [NAVER Cloud Platform : 네이버 클라우드 플랫폼-쿠버네티스 안 써도 되지 않나요? 조훈 님에게 물어봤습니다. (쿠버네티스 담당자 필수 시청)](https://youtube.com/watch?v=m-EmnMFRgeQ&si=iT6iBPZAPr0oVA6B) [[2024/02/21]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/m-EmnMFRgeQ/hqdefault.jpg)
