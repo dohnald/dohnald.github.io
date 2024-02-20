@@ -256,22 +256,19 @@ public:: false
 - TODO [Travel with Rafa-I asked DIGITAL NOMADS how they MAKE MONEY from a remote island in BRAZIL](https://youtube.com/watch?v=xOCZqw6tjsY&si=49tTZASfpOS0YrHW) [[2024/02/19]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xOCZqw6tjsY/hqdefault.jpg)
-	- Rafa 00:00
-	  After my first series interviewing digital nomads in Bali getting to know several ways of how to make money online and receiving thousands of comments with questions about this community I decided to start a new season of interviews to ask them all we want to know.
-	  But in different hubs across the world.
-	  This time I'm on a remote island in the south of Brazil and it's called Florianopolis.
-	  This island is becoming the new digital nomet hub
-	- Rafa 00:25
-	  because of its tropical, beautiful beaches, the super clear water and you can also find people from all over the world.
-	  The place that I chose today for the interviews is this hostel called Selina.
-	  It's a corking hostel right in front of that beach that I was.
-	  There are many digital moments here.
-	  This is the swimming pool.
-	  This is the area that they stay and they also have a co working space right there
-	- Rafa 00:47
-	  but it's full of digital noms and I'm super excited to ask them all the questions.
-	  So let's go and get into it.
-	  What's your name and where are you from?
+	- | {{youtube-timestamp 00:00}} |
+	  | After my first series interviewing digital nomads in Bali getting to know several ways of how to make money online and receiving thousands of comments with questions about this community I decided to start a new season of interviews to ask them all we want to know. | 바리에서 디지털 노마드를 인터뷰한 첫 시리즈를 마치며 온라인으로 돈을 벌 방법을 알아가고 이 커뮤니티에 대한 수천 개의 질문을 받았습니다. 이제 우리가 알고 싶어하는 모든 것을 물어보기 위해 새로운 인터뷰 시즌을 시작하기로 결정했습니다. | 
+	  | This time I'm on a remote island in the south of Brazil and it's called Florianopolis. This island is becoming the new digital nomad hub. | 이번에는 브라질 남부의 한 원격 섬에 있습니다. 이 곳은 플로리아노폴리스(Florianopolis)라고 합니다. 이 섬은 새로운 디지털 노매드 허브가 되고 있습니다. |
+	  | because of its tropical, beautiful beaches, the super clear water and you can also find people from all over the world. | 열대의 아름다운 해변때문에 맑고 깊은 바다, 전 세계의 사람들을 만날 수 있습니다. |
+	  | The place that I chose today for the interviews is this hostel called Selina. | 오늘 인터뷰를 위해 내가 선택한 장소는 Selina라는 호스텔입니다. |
+	  | It's a corking hostel right in front of that beach that I was. | 나가 있던 해변 바로 앞에 멋진 호스텔이 있습니다. |
+	  | There are many digital moments here. | 여기에는 많은 디지털 순간들이 있습니다. |
+	  | This is the swimming pool. | 이것은 수영장입니다. |
+	  | This is the area that they stay and they also have a co-working space right there | 이곳은 그들이 머무르는 공간이자 코워킹 공간도 있습니다. |
+	- | {{youtube-timestamp 00:47}} |
+	  | but it's full of digital noms and I'm super excited to ask them all the questions. | 그러나 디지털 콘텐츠로 가득 차 있고 모든 질문을 하기 위해 매우 흥분하고 있습니다. |Rafa 00:47
+	  | So let's go and get into it. | 그러니 출발해서 이야기에 들어가 보죠. |
+	  | What's your name and where are you from? | 당신의 이름은 무엇이며 어디 출신이십니까? |
 	- Ori 00:58
 	  I'm from TEL Aviv, Israel.
 	- Rafa 01:00
