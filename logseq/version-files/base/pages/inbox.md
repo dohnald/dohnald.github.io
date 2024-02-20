@@ -277,17 +277,15 @@ public:: false
 	  | I work remotely I travel in South America for around four months. | 저는 원격으로 일하고 남미를 약 4개월간 여행했습니다. |
 	  | I'm out here in Florenapolis having a great time. | 저는 현재 플로렌아폴리스에 있어 좋은 시간을 보내고 있습니다. |
 	  | Stand just came out. So yeah, no | 새로운 제품이 나왔습니다. 네, 맞아요 |
-	- I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks. Do you know what chargebacks are? Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or defrauded me on this.
-	- | {{youtube-timestamp 00:03}} |
+	-
+	- | | 
 	  | I work for a company called Charge Flow that is an ecommerce app that helps ecommerce merchants automate chargebacks. | Charge Flow라는 회사에서 일합니다. 이 회사는 전자상거래 상인들이 차지백을 자동화하는 전자상거래 앱입니다. |
 	  | Do you know what chargebacks are? Charge bucks? It's when let's say I'm a business and you're a client and you bought something for me and then a month later you would come to me like you would say to the bank hey, I haven't done this order or defrauded me on this. | 차지백이 무엇인지 아십니까? 차지벅스? 예를 들어, 제가 사업을 하고 있고 당신이 클라이언트인 경우 제품을 구입하셨다고 가정해봅시다. 그리고 한 달 후에 당신이 제게 와서, 은행에 하듯이, "이 주문을 하지 않았다거나 속이거나 했다"고 말할 때입니다. |
-	- | {{youtube-timestamp 01:40}} |
-	  | So you would go to the bank and file a charge against me like you would sue me some way and I would have to handle this and it became like a very headache for a lot of businesses, you know, especially in E commerce and that hurts their revenue. | 이것을 사기 치웠습니다. 그래서 당신은 나에 대해 은행에 가셔서 나를 고소하고, 저를 어떤 방식으로든 고소할 것이며 나는 이를 처리해야 했고, 이는 많은 비즈니스에게 매우 머리아프게 되었고, 특히 전자 상거래에서는 이로 인해 그들의 수익이 감소합니다. |
-	- Ori 01:55
-	  So we helped them automate that I'm getting paid as a freelancer kind of, you know, to that company I only work for them.
-	  Now you know, I was thinking of opening an agency because what I do I do like marketing on social media actually Twitter, LinkedIn and influencer marketing.
-	  I worked with influencers to help them promote the company.
-	  I was thinking of opening an agency last year but I decided to just stick to one company
+	  | So you would go to the bank and file a charge against me like you would sue me some way and I would have to handle this and it became like a very headache for a lot of businesses, you know, especially in E commerce and that hurts their revenue. | 그래서 당신은 은행에 가서 제게 고소를 걸거나 어떤 식으로든 소송을 걸어야 하는데, 그것을 다뤄야 하는 힘이 듭니다. 특히 전자 상거래 분야에서 수많은 비즈니스에게는 매우 머리아픈 일이 되며 그들의 수익에도 영향을 미칩니다. |
+	- | {{youtube-timestamp 01:55}} |
+	  | So we helped them automate that I'm getting paid as a freelancer kind of, you know, to that company I only work for them. | 지금 난 그들이 하는 일을 자동화하는 데 도와줬어. 난 프리랜서로 돈을 받아, 그 회사에 근무하고 있어. |
+	  | Now you know, I was thinking of opening an agency because what I do I do like marketing on social media actually Twitter, LinkedIn and influencer marketing. | 지금 너는 알게 된 거야, 나 지금 말로하는 걸 해. 소셜 미디어에서 진짜 트위터나 링크드인 가지고, 인플루언서 마케팅도 해. |
+	  | I worked with influencers to help them promote the company. I was thinking of opening an agency last year but I decided to just stick to one company. | 나는 인플루언서들과 함께 일해서 그들이 회사를 홍보하는 데 도와줬어. 작년에 에이전시를 열 생각까지 했는데, 결국 한 회사에만 전념하기로 결정했어. |
 	- Rafa 02:19
 	  and then maybe in the future it'll be
 	- Ori 02:21
