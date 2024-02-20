@@ -689,6 +689,7 @@ public:: false
 	- ![](https://i.ytimg.com/vi/7LglmcdWrZM/hqdefault.jpg)
 - DONE [다국어 개발자-개발자 돈 버는 모든 방법 종결](https://youtube.com/watch?v=xWSwohmOrzQ&si=LxJQZ4zLJ_dESD8z) [[2024/02/19]]
   id:: 65d2eab5-952f-4371-9813-e815eebd9e00
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/xWSwohmOrzQ/hqdefault.jpg)
 	- 인디해커
 - DONE [이래도 될래나  iamRENA-아름다운 몰디브 여행에 취해 미처 몰랐던 목숨의 위협들.... I 프리다이빙 & 스쿠버 다이빙 도전하는 여성라이더  I   오토바이 여름휴가  I     아야다 리조트](https://youtube.com/watch?v=_eMSe_wSDBU&si=fF5vxFEofhdMPIVS) [[2024/02/19]] 
@@ -708,8 +709,10 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/IxFbg9iKmQ8/hqdefault.jpg)
 - TODO [[2024/02/20]] https://twitter.com/mytory
-> 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
-6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
-
-collapsed:: true
-  - {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  collapsed:: true
+  > 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
+  6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
+  
+  collapsed:: true
+	- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
