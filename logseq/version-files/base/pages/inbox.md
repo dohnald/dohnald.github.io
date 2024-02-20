@@ -299,9 +299,13 @@ public:: false
 	- Ori 02:48
 	  Exactly. Yeah so then I decided to switch it and I said, okay, maybe I could like, maybe these ambitious projects would wait for me.
 	  In the meantime I could just find a sustainable income travel a bit because who knows what's going to happen tomorrow you know, the world is crazy, a lot of hectic shit going on and especially where I'm from.
-	  So that's cool. It is what it is you know, free of hostages
+	  So that's cool. It is what it is you know, free of hostages and ceasefire.
+	- | {{youtube-timestamp 02:41}} |
+	  | we're going to be too old to enjoy the, we need to enjoy it when we are still young. | 우리는 즐기기에 너무 나이가 많을 것이다. 젊을 때 즐기는 법을 배워야지. |  
+	  | {{youtube-timestamp 02:48}} |
+	  | Exactly. Yeah so then I decided to switch it and I said, okay, maybe I could like, maybe these ambitious projects would wait for me. In the meantime I could just find a sustainable income travel a bit because who knows what's going to happen tomorrow you know, the world is crazy, a lot of hectic shit going on and especially where I'm from. So that's cool. It is what it is you know, free of hostages and ceasefire. | 정확히. 그래서 나는 방향을 전환하기로 결정했다. 혹시, 이 산만한 프로젝트들이 나를 기다리고 있을지도 몰라. 그동안 내가 지속적인 수입을 창출하고, 또 여행도 좀 해봐야겠다. 왜냐하면 내일 무슨 일이 벌어질 지 아무도 모르잖아. 세계는 미친 듯이 돌아가고, 특히 내가 있는 곳은 그저 그런 일들이 많이 벌어지고 있으니까. 그래서 괜찮아. 어떻게든 될 거니까, 인질과 휴전 없이 그저 |
 	- Ori 03:12
-	  and ceasefire. Now that made me come to realization to enjoy the moment the moment.
+	  Now that made me come to realization to enjoy the moment the moment.
 	  Yes and just to have fun
 	- Rafa 03:19
 	  are you always doing something related to E commerce and social media or did you change something to do what you're doing?
