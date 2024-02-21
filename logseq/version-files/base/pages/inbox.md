@@ -121,16 +121,6 @@ public:: false
 		  1. `CHANNEL_ID`를 실제 YouTube 채널 ID로 교체해주세요.
 		  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
 		  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
-- `logseq://graph/<graph name>?page=`
-- `logseq://x-callback-url/quickCapture?page=inbox&&text=abc[123]\n* `
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
-- **2024/02/22**:  from
-- **2024/02/22**:  from naver.com
-- [[2024/02/22]]  from abc[123]\n* test1
-  [[2024/02/22]]  from abc[123]\n* test1
-- [[2024/02/22]]  from TODO abc[123]\n* test1
-- TODO [[2024/02/22]] abc[123]\n* test1
-- TODO [[2024/02/22]] abc[123]\n* test1
-- TODO [[2024/02/22]] insert arbitrary text at the current cursor position without creating a new block create a new block below the current block and insert text
