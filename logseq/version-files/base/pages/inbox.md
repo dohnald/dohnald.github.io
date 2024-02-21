@@ -58,4 +58,4 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
-	- youtube 채널에 새로운 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 다운로드
+	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는
