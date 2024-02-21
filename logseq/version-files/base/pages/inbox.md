@@ -125,3 +125,4 @@ public:: false
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
+- **2024/02/22**:  from
