@@ -93,3 +93,6 @@ public:: false
 - TODO [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/eTF-VW0BytI/hqdefault.jpg)
+- TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
