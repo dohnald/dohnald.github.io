@@ -87,7 +87,7 @@ public:: false
 		  ```
 		  Hope this helps!
 - `logseq://graph/<graph name>?page=`
-- TODO [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
+- DONE [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
 - TODO [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
