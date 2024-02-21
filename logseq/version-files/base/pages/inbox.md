@@ -58,4 +58,32 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
-	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는
+	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action code를 작성해주세요.
+		- ```markdown
+		  ### GitHub Action for Saving YouTube Video Information
+		  
+		  1. **Trigger**: This GitHub Action will trigger every time a new video is uploaded to a specified YouTube channel.
+		  
+		  2. **Action Steps**:
+		     - Fetch the thumbnail image URL of the new video.
+		     - Retrieve the title of the new video.
+		     - Get the upload date of the new video.
+		     - Extract the description of the new video.
+		  
+		  3. **Save to GitHub**:
+		     - Store the thumbnail image to a specified GitHub repository.
+		     - Save the video title, upload date, and description to a markdown file in the repository.
+		  
+		  4. **Notification**:
+		     - Optionally send a notification (like an email or a Slack message) to alert about the new video upload.
+		  
+		  5. **Advantages**:
+		     - Automates the process of saving video information.
+		     - Ensures that the latest video details are always available.
+		  
+		  6. **Resources**:
+		     - GitHub Actions documentation for setting up triggers and workflows.
+		     - YouTube API for retrieving video details.
+		  ```
+		  Hope this helps!
+- `logseq://graph/<graph name>?page=`
