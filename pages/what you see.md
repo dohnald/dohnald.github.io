@@ -1313,9 +1313,4 @@ public:: false
 	  
 	  collapsed:: true
 		- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-	- DONE [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
-	  collapsed:: true
-		- ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
-	- DONE [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
-	  collapsed:: true
-		- ![](https://i.ytimg.com/vi/eTF-VW0BytI/hqdefault.jpg)
+	-

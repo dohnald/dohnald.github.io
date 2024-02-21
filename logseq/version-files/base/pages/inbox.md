@@ -121,12 +121,6 @@ public:: false
 		  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
 		  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
 - `logseq://graph/<graph name>?page=`
-- DONE [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
-- DONE [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/eTF-VW0BytI/hqdefault.jpg)
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
