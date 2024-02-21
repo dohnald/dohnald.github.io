@@ -57,5 +57,3 @@ public:: false
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- small octopus grenade with the Octonauts. style with the Octonauts.
-	- ![](assets/storages/logseq-plugin-gpt3-openai/dalle-1708491498416.png)
