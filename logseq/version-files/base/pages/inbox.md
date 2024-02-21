@@ -87,3 +87,6 @@ public:: false
 		  ```
 		  Hope this helps!
 - `logseq://graph/<graph name>?page=`
+- TODO [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
