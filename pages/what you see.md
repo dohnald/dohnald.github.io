@@ -613,3 +613,14 @@ public:: false
 		- [존쌤의 언어습득법-외국어 학습 vs. 공부 vs. 습득 vs. 연습](((65cc1c9a-ee14-48eb-a068-758d422cd71a))) 자기 전 영상을 시청하고, 다음날은 그 영상을 음성만 듣는다. 보는 것과 같은 효과가 나면서 음성에 더 깊게 빠져드는 효과.
 	- [[아이디어/날씨]]
 		- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
+- [[2024/02/20]]
+	- DONE [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
+	- DONE [[2024/02/15]] 
+	  collapsed:: true
+	  > 덕후의방 :: 창고 겸 작업공간 소개 - 20220914 <https://t.co/DUiZHTyPrY> \- [@YouTube](https://twitter.com/YouTube?ref_src=twsrc%5Etfw)
+		- {{tweet https://x.com/darjeelingt/status/1570269518051823616?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [강남언니 팀-강남언니 리드 개발자는 왜 다시 주니어로 돌아갔을까? l Why We Work ep.1](https://youtube.com/watch?v=4vzZdLWIj3s&si=_pwGGjxnK3E0N4BN) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/4vzZdLWIj3s/hqdefault.jpg)
