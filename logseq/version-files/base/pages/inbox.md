@@ -51,6 +51,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
+  collapsed:: true
 	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action 를 작성해주세요.
 		- ```markdown
 		  ### GitHub Action for Saving YouTube Video Information
@@ -127,3 +128,4 @@ public:: false
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
 - **2024/02/22**:  from
 - **2024/02/22**:  from naver.com
+- [[2024/02/22]]  from abc[123]\n* test1
