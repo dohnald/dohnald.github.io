@@ -121,6 +121,7 @@ public:: false
 		  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
 		  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
 - `logseq://graph/<graph name>?page=`
+- `logseq://x-callback-url/quickCapture?page=inbox&`
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
