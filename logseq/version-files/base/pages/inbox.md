@@ -41,7 +41,8 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
-- TODO [[2024/02/20]] https://twitter.com/mytory
+- DONE [[2024/02/20]] https://twitter.com/mytory
+  collapsed:: true
   > 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
   6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
   
