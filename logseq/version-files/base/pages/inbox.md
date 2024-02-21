@@ -127,3 +127,7 @@ public:: false
 - TODO [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/P6rmSppKzOQ/hqdefault.jpg)
+
+- TODO [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
