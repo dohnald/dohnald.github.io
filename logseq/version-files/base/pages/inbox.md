@@ -41,13 +41,6 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
-- DONE [[2024/02/20]] https://twitter.com/mytory
-  collapsed:: true
-  > 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
-  6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
-  
-  collapsed:: true
-	- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
 	- target url이 아닌 target directory로 배포하면 될 것 같은데...
 - TODO [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
@@ -58,7 +51,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
-	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action code를 작성해주세요.
+	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action 를 작성해주세요.
 		- ```markdown
 		  ### GitHub Action for Saving YouTube Video Information
 		  
@@ -86,13 +79,54 @@ public:: false
 		     - YouTube API for retrieving video details.
 		  ```
 		  Hope this helps!
+		- ```yaml
+		  name: Save YouTube Video Information
+		  
+		  on:
+		    schedule:
+		      - cron: '0 0 * * *'  # Run the job every day at midnight
+		  
+		  jobs:
+		    save_video_info:
+		      runs-on: ubuntu-latest
+		      steps:
+		        - name: Checkout code
+		          uses: actions/checkout@v2
+		  
+		        - name: Get YouTube Video Information
+		          run: |
+		            thumbnail=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=og:image" content=").*(?="/>)')
+		            title=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=<title>).*(?= - YouTube</title>)')
+		            date=$(date +'%Y-%m-%d')
+		            description=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=\<meta name="description" content=").*(?="/>)')
+		  
+		        - name: Save Video Information to Repo
+		          run: |
+		            echo "Thumbnail: $thumbnail" >> video_info.md
+		            echo "Title: $title" >> video_info.md
+		            echo "Date: $date" >> video_info.md
+		            echo "Description: $description" >> video_info.md
+		  
+		        - name: Commit and Push Changes
+		          run: |
+		            git config --local user.email "action@github.com"
+		            git config --local user.name "GitHub Action"
+		            git add video_info.md
+		            git commit -m "Add latest YouTube video information"
+		            git push
+		  ```
+		  
+		  이 작업을 실행하기 전에 다음을 확인해주세요:
+		  1. `CHANNEL_ID`를 실제 YouTube 채널 ID로 교체해주세요.
+		  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
+		  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
 - `logseq://graph/<graph name>?page=`
 - DONE [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
-- TODO [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
+- DONE [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/eTF-VW0BytI/hqdefault.jpg)
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)

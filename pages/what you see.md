@@ -614,6 +614,7 @@ public:: false
 	- [[아이디어/날씨]]
 		- [[2024/02/15]] 오늘 날씨를 전세계의 다른 주요 도시들과 비교해서 어떤 곳과 비슷한지 알려준다. 너무 더우면 적도라인의 어느 곳, 너무 추우면 극지방의 어느 곳.
 - [[2024/02/20]]
+  collapsed:: true
 	- DONE [BEAVIS Motorsport-DIY Raspberry Pi Racecar Dashboard: The Ultimate Guide](https://youtube.com/watch?v=SVn9uYfEQrA&si=z4MB22vJJmycO3FW) [[2024/02/15]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/SVn9uYfEQrA/hqdefault.jpg)
@@ -1304,3 +1305,17 @@ public:: false
 	- DONE [내일은 투자왕 - 김단테-엔비디아 130조원이 증발한 이유.](https://youtube.com/watch?v=9h_hC_dK_R4&si=hGjZbNbxG0KXkw8J) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/9h_hC_dK_R4/hqdefault.jpg)
+- [[2024/02/21]]
+	- DONE [[2024/02/20]] https://twitter.com/mytory
+	  collapsed:: true
+	  > 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
+	  6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [슈카월드 코믹스-상위 1% 좋좋소 직원의 출장](https://youtube.com/watch?v=u3YpLSb9Mcs&si=bDPjIj5bwkkBE9T4) [[2024/02/21]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/u3YpLSb9Mcs/hqdefault.jpg)
+	- DONE [14F 일사에프-핫도그 VS 콘도그🌭 한국인은 왜 콘도그에 빠졌을까🥄ㅣ돈슐랭 / 14F](https://youtube.com/watch?v=eTF-VW0BytI&si=sZIU9jVs7Rlp35Jq) [[2024/02/21]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/eTF-VW0BytI/hqdefault.jpg)
