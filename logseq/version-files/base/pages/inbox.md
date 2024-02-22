@@ -61,3 +61,4 @@ public:: false
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=-%20TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true%0A%20%20-%20!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true`
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
+- TODO https://empty.coffee/logseq-feedbin-share-quick-capture/
