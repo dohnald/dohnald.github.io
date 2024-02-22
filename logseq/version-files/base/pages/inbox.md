@@ -55,7 +55,7 @@ public:: false
 - TODO [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P6rmSppKzOQ/hqdefault.jpg)
-- TODO [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
+- DONE [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=-%20TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true%0A%20%20-%20!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
@@ -63,5 +63,5 @@ public:: false
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
 - TODO https://empty.coffee/logseq-feedbin-share-quick-capture/
 - TODO [MBCNEWS-[뉴스 '꾹'] "이게..공짜 사이즈업 노리는 것", '신종 배달수법' 사장님들 "헉" (2024.02.22/MBC뉴스)](https://youtube.com/watch?v=k0gaWdftfUM&si=8OTSnLaBPrmjkNtK) [[2024/02/22]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
