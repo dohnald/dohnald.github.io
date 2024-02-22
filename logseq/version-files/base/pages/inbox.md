@@ -27,7 +27,7 @@ public:: false
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
-- TODO [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
+- DONE [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/xI1ShY-zKus/hqdefault.jpg)
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
