@@ -77,3 +77,4 @@ public:: false
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/22]] 
   collapsed:: true
 - ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg) |
+	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg) |
