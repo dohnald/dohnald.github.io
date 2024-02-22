@@ -52,7 +52,7 @@ public:: false
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
-- TODO [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
+- DONE [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P6rmSppKzOQ/hqdefault.jpg)
 - DONE [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
