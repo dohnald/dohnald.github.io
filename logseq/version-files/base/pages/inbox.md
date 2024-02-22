@@ -18,7 +18,7 @@ public:: false
 		- {{embed ((654a5d27-f3b7-4a37-9789-e0770477272f))}}
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
-- 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
+- TODO [[2024/02/15]] 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
@@ -51,7 +51,6 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
-  collapsed:: true
 	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action 를 작성해주세요.
 		- ```markdown
 		  ### GitHub Action for Saving YouTube Video Information
@@ -130,4 +129,3 @@ public:: false
 - TODO [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
--
