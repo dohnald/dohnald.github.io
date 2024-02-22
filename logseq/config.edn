@@ -369,9 +369,9 @@
  ;; - {url}: URL or assets path for media files stored in Logseq.
  ;; You can also reorder them or use only one or two of them in the template.
  ;; You can also insert or format any text in the template, as shown in the following examples.
-;; :quick-capture-templates
-;; {:text "TODO [[{date}]] {url} {text}"
-;;  :media "**{date}**: {url}"}
+ :quick-capture-templates
+ {:text "{context}"
+  :media "**{date}**: {url}"}
 
  ;; Quick capture options.
  ;; - insert-today?   Insert the capture at the end of today's journal page (boolean).
