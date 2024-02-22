@@ -59,3 +59,5 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
 - **11:22** [[quick capture]]: test
+- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/22]]
+	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
