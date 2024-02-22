@@ -1306,11 +1306,111 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/9h_hC_dK_R4/hqdefault.jpg)
 - [[2024/02/21]]
+  collapsed:: true
 	- DONE [[2024/02/20]] https://twitter.com/mytory
 	  collapsed:: true
 	  > 명조체 웹폰트에 "섑"이란 글자가 필요해졌습니다. "섑스"라는 인물 때문인데요. 아쉽지만 자주 사용하는 2350자에 포함된 글자가 아닙니다.  
 	  6년만에 폰트포지를 켜서 글자를 잘라다 붙였는데요. 과정을 메모했습니다. 6년 뒤엔 이거 보고 쉽게 하려고요.<https://t.co/SW6PFMtIYu>
-	  
-	  collapsed:: true
 		- {{tweet https://x.com/mytory/status/1759815229410824563?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-	-
+	- [[chatGPT]]
+	  collapsed:: true
+		- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글, 영상 링크를 저장하는 github action 를 작성해주세요. 영상 파일도 저장하고 싶은데 어떻게 하면 좋을지 추천해주세요.
+			- ```markdown
+			  ### GitHub Action for Saving YouTube Video Information
+			  
+			  1. **Trigger**: This GitHub Action will trigger every time a new video is uploaded to a specified YouTube channel.
+			  
+			  2. **Action Steps**:
+			     - Fetch the thumbnail image URL of the new video.
+			     - Retrieve the title of the new video.
+			     - Get the upload date of the new video.
+			     - Extract the description of the new video.
+			  
+			  3. **Save to GitHub**:
+			     - Store the thumbnail image to a specified GitHub repository.
+			     - Save the video title, upload date, and description to a markdown file in the repository.
+			  
+			  4. **Notification**:
+			     - Optionally send a notification (like an email or a Slack message) to alert about the new video upload.
+			  
+			  5. **Advantages**:
+			     - Automates the process of saving video information.
+			     - Ensures that the latest video details are always available.
+			  
+			  6. **Resources**:
+			     - GitHub Actions documentation for setting up triggers and workflows.
+			     - YouTube API for retrieving video details.
+			  ```
+			  Hope this helps!
+			- ```yaml
+			  name: Save YouTube Video Information
+			  
+			  on:
+			    schedule:
+			      - cron: '0 0 * * *'  # Run the job every day at midnight
+			  
+			  jobs:
+			    save_video_info:
+			      runs-on: ubuntu-latest
+			      steps:
+			        - name: Checkout code
+			          uses: actions/checkout@v2
+			  
+			        - name: Get YouTube Video Information
+			          run: |
+			            thumbnail=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=og:image" content=").*(?="/>)')
+			            title=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=<title>).*(?= - YouTube</title>)')
+			            date=$(date +'%Y-%m-%d')
+			            description=$(curl -s https://www.youtube.com/channel/CHANNEL_ID | grep -oP '(?<=\<meta name="description" content=").*(?="/>)')
+			  
+			        - name: Save Video Information to Repo
+			          run: |
+			            echo "Thumbnail: $thumbnail" >> video_info.md
+			            echo "Title: $title" >> video_info.md
+			            echo "Date: $date" >> video_info.md
+			            echo "Description: $description" >> video_info.md
+			  
+			        - name: Commit and Push Changes
+			          run: |
+			            git config --local user.email "action@github.com"
+			            git config --local user.name "GitHub Action"
+			            git add video_info.md
+			            git commit -m "Add latest YouTube video information"
+			            git push
+			  ```
+			  
+			  이 작업을 실행하기 전에 다음을 확인해주세요:
+			  1. `CHANNEL_ID`를 실제 YouTube 채널 ID로 교체해주세요.
+			  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
+			  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
+			- 저는 특정 영상 파일을 GitHub에 자동으로 업로드하는 GitHub Actions는 추천하지 않습니다. 그러나 다음은 YouTube 영상의 썸네일, 제목, 날짜, 설명글, 영상 링크를 자동으로 저장하는 간단한 GitHub Actions workflow의 예시입니다.
+			  
+			  ```yaml
+			  name: Save YouTube Video Information
+			  
+			  on:
+			    schedule:
+			      - cron: '0 */6 * * *' # 매 6시간마다 실행
+			  
+			  jobs:
+			    save_video_info:
+			      runs-on: ubuntu-latest
+			      steps:
+			        - name: Checkout code
+			          uses: actions/checkout@v2
+			  
+			        - name: Set up Python
+			          uses: actions/setup-python@v2
+			          with:
+			            python-version: '3.x'
+			  
+			        - name: Run script to save video info
+			          run: |
+			            python save_video_info.py
+			          env:
+			            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+			  ```
+			  
+			  위의 예시는 6시간마다 실행되며, Python 스크립트인 `save_video_info.py`를 실행하여 YouTube 영상 정보를 저장하는 방법입니다. `save_video_info.py`는 YouTube Data API를 사용하여 원하는 정보를 가져와 GitHub에 저장하는 스크립트입니다.
+			  
+			  영상 파일을 GitHub에 업로드하고 싶다면, 직접 스크립트를 작성하여 영상 파일을 다운로드한 뒤 GitHub API를 사용하여 업로드하는 방법이 있습니다. 그러나 이 작업은 보안상의 이유로 주의해야 하며, API 사용량 제한 등을 고려해야 합니다.
