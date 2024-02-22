@@ -58,6 +58,11 @@ public:: false
 - TODO [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
+- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=-%20TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true%0A%20%20-%20!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
 - **11:22** [[quick capture]]: test
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/22]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
+- {context}{{{}{}{}{}{[]}}}
+- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/22]] 
+  collapsed:: true
+    - ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg) |
