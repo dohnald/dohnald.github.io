@@ -58,3 +58,4 @@ public:: false
 - TODO [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
+- **11:22** [[quick capture]]: test
