@@ -62,3 +62,6 @@ public:: false
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true`
 - `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
 - TODO https://empty.coffee/logseq-feedbin-share-quick-capture/
+- TODO [MBCNEWS-[뉴스 '꾹'] "이게..공짜 사이즈업 노리는 것", '신종 배달수법' 사장님들 "헉" (2024.02.22/MBC뉴스)](https://youtube.com/watch?v=k0gaWdftfUM&si=8OTSnLaBPrmjkNtK) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
