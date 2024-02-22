@@ -36,7 +36,7 @@ public:: false
 - DONE [jessica quiambao-how i film & edit my youtube videos using phone📱: intro, music, fonts + more (aesthetic & pastel)](https://youtube.com/watch?v=13mpKPOah54&si=btRjwNl9GLOn6KIP) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/13mpKPOah54/hqdefault.jpg)
-- TODO [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
+- DONE [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
