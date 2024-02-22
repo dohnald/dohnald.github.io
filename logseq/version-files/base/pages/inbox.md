@@ -103,3 +103,15 @@ collapsed:: true
 - TODO [노빠꾸탁재훈-주현영, 많은 현영이들 중 제일 잘나갔지만 SNL 관두고 이제 토요일에 할 일 없는 백수ㅣ노빠꾸탁재훈 시즌2 EP.92](https://youtube.com/watch?v=3pQAg1Zsq5c&si=ujLhZGt6xjY--494) [[2024/02/22]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/3pQAg1Zsq5c/hqdefault.jpg)
+
+- TODO [빠더너스 BDNS-[해인칭] 고등학교 자퇴 후 입사? MZ와 허물없는 대화 나누는 빠더너스](https://youtube.com/watch?v=iuPvuALlcsY&si=Z5WWUjd4uZM5_Bca) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/iuPvuALlcsY/hqdefault.jpg)
+
+- TODO [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/BSxyRIlinTM/hqdefault.jpg)
+
+- TODO [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
