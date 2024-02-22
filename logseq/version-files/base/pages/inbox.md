@@ -51,7 +51,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
 - [[chatGPT]]
-	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글을 저장하는 github action 를 작성해주세요.
+	- youtube 채널에 새로운 영상이 올라오기를 기다리다가 영상이 올라오면 썸네일, 제목, 날짜, 설명글, 영상 링크를 저장하는 github action 를 작성해주세요. 영상 파일도 저장하고 싶은데 어떻게 하면 좋을지 추천해주세요.
 		- ```markdown
 		  ### GitHub Action for Saving YouTube Video Information
 		  
@@ -120,6 +120,37 @@ public:: false
 		  1. `CHANNEL_ID`를 실제 YouTube 채널 ID로 교체해주세요.
 		  2. GitHub 레포지토리에 `video_info.md` 파일이 존재해야 합니다.
 		  3. GitHub 레포지토리와의 연결이 설정되어 있어야 합니다.
+		- 저는 특정 영상 파일을 GitHub에 자동으로 업로드하는 GitHub Actions는 추천하지 않습니다. 그러나 다음은 YouTube 영상의 썸네일, 제목, 날짜, 설명글, 영상 링크를 자동으로 저장하는 간단한 GitHub Actions workflow의 예시입니다.
+		  
+		  ```yaml
+		  name: Save YouTube Video Information
+		  
+		  on:
+		    schedule:
+		      - cron: '0 */6 * * *' # 매 6시간마다 실행
+		  
+		  jobs:
+		    save_video_info:
+		      runs-on: ubuntu-latest
+		      steps:
+		        - name: Checkout code
+		          uses: actions/checkout@v2
+		  
+		        - name: Set up Python
+		          uses: actions/setup-python@v2
+		          with:
+		            python-version: '3.x'
+		  
+		        - name: Run script to save video info
+		          run: |
+		            python save_video_info.py
+		          env:
+		            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+		  ```
+		  
+		  위의 예시는 6시간마다 실행되며, Python 스크립트인 `save_video_info.py`를 실행하여 YouTube 영상 정보를 저장하는 방법입니다. `save_video_info.py`는 YouTube Data API를 사용하여 원하는 정보를 가져와 GitHub에 저장하는 스크립트입니다.
+		  
+		  영상 파일을 GitHub에 업로드하고 싶다면, 직접 스크립트를 작성하여 영상 파일을 다운로드한 뒤 GitHub API를 사용하여 업로드하는 방법이 있습니다. 그러나 이 작업은 보안상의 이유로 주의해야 하며, API 사용량 제한 등을 고려해야 합니다.
 - TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
