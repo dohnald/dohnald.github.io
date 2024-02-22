@@ -10,7 +10,7 @@ public:: false
 		- {{embed ((658bc155-861b-4309-9273-9dea65735cd7))}}
 	- 원문
 		- 자유롭게 사용할 수 있는 중간 패킷을 꾸준히 만들어 저장해두면 ^^어느 순간부터는 갖고 있는 중간 패킷을 조립하기만 해도 전체 프로젝트를 실행할 수 있다.^^ 이는 생산성을 판단하는 방식을 송두리째 바꿔버릴 마법 같은 경험이다. 아무것도 없이 처음부터 시작한다는 생각은 이제 생소하게 들릴 것이다. 과거에 시간과 노력을 투자하여 만든 풍부한 자산을 새로운 일에 활용하면 어떨까? 사람들은 당신이 어떻게 그렇게 뛰어난 결과물을 꾸준히 만들어낼 수 있는지 놀라워할 것이다. 심지어 특별히 더 열심히 하거나 오랫동안 작업하지 않는데도 어떻게 시간을 내고 좋은 아이디어를 떠올리는지 궁금해할 것이다. ^^실제로 당신이 하는 일은 세컨드 브레인에서 점점 증가하고 있는 중간 패킷 보관실을 활용하는 게 전부다. 중간 패킷이 진정 가치 있는 자산이라면 당신이 소유한 다른 자산처럼 관리될 자격이 충분하다.^^
-- 생각의 플라이휠이다. 플라이휠은 $AMZN 관련해서 알게 되었는데 상승작용을 일으키는 것이다. 정보가 자산이 되고 재투자된다.
+- 생각의 플라이휠이다. 정보가 자산이 되고 재투자된다.
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
   tag:: card, memo, #감상/책/읽는, [[2024/02/14]]
   collapsed:: true
@@ -21,7 +21,7 @@ public:: false
 - TODO [[2024/02/15]] 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-- TODO [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
+- DONE [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
@@ -49,7 +49,7 @@ public:: false
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- TODO [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
+- DONE [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
 - DONE [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
@@ -65,3 +65,33 @@ public:: false
 - DONE [MBCNEWS-[뉴스 '꾹'] "이게..공짜 사이즈업 노리는 것", '신종 배달수법' 사장님들 "헉" (2024.02.22/MBC뉴스)](https://youtube.com/watch?v=k0gaWdftfUM&si=8OTSnLaBPrmjkNtK) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
+- DONE [믕삐-영상편집 과정 대공개💡1일 1영상 브이로그 (feat. 효과음, 폰트 꿀팁)](https://youtube.com/watch?v=75BrTob9EQQ&si=24g-OiFNTWgBj5os) [[2024/02/22]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/75BrTob9EQQ/hqdefault.jpg)
+- DONE [아저씨의 아무거나-오즈모포켓3로 반려견 영상 예쁘게 촬영하는 팁](https://youtube.com/watch?v=gvTN4y6PyBQ&si=jZWqUoW4RovCtsTn) [[2024/02/22]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/gvTN4y6PyBQ/hqdefault.jpg)
+- DONE [Lillian Chiu-Working in NYC| an introvert making friends at Spotify office (w/ 'daylist' Product Manager)](https://youtube.com/watch?v=IkrUFytfiv0&si=g2pOrPtWc3Ns0gyp) [[2024/02/22]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/IkrUFytfiv0/hqdefault.jpg)
+- TODO [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
+- TODO [ootb STUDIO-무인도에서 근손실은 못참지 [무인도 6일차] | 무이자 ep.06 [EN/JP/ID]](https://youtube.com/watch?v=43JWLki-nUA&si=QI-gLhkIcWrUpHQX) [[2024/02/22]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/43JWLki-nUA/hqdefault.jpg)
+- TODO [뉴스안하니-김대호라고 다 잘 하겠어? 솔직히 중계는 좀…](https://youtube.com/watch?v=YRwYknrvKAM&si=dg23tPJakJ3_WFsT) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/YRwYknrvKAM/hqdefault.jpg)
+
+- TODO [쉬케치-내 사랑은 한집배달](https://youtube.com/watch?v=kX1Nd6NUYwc&si=XJOGjzHYjd0CHvNF) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/kX1Nd6NUYwc/hqdefault.jpg)
+
+- TODO [긱블 Geekble-장난감 차를 '실제 자동차'처럼 빠르게 만들 수 있을까??](https://youtube.com/watch?v=hX9Pb26JsRE&si=QzCg1TKNiM9VcImd) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/hX9Pb26JsRE/hqdefault.jpg)
+
+- TODO [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/8F9jQS5xUq4/hqdefault.jpg)
