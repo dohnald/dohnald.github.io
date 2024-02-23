@@ -153,13 +153,12 @@ public:: false
 		  | I usually only use about the tear BTE and a half every year for YouTube videos. | 일반적으로 매년 YouTube 비디오용으로 약 반이나 테라바이트를 사용합니다. |
 		  | So that got me two years of YouTube content. | 그래서 2년치 YouTube 콘텐츠를 확보했습니다. |
 		  | So I archived the full client projects onto this little shuttle drive, a clone of this drive too. | 그래서 전체 클라이언트 프로젝트를 이 작은 셔틀 드라이브에 백업하고, 이 드라이브의 복제본도 만들었습니다. |
-		- So if I ever do any of those projects, I got them right here.
-		  I also went through and deleted all of the old Adobe Premier preview files from my old films that were just taken up hundreds of gigs unnecessarily.
-		  And in the end, I had 19 terabytes of data on the NAS and it's beautifully organized in a folder structure that I can continue adding to indefinitely.
-		- The next step was to get this thing out of my office because all these hard drives do make some noise and I record videos in here.
-		  So I move the NAS into the din.
-		  I set it up the router that's already there and connected them via Ethernet.
-		  Put this spice rack I found on Amazon around it as a protective barrier so that my cats jump on it and whatever they're going to do.
+		- ||
+		  | So if I ever do any of those projects, I got them right here. | 그래서 나중에 그 프로젝트 중 어느 것을 하게 되면, 여기에 있습니다. |
+		  | I also went through and deleted all of the old Adobe Premier preview files from my old films that were just taken up hundreds of gigs unnecessarily. | 또한 옛날 영화에서 수백 기가바이트가 불필요하게 차지하던 옛 Adobe Premier 미리보기 파일들도 정리하고 삭제했습니다. |
+		  | And in the end, I had 19 terabytes of data on the NAS and it's beautifully organized in a folder structure that I can continue adding to indefinitely. | 마지막으로, NAS에 19테라바이트의 데이터가 있었고, 내용은 아름답게 정리되어 있어 무제한으로 계속 추가할 수 있는 폴더 구조로 되어 있습니다. |
+		- ||
+		  | The next step was to get this thing out of my office because all these hard drives do make some noise and I record videos in here. So I move the NAS into the din. I set it up the router that's already there and connected them via Ethernet. Put this spice rack I found on Amazon around it as a protective barrier so that my cats jump on it and whatever they're going to do. | 다음 단계는 이 장치를 사무실에서 꺼내는 것이었습니다. 왜냐하면 이 하드 드라이브들이 모두 소음을 내며 나는 여기에서 비디오를 녹화하기 때문입니다. 그래서 나는 NAS를 식사 공간으로 옮겼다. 이미 있는 곳에 라우터를 설치하고 유선 연결하였다. 아마존에서 찾은 이 향신료 선반을 그 주위에 두어 내 고양이가 올라가거나 뭐든지 할 수 있도록 보호 장벽으로 썼다. |
 		- And I ran this three meter long thunderbolt four cable through the hole in my wall into my office and into my thunderbolt four dock which goes into the MacBook.
 		  Once I hide everything with this cabinet in the den, it all looks exactly the same and I can barely hear the NAS from my office.
 		  Now if I'm ever out of town or away from home and I need a file or even a whole project, I can log into my NAS on the my QNAP Cloud website and I can download it.
