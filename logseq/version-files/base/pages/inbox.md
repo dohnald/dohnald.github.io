@@ -22,6 +22,7 @@ public:: false
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
+  collapsed:: true
 	-
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
 	- Summary
@@ -41,8 +42,7 @@ public:: false
 		  * 그는 파일이 어디서나 모든 기기에서 액세스할 수 있기를 원합니다.
 		  * 신규 프로젝트를 아카이브에 추가하기 위한 논리적인 워크플로우를 만들고 싶어합니다.
 		  * NAS 시스템을 구매하는 것은 투자이지만, 킨트의 비즈니스에는 그가 가치 있습니다.
-- TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
-  collapsed:: true
+- TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]]
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
 - TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
