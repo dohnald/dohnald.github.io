@@ -78,9 +78,12 @@ public:: false
 		    3. Exploring the Solar System
 		- - **적합한 뉴스 사이트**: 
 		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
-		- - **Apple unveils new iPhone lineup:** Apple recently revealed their latest iPhone models, including the iPhone 13 Mini, iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max. The new lineup boasts improved performance, enhanced cameras, and longer battery life, catering to a wide range of consumer preferences.
-		- - **Apple launches innovative AirPods Pro:** Apple introduced the new AirPods Pro, featuring a sleek design and active noise cancellation for a superior listening experience. The AirPods Pro come with customizable silicone ear tips to ensure a comfortable fit for all users, setting a new standard in the wireless earbud market.
-		- - **Apple announces expansion of Apple Watch features:** Apple announced exciting updates to the Apple Watch, including new health monitoring capabilities and advanced fitness tracking features. With the upcoming watchOS software update, users can expect enhancements in sleep tracking, workout metrics, and overall wellness monitoring, reinforcing the Apple Watch as a versatile smartwatch option.
+		- * **Apple unveils latest iPhone model with advanced camera features**
+		    Apple recently introduced its newest iPhone model, boasting impressive upgrades to its camera capabilities. The device is equipped with a triple-lens camera system, offering users enhanced zoom options and improved low-light performance. Photographers and tech enthusiasts are eager to get their hands on this cutting-edge smartphone to experience its professional-grade camera features firsthand.
+		- * **Apple launches eco-friendly initiatives to reduce carbon footprint**
+		    In an effort to combat climate change, Apple has launched several eco-friendly initiatives aimed at reducing its carbon footprint. The tech giant plans to transition to using 100% recycled materials in its products and packaging by 2030. Additionally, Apple is investing in renewable energy projects, such as solar farms, to power its facilities and reduce greenhouse gas emissions.
+		- * **Apple announces partnership with leading healthcare providers for new health-focused app**
+		    Apple has teamed up with top healthcare providers to develop a new health-focused app that aims to revolutionize personal health monitoring. The app will allow users to track their vital signs, receive personalized health recommendations, and connect with healthcare professionals remotely. This innovative tool is poised to empower individuals to take charge of their well-being and make informed decisions about their health.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
