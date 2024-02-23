@@ -364,3 +364,14 @@ public:: false
 - TODO [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
   collapsed:: true
 	- ![]()
+- TODO [Linking Your Thinking with Nick Milo-Bible Study: How Joschua uses the LYT frameworks (Obsidian)](https://youtube.com/watch?v=vxc6YbmpMNQ&si=8ODYPv5kwjQAW_lr) [[2024/02/23]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/vxc6YbmpMNQ/hqdefault.jpg)
+
+- TODO [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
+
+- TODO [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
