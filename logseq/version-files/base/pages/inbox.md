@@ -78,3 +78,6 @@ public:: false
 		    3. Exploring the Solar System
 		- - **적합한 뉴스 사이트**: 
 		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
+- TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
