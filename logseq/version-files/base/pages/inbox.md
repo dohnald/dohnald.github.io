@@ -43,13 +43,13 @@ public:: false
 - DONE [ootb STUDIO-무인도에서 근손실은 못참지 [무인도 6일차] | 무이자 ep.06 [EN/JP/ID]](https://youtube.com/watch?v=43JWLki-nUA&si=QI-gLhkIcWrUpHQX) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/43JWLki-nUA/hqdefault.jpg)
-- TODO [뉴스안하니-김대호라고 다 잘 하겠어? 솔직히 중계는 좀…](https://youtube.com/watch?v=YRwYknrvKAM&si=dg23tPJakJ3_WFsT) [[2024/02/22]] 
+- DONE [뉴스안하니-김대호라고 다 잘 하겠어? 솔직히 중계는 좀…](https://youtube.com/watch?v=YRwYknrvKAM&si=dg23tPJakJ3_WFsT) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/YRwYknrvKAM/hqdefault.jpg)
 - DONE [쉬케치-내 사랑은 한집배달](https://youtube.com/watch?v=kX1Nd6NUYwc&si=XJOGjzHYjd0CHvNF) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/kX1Nd6NUYwc/hqdefault.jpg)
-- TODO [긱블 Geekble-장난감 차를 '실제 자동차'처럼 빠르게 만들 수 있을까??](https://youtube.com/watch?v=hX9Pb26JsRE&si=QzCg1TKNiM9VcImd) [[2024/02/22]] 
+- DONE [긱블 Geekble-장난감 차를 '실제 자동차'처럼 빠르게 만들 수 있을까??](https://youtube.com/watch?v=hX9Pb26JsRE&si=QzCg1TKNiM9VcImd) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/hX9Pb26JsRE/hqdefault.jpg)
 - TODO [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
