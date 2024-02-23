@@ -31,7 +31,6 @@ public:: false
 		  | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년 첫 번째 F를 만들었을 때부터 모든 영화의 원본 영상을 수집하고 있습니다. |
 		  | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 모든 그래픽, 모든 음악 파일, 모든 것에 대해 이야기하고 있는데요, 왜냐하면 유튜브 채널을 시작하고 모든 구 프로젝트를 참조할 필요가 생길 때 언제 시작할지 모르기 때문입니다. 그렇게 되고 이 파일들이 가지고 있으면 편리합니다. |
 		  | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 이 파일 중 하나가 필요하다면, 아마도 몇 개 드라이브에 있을 것이지만 더 그럴듯한 것은 네 개 정도의 드라이브에 있을 것입니다. |
-		- ||
 		  | And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project. And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone. So it's not so much of a system here. The way I would describe it is really cur.         | 그럼 약간의 I spy 게임을 해야합니다. 차이를 알아내고 이 드라이브 중 어느 것이 프로젝트의 가장 최신 버전을 가지고 있는지 파악하십시오. 그리고 때로는 계속해서 주변을 뒤지면서 어느 순간, 모든 드라이브에 없다는 것을 알게 될 것입니다. 그래서 여기서는 그리 많은 시스템이 아닙니다. 내가 그것을 설명하는 방식은 정말 귀여움이라고 생각합니다.       |
 		- ||
 		  | Oh, also I've got all these old hard drives from editing clients. They're like 7 years old. | 아, 그리고 편집 고객으로부터 받은 모든 이런 구형 하드 드라이브들도 가지고 있어요. 그들은 7년 전 것 같아요. |
@@ -230,9 +229,10 @@ public:: false
 		  | But right now I probably could have been fine with just a DAS so that's pretty much it. | 그런데 지금은 아마도 DAS로도 충분히 잘 사용할 수 있었을 것 같습니다. 이게 대부분입니다. |
 		  | I still have another week or so before Back Blaze finishes uploading everything to the cloud. | Back Blaze가 모든 것을 클라우드에 업로드를 마치기 전에 아직 한 주 정도의 시간이 남았습니다. |
 		  | But since I have all this data backed up locally, I can finally start clearing out some valuable real estate in my office. | 그러나 모든 데이터가 로컬로 백업되어 있기 때문에, 드디어 사무실에서 소중한 부동산을 정리할 수 있게 되었습니다. |
-		- I also hit up my old editing client who most of those client hard drives belonged to.
-		  It turns out he wanted them back.
-		  So there it is years of annoyances, worries, fears and confusion finally resolved Today truly feels like the first day the rest of my day to harding life.
+		- ||
+		  | I also hit up my old editing client who most of those client hard drives belonged to. | 나도 그 고객에게 연락을 했는데, 대다수의 하드 드라이브는 그분 소유였다. |
+		  | It turns out he wanted them back. | 그 들렸더니 그 분이 그 하드 드라이브들을 되돌려 받길 원했다. |
+		  | So there it is years of annoyances, worries, fears and confusion finally resolved Today truly feels like the first day the rest of my day to harding life. | 그래서 수년간의 괴로움, 걱정, 두려움, 혼란이 드디어 해결되었습니다. 오늘은 정말로 나머지 삶을 힘들게 만드는 첫날과 같은 날입니다.|
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
