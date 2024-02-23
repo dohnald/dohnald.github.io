@@ -46,15 +46,16 @@ public:: false
 		  | Three, organize all this data logically and cleanly on this new giant drive and delete any duplicate files wasting storage space. | 3. 이 모든 데이터를 논리적이고 깔끔하게 새로운 거대 드라이브에 정리하고, 저장 공간을 낭비하는 중복 파일을 삭제합니다. |
 		  | Four, set up this archive so that every file is always accessible 24 7 on any device anywhere. | 4. 모든 파일이 항상 어디에서나 24시간 7일 접근 가능하도록 이 아카이브를 구축합니다. |
 		  | Five, create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to worry about it or think about create a logical workflow for new projects or data to be added to this archive so that everything from now on will stay orderly and safe. | 5. 데이터를 잃는 것이 거의 불가능한 자동화된 백업 시스템을 만들어 제 건물이 완전 불타버리더라도 데이터를 잃지 않아도 되고 걱정하지 않아도 되도록 만들 것이며, 새로운 프로젝트나 데이터를 이 아카이브에 추가할 때를 생각해 논리적인 워크플로우를 만들어 이후 모든 것이 정돈되고 안전하게 유지되도록 합니다. |
-		- Finally, 7, not lose my mind in the technical weeds and details of creating this system.
-		  Okay, let's go. So I got a Nas.
-		  NAS stands for Network Attached storage.
-		  It's basically a giant box of hard drives that act as one big drive and people can plug into it over a network, whether that's a local network like ethernet cable or WI fi at your house here or over the Internet.
-		- But it's more than a big hard drive.
-		  It's actually its own computer that runs 24 7.
-		  So it's always available to give other computers the files that it's storing.
-		  And you can actually run a whole production company with a powerful NAS and have multiple editors working off of the same unit at the same time which was common when I would go into agencies or production companies to edit.
-		  As a freelancer we might have five editors working across the same projects from one NAS and we're all getting fast enough speeds off that device through the network.
+		- ||
+		  | Finally, 7, not lose my mind in the technical weeds and details of creating this system. | 마침내 기술적인 난관과 이 시스템을 만드는 디테일에 미쳐버리지 않게 되었습니다. |
+		  | Okay, let's go. So I got a Nas. | 좋아, 출발해볼까요. 그래서 나는 Nas를 샀어. |
+		  | NAS stands for Network Attached storage. | NAS는 네트워크에 연결된 저장소를 뜻합니다. |
+		  | It's basically a giant box of hard drives that act as one big drive and people can plug into it over a network, whether that's a local network like ethernet cable or WI fi at your house here or over the Internet. | 이것은 사실 하드 드라이브로 이루어진 거대한 상자로, 하나의 큰 드라이브처럼 작용하며, 사람들은 네트워크를 통해 연결하여 사용할 수 있습니다. 이것이 이더넷 케이블이나 집에서의 Wi-Fi와 같은 로컬 네트워크인지, 인터넷상에서인지에 관계 없이. |
+		- ||
+		  | But it's more than a big hard drive. It's actually its own computer that runs 24 7. | 그것은 그저 큰 하드 드라이브 이상이 아닙니다. 실제로 24시간 7일 돌아가는 스스로의 컴퓨터 입니다. |
+		  | So it's always available to give other computers the files that it's storing. | 따라서 항상 저장하고 있는 파일들을 다른 컴퓨터에 제공할 수 있습니다. |
+		  | And you can actually run a whole production company with a powerful NAS and have multiple editors working off of the same unit at the same time which was common when I would go into agencies or production companies to edit. | 또한 강력한 NAS로 전체 제작 회사를 운영하고 하나의 장치에서 동시에 여러 편집자가 작업할 수 있습니다. 저는 에이전시나 제작사에 편집을 하러 갔을 때 이렇게 하는 것이 흔했습니다. |
+		  | As a freelancer we might have five editors working across the same projects from one NAS and we're all getting fast enough speeds off that device through the network. | 프리랜서로서 한 대의 NAS에서 동일한 프로젝트를 작업하는 다섯 명의 편집자가 있을 수 있으며 그 장치에서 네트워크를 통해 충분히 빠른 속도로 파일을 받아올 수 있습니다. |
 		- And full disclosure This NAS was given to me by QNAP but they don't get to see this video until I post it.
 		  So I can and will say whatever I want.
 		  Don't believe me scroll EM there.
