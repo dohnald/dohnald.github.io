@@ -35,6 +35,10 @@ public:: false
 			  * | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년에 첫 F를 만든 이후로 모든 영화의 원본 영상을 수집해 왔습니다. |
 			  * | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 그래픽, 음악 파일, 그 어떤 것에 대해 이야기하고 있는데, 왜냐하면 유튜브 채널을 시작할 때 과거 프로젝트를 참조할 필요가 있을 수 있기 때문입니다. 이런 일이 벌어지고 그런 파일들이 주변에 있으면 편하죠. |
 			  * | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 내가 이 파일 중 하나를 원한다면 아마 몇 개의 드라이브에 있겠지만 더 가능성이 높게는 4개의 드라이브에 있을 것입니다. |
+			- | I'm Kent Lam and I'm a data hoarder. |
+			  | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년 첫 번째 F를 만들었을 때부터 모든 영화의 원본 영상을 수집하고 있습니다. |
+			  | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 모든 그래픽, 모든 음악 파일, 모든 것에 대해 이야기하고 있는데요, 왜냐하면 유튜브 채널을 시작하고 모든 구 프로젝트를 참조할 필요가 생길 때 언제 시작할지 모르기 때문입니다. 그렇게 되고 이 파일들이 가지고 있으면 편리합니다. |
+			  | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 이 파일 중 하나가 필요하다면, 아마도 몇 개 드라이브에 있을 것이지만 더 그럴듯한 것은 네 개 정도의 드라이브에 있을 것입니다. |
 		- And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project.
 		  And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone.
 		  So it's not so much of a system here.
