@@ -125,8 +125,8 @@ public:: false
 		  | This CE Finder app that you download kind of simplifies things. | 다운로드한 CE Finder 앱은 조금 더 간단하게합니다. |
 		  | It'll just mount the NAS onto your computer for you and bring up the browser page to manage the Nas. | 나를 위해 NAS를 컴퓨터에 마운트하고 NAS를 관리하기 위해 브라우저 페이지를 열 것입니다. |
 		  | Speaking of apps, a cool perk about a NAS like this is that I can download their free QFILE Pro app on my phone or any other device and then when I log in, I get access to all of the NAS files anywhere in the world. | 앱에 관해서 말하자면, 이런 NAS의 멋진 장점은 나는 그들의 무료 QFILE Pro 앱을 내 핸드폰이나 다른 기기에 다운로드할 수 있고 그런 다음 로그인하면 전 세계 어디에서나 모든 NAS 파일에 액세스할 수 있다는 것입니다. |
-		- Or I can take a video from my phone and upload it to the NAS through the Internet.
-		  A very, very handy tool for me with these YouTube videos because sometimes it'll be out filming something and then I can just put it into that project file and it's already organized.
+		- ||
+		  | A very, very handy tool for me with these YouTube videos because sometimes it'll be out filming something and then I can just put it into that project file and it's already organized. | 이 YouTube 비디오들과 함께 매우 편리한 도구인데 가끔 뭔가를 촬영하러 나가 있을 때 그것을 그 프로젝트 파일에 넣으면 이미 정리된 상태입니다. |
 		- You can even set it up to back up your entire camera roll automatically to the NAS and have essentially free unlimited phone storage although I personally won't do that for one reason system breach When you use a NAS like this As long as it's connected to the Internet, you are actually exposing your data to potential hacking and ransomware and MISR robot type.
 		  There are ways to protect yourself with IP addresses and router settings and apps on the QNAP software but it gets really technical, really quick.
 		  But fortunately there's a much easier way to deal with the security risk of a NAS that's connected to the Internet.
