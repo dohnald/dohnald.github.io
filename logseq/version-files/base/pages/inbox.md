@@ -298,6 +298,18 @@ public:: false
 		  | Amazon S3 Intelligent-Tiering | 자동으로 데이터 액세스 패턴을 분석하여 알맞은 스토리지 클래스로 이동하며 비용을 최적화하는 스토리지 관리 기능을 제공하는 서비스 |
 		  | Amazon S3 Transfer Acceleration | 인터넷을 통한 데이터 전송 속도를 높이는 서비스로 클라이언트와 가장 가까운 엣지 위치에서 데이터를 전송받아 빠른 전송 속도를 제공하는 |
 		  | Amazon S3 Select  | 객체 내의 데이터를 쿼리하여 해당하는 부분만을 가져오는 기능을 제공하며 데이터 전송량을 줄여 성능을 향상시키는 기능을 제공하는 서비스 |
+	- 취미로 가족들의 영상을 촬영합니다. 저장 공간이 부족해 백업을 고려하고 있습니다. amazon s3를 활용하고 싶은데 각 서비스별로 Gb 당 요금을 비교해주고, 어떤 전략을 사용해 어떻게 보관하면 좋을지 알려주세요. 예를 들면 S3에 3개월 보관 후 S3 Glacier로 이관한다 등.
+		- | 서비스        | Gb 당 요금 (달러) |
+		  | ------------- | ------------------ |
+		  | Amazon S3     | 0.023              |
+		  | Amazon S3 Glacier | 0.004             |
+		  | Amazon S3 Glacier Deep Archive | 0.00099 |
+		  
+		  * 보관 전략:
+		  * 촬영한 영상을 먼저 Amazon S3에 보관합니다. 
+		  * 필요한 경우 최근 영상은 Amazon S3에 그대로 유지하고, 지난 3개월 이전에 촬영된 영상을 Amazon S3 Glacier로 이동합니다.
+		  * 더 이전에 사용 빈도가 적은 영상은 Amazon S3 Glacier Deep Archive로 이동하여 장기 보관합니다.
+		  * 이렇게 3단계의 전략을 통해 저장 비용을 최적화하고 저장 공간을 효율적으로 관리할 수 있습니다.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
