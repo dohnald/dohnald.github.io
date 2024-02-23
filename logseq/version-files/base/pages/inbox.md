@@ -167,12 +167,14 @@ public:: false
 		  | It's very comforting knowing that everything is always available wherever I am. | 내가 있는 곳이 어디이든 항상 모든 것이 사용 가능하다는 것을 알 수 있을 때 정말 안심이 됩니다. |
 		  | Not only that I can even create a link to any file or folder that's on the NAS and send that to anyone just like it's on Google Drive or Dropbox. | NAS에 있는 모든 파일이나 폴더에 대한 링크를 만들어 누구에게나 Google Drive나 Dropbox에 있는 것처럼 전송할 수 있는 것뿐만 아니라. |
 		  | But there's still one massive problem that we haven't addressed and this turned out to be the most challenging part of this whole project. | 하지만 우리가 다루지 않았던 엄청난 문제 하나가 아직 남아 있었고, 이것이 전체 프로젝트에서 가장 어려운 부분으로 드러났습니다. |
-		- Five create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to think or worry about.
-		  Now there were a few solutions to this problem.
-		  You can get a second NAS and place it in someone else's house or office and then automatically sink your NAS to that second NAS but that's an expensive proposition.
-		- You got to buy a whole new Nas, bunch of drives and I'd have to convince somebody to let me store this big box in their house.
-		  Another straightforward option is to use one of the many cloud backup services that's integrated with QNAP software to store everything online.
-		  But since they charge by the terabyte, add 19 terabytes in counting.
+		- ||  
+		  | Five create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to think or worry about. | 다섯 명이 자동화된 백업 시스템을 만들어, 내 데이터가 내 집이 불에 타도 사실상 데이터를 잃을 수 없게 했기 때문에 생각하거나 걱정할 필요가 없습니다. |  
+		  | Now there were a few solutions to this problem. | 이 문제를 해결할 몇 가지 해결책이 있었습니다. |  
+		  | You can get a second NAS and place it in someone else's house or office and then automatically sink your NAS to that second NAS but that's an expensive proposition. | 둘째 NAS를 구입한 다음 다른 사람의 집이나 사무실에 설치하고, 그 다음 자동으로 1차 NAS를 2차 NAS에 동기화할 수 있지만 그것은 비싼 제안이다. |
+		- ||
+		  | You got to buy a whole new Nas, bunch of drives and I'd have to convince somebody to let me store this big box in their house. | 새로운 Nas를 사야 하고, 드라이브를 많이 사야 합니다. 그리고 누군가에게 이 큰 상자를 집에 저장해도 되냐고 설득해야 할 거에요. |
+		  | Another straightforward option is to use one of the many cloud backup services that's integrated with QNAP software to store everything online. | 또 다른 간단한 옵션은 QNAP 소프트웨어와 통합된 다양한 클라우드 백업 서비스 중 하나를 사용하여 모든 것을 온라인으로 저장하는 것입니다. |
+		  | But since they charge by the terabyte, add 19 terabytes in counting. | 하지만 테라바이트 단위로 요금을 부과하기 때문에, 19테라바이트를 더해야 합니다. |
 		- That's also going to add up fast.
 		  Now a cheaper option is to buy a giant 22 terabyte hard drive and back up the whole NAST to that.
 		  The downside is that I'll run out of space on that drive pretty soon and to protect my data against catastrophes like my house burning down, I'd have to physically store the hard drive in another location after backing it up, which is very far from an automated system.
