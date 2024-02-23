@@ -290,6 +290,14 @@ public:: false
 		    In an effort to combat climate change, Apple has launched several eco-friendly initiatives aimed at reducing its carbon footprint. The tech giant plans to transition to using 100% recycled materials in its products and packaging by 2030. Additionally, Apple is investing in renewable energy projects, such as solar farms, to power its facilities and reduce greenhouse gas emissions.
 		- * **Apple announces partnership with leading healthcare providers for new health-focused app**
 		    Apple has teamed up with top healthcare providers to develop a new health-focused app that aims to revolutionize personal health monitoring. The app will allow users to track their vital signs, receive personalized health recommendations, and connect with healthcare professionals remotely. This innovative tool is poised to empower individuals to take charge of their well-being and make informed decisions about their health.
+	- amazon S3의 여러 서비스에 대해 알려주세요.
+		- | 서비스 이름            | 설명                                                                                                                               |
+		  |-------------------|------------------------------------------------------------------------------------------------------------------------------------|
+		  | Amazon S3         | 객체 스토리지 서비스로 파일, 이미지, 동영상 등 다양한 유형의 데이터를 저장하고 검색할 수 있는 안전하고 확장 가능한 스토리지 서비스          |
+		  | Amazon S3 Glacier  | 저비용 아카이빙 서비스로 장기 보존을 위해 데이터를 안전하게 보관하고, 필요 시에 빠르게 검색하거나 회수할 수 있는 기능을 제공하는 서비스     |
+		  | Amazon S3 Intelligent-Tiering | 자동으로 데이터 액세스 패턴을 분석하여 알맞은 스토리지 클래스로 이동하며 비용을 최적화하는 스토리지 관리 기능을 제공하는 서비스 |
+		  | Amazon S3 Transfer Acceleration | 인터넷을 통한 데이터 전송 속도를 높이는 서비스로 클라이언트와 가장 가까운 엣지 위치에서 데이터를 전송받아 빠른 전송 속도를 제공하는 |
+		  | Amazon S3 Select  | 객체 내의 데이터를 쿼리하여 해당하는 부분만을 가져오는 기능을 제공하며 데이터 전송량을 줄여 성능을 향상시키는 기능을 제공하는 서비스 |
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
