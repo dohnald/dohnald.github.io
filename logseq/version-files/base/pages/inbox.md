@@ -159,9 +159,10 @@ public:: false
 		  | And in the end, I had 19 terabytes of data on the NAS and it's beautifully organized in a folder structure that I can continue adding to indefinitely. | 마지막으로, NAS에 19테라바이트의 데이터가 있었고, 내용은 아름답게 정리되어 있어 무제한으로 계속 추가할 수 있는 폴더 구조로 되어 있습니다. |
 		- ||
 		  | The next step was to get this thing out of my office because all these hard drives do make some noise and I record videos in here. So I move the NAS into the din. I set it up the router that's already there and connected them via Ethernet. Put this spice rack I found on Amazon around it as a protective barrier so that my cats jump on it and whatever they're going to do. | 다음 단계는 이 장치를 사무실에서 꺼내는 것이었습니다. 왜냐하면 이 하드 드라이브들이 모두 소음을 내며 나는 여기에서 비디오를 녹화하기 때문입니다. 그래서 나는 NAS를 식사 공간으로 옮겼다. 이미 있는 곳에 라우터를 설치하고 유선 연결하였다. 아마존에서 찾은 이 향신료 선반을 그 주위에 두어 내 고양이가 올라가거나 뭐든지 할 수 있도록 보호 장벽으로 썼다. |
-		- And I ran this three meter long thunderbolt four cable through the hole in my wall into my office and into my thunderbolt four dock which goes into the MacBook.
-		  Once I hide everything with this cabinet in the den, it all looks exactly the same and I can barely hear the NAS from my office.
-		  Now if I'm ever out of town or away from home and I need a file or even a whole project, I can log into my NAS on the my QNAP Cloud website and I can download it.
+		- ||
+		  | And I ran this three meter long thunderbolt four cable through the hole in my wall into my office and into my thunderbolt four dock which goes into the MacBook. | 나는 이 케이블을 벽에 구멍을 뚫어 사무실로, 써볼트 포 도크를 통해 맥북으로 연결했다. | 
+		  | Once I hide everything with this cabinet in the den, it all looks exactly the same and I can barely hear the NAS from my office. | 거실의 캐비닛으로 모든 것을 감추면 모든 게 똑같이 보이고 회사에서 NAS 소리를 거의 들을 수 없다. | 
+		  | Now if I'm ever out of town or away from home and I need a file or even a whole project, I can log into my NAS on the my QNAP Cloud website and I can download it. | 이제 만약에 나가거나 집 밖에 있고 파일이나 전체 프로젝트가 필요하다면, QNAP 클라우드 웹사이트에서 NAS에 로그인하여 다운로드할 수 있다. |
 		- It's very comforting knowing that everything is always available wherever I am.
 		  Not only that I can even create a link to any file or folder that's on the NAS and send that to anyone just like it's on Google Drive or Dropbox.
 		  But there's still one massive problem that we haven't addressed and this turned out to be the most challenging part of this whole project.
