@@ -62,31 +62,29 @@ public:: false
 		  | Now this is a 6 Bay Nas, meaning 6 hard drives or SSDS if I wanted can fit in here. I've set it up in a RAID 6 configuration, which just means that the hard drives all work together so you get faster transfer speeds plus some safety in knowing that if two of these drives suddenly died, I can just replace them and the NAS will rebuild all the data I lost from the four drives that are still working. | 이게 6 베이 나스입니다. 만약 원한다면 하드 드라이브나 SSD 6개를 여기에 넣을 수 있습니다.  RAID 6 구성으로 설정했는데, 이는 모든 하드 드라이브가 함께 작동하여 전송 속도를 빠르게 하고, 만약 두 개의 하드 드라이브가 갑자기 고장나면, 그냥 교체하면 되고 NAS가 여전히 작동 중인 네 개의 드라이브에서 잃어 버린 모든 데이터를 다시 구성할 수 있다는 안전성을 얻게 됩니다. |
 		- ||
 		  | Now if I get up in that Nas, you'll see that I've filled it up with 8 terabyte drives, giving me a total of 48 terabytes of space. But in Raid 6, two drives are used as data protection so my usable space gets knocked down to 32 terabytes. | 이제 Nas로 가보면 8테라바이트 드라이브로 채워져 있어 총 48테라바이트의 공간을 제공합니다. 그러나 RAID 6에서는 두 개의 드라이브가 데이터 보호용으로 사용되므로 사용 가능한 공간이 32테라바이트로 줄어듭니다. |
-		- There's some other little things that'll eat that down even further.
-		  So if you want a lot of space, get bigger drives in the beginning.
-		  But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything.
-		  You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives.
-		  The reason is that NAST don't quit literally.
-		  It's going to be running 24 7 so your disk needs keep up. All hard drives eventually fail.
-			- ||
-			  | There's some other little things that'll eat that down even further. | 이외에도 몇 가지 작은 것들이 더 소모할 것이 있다. |
-			  | So if you want a lot of space, get bigger drives in the beginning. | 그래서 많은 공간이 필요하다면, 처음에 큰 드라이브를 사용하세요. |
-			  | But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything. | 하지만 Nas에 큰 하드 디스크를 몰아넣기 전에, 크기가 모든 것이 아니라는 것을 기억하세요. |
-			  | You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives. | 이러한 Sea Gate Iron Wolf 드라이브와 같이 Nass 사용용으로 평가된 드라이브를 사용하고 싶을 것입니다. |
-			  | The reason is that NAST don't quit literally. | 그 이유는 NAST가 말 그대로 쉬지 않기 때문입니다. |
-			  | It's going to be running 24 7 so your disk needs keep up. | 24시간 7일 운영되므로 디스크가 오래 버틸 필요가 있습니다.  |
-			  | All hard drives eventually fail. | 모든 하드 드라이브는 결국 고장납니다. |
+		- ||
+		  | There's some other little things that'll eat that down even further. | 이외에도 몇 가지 작은 것들이 더 소모할 것이 있다. |
+		  | So if you want a lot of space, get bigger drives in the beginning. | 그래서 많은 공간이 필요하다면, 처음에 큰 드라이브를 사용하세요. |
+		  | But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything. | 하지만 Nas에 큰 하드 디스크를 몰아넣기 전에, 크기가 모든 것이 아니라는 것을 기억하세요. |
+		  | You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives. | 이러한 Sea Gate Iron Wolf 드라이브와 같이 Nass 사용용으로 평가된 드라이브를 사용하고 싶을 것입니다. |
+		  | The reason is that NAST don't quit literally. | 그 이유는 NAST가 말 그대로 쉬지 않기 때문입니다. |
+		  | It's going to be running 24 7 so your disk needs keep up. | 24시간 7일 운영되므로 디스크가 오래 버틸 필요가 있습니다.  |
+		  | All hard drives eventually fail. | 모든 하드 드라이브는 결국 고장납니다. |
 		- ||
 		  | But iron Wolf drives are meant to be spinning non stop and should last longer than a typical drive in a NAS OK. 6 drives RAID 6 but wait, there's more. | 그러나 아이언 울프 드라이브는 끊임없이 회전하도록 설계되어 있으며 일반 NAS 드라이브보다 오래 지속되어야 합니다. 6개 드라이브 RAID 6, 하지만, 기다리세요, 더 있습니다. |
 		  | If you intend to actually work directly off this NAS like I am and not just use it as a big archive storage box, then you'll probably want an SSD cache in it for editing. | 만약 당신이 저처럼 실제로 이 NAS로 직접 작업하려고 한다면, 그냥 큰 아카이브 저장 상자로 사용하지 않는다면, 편집을 위해 SSD 캐시를 넣는 것이 좋을 것입니다. |
 		  | This just helps read and write data faster than even a RAID array of spinning hard disks can do. | 이것은 단순히 회전하는 하드 디스크의 RAID 어레이조차 할 수 없는 속도로 데이터를 읽고 쓰는 데 도움이 됩니다. |
-		- And it's not strictly necessary but it's certainly helpful for keeping your timelines running smoothly.
-		  Now you can put an SSD in one of your drive slots for your cash.
-		  But for this Q NAP Nas, I have two extra slots for SSD caches built in the unit and even with two little 500 gigabyte iron Wolf SSDS here she purs in every premier project that I've opened so far.
-		  But wait, what even is this Nas?
-		- You asked well, this is Qaap's new TVS H674t, a super catchy name that really just rolls off the tongue.
-		  But this is actually the world's first Thunderbolt for Nas.
-		  So they say now typically you connect to a NAS over ethernet cables and if you want the fastest speeds, you'd have to upgrade to a 10 gig ethernet on your router and get an adapter computer which is expensive and it's confusing and it's more that I want to deal with right now Anyways, Thunderbulb just simplifies the process and lets me treat it a little more like a big external hard drive but really it's not it's a network drive but I'll get into that later.
+		- ||
+		  | And it's not strictly necessary but it's certainly helpful for keeping your timelines running smoothly. | 엄격히 필요한 건 아니지만 타임라인을 원활하게 유지하는 데 도움이 되는 것이 확실합니다. |
+		  | Now you can put an SSD in one of your drive slots for your cache. | 이제 캐시 용도로 드라이브 슬롯 중 하나에 SSD를 설치할 수 있습니다. |
+		  | But for this QNAP NAS, I have two extra slots for SSD caches built into the unit and even with two little 500 gigabyte IronWolf SSDs here she purrs in every premier project that I've opened so far. | 그러나 이 QNAP NAS에는 유닛에 내장된 SSD 캐시용 2개의 추가 슬롯이 있으며, 제가 현재까지 열어본 모든 프리미어 프로젝트에 해당 500기가 바이트 아이언울프 SSD 2개가 있습니다. |
+		  | But wait, what even is this NAS? | 하지만 이 NAS가 도대체 무엇인가요? |
+		- |  |  |
+		  | - | - |
+		  | You asked well, this is Qaap's new TVS H674t, a super catchy name that really just rolls off the tongue. | 너는 잘 물었어, 이것은 Qaap의 새로운 TVS H674t인데, 정말로 입에서 풀리고 넘쳐나는 이름이야. |
+		  | But this is actually the world's first Thunderbolt for Nas. | 하지만 이건 실제로 세계 최초의 NAS용 썬더볼트야. |
+		  | So they say now typically you connect to a NAS over ethernet cables and if you want the fastest speeds, you'd have to upgrade to a 10 gig ethernet on your router and get an adapter computer which is expensive and it's confusing and it's more that I want to deal with right now. | 그들은 이제 대개 NAS에 이더넷 케이블을 통해 연결하지만, 더 빠른 속도를 원한다면 라우터에 10기가 이더넷을 업그레이드하고 비싼 어댑터 컴퓨터를 사야 해. 혼란스럽고 처리하기 귀찮지만. |
+		  | Anyways, Thunderbulb just simplifies the process and lets me treat it a little more like a big external hard drive but really it's not it's a network drive but I'll get into that later. | 그래도, 썬더볼트는 단지 프로세스를 단순화시키고 조금 더 큰 외장 하드 드라이브처럼 취급하게 해줘. 하지만 실제로 그것은 네트워크 드라이브야. 하지만 이것에 대해 후에 논의할게. |
 		- Now this NAS also runs Internet through the Thunderbolt port.
 		  So that one cable is giving me Internet and NAS access at as high a speed as my router and ISP give me Thunderbell four will give me a measure of future proofing for a while too.
 		  It's just like the fastest, most versatile connection right now.
