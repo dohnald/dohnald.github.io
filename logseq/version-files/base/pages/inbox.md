@@ -183,15 +183,18 @@ public:: false
 		  | I considered instead running a backup to a 22 Tearbt hard drive once a week and keeping that drive and a fireproof safe. | 대신 매주 22테라바이트 하드 드라이브로 백업을 실행하고 그 드라이브와 방화 안전 금고에 보관하는 것을 고려했습니다. |
 		  | But even fireproof safes get really hot inside when there's a fire potentially frying the drive anyways and they're only rated to last an hour in the event of a fire. | 그러나 화재가 발생할 때 방화 안전 금고도 실제로 내부가 엄청나게 뜨거워지며, 어쨌든 드라이브를 태워 버릴 수 있으며, 금고는 화재 시 1시간만 버틴다는 등급만 받았습니다. |
 		  | So let's be real this option won't actually protect my data if the house burns down or gets robbed and it's still a lot of manual work. | 그러니 실상, 이 옵션은 집이 불에 타거나 도난당할 경우 실제로 데이터를 보호하지 못할 것이고, 여전히 많은 수작업이 필요할 것입니다. |
-		- I couldn't crack the code for a while on this problem but finally, I found exactly what I was looking for.
-		  This video is not sponsored by the service it's just the only option that made sense to me.
-		  Backblaze is a website that offers automated cloud backups of all of the data on your computer and using their personal plan, this costs 100 dollars a year for unlimited data,
-		- which is actually a very reasonable price for unlimited data, especially compared to the other cloud options I was looking at.
-		  But their terms of service clearly stipulates that this personal plan does not apply to attached servers like a NAS and the software won't recognize network drives like an ass so it's no good for us but there's a catch.
-		- Their software on their personal plan will also back up any normal external hard drives connected to your computer and there's no limit on how big those drives are or how many drives like that there are.
-		  Do you see where I'm going with this?
-		  I run an automation to back up the NAS to the giant hard drive every night.
-		  I schedule Back Blade to back up my MAC
+		- ||
+		  | I couldn't crack the code for a while on this problem but finally, I found exactly what I was looking for. | 어느 동안 이 문제의 암호를 풀지 못했지만, 마침내 내가 찾고 있던 것을 발견했다. |
+		  | This video is not sponsored by the service it's just the only option that made sense to me. | 이 비디오는 해당 서비스에서 후원받은 게 아니라, 나에게 의미 있는 유일한 옵션이다. |
+		  | Backblaze is a website that offers automated cloud backups of all of the data on your computer and using their personal plan, this costs 100 dollars a year for unlimited data. | Backblaze는 당신의 컴퓨터의 모든 데이터에 대한 자동화된 클라우드 백업을 제공하는 웹사이트이며, 그들의 개인 플랜을 사용하면 연간 100달러에 무제한 데이터를 이용할 수 있다. |
+		- || 
+		  | which is actually a very reasonable price for unlimited data, especially compared to the other cloud options I was looking at. | 비교했을 때 무제한 데이터에 대해 매우 합리적인 가격이라고 할 수 있습니다. 특히 내가 살펴본 다른 클라우드 옵션들과 비교했을 때. |
+		  | But their terms of service clearly stipulates that this personal plan does not apply to attached servers like a NAS and the software won't recognize network drives like an ass so it's no good for us but there's a catch. | 그러나 그들의 서비스 약관은 명확히 이 개인 플랜이 NAS와 같은 연결된 서버에 적용되지 않으며 소프트웨어가 네트워크 드라이브를 인식하지 않기 때문에 우리에게 적합하지 않다고 명시하고 있지만, 그 중요한 건 있습니다. |
+		- ||
+		  | Their software on their personal plan will also back up any normal external hard drives connected to your computer and there's no limit on how big those drives are or how many drives like that there are. | 그들의 개인 플랜 소프트웨어는 컴퓨터에 연결된 어떤 일반 외장 하드 드라이브라도 백업하며, 이들 드라이브의 크기나 그와 같은 드라이브의 개수에 제한이 없습니다. |
+		  | Do you see where I'm going with this? | 여기서 제가 어디로 가고 있는지 보이시나요? |
+		  | I run an automation to back up the NAS to the giant hard drive every night. | 매일 밤 NAS를 거대한 하드 드라이브로 백업하는 자동화 작업을 실행합니다. |
+		  | I schedule Back Blade to back up my MAC | 맥을 백업하기 위해 백 블레이드를 예약했습니다. |
 		- and the giant hard drive every night.
 		  Now my NAS and all my personal files are backed up off site automatically for 100 dollars a year plus the one time cost of a Terby hard drive and a USB dock for it.
 		  Now, the biggest downside is that the initial backup takes forever.
