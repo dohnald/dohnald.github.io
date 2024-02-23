@@ -71,13 +71,16 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
 - [[chatGPT]]
-	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 애플 관련 뉴스 3개를 작성해주세요.
+	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 500자 정도 분량의 영어로 된 애플 관련 뉴스 3개를 작성해주세요.
 		- - **적합한 아티클**:
 		    1. The Life Cycle of a Butterfly
 		    2. Fun Facts About Penguins
 		    3. Exploring the Solar System
 		- - **적합한 뉴스 사이트**: 
 		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
+		- - **Apple unveils new iPhone lineup:** Apple recently revealed their latest iPhone models, including the iPhone 13 Mini, iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max. The new lineup boasts improved performance, enhanced cameras, and longer battery life, catering to a wide range of consumer preferences.
+		- - **Apple launches innovative AirPods Pro:** Apple introduced the new AirPods Pro, featuring a sleek design and active noise cancellation for a superior listening experience. The AirPods Pro come with customizable silicone ear tips to ensure a comfortable fit for all users, setting a new standard in the wireless earbud market.
+		- - **Apple announces expansion of Apple Watch features:** Apple announced exciting updates to the Apple Watch, including new health monitoring capabilities and advanced fitness tracking features. With the upcoming watchOS software update, users can expect enhancements in sleep tracking, workout metrics, and overall wellness monitoring, reinforcing the Apple Watch as a versatile smartwatch option.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
