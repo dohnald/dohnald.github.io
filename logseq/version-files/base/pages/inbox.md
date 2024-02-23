@@ -127,15 +127,15 @@ public:: false
 		  | Speaking of apps, a cool perk about a NAS like this is that I can download their free QFILE Pro app on my phone or any other device and then when I log in, I get access to all of the NAS files anywhere in the world. | 앱에 관해서 말하자면, 이런 NAS의 멋진 장점은 나는 그들의 무료 QFILE Pro 앱을 내 핸드폰이나 다른 기기에 다운로드할 수 있고 그런 다음 로그인하면 전 세계 어디에서나 모든 NAS 파일에 액세스할 수 있다는 것입니다. |
 		- ||
 		  | A very, very handy tool for me with these YouTube videos because sometimes it'll be out filming something and then I can just put it into that project file and it's already organized. | 이 YouTube 비디오들과 함께 매우 편리한 도구인데 가끔 뭔가를 촬영하러 나가 있을 때 그것을 그 프로젝트 파일에 넣으면 이미 정리된 상태입니다. |
-		- You can even set it up to back up your entire camera roll automatically to the NAS and have essentially free unlimited phone storage although I personally won't do that for one reason system breach When you use a NAS like this As long as it's connected to the Internet, you are actually exposing your data to potential hacking and ransomware and MISR robot type.
-		  There are ways to protect yourself with IP addresses and router settings and apps on the QNAP software but it gets really technical, really quick.
-		  But fortunately there's a much easier way to deal with the security risk of a NAS that's connected to the Internet.
-		- Just don't put anything sensitive on the NAS and keep everything that's on the NAS backed up somewhere else.
-		  I'll show you how I conveniently killed both of these birds with one stone shortly.
-		  But first I had to get everything off of these little drives and onto this Nas.
-		  Now this took a while because I had a lot of drives.
-		  The NASS transfers files really fast because of that rate 6 configuration.
-		  But the bottleneck on speed is the slow transfer speed of single shuttle drive. They're all pretty slow.
+		- ||  
+		  | You can even set it up to back up your entire camera roll automatically to the NAS and have essentially free unlimited phone storage although I personally won't do that for one reason system breach When you use a NAS like this As long as it's connected to the Internet, you are actually exposing your data to potential hacking and ransomware and MISR robot type. There are ways to protect yourself with IP addresses and router settings and apps on the QNAP software but it gets really technical, really quick. But fortunately there's a much easier way to deal with the security risk of a NAS that's connected to the Internet. | 당신은 심지어 사진 롤을 NAS로 자동으로 백업하고 전화 저장 공간은 본질적으로 무제한이 될 수 있습니다. 하지만 개인적으로 그렇게 하지는 않겠습니다. 하나의 이유는 시스템 침해입니다. 이렇게 NAS를 사용하면 인터넷에 연결되어 있을 때 실제로 데이터를 잠재적으로 해킹과 랜섬웨어, MISR 로봇 유형에 노출시키고 있습니다. IP 주소 및 라우터 설정과 QNAP 소프트웨어의 앱으로 자신을 보호할 방법이 있지만, 이는 정말 기술적이고 빠릅니다. 다행히도, 인터넷에 연결된 NAS의 보안 위험을 다루는 훨씬 쉬운 방법이 있습니다. |
+		- ||
+		  | Just don't put anything sensitive on the NAS and keep everything that's on the NAS backed up somewhere else. | NAS에 민감한 정보를 넣지 말고, NAS에 있는 모든 것을 다른 곳에 백업하세요. |
+		  | I'll show you how I conveniently killed both of these birds with one stone shortly. | 곧 한 번에 두 마리 새를 잡는 방법을 편리하게 보여줄게요. |
+		  | But first I had to get everything off of these little drives and onto this NAS. | 하지만 먼저 이 작은 드라이브에서 모든 것을 이 NAS로 옮겨야 했습니다. |
+		  | Now this took a while because I had a lot of drives. | 이 작업은 시간이 걸렸어요, 왜냐하면 많은 드라이브가 있었거든. |
+		  | The NAS transfers files really fast because of that rate 6 configuration. | NAS는 그 레이트 6 구성 때문에 파일을 아주 빨리 전송해요. |
+		  | But the bottleneck on speed is the slow transfer speed of single shuttle drive. They're all pretty slow. | 그러나 속도의 병목은 단일 셔틀 드라이브의 느린 전송 속도입니다. 그들은 모두 꽤 느려요. |
 		- So after a couple of days of dragging and dropping folders like this, I went through all my old drives and had about 23 terabytes of data on the Nas, which is a lot more than I thought I'd have.
 		  So I was getting a little nervous about how little free space I'd have to work with on this thing.
 		  But the next step was to actually organize this mess and I wanted a super clean and simple folder structure
