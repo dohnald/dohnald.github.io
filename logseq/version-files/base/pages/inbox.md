@@ -147,11 +147,12 @@ public:: false
 		  | The idea is I can go open up any random premier project if I need to and pull any file or asset, whatever I need. | 이 아이디어는 필요할 때 어떤 프리미어 프로젝트든 열어서 필요한 모든 파일이나 자산을 가져올 수 있다는 거죠. |
 		  | But there was still too much data on here. | 그래도 여기에는 너무 많은 데이터가 있었습니다. |
 		  | I wanted to have a lot of free space for future projects. | 미래 프로젝트를 위해 많은 여유 공간을 갖고 싶었습니다. |
-		- I mean that was kind of the whole point originally and after doing some soul searching, I finally let go and took the working files from my old client edits off the nask.
-		  So I reduced it to just the final exports and that saved me three terabytes.
-		  I usually only use about the tear BTE and a half every year for YouTube videos.
-		  So that got me two years of YouTube content.
-		  So I archived the full client projects onto this little shuttle drive, a clone of this drive too.
+		- ||
+		  | I mean that was kind of the whole point originally and after doing some soul searching, I finally let go and took the working files from my old client edits off the nask. | 처음에는 그것이 전체 목표라고 생각했었고, 영혼을 다시 찾아보고, 마침내 과거 클라이언트 편집 작업 파일을 제거했습니다. |
+		  | So I reduced it to just the final exports and that saved me three terabytes. | 그래서 최종 내보내기 파일들로만 줄였고, 이것으로 3테라바이트를 절약했습니다. |
+		  | I usually only use about the tear BTE and a half every year for YouTube videos. | 일반적으로 매년 YouTube 비디오용으로 약 반이나 테라바이트를 사용합니다. |
+		  | So that got me two years of YouTube content. | 그래서 2년치 YouTube 콘텐츠를 확보했습니다. |
+		  | So I archived the full client projects onto this little shuttle drive, a clone of this drive too. | 그래서 전체 클라이언트 프로젝트를 이 작은 셔틀 드라이브에 백업하고, 이 드라이브의 복제본도 만들었습니다. |
 		- So if I ever do any of those projects, I got them right here.
 		  I also went through and deleted all of the old Adobe Premier preview files from my old films that were just taken up hundreds of gigs unnecessarily.
 		  And in the end, I had 19 terabytes of data on the NAS and it's beautifully organized in a folder structure that I can continue adding to indefinitely.
