@@ -119,11 +119,12 @@ public:: false
 		  | But honestly, once you set it up, the QNAP software walks you through the most important setup steps. And although it definitely wasn't as easy as setting up a new MAC for example, it wasn't that crazy. So basically you just plug the NAS into your router with an ethernet cable and then you plug another ethernet cable or in this case, a thunderbolt cable from the NAS to your computer. | 하지만 솔직히 말해서, 설정을 한 번 해놓으면 QNAP 소프트웨어가 가장 중요한 설정 단계를 안내해줍니다. 그리고 새로운 맥을 설정하는 것만큼 간단한 일은 아니었지만, 그렇게 어렵지는 않았습니다. 그냥 NAS를 이더넷 케이블로 라우터에 연결하고, 그런 다음 다른 이더넷 케이블이나 이 경우에는 컴퓨터에 연결할 썬더볼트 케이블을 NAS에 연결하면 됩니다. |
 		- ||
 		  | And the way you actually manage the NAS is through a web browser. It's like another computer desktop on your browser. It looks like this pretty straightforward. Actually a bunch of messages will pop up when you're first setting it up and it'll help you get through all the most important steps to get everything up and running like setting up your storage pool and your RID configuration. If you get lost I found that QNAP UK's YouTube channel has a bunch of helpful videos | 실제로 NAS를 관리하는 방법은 웹 브라우저를 통해입니다. 브라우저에서 컴퓨터 데스크톱처럼 보입니다. 이 정말 간단히 보입니다. 처음 설정할 때 다양한 메시지가 표시되며, 저장소 풀 설정 및 RID 구성과 같은 모든 중요한 단계를 마칠 수 있도록 도와줍니다. 길을 잃으면 QNAP UK의 YouTube 채널에 도움이 되는 비디오가 많이 있습니다. |
-		- as well as the NAS compares channel.
-		  Now once it's all set up, you can connect to the NAS as a network drive.
-		  This CE Finder app that you download kind of simplifies things.
-		  It'll just mount the NAS onto your computer for you and bring up the browser page to manage the Nas.
-		  Speaking of apps, a cool perk about a NAS like this is that I can download their free QFILE Pro app on my phone or any other device and then when I log in, I get access to all of the NAS files anywhere in the world.
+		- ||
+		  | as well as the NAS compares channel. | 그 외에도 NAS는 채널을 비교합니다. |
+		  | Now once it's all set up, you can connect to the NAS as a network drive. | 이제 모두 설정되면 NAS를 네트워크 드라이브로 연결할 수 있습니다. |
+		  | This CE Finder app that you download kind of simplifies things. | 다운로드한 CE Finder 앱은 조금 더 간단하게합니다. |
+		  | It'll just mount the NAS onto your computer for you and bring up the browser page to manage the Nas. | 나를 위해 NAS를 컴퓨터에 마운트하고 NAS를 관리하기 위해 브라우저 페이지를 열 것입니다. |
+		  | Speaking of apps, a cool perk about a NAS like this is that I can download their free QFILE Pro app on my phone or any other device and then when I log in, I get access to all of the NAS files anywhere in the world. | 앱에 관해서 말하자면, 이런 NAS의 멋진 장점은 나는 그들의 무료 QFILE Pro 앱을 내 핸드폰이나 다른 기기에 다운로드할 수 있고 그런 다음 로그인하면 전 세계 어디에서나 모든 NAS 파일에 액세스할 수 있다는 것입니다. |
 		- Or I can take a video from my phone and upload it to the NAS through the Internet.
 		  A very, very handy tool for me with these YouTube videos because sometimes it'll be out filming something and then I can just put it into that project file and it's already organized.
 		- You can even set it up to back up your entire camera roll automatically to the NAS and have essentially free unlimited phone storage although I personally won't do that for one reason system breach When you use a NAS like this As long as it's connected to the Internet, you are actually exposing your data to potential hacking and ransomware and MISR robot type.
