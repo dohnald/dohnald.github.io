@@ -1415,6 +1415,7 @@ public:: false
 			  
 			  영상 파일을 GitHub에 업로드하고 싶다면, 직접 스크립트를 작성하여 영상 파일을 다운로드한 뒤 GitHub API를 사용하여 업로드하는 방법이 있습니다. 그러나 이 작업은 보안상의 이유로 주의해야 하며, API 사용량 제한 등을 고려해야 합니다.
 - [[2024/02/22]]
+  collapsed:: true
 	- DONE [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
@@ -1427,3 +1428,28 @@ public:: false
 	- DONE [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
+	- DONE [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
+	- DONE [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
+	- DONE [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/P6rmSppKzOQ/hqdefault.jpg)
+	- DONE [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
+	- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=-%20TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true%0A%20%20-%20!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
+	- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true`
+	- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
+	- DONE [MBCNEWS-[뉴스 '꾹'] "이게..공짜 사이즈업 노리는 것", '신종 배달수법' 사장님들 "헉" (2024.02.22/MBC뉴스)](https://youtube.com/watch?v=k0gaWdftfUM&si=8OTSnLaBPrmjkNtK) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
+	- DONE [믕삐-영상편집 과정 대공개💡1일 1영상 브이로그 (feat. 효과음, 폰트 꿀팁)](https://youtube.com/watch?v=75BrTob9EQQ&si=24g-OiFNTWgBj5os) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/75BrTob9EQQ/hqdefault.jpg)
+	- DONE [아저씨의 아무거나-오즈모포켓3로 반려견 영상 예쁘게 촬영하는 팁](https://youtube.com/watch?v=gvTN4y6PyBQ&si=jZWqUoW4RovCtsTn) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/gvTN4y6PyBQ/hqdefault.jpg)
+	- DONE [Lillian Chiu-Working in NYC| an introvert making friends at Spotify office (w/ 'daylist' Product Manager)](https://youtube.com/watch?v=IkrUFytfiv0&si=g2pOrPtWc3Ns0gyp) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/IkrUFytfiv0/hqdefault.jpg)

@@ -27,47 +27,16 @@ public:: false
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
-- DONE [jessica quiambao-how i film & edit my youtube videos using phone📱: intro, music, fonts + more (aesthetic & pastel)](https://youtube.com/watch?v=13mpKPOah54&si=btRjwNl9GLOn6KIP) [[2024/02/17]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/13mpKPOah54/hqdefault.jpg)
-- DONE [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
 - TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
 	- target url이 아닌 target directory로 배포하면 될 것 같은데...
-- DONE [둥지언니 CCTV 설치](https://youtube.com/watch?v=Cs9XmTKEY7I&si=9HQ_mSwaZi8GPZLl) [[2024/02/21]]
 - TODO [NAVER Cloud Platform : 네이버 클라우드 플랫폼-쿠버네티스 안 써도 되지 않나요? 조훈 님에게 물어봤습니다. (쿠버네티스 담당자 필수 시청)](https://youtube.com/watch?v=m-EmnMFRgeQ&si=iT6iBPZAPr0oVA6B) [[2024/02/21]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/m-EmnMFRgeQ/hqdefault.jpg)
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- DONE [미키피디아-👟직장인이라면 꼭? 가지고 다녀야하는 필수템 6가지](https://youtube.com/watch?v=JIySBz4fJyE&si=ludj9176iD6SrPC4) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/JIySBz4fJyE/hqdefault.jpg)
-- DONE [와와캠핑 wawa camping-브라텐 가스 그릴 내돈내산 첫 사옹후기 (집에서도 쓰고 캠핑카에서도 쓸 용도로 구입했어요)](https://youtube.com/watch?v=P6rmSppKzOQ&si=NLVZCb6mw9hMfXVV) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/P6rmSppKzOQ/hqdefault.jpg)
-- DONE [Jen'story 젠스토리-도파민 중독 이용해서 영어 실력 쭉쭉 늘리는 법 7단계 | 언어 이야기](https://youtube.com/watch?v=qkn3jQe4sSY&si=4C_nrKOXzQlPcmGM) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/qkn3jQe4sSY/hqdefault.jpg)
-- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=-%20TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true%0A%20%20-%20!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
-- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=TODO%20%5BJames%20Bruton-DIY%20IoT%20%20E-PAPER%20%20Message%20Board%5D(https://youtube.com/watch%3Fv%3DcGsRJhoF5yY%26si%3Dj9AZh9NTl9Kcq0sr)%20%5B%5B2024/02/22%5D%5D%20%0Acollapsed::%20true`
-- `logseq://x-callback-url/quickCapture?url=&page=inbox&append=true&content=!%5B%5D(https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)%0A`
 - TODO https://empty.coffee/logseq-feedbin-share-quick-capture/
-- DONE [MBCNEWS-[뉴스 '꾹'] "이게..공짜 사이즈업 노리는 것", '신종 배달수법' 사장님들 "헉" (2024.02.22/MBC뉴스)](https://youtube.com/watch?v=k0gaWdftfUM&si=8OTSnLaBPrmjkNtK) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/k0gaWdftfUM/hqdefault.jpg)
-- DONE [믕삐-영상편집 과정 대공개💡1일 1영상 브이로그 (feat. 효과음, 폰트 꿀팁)](https://youtube.com/watch?v=75BrTob9EQQ&si=24g-OiFNTWgBj5os) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/75BrTob9EQQ/hqdefault.jpg)
-- DONE [아저씨의 아무거나-오즈모포켓3로 반려견 영상 예쁘게 촬영하는 팁](https://youtube.com/watch?v=gvTN4y6PyBQ&si=jZWqUoW4RovCtsTn) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/gvTN4y6PyBQ/hqdefault.jpg)
-- DONE [Lillian Chiu-Working in NYC| an introvert making friends at Spotify office (w/ 'daylist' Product Manager)](https://youtube.com/watch?v=IkrUFytfiv0&si=g2pOrPtWc3Ns0gyp) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/IkrUFytfiv0/hqdefault.jpg)
 - TODO [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
@@ -89,7 +58,7 @@ public:: false
 - TODO [무아공간-이렇게나 좁은 자녀방도 해결 가능합니다 #자녀방인테리어](https://youtube.com/watch?v=HhLZJ7FHA9U&si=MNL0W5MK6U3FNu3g) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HhLZJ7FHA9U/hqdefault.jpg)
-- TODO [노빠꾸탁재훈-주현영, 많은 현영이들 중 제일 잘나갔지만 SNL 관두고 이제 토요일에 할 일 없는 백수ㅣ노빠꾸탁재훈 시즌2 EP.92](https://youtube.com/watch?v=3pQAg1Zsq5c&si=ujLhZGt6xjY--494) [[2024/02/22]] 
+- DONE [노빠꾸탁재훈-주현영, 많은 현영이들 중 제일 잘나갔지만 SNL 관두고 이제 토요일에 할 일 없는 백수ㅣ노빠꾸탁재훈 시즌2 EP.92](https://youtube.com/watch?v=3pQAg1Zsq5c&si=ujLhZGt6xjY--494) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3pQAg1Zsq5c/hqdefault.jpg)
 - TODO [빠더너스 BDNS-[해인칭] 고등학교 자퇴 후 입사? MZ와 허물없는 대화 나누는 빠더너스](https://youtube.com/watch?v=iuPvuALlcsY&si=Z5WWUjd4uZM5_Bca) [[2024/02/22]] 
