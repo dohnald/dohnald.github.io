@@ -163,9 +163,10 @@ public:: false
 		  | And I ran this three meter long thunderbolt four cable through the hole in my wall into my office and into my thunderbolt four dock which goes into the MacBook. | 나는 이 케이블을 벽에 구멍을 뚫어 사무실로, 써볼트 포 도크를 통해 맥북으로 연결했다. | 
 		  | Once I hide everything with this cabinet in the den, it all looks exactly the same and I can barely hear the NAS from my office. | 거실의 캐비닛으로 모든 것을 감추면 모든 게 똑같이 보이고 회사에서 NAS 소리를 거의 들을 수 없다. | 
 		  | Now if I'm ever out of town or away from home and I need a file or even a whole project, I can log into my NAS on the my QNAP Cloud website and I can download it. | 이제 만약에 나가거나 집 밖에 있고 파일이나 전체 프로젝트가 필요하다면, QNAP 클라우드 웹사이트에서 NAS에 로그인하여 다운로드할 수 있다. |
-		- It's very comforting knowing that everything is always available wherever I am.
-		  Not only that I can even create a link to any file or folder that's on the NAS and send that to anyone just like it's on Google Drive or Dropbox.
-		  But there's still one massive problem that we haven't addressed and this turned out to be the most challenging part of this whole project.
+		- ||
+		  | It's very comforting knowing that everything is always available wherever I am. | 내가 있는 곳이 어디이든 항상 모든 것이 사용 가능하다는 것을 알 수 있을 때 정말 안심이 됩니다. |
+		  | Not only that I can even create a link to any file or folder that's on the NAS and send that to anyone just like it's on Google Drive or Dropbox. | NAS에 있는 모든 파일이나 폴더에 대한 링크를 만들어 누구에게나 Google Drive나 Dropbox에 있는 것처럼 전송할 수 있는 것뿐만 아니라. |
+		  | But there's still one massive problem that we haven't addressed and this turned out to be the most challenging part of this whole project. | 하지만 우리가 다루지 않았던 엄청난 문제 하나가 아직 남아 있었고, 이것이 전체 프로젝트에서 가장 어려운 부분으로 드러났습니다. |
 		- Five create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to think or worry about.
 		  Now there were a few solutions to this problem.
 		  You can get a second NAS and place it in someone else's house or office and then automatically sink your NAS to that second NAS but that's an expensive proposition.
