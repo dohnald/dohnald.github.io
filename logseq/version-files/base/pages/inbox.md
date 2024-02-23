@@ -115,9 +115,8 @@ public:: false
 		  | There's better videos on other channels that will do that which I'll give you some recommendations for and I probably will tell you something wrong. | 그런 정보를 더 잘 다루는 다른 채널들의 동영상이 있으며, 제가 추천을 드릴 것이며 아마도 어떤 정보를 잘못 알려드릴 수도 있습니다. |
 		  | And in fact, one fear I had about getting an ask was that the whole thing would be way too technical for me to figure out because I am not an IT guy. | 사실, 제가 요청을 받게 된다면 제가 IT 전문가가 아니기 때문에 전체적인 것이 너무 기술적일 것을 걱정했습니다. |
 		  | I don't understand how networks or servers actually work. | 네트워크나 서버가 실제로 어떻게 작동하는지 이해하지 못합니다. |
-		- But honestly, once you set it up, the QNAP software walks you through the most important setup steps.
-		  And although it definitely wasn't as easy as setting up a new MAC for example, it wasn't that crazy.
-		  So basically you just plug the NAS into your router with an ethernet cable and then you plug another ethernet cable or in this case, a thunderbolt cable from the NAS to your computer.
+		- ||
+		  | But honestly, once you set it up, the QNAP software walks you through the most important setup steps. And although it definitely wasn't as easy as setting up a new MAC for example, it wasn't that crazy. So basically you just plug the NAS into your router with an ethernet cable and then you plug another ethernet cable or in this case, a thunderbolt cable from the NAS to your computer. | 하지만 솔직히 말해서, 설정을 한 번 해놓으면 QNAP 소프트웨어가 가장 중요한 설정 단계를 안내해줍니다. 그리고 새로운 맥을 설정하는 것만큼 간단한 일은 아니었지만, 그렇게 어렵지는 않았습니다. 그냥 NAS를 이더넷 케이블로 라우터에 연결하고, 그런 다음 다른 이더넷 케이블이나 이 경우에는 컴퓨터에 연결할 썬더볼트 케이블을 NAS에 연결하면 됩니다. |
 		- And the way you actually manage the NAS is through a web browser.
 		  It's like another computer desktop on your browser.
 		  It looks like this pretty straightforward.
