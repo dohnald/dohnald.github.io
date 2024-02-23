@@ -20,28 +20,206 @@ public:: false
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
 - TODO [[2024/02/15]] 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
   collapsed:: true
-	-
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
-	- Summary
-		- Kint Lamb is a data hoarder who has been collecting raw footage from his films since 2010. He wants to find a better way to store and organize his files.
-		- Highlights
-		  📁 Kint Lamb has been collecting raw footage from his films since 2010.
-		  🖥️ He wants to find a better way to store and organize his files.
-		  📂 He wants to consolidate all relevant data into one working drive.
-		  💾 He wants to set up an automated backup system to prevent data loss.
-		  🌐 He wants his files to be accessible on any device, anywhere.
-		  🎥 He wants to create a logical workflow for adding new projects to the archive.
-		  💰 Buying a NAS system is an investment, but it’s worth it for Kint’s business.
-		- * 킨트 램브는 2010년부터 자신의 영화에서 원본 영상을 수집해온 데이터 저장가입니다.
-		  * 그는 자신의 파일을 더 잘 저장하고 정리할 방법을 찾고 있습니다.
-		  * 그는 모든 관련 데이터를 하나의 작동 드라이브로 통합하고 싶어합니다.
-		  * 데이터 유실을 방지하기 위해 자동 백업 시스템을 구축하려고 합니다.
-		  * 그는 파일이 어디서나 모든 기기에서 액세스할 수 있기를 원합니다.
-		  * 신규 프로젝트를 아카이브에 추가하기 위한 논리적인 워크플로우를 만들고 싶어합니다.
-		  * NAS 시스템을 구매하는 것은 투자이지만, 킨트의 비즈니스에는 그가 가치 있습니다.
+	- script
+		- I'm Kent Lam and I'm a data hoarder.
+		  I've been collecting the raw footage from all my films since 2010 when I made my first F.
+		  I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around.
+		  But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives.
+			- * | {{youtube-timestamp 00:03}} |
+			  * | I'm Kent Lam and I'm a data hoarder. | 나는 켄트 람이고 데이터 수집가입니다. |
+			  * | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년에 첫 F를 만든 이후로 모든 영화의 원본 영상을 수집해 왔습니다. |
+			  * | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 그래픽, 음악 파일, 그 어떤 것에 대해 이야기하고 있는데, 왜냐하면 유튜브 채널을 시작할 때 과거 프로젝트를 참조할 필요가 있을 수 있기 때문입니다. 이런 일이 벌어지고 그런 파일들이 주변에 있으면 편하죠. |
+			  * | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 내가 이 파일 중 하나를 원한다면 아마 몇 개의 드라이브에 있겠지만 더 가능성이 높게는 4개의 드라이브에 있을 것입니다. |
+		- And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project.
+		  And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone.
+		  So it's not so much of a system here.
+		  The way I would describe it is really cur.
+		- Oh, also I've got all these old hard drives from editing clients.
+		  They're like 7 years old.
+		  I don't know why I still have them, but they honestly give me anxiety.
+		  And by the way, this video has been almost two years in the making.
+		  That's how long this problem has been out of hand in bugging me.
+		- And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me.
+		  Finally, I've had enough and it's time to fix this mess.
+		  So feel free to watch this and copy my new system for keeping my data organized and safe.
+		  And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me.
+		- Now my goals are as follows one, consolidate all of the relevant data in these drives into one giant working drive.
+		  Two, get rid of all these shuttle drives minus a couple as actual shuttle drives when you need to actually shuttle data from one place to another.
+		- Three, organize all this data logically and cleanly on this new giant drive and delete any duplicate files wasting storage space.
+		  Four, set up this archive so that every file is always accessible 24 7 on any device anywhere.
+		  Five, create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to worry about it or think about create a logical workflow for new projects or data to be added to this archive so that everything from now on will stay orderly and safe.
+		- Finally, 7, not lose my mind in the technical weeds and details of creating this system.
+		  Okay, let's go. So I got a Nas.
+		  NAS stands for Network Attached storage.
+		  It's basically a giant box of hard drives that act as one big drive and people can plug into it over a network, whether that's a local network like ethernet cable or WI fi at your house here or over the Internet.
+		- But it's more than a big hard drive.
+		  It's actually its own computer that runs 24 7.
+		  So it's always available to give other computers the files that it's storing.
+		  And you can actually run a whole production company with a powerful NAS and have multiple editors working off of the same unit at the same time which was common when I would go into agencies or production companies to edit.
+		  As a freelancer we might have five editors working across the same projects from one NAS and we're all getting fast enough speeds off that device through the network.
+		- And full disclosure This NAS was given to me by QNAP but they don't get to see this video until I post it.
+		  So I can and will say whatever I want.
+		  Don't believe me scroll EM there.
+		  Speaking of which, let's get into the nuts and bolts of this device and how I've set up my whole data workflow with this NAST as the backbone of it because I know a lot of other editors and filmmakers could benefit from a similar setup.
+		- Now this is a 6 Bay Nas, meaning 6 hard drives or SSDS if I wanted can fit in here.
+		  I've set it up in a RAID 6 configuration, which just means that the hard drives all work together so you get faster transfer speeds plus some safety in knowing that if two of these drives suddenly died, I can just replace them and the NAS will rebuild all the data I lost from the four drives that are still working.
+		- Now if I get up in that Nas, you'll see that I've filled it up with 8 terabyte drives, giving me a total of 48 terabytes of space.
+		  But in Raid 6, two drives are used as data protection so my usable space gets knocked down to 32 terabytes.
+		- There's some other little things that'll eat that down even further.
+		  So if you want a lot of space, get bigger drives in the beginning.
+		  But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything.
+		  You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives.
+		  The reason is that NAST don't quit literally.
+		  It's going to be running 24 7 so your disk needs keep up. All hard drives eventually fail.
+		- But iron Wolf drives are meant to be spinning non stop and should last longer than a typical drive in a NAS OK 6 drives RAID 6 but wait, there's more.
+		  If you intend to actually work directly off this NAST like I am and not just use it as a big archive storage box, then you'll probably want an SSD cache in it for editing.
+		  This just helps read and write data faster than even a rate array of spinning hard disks can do.
+		- And it's not strictly necessary but it's certainly helpful for keeping your timelines running smoothly.
+		  Now you can put an SSD in one of your drive slots for your cash.
+		  But for this Q NAP Nas, I have two extra slots for SSD caches built in the unit and even with two little 500 gigabyte iron Wolf SSDS here she purs in every premier project that I've opened so far.
+		  But wait, what even is this Nas?
+		- You asked well, this is Qaap's new TVS H674t, a super catchy name that really just rolls off the tongue.
+		  But this is actually the world's first Thunderbolt for Nas.
+		  So they say now typically you connect to a NAS over ethernet cables and if you want the fastest speeds, you'd have to upgrade to a 10 gig ethernet on your router and get an adapter computer which is expensive and it's confusing and it's more that I want to deal with right now Anyways, Thunderbulb just simplifies the process and lets me treat it a little more like a big external hard drive but really it's not it's a network drive but I'll get into that later.
+		- Now this NAS also runs Internet through the Thunderbolt port.
+		  So that one cable is giving me Internet and NAS access at as high a speed as my router and ISP give me Thunderbell four will give me a measure of future proofing for a while too.
+		  It's just like the fastest, most versatile connection right now.
+		- Now besides the two Thunderbolt ports and the built in SSD slots, the great thing about this specific NAST for editors, the TVS H674 is that it also has 32 gigs of memory built in and a fast processor.
+		  It's a 12th Gen INTEL Core I5 processor and that means it's going to have no trouble delivering you smooth editing performance.
+		  And although I haven't tested this, I would assume that it would perform quite well even with multiple editors working off the same unit.
+		- Now if you cheap out on the NAS processor because there are much cheaper nasas available out there, you will handicap your editing performance as this machine has to perform a lot of calculations to surf up the right data for multiple drives quickly when you're scrubbing and editing the timeline.
+		  That's my understanding anyway.
+		  So if you just want to use this NAS as an archive and not a working drive, then by all means cheap out on the processor.
+		- I needed one that could handle some hardcore work.
+		  And one more big benefit for editors This unit also has an extra PCI Express slot available, which means you can buy a card like this for about 200 bucks and you'll easily be able to add two more SSDS to the system.
+		- If you ever want more fast storage space, for example, pretty handy, I'll probably add 28 terabyte SSDS to this once the prices come down on those over the next year or two or maybe I'll just buy a lower priced expansion unit like this connects to the NAS to add more storage or for a specific bigger project like whenever I make my next feature for example.
+		  So you get a lot of options about expanding your storage space when you get an ask.
+		  So it seems like this system might allow me to complete all 7 of my goals.
+		  However, it's not cheap. Make no mistake.
+		- Getting a NAS system, especially a powerful and versatile one like this, is an investment for your business.
+		  And if your data is not bringing in money, it's probably not the time to invest in a NAS because this NAS empty without any of the hard drives or SSDS inside it costs significantly more than my first card.
+		  You can believe that now, granted, this was not a nice car.
+		  You can usually tell when one door is painted a different color
+		- but once you add in the hard drives and even with relatively cheap 8 terabyte drives like I have in here, adds up even more.
+		  So if you're considering buying a Nas, I do recommend that you first get a couple of 100,000 subscribers on YouTube so that you can get it for free.
+		  But I will say that even if I wasn't given this unit, I was ready to buy Nas.
+		  And knowing what I now know about NAS systems after two weeks straight of learning and fiddling with the thing,
+		- I can honestly say that this higher end unit would have been worth the investment for me and for my business it's not only helping me.
+		  Now I plan on using this unit for the next five to 10 years and expanding upon it.
+		  And I think the time and money that I'm spending on it right now is creating the infrastructure for me to continue growing my little business.
+		  So now that we've covered the hardware, let's look at how this whole thing actually works and how I set it up.
+		- I'm not going to get in the weeds of the details of setting this thing up.
+		  There's better videos on other channels that will do that which I'll give you some recommendations for and I probably will tell you something wrong.
+		  And in fact, one fear I had about getting an ask was that the whole thing would be way too technical for me to figure out because I am not an IT guy.
+		  I don't understand how networks or servers actually work.
+		- But honestly, once you set it up, the QNAP software walks you through the most important setup steps.
+		  And although it definitely wasn't as easy as setting up a new MAC for example, it wasn't that crazy.
+		  So basically you just plug the NAS into your router with an ethernet cable and then you plug another ethernet cable or in this case, a thunderbolt cable from the NAS to your computer.
+		- And the way you actually manage the NAS is through a web browser.
+		  It's like another computer desktop on your browser.
+		  It looks like this pretty straightforward.
+		  Actually a bunch of messages will pop up when you're first setting it up and it'll help you get through all the most important steps to get everything up and running like setting up your storage pool and your RID configuration.
+		  If you get lost I found that QNAP UK's YouTube channel has a bunch of helpful videos
+		- as well as the NAS compares channel.
+		  Now once it's all set up, you can connect to the NAS as a network drive.
+		  This CE Finder app that you download kind of simplifies things.
+		  It'll just mount the NAS onto your computer for you and bring up the browser page to manage the Nas.
+		  Speaking of apps, a cool perk about a NAS like this is that I can download their free QFILE Pro app on my phone or any other device and then when I log in, I get access to all of the NAS files anywhere in the world.
+		- Or I can take a video from my phone and upload it to the NAS through the Internet.
+		  A very, very handy tool for me with these YouTube videos because sometimes it'll be out filming something and then I can just put it into that project file and it's already organized.
+		- You can even set it up to back up your entire camera roll automatically to the NAS and have essentially free unlimited phone storage although I personally won't do that for one reason system breach When you use a NAS like this As long as it's connected to the Internet, you are actually exposing your data to potential hacking and ransomware and MISR robot type.
+		  There are ways to protect yourself with IP addresses and router settings and apps on the QNAP software but it gets really technical, really quick.
+		  But fortunately there's a much easier way to deal with the security risk of a NAS that's connected to the Internet.
+		- Just don't put anything sensitive on the NAS and keep everything that's on the NAS backed up somewhere else.
+		  I'll show you how I conveniently killed both of these birds with one stone shortly.
+		  But first I had to get everything off of these little drives and onto this Nas.
+		  Now this took a while because I had a lot of drives.
+		  The NASS transfers files really fast because of that rate 6 configuration.
+		  But the bottleneck on speed is the slow transfer speed of single shuttle drive. They're all pretty slow.
+		- So after a couple of days of dragging and dropping folders like this, I went through all my old drives and had about 23 terabytes of data on the Nas, which is a lot more than I thought I'd have.
+		  So I was getting a little nervous about how little free space I'd have to work with on this thing.
+		  But the next step was to actually organize this mess and I wanted a super clean and simple folder structure
+		- for everything in the NAS and I wanted to eliminate the duplicated files that I was sure were on there.
+		  And after another two days of doing all that, I eradicated the most glaring duplicate files which freed up a lot of space.
+		  And I created this simple folder structure that allows me quick access to all my personal film projects from the last 10 years, all the YouTube videos from the last three years and all the client work that I actually cared enough.
+		- Again, this is not just the finished exports this is all of the working files too.
+		  The idea is I can go open up any random premier project if I need to and pull any file or asset, whatever I need.
+		  But there was still too much data on here.
+		  I wanted to have a lot of free space for future projects.
+		- I mean that was kind of the whole point originally and after doing some soul searching, I finally let go and took the working files from my old client edits off the nask.
+		  So I reduced it to just the final exports and that saved me three terabytes.
+		  I usually only use about the tear BTE and a half every year for YouTube videos.
+		  So that got me two years of YouTube content.
+		  So I archived the full client projects onto this little shuttle drive, a clone of this drive too.
+		- So if I ever do any of those projects, I got them right here.
+		  I also went through and deleted all of the old Adobe Premier preview files from my old films that were just taken up hundreds of gigs unnecessarily.
+		  And in the end, I had 19 terabytes of data on the NAS and it's beautifully organized in a folder structure that I can continue adding to indefinitely.
+		- The next step was to get this thing out of my office because all these hard drives do make some noise and I record videos in here.
+		  So I move the NAS into the din.
+		  I set it up the router that's already there and connected them via Ethernet.
+		  Put this spice rack I found on Amazon around it as a protective barrier so that my cats jump on it and whatever they're going to do.
+		- And I ran this three meter long thunderbolt four cable through the hole in my wall into my office and into my thunderbolt four dock which goes into the MacBook.
+		  Once I hide everything with this cabinet in the den, it all looks exactly the same and I can barely hear the NAS from my office.
+		  Now if I'm ever out of town or away from home and I need a file or even a whole project, I can log into my NAS on the my QNAP Cloud website and I can download it.
+		- It's very comforting knowing that everything is always available wherever I am.
+		  Not only that I can even create a link to any file or folder that's on the NAS and send that to anyone just like it's on Google Drive or Dropbox.
+		  But there's still one massive problem that we haven't addressed and this turned out to be the most challenging part of this whole project.
+		- Five create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to think or worry about.
+		  Now there were a few solutions to this problem.
+		  You can get a second NAS and place it in someone else's house or office and then automatically sink your NAS to that second NAS but that's an expensive proposition.
+		- You got to buy a whole new Nas, bunch of drives and I'd have to convince somebody to let me store this big box in their house.
+		  Another straightforward option is to use one of the many cloud backup services that's integrated with QNAP software to store everything online.
+		  But since they charge by the terabyte, add 19 terabytes in counting.
+		- That's also going to add up fast.
+		  Now a cheaper option is to buy a giant 22 terabyte hard drive and back up the whole NAST to that.
+		  The downside is that I'll run out of space on that drive pretty soon and to protect my data against catastrophes like my house burning down, I'd have to physically store the hard drive in another location after backing it up, which is very far from an automated system.
+		- I considered instead running a backup to a 22 Tearbt hard drive once a week and keeping that drive and a fireproof safe.
+		  But even fireproof safes get really hot inside when there's a fire potentially frying the drive anyways and they're only rated to last an hour in the event of a fire.
+		  So let's be real this option won't actually protect my data if the house burns down or gets robbed and it's still a lot of manual work.
+		- I couldn't crack the code for a while on this problem but finally, I found exactly what I was looking for.
+		  This video is not sponsored by the service it's just the only option that made sense to me.
+		  Backblaze is a website that offers automated cloud backups of all of the data on your computer and using their personal plan, this costs 100 dollars a year for unlimited data,
+		- which is actually a very reasonable price for unlimited data, especially compared to the other cloud options I was looking at.
+		  But their terms of service clearly stipulates that this personal plan does not apply to attached servers like a NAS and the software won't recognize network drives like an ass so it's no good for us but there's a catch.
+		- Their software on their personal plan will also back up any normal external hard drives connected to your computer and there's no limit on how big those drives are or how many drives like that there are.
+		  Do you see where I'm going with this?
+		  I run an automation to back up the NAS to the giant hard drive every night.
+		  I schedule Back Blade to back up my MAC
+		- and the giant hard drive every night.
+		  Now my NAS and all my personal files are backed up off site automatically for 100 dollars a year plus the one time cost of a Terby hard drive and a USB dock for it.
+		  Now, the biggest downside is that the initial backup takes forever.
+		- It actually is still running as I record, this might end up taking three weeks on my connection to get all that data backed up to the cloud.
+		  That's okay because I still have my local backups here anyways.
+		  So I'm no worse than I was before I bought the nask and once the initial backup is complete, it's only going to have to upload the new files that have been added in the past day, which is much, much, much faster.
+		- And to automate the system, I used a program called Carbon Copy Cloner, which I already had on the MAC to sink the NAS to the drive on a schedule every night when I'm not working, Backblaze runs continuously so I don't have to do anything there.
+		  And if I don't want to have the drive running during the day, I can just turn it off and then turn it back on at night or just leave it running.
+		  Who
+		- now if you watch this far, it's almost time for the satisfying conclusion of getting rid of all my old hard drives.
+		  But first if this whole system just sounds too expensive too involved, there are cheaper, although less robust options for backing up and storing your, you know, we can't afford the fun pack for most people, especially individual editors or filmmakers working solo you don't need the ability for collaborators or employees to connect to your media and work simultaneously on your project.
+		- You also don't need the ability to download any projects files you've ever used over WI Fi but you still need your work backed up and accessible while you're at work.
+		  So here's two easy and cheap options that I'd recommend.
+		  The easiest, the cheapest option is to simply get the biggest hard drive you can afford like the 22 TERBT drive I bought and get Back Blaze personal.
+		- You're done. And as an added benefit, you can still download your files remotely through Bac Blaz's website or mobile app so you get some level of access to all this stuff but you won't have the multiplied disk speeds of a rate array working for you with this single drive option.
+		- So not the best for working off of this giant drive but that's not a big deal because proxy workflows can alleviate this bottleneck and editing and I use proxies for pretty much everything I work on anyways.
+		  But if you wanted to beef up this system even more, get those faster speeds, I'd recommend option number two, get a DAS.
+		  A DAS is a direct attached storage system.
+		- It's the same as a NAS but without the network connectivity.
+		  In other words, you get a big box with multiple hard drives in it.
+		  You set it up as a Radarray so it's treated like one normal really fast hard drive by your computer and then you'll be able to back up to the cloud directly through Back Blaze while keeping those Nasts like disk speeds.
+		  DAS units are way cheaper and less technical to set up.
+		  So you'll save yourself a ton of time and money versus a NAS if you want to go that route again.
+		- I'm happy with the NAS just because it's future proofing my setup and my business.
+		  But right now I probably could have been fine with just a DAS so that's pretty much it.
+		  I still have another week or so before Back Blaze finishes uploading everything to the cloud.
+		  But since I have all this data backed up locally, I can finally start clearing out some valuable real estate in my office.
+		- I also hit up my old editing client who most of those client hard drives belonged to.
+		  It turns out he wanted them back.
+		  So there it is years of annoyances, worries, fears and confusion finally resolved Today truly feels like the first day the rest of my day to harding life.
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)

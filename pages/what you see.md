@@ -1416,6 +1416,7 @@ public:: false
 			  영상 파일을 GitHub에 업로드하고 싶다면, 직접 스크립트를 작성하여 영상 파일을 다운로드한 뒤 GitHub API를 사용하여 업로드하는 방법이 있습니다. 그러나 이 작업은 보안상의 이유로 주의해야 하며, API 사용량 제한 등을 고려해야 합니다.
 - [[2024/02/22]]
   collapsed:: true
+	-
 	- DONE [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
