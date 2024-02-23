@@ -43,6 +43,9 @@ public:: false
 		  And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone.
 		  So it's not so much of a system here.
 		  The way I would describe it is really cur.
+			- | English | Korean   |
+			  |-------------------|-----------------|
+			  | And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project. And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone. So it's not so much of a system here. The way I would describe it is really cur.         | 그럼 약간의 I spy 게임을 해야합니다. 차이를 알아내고 이 드라이브 중 어느 것이 프로젝트의 가장 최신 버전을 가지고 있는지 파악하십시오. 그리고 때로는 계속해서 주변을 뒤지면서 어느 순간, 모든 드라이브에 없다는 것을 알게 될 것입니다. 그래서 여기서는 그리 많은 시스템이 아닙니다. 내가 그것을 설명하는 방식은 정말 귀여움이라고 생각합니다.       |
 		- Oh, also I've got all these old hard drives from editing clients.
 		  They're like 7 years old.
 		  I don't know why I still have them, but they honestly give me anxiety.
