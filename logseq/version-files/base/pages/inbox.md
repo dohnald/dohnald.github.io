@@ -26,46 +26,26 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
 	- script
-		- I'm Kent Lam and I'm a data hoarder.
-		  I've been collecting the raw footage from all my films since 2010 when I made my first F.
-		  I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around.
-		  But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives.
-			- | I'm Kent Lam and I'm a data hoarder. |
-			  | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년 첫 번째 F를 만들었을 때부터 모든 영화의 원본 영상을 수집하고 있습니다. |
-			  | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 모든 그래픽, 모든 음악 파일, 모든 것에 대해 이야기하고 있는데요, 왜냐하면 유튜브 채널을 시작하고 모든 구 프로젝트를 참조할 필요가 생길 때 언제 시작할지 모르기 때문입니다. 그렇게 되고 이 파일들이 가지고 있으면 편리합니다. |
-			  | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 이 파일 중 하나가 필요하다면, 아마도 몇 개 드라이브에 있을 것이지만 더 그럴듯한 것은 네 개 정도의 드라이브에 있을 것입니다. |
-		- And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project.
-		  And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone.
-		  So it's not so much of a system here.
-		  The way I would describe it is really cur.
-			- | English | Korean   |
-			  |-------------------|-----------------|
-			  | And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project. And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone. So it's not so much of a system here. The way I would describe it is really cur.         | 그럼 약간의 I spy 게임을 해야합니다. 차이를 알아내고 이 드라이브 중 어느 것이 프로젝트의 가장 최신 버전을 가지고 있는지 파악하십시오. 그리고 때로는 계속해서 주변을 뒤지면서 어느 순간, 모든 드라이브에 없다는 것을 알게 될 것입니다. 그래서 여기서는 그리 많은 시스템이 아닙니다. 내가 그것을 설명하는 방식은 정말 귀여움이라고 생각합니다.       |
-		- Oh, also I've got all these old hard drives from editing clients.
-		  They're like 7 years old.
-		  I don't know why I still have them, but they honestly give me anxiety.
-		  And by the way, this video has been almost two years in the making.
-		  That's how long this problem has been out of hand in bugging me.
-			- | 영어 | 한국어 |
-			  | --- | --- |
-			  | Oh, also I've got all these old hard drives from editing clients. They're like 7 years old. | 아, 그리고 편집 고객으로부터 받은 모든 이런 구형 하드 드라이브들도 가지고 있어요. 그들은 7년 전 것 같아요. |
-			  | I don't know why I still have them, but they honestly give me anxiety. | 왜 아직 그것들을 가지고 있는지 모르겠어요, 하지만 솔직히 말해서 제게 불안함을 줍니다. |
-			  | And by the way, this video has been almost two years in the making. | 그리고 그런데, 이 비디오를 만드는 데 거의 두 년이 걸렸어요. |
-			  | That's how long this problem has been out of hand in bugging me. | 이 문제가 제게 성가시고 손에 받친 지 얼마나 됐는지 알겠죠. |
-		- And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me.
-		  Finally, I've had enough and it's time to fix this mess.
-		  So feel free to watch this and copy my new system for keeping my data organized and safe.
-		  And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me.
-			- | 입력 | 출력 |
-			  | --- | --- |
-			  | And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me. Finally, I've had enough and it's time to fix this mess. So feel free to watch this and copy my new system for keeping my data organized and safe. And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me. | 그리고 이를 이전에 수정하지 못한 유일한 것은 두려움, 시간, 돈, 정돈되고 자동화된 데이터 저장 및 백업 시스템을 고안하는 데 드는 시간, 비용 및 좌절을 견딜 만한 것이 필요했기 때문입니다. 마침내, 내가 충분히 참았다. 이제 이 난장을 고치는 때입니다. 그래서 이것을 보고 내 새로운 시스템을 복사해 나의 데이터를 조직화하고 안전하게 보관하세요. 그리고 당신이 볼 것을 하기에 시간이나 돈을 들이고 싶지 않다면, 그것은 약간 미친 일일 수 있으나, 나는 더 많은 데이터 저장을 위한 길로 나보다 더 뒤떨어진 사람을 위해 권장하는 간단한 대안 시스템도 보여줄 것입니다. |
-		- Now my goals are as follows one, consolidate all of the relevant data in these drives into one giant working drive.
-		  Two, get rid of all these shuttle drives minus a couple as actual shuttle drives when you need to actually shuttle data from one place to another.
-			- ||
-			  | Now my goals are as follows one, consolidate all of the relevant data in these drives into one giant working drive. Two, get rid of all these shuttle drives minus a couple as actual shuttle drives when you need to actually shuttle data from one place to another. | 이제 내 목표는 다음과 같습니다: 첫째, 이 드라이브에있는 모든 관련 데이터를 하나의 거대한 작업 드라이브로 통합합니다. 둘째, 실제로 데이터를 한 곳에서 다른 곳으로 이동해야 할 때 실제 셔틀 드라이브로 몇 개를 제외한 모든 이 셔틀 드라이브를 없약니다. |
-		- Three, organize all this data logically and cleanly on this new giant drive and delete any duplicate files wasting storage space.
-		  Four, set up this archive so that every file is always accessible 24 7 on any device anywhere.
-		  Five, create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to worry about it or think about create a logical workflow for new projects or data to be added to this archive so that everything from now on will stay orderly and safe.
+		- ||
+		  | I'm Kent Lam and I'm a data hoarder. |
+		  | I've been collecting the raw footage from all my films since 2010 when I made my first F. | 나는 2010년 첫 번째 F를 만들었을 때부터 모든 영화의 원본 영상을 수집하고 있습니다. |
+		  | I'm talking about every sound effect, every graphic, every music file, everything because you know what you never know when you're going to start a YouTube channel and need to reference all your old projects, it happens and it's handy to have those files sitting around. | 모든 효과음, 모든 그래픽, 모든 음악 파일, 모든 것에 대해 이야기하고 있는데요, 왜냐하면 유튜브 채널을 시작하고 모든 구 프로젝트를 참조할 필요가 생길 때 언제 시작할지 모르기 때문입니다. 그렇게 되고 이 파일들이 가지고 있으면 편리합니다. |
+		  | But the thing is if I want one of these files, it probably on a couple of drives but more than likely it's on like four of the drives. | 하지만 문제는 이 파일 중 하나가 필요하다면, 아마도 몇 개 드라이브에 있을 것이지만 더 그럴듯한 것은 네 개 정도의 드라이브에 있을 것입니다. |
+		- ||
+		  | And then you got to play a little game of I spy to spot the difference and figure out which one of these drives has the most updated version of the project. And then sometimes you'll keep searching around and then you'll find out, you know what it's not on any of the drives it's just gone. So it's not so much of a system here. The way I would describe it is really cur.         | 그럼 약간의 I spy 게임을 해야합니다. 차이를 알아내고 이 드라이브 중 어느 것이 프로젝트의 가장 최신 버전을 가지고 있는지 파악하십시오. 그리고 때로는 계속해서 주변을 뒤지면서 어느 순간, 모든 드라이브에 없다는 것을 알게 될 것입니다. 그래서 여기서는 그리 많은 시스템이 아닙니다. 내가 그것을 설명하는 방식은 정말 귀여움이라고 생각합니다.       |
+		- ||
+		  | Oh, also I've got all these old hard drives from editing clients. They're like 7 years old. | 아, 그리고 편집 고객으로부터 받은 모든 이런 구형 하드 드라이브들도 가지고 있어요. 그들은 7년 전 것 같아요. |
+		  | I don't know why I still have them, but they honestly give me anxiety. | 왜 아직 그것들을 가지고 있는지 모르겠어요, 하지만 솔직히 말해서 제게 불안함을 줍니다. |
+		  | And by the way, this video has been almost two years in the making. | 그리고 그런데, 이 비디오를 만드는 데 거의 두 년이 걸렸어요. |
+		  | That's how long this problem has been out of hand in bugging me. | 이 문제가 제게 성가시고 손에 받친 지 얼마나 됐는지 알겠죠. |
+		- ||
+		  | And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me. Finally, I've had enough and it's time to fix this mess. So feel free to watch this and copy my new system for keeping my data organized and safe. And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me. | 그리고 이를 이전에 수정하지 못한 유일한 것은 두려움, 시간, 돈, 정돈되고 자동화된 데이터 저장 및 백업 시스템을 고안하는 데 드는 시간, 비용 및 좌절을 견딜 만한 것이 필요했기 때문입니다. 마침내, 내가 충분히 참았다. 이제 이 난장을 고치는 때입니다. 그래서 이것을 보고 내 새로운 시스템을 복사해 나의 데이터를 조직화하고 안전하게 보관하세요. 그리고 당신이 볼 것을 하기에 시간이나 돈을 들이고 싶지 않다면, 그것은 약간 미친 일일 수 있으나, 나는 더 많은 데이터 저장을 위한 길로 나보다 더 뒤떨어진 사람을 위해 권장하는 간단한 대안 시스템도 보여줄 것입니다. |
+		- ||
+		  | Now my goals are as follows one, consolidate all of the relevant data in these drives into one giant working drive. Two, get rid of all these shuttle drives minus a couple as actual shuttle drives when you need to actually shuttle data from one place to another. | 이제 내 목표는 다음과 같습니다: 첫째, 이 드라이브에있는 모든 관련 데이터를 하나의 거대한 작업 드라이브로 통합합니다. 둘째, 실제로 데이터를 한 곳에서 다른 곳으로 이동해야 할 때 실제 셔틀 드라이브로 몇 개를 제외한 모든 이 셔틀 드라이브를 없약니다. |
+		- |  |
+		  | Three, organize all this data logically and cleanly on this new giant drive and delete any duplicate files wasting storage space. | 3. 이 모든 데이터를 논리적이고 깔끔하게 새로운 거대 드라이브에 정리하고, 저장 공간을 낭비하는 중복 파일을 삭제합니다. |
+		  | Four, set up this archive so that every file is always accessible 24 7 on any device anywhere. | 4. 모든 파일이 항상 어디에서나 24시간 7일 접근 가능하도록 이 아카이브를 구축합니다. |
+		  | Five, create an automated backup system so that it's practically impossible to lose my data even if my house burned to the ground and I don't ever have to worry about it or think about create a logical workflow for new projects or data to be added to this archive so that everything from now on will stay orderly and safe. | 5. 데이터를 잃는 것이 거의 불가능한 자동화된 백업 시스템을 만들어 제 건물이 완전 불타버리더라도 데이터를 잃지 않아도 되고 걱정하지 않아도 되도록 만들 것이며, 새로운 프로젝트나 데이터를 이 아카이브에 추가할 때를 생각해 논리적인 워크플로우를 만들어 이후 모든 것이 정돈되고 안전하게 유지되도록 합니다. |
 		- Finally, 7, not lose my mind in the technical weeds and details of creating this system.
 		  Okay, let's go. So I got a Nas.
 		  NAS stands for Network Attached storage.
