@@ -129,10 +129,10 @@ public:: false
 - TODO [채널십오야-지락이들에게점령당한에그이즈커밍 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=NFcp_8np3e8&si=Tzhy79V8tVhOLTWa) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/NFcp_8np3e8/hqdefault.jpg)
-- TODO [미망이-미망이 잡썰(GPT로 설교 준비하기)](https://youtube.com/watch?v=ExL6VLD8nTE&si=Ex7p9U-1qayV7j0A) [[2024/02/23]] 
+- DONE [미망이-미망이 잡썰(GPT로 설교 준비하기)](https://youtube.com/watch?v=ExL6VLD8nTE&si=Ex7p9U-1qayV7j0A) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/ExL6VLD8nTE/hqdefault.jpg)
-- TODO [숏박스-오늘의 날씨](https://youtube.com/watch?v=W0rjQWpxgdA&si=feT3ZJJZ4XMu4Xe2) [[2024/02/23]] 
+- DONE [숏박스-오늘의 날씨](https://youtube.com/watch?v=W0rjQWpxgdA&si=feT3ZJJZ4XMu4Xe2) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/W0rjQWpxgdA/hqdefault.jpg)
 - TODO [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
@@ -148,21 +148,17 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
 - TODO [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/91NAYZ7vXBE/hqdefault.jpg)
-
-- TODO [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/PpP9_7ymx7g/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/91NAYZ7vXBE/hqdefault.jpg)
+- DONE [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/PpP9_7ymx7g/hqdefault.jpg)
 - TODO [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
 - TODO [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
