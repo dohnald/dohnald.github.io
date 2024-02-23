@@ -85,12 +85,12 @@ public:: false
 		  | But this is actually the world's first Thunderbolt for Nas. | 하지만 이건 실제로 세계 최초의 NAS용 썬더볼트야. |
 		  | So they say now typically you connect to a NAS over ethernet cables and if you want the fastest speeds, you'd have to upgrade to a 10 gig ethernet on your router and get an adapter computer which is expensive and it's confusing and it's more that I want to deal with right now. | 그들은 이제 대개 NAS에 이더넷 케이블을 통해 연결하지만, 더 빠른 속도를 원한다면 라우터에 10기가 이더넷을 업그레이드하고 비싼 어댑터 컴퓨터를 사야 해. 혼란스럽고 처리하기 귀찮지만. |
 		  | Anyways, Thunderbulb just simplifies the process and lets me treat it a little more like a big external hard drive but really it's not it's a network drive but I'll get into that later. | 그래도, 썬더볼트는 단지 프로세스를 단순화시키고 조금 더 큰 외장 하드 드라이브처럼 취급하게 해줘. 하지만 실제로 그것은 네트워크 드라이브야. 하지만 이것에 대해 후에 논의할게. |
-		- Now this NAS also runs Internet through the Thunderbolt port.
-		  So that one cable is giving me Internet and NAS access at as high a speed as my router and ISP give me Thunderbell four will give me a measure of future proofing for a while too.
-		  It's just like the fastest, most versatile connection right now.
-		- Now besides the two Thunderbolt ports and the built in SSD slots, the great thing about this specific NAST for editors, the TVS H674 is that it also has 32 gigs of memory built in and a fast processor.
-		  It's a 12th Gen INTEL Core I5 processor and that means it's going to have no trouble delivering you smooth editing performance.
-		  And although I haven't tested this, I would assume that it would perform quite well even with multiple editors working off the same unit.
+		- ||
+		  | Now this NAS also runs Internet through the Thunderbolt port. So that one cable is giving me Internet and NAS access at as high a speed as my router and ISP give me Thunderbell four will give me a measure of future proofing for a while too. It's just like the fastest, most versatile connection right now. | 현재 이 NAS는 썬더볼트 포트를 통해 인터넷을 사용합니다. 따라서 한 개의 케이블로 인터넷과 NAS 액세스를 라우터와 ISP가 제공하는 것과 동일한 높은 속도로 제공합니다. 향후를 위한 방어책을 제공할 것입니다. 지금은 가장 빠르고 다용도 연결입니다. |
+		- ||
+		  | Now besides the two Thunderbolt ports and the built-in SSD slots, the great thing about this specific NAST for editors, the TVS H674, is that it also has 32 gigs of memory built-in and a fast processor. | 두 개의 썬더볼트 포트와 내장 SSD 슬롯 외에도, 편집자를 위한 이 특정 NAST, TVS H674의 좋은 점은 32기가의 내부 메모리와 빠른 프로세서를 갖고 있다는 것입니다. |
+		  | It's a 12th Gen INTEL Core I5 processor and that means it's going to have no trouble delivering you smooth editing performance. | 이것은 12세대 INTEL Core I5 프로세서이며, 이것은 원활한 편집 성능을 제공하는 데 문제가 없을 것이라는 것을 의미합니다. |
+		  | And although I haven't tested this, I would assume that it would perform quite well even with multiple editors working off the same unit. | 그리고 이것을 테스트해보지는 않았지만, 동일한 장치에서 작업하는 여러 편집자들도 꽤 잘 작동할 것이라고 가정해보겠습니다. |
 		- Now if you cheap out on the NAS processor because there are much cheaper nasas available out there, you will handicap your editing performance as this machine has to perform a lot of calculations to surf up the right data for multiple drives quickly when you're scrubbing and editing the timeline.
 		  That's my understanding anyway.
 		  So if you just want to use this NAS as an archive and not a working drive, then by all means cheap out on the processor.
