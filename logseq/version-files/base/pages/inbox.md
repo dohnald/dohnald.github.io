@@ -195,9 +195,10 @@ public:: false
 		  | Do you see where I'm going with this? | 여기서 제가 어디로 가고 있는지 보이시나요? |
 		  | I run an automation to back up the NAS to the giant hard drive every night. | 매일 밤 NAS를 거대한 하드 드라이브로 백업하는 자동화 작업을 실행합니다. |
 		  | I schedule Back Blade to back up my MAC | 맥을 백업하기 위해 백 블레이드를 예약했습니다. |
-		- and the giant hard drive every night.
-		  Now my NAS and all my personal files are backed up off site automatically for 100 dollars a year plus the one time cost of a Terby hard drive and a USB dock for it.
-		  Now, the biggest downside is that the initial backup takes forever.
+		- ||
+		  | and the giant hard drive every night. | 그리고 거대한 하드 드라이브마다 매일 밤. |
+		  | Now my NAS and all my personal files are backed up off site automatically for 100 dollars a year plus the one time cost of a Terby hard drive and a USB dock for it. | 지금 제 NAS와 모든 개인 파일은 연간 100달러에 외부로 자동 백업되며, 한 번 지불해야 하는 Terby 하드 드라이브 및 USB 독에 저장됩니다. |
+		  | Now, the biggest downside is that the initial backup takes forever. | 그리고 가장 큰 단점은 초기 백업이 영원히 걸린다는 것입니다. |
 		- It actually is still running as I record, this might end up taking three weeks on my connection to get all that data backed up to the cloud.
 		  That's okay because I still have my local backups here anyways.
 		  So I'm no worse than I was before I bought the nask and once the initial backup is complete, it's only going to have to upload the new files that have been added in the past day, which is much, much, much faster.
