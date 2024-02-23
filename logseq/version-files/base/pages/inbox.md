@@ -68,6 +68,14 @@ public:: false
 		  You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives.
 		  The reason is that NAST don't quit literally.
 		  It's going to be running 24 7 so your disk needs keep up. All hard drives eventually fail.
+			- ||
+			  | There's some other little things that'll eat that down even further. | 이외에도 몇 가지 작은 것들이 더 소모할 것이 있다. |
+			  | So if you want a lot of space, get bigger drives in the beginning. | 그래서 많은 공간이 필요하다면, 처음에 큰 드라이브를 사용하세요. |
+			  | But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything. | 하지만 Nas에 큰 하드 디스크를 몰아넣기 전에, 크기가 모든 것이 아니라는 것을 기억하세요. |
+			  | You'll want to use drives that are rated for Nass use like these Sea Gate iron Wolf drives. | 이러한 Sea Gate Iron Wolf 드라이브와 같이 Nass 사용용으로 평가된 드라이브를 사용하고 싶을 것입니다. |
+			  | The reason is that NAST don't quit literally. | 그 이유는 NAST가 말 그대로 쉬지 않기 때문입니다. |
+			  | It's going to be running 24 7 so your disk needs keep up. | 24시간 7일 운영되므로 디스크가 오래 버틸 필요가 있습니다.  |
+			  | All hard drives eventually fail. | 모든 하드 드라이브는 결국 고장납니다. |
 		- But iron Wolf drives are meant to be spinning non stop and should last longer than a typical drive in a NAS OK 6 drives RAID 6 but wait, there's more.
 		  If you intend to actually work directly off this NAST like I am and not just use it as a big archive storage box, then you'll probably want an SSD cache in it for editing.
 		  This just helps read and write data faster than even a rate array of spinning hard disks can do.
