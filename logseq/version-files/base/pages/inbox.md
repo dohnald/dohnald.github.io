@@ -209,18 +209,23 @@ public:: false
 		- ||
 		  | now if you watch this far, it's almost time for the satisfying conclusion of getting rid of all my old hard drives. | 지금까지 따라와 주셔서 감사합니다. 이제 내 오래된 하드 드라이브를 모두 없애는 마무리가 거의 다가왔습니다. |
 		  | But first if this whole system just sounds too expensive too involved, there are cheaper, although less robust options for backing up and storing your, you know, we can't afford the fun pack for most people, especially individual editors or filmmakers working solo you don't need the ability for collaborators or employees to connect to your media and work simultaneously on your project. | 그런데 이 시스템이 너무 비싸고 복잡하게 들린다면, 보다 저렴하지만 덜 견고한 옵션이 백업하고 저장할 수 있는, 아시다시피, 대부분의 사람들에게는 재미있는 모습을 할 필요가 없습니다. 특히 혼자 작업하는 개별 편집자나 영화제작자들에게 협업자나 직원들이 미디어에 연결하고 프로젝트에서 동시에 작업할 필요가 없습니다. |
-		- You also don't need the ability to download any projects files you've ever used over WI Fi but you still need your work backed up and accessible while you're at work.
-		  So here's two easy and cheap options that I'd recommend.
-		  The easiest, the cheapest option is to simply get the biggest hard drive you can afford like the 22 TERBT drive I bought and get Back Blaze personal.
-		- You're done. And as an added benefit, you can still download your files remotely through Bac Blaz's website or mobile app so you get some level of access to all this stuff but you won't have the multiplied disk speeds of a rate array working for you with this single drive option.
-		- So not the best for working off of this giant drive but that's not a big deal because proxy workflows can alleviate this bottleneck and editing and I use proxies for pretty much everything I work on anyways.
-		  But if you wanted to beef up this system even more, get those faster speeds, I'd recommend option number two, get a DAS.
-		  A DAS is a direct attached storage system.
-		- It's the same as a NAS but without the network connectivity.
-		  In other words, you get a big box with multiple hard drives in it.
-		  You set it up as a Radarray so it's treated like one normal really fast hard drive by your computer and then you'll be able to back up to the cloud directly through Back Blaze while keeping those Nasts like disk speeds.
-		  DAS units are way cheaper and less technical to set up.
-		  So you'll save yourself a ton of time and money versus a NAS if you want to go that route again.
+		- ||
+		  | You also don't need the ability to download any projects files you've ever used over WI Fi but you still need your work backed up and accessible while you're at work. | 또한 WI Fi를 통해 사용한 모든 프로젝트 파일을 다운로드할 필요가 없지만 직장에서 작업 중일 때 작업물을 백업하고 액세스할 수는 있어야 합니다. |
+		  | So here's two easy and cheap options that I'd recommend. | 그래서 제가 추천하는 쉽고 저렴한 두 가지 옵션이 있습니다. |
+		  | The easiest, the cheapest option is to simply get the biggest hard drive you can afford like the 22 TERBT drive I bought and get Back Blaze personal. | 가장 쉽고 저렴한 옵션은 단순히 제가 구입한 22 TERBT 드라이브와 Back Blaze 개인을 구입하는 것입니다. |
+		- ||
+		  | You're done. And as an added benefit, you can still download your files remotely through Bac Blaz's website or mobile app so you get some level of access to all this stuff but you won't have the multiplied disk speeds of a rate array working for you with this single drive option. | 당신은 끝났습니다. 추가 혜택으로 Bac Blaz의 웹사이트 또는 모바일 앱을 통해 파일을 원격으로 다운로드할 수 있습니다. 이를 통해 이 모든 것에 액세스 수준이 조금은 확보되지만, 이 단일 드라이브 옵션으로는 여러 디스크 속도의 배율 배열이 작동하지는 않을 것입니다. |
+		- ||
+		  | So not the best for working off of this giant drive but that's not a big deal because proxy workflows can alleviate this bottleneck and editing and I use proxies for pretty much everything I work on anyways. | 그래서 이 거대 드라이브로 작업하기에 최적은 아니지만, 프록시 워크플로우를 통해 병목 현상을 완화시킬 수 있고, 사실 제가 작업하는 거의 모든 것에 대해 프록시를 사용하고 있기 때문에 큰 문제는 아닙니다. |
+		  | But if you wanted to beef up this system even more, get those faster speeds, I'd recommend option number two, get a DAS. | 그러나 이 시스템을 더 강력하게 만들고 싶고, 더 빠른 속도를 원한다면, 두 번째 옵션인 DAS를 구입하는 것을 권장합니다. |
+		  | A DAS is a direct attached storage system. | DAS는 직접 연결 스토리지 시스템입니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | It's the same as a NAS but without the network connectivity. | NAS와 동일하지만 네트워크 연결이 없습니다. |
+		  | In other words, you get a big box with multiple hard drives in it. | 다른 말로하면, 여러 개의 하드 드라이브가 들어있는 큰 상자를 얻게 됩니다. |
+		  | You set it up as a Radarray so it's treated like one normal really fast hard drive by your computer and then you'll be able to back up to the cloud directly through Back Blaze while keeping those Nasts like disk speeds. | Radarray로 설정하여 컴퓨터가 하나의 평범하고 매우 빠른 하드 드라이브처럼 취급하도록 하고, 그런 다음 Back Blaze를 통해 클라우드에 바로 백업할 수 있으며, 그러면 NAS와 같은 디스크 속도를 유지하면서 백업할 수 있습니다. |
+		  | DAS units are way cheaper and less technical to set up. | DAS 유닛은 훨씬 더 저렴하며 기술적 설정이 적습니다. |
+		  | So you'll save yourself a ton of time and money versus a NAS if you want to go that route again. | 따라서 NAS 대비 시간과 돈을 많이 절약할 수 있습니다. 다시 그 방향으로 가고 싶다면. |
 		- I'm happy with the NAS just because it's future proofing my setup and my business.
 		  But right now I probably could have been fine with just a DAS so that's pretty much it.
 		  I still have another week or so before Back Blaze finishes uploading everything to the cloud.
