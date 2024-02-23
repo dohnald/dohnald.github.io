@@ -48,6 +48,12 @@ public:: false
 		  I don't know why I still have them, but they honestly give me anxiety.
 		  And by the way, this video has been almost two years in the making.
 		  That's how long this problem has been out of hand in bugging me.
+			- | 영어 | 한국어 |
+			  | --- | --- |
+			  | Oh, also I've got all these old hard drives from editing clients. They're like 7 years old. | 아, 그리고 편집 고객으로부터 받은 모든 이런 구형 하드 드라이브들도 가지고 있어요. 그들은 7년 전 것 같아요. |
+			  | I don't know why I still have them, but they honestly give me anxiety. | 왜 아직 그것들을 가지고 있는지 모르겠어요, 하지만 솔직히 말해서 제게 불안함을 줍니다. |
+			  | And by the way, this video has been almost two years in the making. | 그리고 그런데, 이 비디오를 만드는 데 거의 두 년이 걸렸어요. |
+			  | That's how long this problem has been out of hand in bugging me. | 이 문제가 제게 성가시고 손에 받친 지 얼마나 됐는지 알겠죠. |
 		- And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me.
 		  Finally, I've had enough and it's time to fix this mess.
 		  So feel free to watch this and copy my new system for keeping my data organized and safe.
