@@ -220,16 +220,16 @@ public:: false
 		  | But if you wanted to beef up this system even more, get those faster speeds, I'd recommend option number two, get a DAS. | 그러나 이 시스템을 더 강력하게 만들고 싶고, 더 빠른 속도를 원한다면, 두 번째 옵션인 DAS를 구입하는 것을 권장합니다. |
 		  | A DAS is a direct attached storage system. | DAS는 직접 연결 스토리지 시스템입니다. |
 		- ||
-		  | 원문 | 번역문 |
 		  | It's the same as a NAS but without the network connectivity. | NAS와 동일하지만 네트워크 연결이 없습니다. |
 		  | In other words, you get a big box with multiple hard drives in it. | 다른 말로하면, 여러 개의 하드 드라이브가 들어있는 큰 상자를 얻게 됩니다. |
 		  | You set it up as a Radarray so it's treated like one normal really fast hard drive by your computer and then you'll be able to back up to the cloud directly through Back Blaze while keeping those Nasts like disk speeds. | Radarray로 설정하여 컴퓨터가 하나의 평범하고 매우 빠른 하드 드라이브처럼 취급하도록 하고, 그런 다음 Back Blaze를 통해 클라우드에 바로 백업할 수 있으며, 그러면 NAS와 같은 디스크 속도를 유지하면서 백업할 수 있습니다. |
 		  | DAS units are way cheaper and less technical to set up. | DAS 유닛은 훨씬 더 저렴하며 기술적 설정이 적습니다. |
 		  | So you'll save yourself a ton of time and money versus a NAS if you want to go that route again. | 따라서 NAS 대비 시간과 돈을 많이 절약할 수 있습니다. 다시 그 방향으로 가고 싶다면. |
-		- I'm happy with the NAS just because it's future proofing my setup and my business.
-		  But right now I probably could have been fine with just a DAS so that's pretty much it.
-		  I still have another week or so before Back Blaze finishes uploading everything to the cloud.
-		  But since I have all this data backed up locally, I can finally start clearing out some valuable real estate in my office.
+		- ||
+		  | I'm happy with the NAS just because it's future proofing my setup and my business. | NAS에서 매우 만족합니다. 그냥 현재의 구성과 비즈니스가 앞으로도 지원을 받기 때문입니다. |
+		  | But right now I probably could have been fine with just a DAS so that's pretty much it. | 그런데 지금은 아마도 DAS로도 충분히 잘 사용할 수 있었을 것 같습니다. 이게 대부분입니다. |
+		  | I still have another week or so before Back Blaze finishes uploading everything to the cloud. | Back Blaze가 모든 것을 클라우드에 업로드를 마치기 전에 아직 한 주 정도의 시간이 남았습니다. |
+		  | But since I have all this data backed up locally, I can finally start clearing out some valuable real estate in my office. | 그러나 모든 데이터가 로컬로 백업되어 있기 때문에, 드디어 사무실에서 소중한 부동산을 정리할 수 있게 되었습니다. |
 		- I also hit up my old editing client who most of those client hard drives belonged to.
 		  It turns out he wanted them back.
 		  So there it is years of annoyances, worries, fears and confusion finally resolved Today truly feels like the first day the rest of my day to harding life.
