@@ -76,9 +76,10 @@ public:: false
 			  | The reason is that NAST don't quit literally. | 그 이유는 NAST가 말 그대로 쉬지 않기 때문입니다. |
 			  | It's going to be running 24 7 so your disk needs keep up. | 24시간 7일 운영되므로 디스크가 오래 버틸 필요가 있습니다.  |
 			  | All hard drives eventually fail. | 모든 하드 드라이브는 결국 고장납니다. |
-		- But iron Wolf drives are meant to be spinning non stop and should last longer than a typical drive in a NAS OK 6 drives RAID 6 but wait, there's more.
-		  If you intend to actually work directly off this NAST like I am and not just use it as a big archive storage box, then you'll probably want an SSD cache in it for editing.
-		  This just helps read and write data faster than even a rate array of spinning hard disks can do.
+		- ||
+		  | But iron Wolf drives are meant to be spinning non stop and should last longer than a typical drive in a NAS OK. 6 drives RAID 6 but wait, there's more. | 그러나 아이언 울프 드라이브는 끊임없이 회전하도록 설계되어 있으며 일반 NAS 드라이브보다 오래 지속되어야 합니다. 6개 드라이브 RAID 6, 하지만, 기다리세요, 더 있습니다. |
+		  | If you intend to actually work directly off this NAS like I am and not just use it as a big archive storage box, then you'll probably want an SSD cache in it for editing. | 만약 당신이 저처럼 실제로 이 NAS로 직접 작업하려고 한다면, 그냥 큰 아카이브 저장 상자로 사용하지 않는다면, 편집을 위해 SSD 캐시를 넣는 것이 좋을 것입니다. |
+		  | This just helps read and write data faster than even a RAID array of spinning hard disks can do. | 이것은 단순히 회전하는 하드 디스크의 RAID 어레이조차 할 수 없는 속도로 데이터를 읽고 쓰는 데 도움이 됩니다. |
 		- And it's not strictly necessary but it's certainly helpful for keeping your timelines running smoothly.
 		  Now you can put an SSD in one of your drive slots for your cash.
 		  But for this Q NAP Nas, I have two extra slots for SSD caches built in the unit and even with two little 500 gigabyte iron Wolf SSDS here she purs in every premier project that I've opened so far.
