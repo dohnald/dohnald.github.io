@@ -123,10 +123,10 @@ public:: false
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
-- TODO [슈카월드 코믹스-신입의 돌발발언에 속 타는 좋좋소 사장](https://youtube.com/watch?v=Tios00lS03Q&si=cKxWj8PCfN_Wbapv) [[2024/02/23]] 
+- DONE [슈카월드 코믹스-신입의 돌발발언에 속 타는 좋좋소 사장](https://youtube.com/watch?v=Tios00lS03Q&si=cKxWj8PCfN_Wbapv) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Tios00lS03Q/hqdefault.jpg)
-- TODO [채널십오야-지락이들에게점령당한에그이즈커밍 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=NFcp_8np3e8&si=Tzhy79V8tVhOLTWa) [[2024/02/23]] 
+- DONE [채널십오야-지락이들에게점령당한에그이즈커밍 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=NFcp_8np3e8&si=Tzhy79V8tVhOLTWa) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/NFcp_8np3e8/hqdefault.jpg)
 - DONE [미망이-미망이 잡썰(GPT로 설교 준비하기)](https://youtube.com/watch?v=ExL6VLD8nTE&si=Ex7p9U-1qayV7j0A) [[2024/02/23]] 
@@ -153,7 +153,7 @@ public:: false
 - DONE [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/PpP9_7ymx7g/hqdefault.jpg)
-- TODO [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
+- DONE [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
 - TODO [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
