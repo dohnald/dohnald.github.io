@@ -140,9 +140,8 @@ public:: false
 		  | So after a couple of days of dragging and dropping folders like this, I went through all my old drives and had about 23 terabytes of data on the Nas, which is a lot more than I thought I'd have. | 며칠동안 드래그 앤 드롭 폴더를 이렇게 하다가, 내 옛날 드라이브를 모두 검토했더니 Nas에 약 23테라바이트의 데이터가 있었습니다. 생각했던 것보다 더 많았죠. |
 		  | So I was getting a little nervous about how little free space I'd have to work with on this thing. | 그래서 이 장치에서 사용할 수 있는 여유 공간이 얼마나 적을지 좀 긴장되었습니다. |
 		  | But the next step was to actually organize this mess and I wanted a super clean and simple folder structure | 그 다음 단계는 이 난장판을 실제로 정리하는 것이었고, 슈퍼 깨끗하고 간단한 폴더 구조를 원했습니다. |
-		- for everything in the NAS and I wanted to eliminate the duplicated files that I was sure were on there.
-		  And after another two days of doing all that, I eradicated the most glaring duplicate files which freed up a lot of space.
-		  And I created this simple folder structure that allows me quick access to all my personal film projects from the last 10 years, all the YouTube videos from the last three years and all the client work that I actually cared enough.
+		- ||
+		  | for everything in the NAS and I wanted to eliminate the duplicated files that I was sure were on there. And after another two days of doing all that, I eradicated the most glaring duplicate files which freed up a lot of space. And I created this simple folder structure that allows me quick access to all my personal film projects from the last 10 years, all the YouTube videos from the last three years and all the client work that I actually cared enough. | NAS에 있는 모든 것을 처리하고, 그 안에 중복 파일을 제거하고 싶었습니다. 그리고 그 모든 일을 두 번째날에 한 결과, 제가 확신했던 가장 눈에 띄는 중복 파일을 없애면서 많은 공간을 확보했습니다. 그리고 지난 10년간의 모든 개인 영화 프로젝트, 지난 3년간의 모든 YouTube 동영상, 그리고 실제로 신경 써왔던 모든 클라이언트 작업에 빠르게 접근할 수 있는 간단한 폴더 구조를 만들었습니다. |
 		- Again, this is not just the finished exports this is all of the working files too.
 		  The idea is I can go open up any random premier project if I need to and pull any file or asset, whatever I need.
 		  But there was still too much data on here.
