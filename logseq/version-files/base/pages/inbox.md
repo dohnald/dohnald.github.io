@@ -34,6 +34,13 @@ public:: false
 		  🌐 He wants his files to be accessible on any device, anywhere.
 		  🎥 He wants to create a logical workflow for adding new projects to the archive.
 		  💰 Buying a NAS system is an investment, but it’s worth it for Kint’s business.
+		- * 킨트 램브는 2010년부터 자신의 영화에서 원본 영상을 수집해온 데이터 저장가입니다.
+		  * 그는 자신의 파일을 더 잘 저장하고 정리할 방법을 찾고 있습니다.
+		  * 그는 모든 관련 데이터를 하나의 작동 드라이브로 통합하고 싶어합니다.
+		  * 데이터 유실을 방지하기 위해 자동 백업 시스템을 구축하려고 합니다.
+		  * 그는 파일이 어디서나 모든 기기에서 액세스할 수 있기를 원합니다.
+		  * 신규 프로젝트를 아카이브에 추가하기 위한 논리적인 워크플로우를 만들고 싶어합니다.
+		  * NAS 시스템을 구매하는 것은 투자이지만, 킨트의 비즈니스에는 그가 가치 있습니다.
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
