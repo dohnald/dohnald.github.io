@@ -40,7 +40,7 @@ public:: false
 - TODO [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
-- TODO [ootb STUDIO-무인도에서 근손실은 못참지 [무인도 6일차] | 무이자 ep.06 [EN/JP/ID]](https://youtube.com/watch?v=43JWLki-nUA&si=QI-gLhkIcWrUpHQX) [[2024/02/22]] 
+- DONE [ootb STUDIO-무인도에서 근손실은 못참지 [무인도 6일차] | 무이자 ep.06 [EN/JP/ID]](https://youtube.com/watch?v=43JWLki-nUA&si=QI-gLhkIcWrUpHQX) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/43JWLki-nUA/hqdefault.jpg)
 - TODO [뉴스안하니-김대호라고 다 잘 하겠어? 솔직히 중계는 좀…](https://youtube.com/watch?v=YRwYknrvKAM&si=dg23tPJakJ3_WFsT) [[2024/02/22]] 
