@@ -91,11 +91,11 @@ public:: false
 		  | Now besides the two Thunderbolt ports and the built-in SSD slots, the great thing about this specific NAST for editors, the TVS H674, is that it also has 32 gigs of memory built-in and a fast processor. | 두 개의 썬더볼트 포트와 내장 SSD 슬롯 외에도, 편집자를 위한 이 특정 NAST, TVS H674의 좋은 점은 32기가의 내부 메모리와 빠른 프로세서를 갖고 있다는 것입니다. |
 		  | It's a 12th Gen INTEL Core I5 processor and that means it's going to have no trouble delivering you smooth editing performance. | 이것은 12세대 INTEL Core I5 프로세서이며, 이것은 원활한 편집 성능을 제공하는 데 문제가 없을 것이라는 것을 의미합니다. |
 		  | And although I haven't tested this, I would assume that it would perform quite well even with multiple editors working off the same unit. | 그리고 이것을 테스트해보지는 않았지만, 동일한 장치에서 작업하는 여러 편집자들도 꽤 잘 작동할 것이라고 가정해보겠습니다. |
-		- Now if you cheap out on the NAS processor because there are much cheaper nasas available out there, you will handicap your editing performance as this machine has to perform a lot of calculations to surf up the right data for multiple drives quickly when you're scrubbing and editing the timeline.
-		  That's my understanding anyway.
-		  So if you just want to use this NAS as an archive and not a working drive, then by all means cheap out on the processor.
-		- I needed one that could handle some hardcore work.
-		  And one more big benefit for editors This unit also has an extra PCI Express slot available, which means you can buy a card like this for about 200 bucks and you'll easily be able to add two more SSDS to the system.
+		- ||
+		  | Now if you cheap out on the NAS processor because there are much cheaper NASes available out there, you will handicap your editing performance as this machine has to perform a lot of calculations to serve up the right data for multiple drives quickly when you're scrubbing and editing the timeline. That's anyway. So if you just want to use this NAS as an archive and not a working drive, then by all means cheap out on the processor. | 지금처럼 그 NAS 프로세서를 싼 것을 선택한다면, 더 저렴한 NAS가 다른 곳에 많이 있기 때문에 편집 성능이 떨어집니다. 이 기계는 여러 드라이브의 올바른 데이터를 빠르게 제공하기 위해 많은 계산을 수행해야 하기 때문입니다. 여러분이 스크럽하거나 타임라인을 편집할 때 그 런 단추 데이터를 여러 드라이브에 빠르게 제공하기 위해 많은 계산을 수행해야 합니다. 어차피 이해하는 바가 이겁니다. 그래서 이 NAS를 아카이브로만 사용하고 작동 드라이브로 사용하지 않으려면, 프로세서를 싸게 사도 됩니다. |
+		- ||
+		  | I needed one that could handle some hardcore work. | 저는 강력한 작업을 처리할 수 있는 것이 필요했습니다. |
+		  | And one more big benefit for editors This unit also has an extra PCI Express slot available, which means you can buy a card like this for about 200 bucks and you'll easily be able to add two more SSDS to the system. | 그리고 편집자들에 대한 또 한 가지 큰 혜택입니다. 이 장치에는 추가 PCI Express 슬롯이 있어서 약 200달러 정도로 이런 카드를 구입할 수 있으며 시스템에 더 두 개의 SSD를 쉽게 추가할 수 있습니다. |
 		- If you ever want more fast storage space, for example, pretty handy, I'll probably add 28 terabyte SSDS to this once the prices come down on those over the next year or two or maybe I'll just buy a lower priced expansion unit like this connects to the NAS to add more storage or for a specific bigger project like whenever I make my next feature for example.
 		  So you get a lot of options about expanding your storage space when you get an ask.
 		  So it seems like this system might allow me to complete all 7 of my goals.
