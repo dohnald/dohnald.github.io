@@ -24,7 +24,16 @@ public:: false
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
 	-
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
-	- script
+	- Summary
+		- Kint Lamb is a data hoarder who has been collecting raw footage from his films since 2010. He wants to find a better way to store and organize his files.
+		- Highlights
+		  📁 Kint Lamb has been collecting raw footage from his films since 2010.
+		  🖥️ He wants to find a better way to store and organize his files.
+		  📂 He wants to consolidate all relevant data into one working drive.
+		  💾 He wants to set up an automated backup system to prevent data loss.
+		  🌐 He wants his files to be accessible on any device, anywhere.
+		  🎥 He wants to create a logical workflow for adding new projects to the archive.
+		  💰 Buying a NAS system is an investment, but it’s worth it for Kint’s business.
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
