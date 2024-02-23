@@ -310,6 +310,7 @@ public:: false
 		  * 필요한 경우 최근 영상은 Amazon S3에 그대로 유지하고, 지난 3개월 이전에 촬영된 영상을 Amazon S3 Glacier로 이동합니다.
 		  * 더 이전에 사용 빈도가 적은 영상은 Amazon S3 Glacier Deep Archive로 이동하여 장기 보관합니다.
 		  * 이렇게 3단계의 전략을 통해 저장 비용을 최적화하고 저장 공간을 효율적으로 관리할 수 있습니다.
+		- 1개월에 200GB씩 용량이 추가될 때 적합한 전략을 추천해주세요. 그리고 이 경우 비용이 어떻게 될 지 표와 그래프로 보여주세요.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
