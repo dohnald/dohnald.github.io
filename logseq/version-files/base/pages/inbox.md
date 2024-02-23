@@ -110,10 +110,11 @@ public:: false
 		  | And knowing what I now know about NAS systems after two weeks straight of learning and fiddling with the thing, | 그리고 이러한 장치와 두 주 동안 배우고 실험한 후, 이제 NAS 시스템에 대해 알게 되었습니다. |
 		- ||
 		  | I can honestly say that this higher end unit would have been worth the investment for me and for my business it's not only helping me. Now I plan on using this unit for the next five to 10 years and expanding upon it. And I think the time and money that I'm spending on it right now is creating the infrastructure for me to continue growing my little business. So now that we've covered the hardware, let's look at how this whole thing actually works and how I set it up. | 솔직히 말씀드리자면, 이 고급 유닛은 나와 내 비즈니스에 대한 투자 가치가 있었을 것이고, 나를 도와주는 것이 아닙니다. 이제 5~10년 뒤에도 이 장치를 사용하고 확장할 계획입니다. 지금 투자하고 있는 시간과 돈이 내 작은 비즈니스를 계속 성장시킬 인프라를 만드는 것으로 생각됩니다. 이제 하드웨어를 다루었으니, 이 모든 것이 실제로 어떻게 작동하고 어떻게 설정하는지 살펴봅시다. |
-		- I'm not going to get in the weeds of the details of setting this thing up.
-		  There's better videos on other channels that will do that which I'll give you some recommendations for and I probably will tell you something wrong.
-		  And in fact, one fear I had about getting an ask was that the whole thing would be way too technical for me to figure out because I am not an IT guy.
-		  I don't understand how networks or servers actually work.
+		- ||
+		  | I'm not going to get in the weeds of the details of setting this thing up. | 이 설치 과정의 세부 내용에 대해 깊게 들어가지 않을 것입니다. |
+		  | There's better videos on other channels that will do that which I'll give you some recommendations for and I probably will tell you something wrong. | 그런 정보를 더 잘 다루는 다른 채널들의 동영상이 있으며, 제가 추천을 드릴 것이며 아마도 어떤 정보를 잘못 알려드릴 수도 있습니다. |
+		  | And in fact, one fear I had about getting an ask was that the whole thing would be way too technical for me to figure out because I am not an IT guy. | 사실, 제가 요청을 받게 된다면 제가 IT 전문가가 아니기 때문에 전체적인 것이 너무 기술적일 것을 걱정했습니다. |
+		  | I don't understand how networks or servers actually work. | 네트워크나 서버가 실제로 어떻게 작동하는지 이해하지 못합니다. |
 		- But honestly, once you set it up, the QNAP software walks you through the most important setup steps.
 		  And although it definitely wasn't as easy as setting up a new MAC for example, it wasn't that crazy.
 		  So basically you just plug the NAS into your router with an ethernet cable and then you plug another ethernet cable or in this case, a thunderbolt cable from the NAS to your computer.
