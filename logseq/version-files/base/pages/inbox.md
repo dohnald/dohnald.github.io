@@ -98,14 +98,16 @@ public:: false
 		  | And one more big benefit for editors This unit also has an extra PCI Express slot available, which means you can buy a card like this for about 200 bucks and you'll easily be able to add two more SSDS to the system. | 그리고 편집자들에 대한 또 한 가지 큰 혜택입니다. 이 장치에는 추가 PCI Express 슬롯이 있어서 약 200달러 정도로 이런 카드를 구입할 수 있으며 시스템에 더 두 개의 SSD를 쉽게 추가할 수 있습니다. |
 		- | |
 		  | If you ever want more fast storage space, for example, pretty handy, I'll probably add 28 terabyte SSDs to this once the prices come down on those over the next year or two. or maybe I'll just buy a lower-priced expansion unit like this connects to the NAS to add more storage or for a specific bigger project. like whenever I make my next feature for example. So you get a lot of options about expanding your storage space when you get an ask. So it seems like this system might allow me to complete all 7 of my goals. However, it's not cheap. Make no mistake. | 더 빠른 저장 공간이 필요할 경우 28테라바이트 SSD를 추가할 예정입니다. 다음 1~2년 동안 가격이 내려간 후에요. 혹은 이 NAS에 연결해 더 많은 용량을 추가하거나 특정 대형 프로젝트에 사용할 저렴한 확장 유닛을 사기도 할 수 있을 거예요. 예를 들어, 제가 다음 기능을 만들 때처럼요. 따라서 요청을 받게 되면 저장 공간을 확장할 수 있는 많은 옵션이 제공될 것입니다. 모든 7가지 목표를 달성할 수 있을 것 같아요! 하지만 싸지 않아요. 착각하지 마세요. |
-		- Getting a NAS system, especially a powerful and versatile one like this, is an investment for your business.
-		  And if your data is not bringing in money, it's probably not the time to invest in a NAS because this NAS empty without any of the hard drives or SSDS inside it costs significantly more than my first card.
-		  You can believe that now, granted, this was not a nice car.
-		  You can usually tell when one door is painted a different color
-		- but once you add in the hard drives and even with relatively cheap 8 terabyte drives like I have in here, adds up even more.
-		  So if you're considering buying a Nas, I do recommend that you first get a couple of 100,000 subscribers on YouTube so that you can get it for free.
-		  But I will say that even if I wasn't given this unit, I was ready to buy Nas.
-		  And knowing what I now know about NAS systems after two weeks straight of learning and fiddling with the thing,
+		- ||
+		  | Getting a NAS system, especially a powerful and versatile one like this, is an investment for your business. | NAS 시스템을 구매하는 것은 특히 이렇게 강력하고 다재다능한 것은 당신의 비즈니스에 대한 투자입니다. |
+		  | And if your data is not bringing in money, it's probably not the time to invest in a NAS because this NAS empty without any of the hard drives or SSDS inside it costs significantly more than my first card. | 그리고 데이터가 수익을 창출하지 않는다면, 아마도 이 시기에 NAS에 투자할 시간이 아닙니다. 왜냐하면 안에 하드 드라이브나 SSD가 없는 이 NAS는 제 첫 카드보다 훨씬 비싸기 때문입니다. |
+		  | You can believe that now, granted, this was not a nice car. | 이제 믿으셔도 좋습니다. 물론, 이 차는 좋은 차는 아니었습니다. |
+		  | You can usually tell when one door is painted a different color | 일반적으로 문 중 한 개가 다른 색으로 칠해져 있으면 알 수 있습니다. |
+		- ||
+		  | but once you add in the hard drives and even with relatively cheap 8 terabyte drives like I have in here, adds up even more. | 하드 드라이브를 추가하면서 싸고도 상대적으로 싼 8 테라바이트 드라이브도 포함되면, 더 많이 늘어납니다. |
+		  | So if you're considering buying a Nas, I do recommend that you first get a couple of 100,000 subscribers on YouTube so that you can get it for free. | 따라서 Nas를 구매하려는 경우, 일단 YouTube에서 100,000명 가량의 구독자를 확보하여 무료로 받을 수 있도록 하는 것이 좋습니다. |
+		  | But I will say that even if I wasn't given this unit, I was ready to buy Nas. | 그러나 이 장치를 받지 않았더라도 Nas를 구입할 준비가 되어 있었습니다. |
+		  | And knowing what I now know about NAS systems after two weeks straight of learning and fiddling with the thing, | 그리고 이러한 장치와 두 주 동안 배우고 실험한 후, 이제 NAS 시스템에 대해 알게 되었습니다. |
 		- I can honestly say that this higher end unit would have been worth the investment for me and for my business it's not only helping me.
 		  Now I plan on using this unit for the next five to 10 years and expanding upon it.
 		  And I think the time and money that I'm spending on it right now is creating the infrastructure for me to continue growing my little business.
