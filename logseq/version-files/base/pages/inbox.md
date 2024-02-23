@@ -136,9 +136,10 @@ public:: false
 		  | Now this took a while because I had a lot of drives. | 이 작업은 시간이 걸렸어요, 왜냐하면 많은 드라이브가 있었거든. |
 		  | The NAS transfers files really fast because of that rate 6 configuration. | NAS는 그 레이트 6 구성 때문에 파일을 아주 빨리 전송해요. |
 		  | But the bottleneck on speed is the slow transfer speed of single shuttle drive. They're all pretty slow. | 그러나 속도의 병목은 단일 셔틀 드라이브의 느린 전송 속도입니다. 그들은 모두 꽤 느려요. |
-		- So after a couple of days of dragging and dropping folders like this, I went through all my old drives and had about 23 terabytes of data on the Nas, which is a lot more than I thought I'd have.
-		  So I was getting a little nervous about how little free space I'd have to work with on this thing.
-		  But the next step was to actually organize this mess and I wanted a super clean and simple folder structure
+		- ||
+		  | So after a couple of days of dragging and dropping folders like this, I went through all my old drives and had about 23 terabytes of data on the Nas, which is a lot more than I thought I'd have. | 며칠동안 드래그 앤 드롭 폴더를 이렇게 하다가, 내 옛날 드라이브를 모두 검토했더니 Nas에 약 23테라바이트의 데이터가 있었습니다. 생각했던 것보다 더 많았죠. |
+		  | So I was getting a little nervous about how little free space I'd have to work with on this thing. | 그래서 이 장치에서 사용할 수 있는 여유 공간이 얼마나 적을지 좀 긴장되었습니다. |
+		  | But the next step was to actually organize this mess and I wanted a super clean and simple folder structure | 그 다음 단계는 이 난장판을 실제로 정리하는 것이었고, 슈퍼 깨끗하고 간단한 폴더 구조를 원했습니다. |
 		- for everything in the NAS and I wanted to eliminate the duplicated files that I was sure were on there.
 		  And after another two days of doing all that, I eradicated the most glaring duplicate files which freed up a lot of space.
 		  And I created this simple folder structure that allows me quick access to all my personal film projects from the last 10 years, all the YouTube videos from the last three years and all the client work that I actually cared enough.
