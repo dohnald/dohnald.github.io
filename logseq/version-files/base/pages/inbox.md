@@ -142,10 +142,11 @@ public:: false
 		  | But the next step was to actually organize this mess and I wanted a super clean and simple folder structure | 그 다음 단계는 이 난장판을 실제로 정리하는 것이었고, 슈퍼 깨끗하고 간단한 폴더 구조를 원했습니다. |
 		- ||
 		  | for everything in the NAS and I wanted to eliminate the duplicated files that I was sure were on there. And after another two days of doing all that, I eradicated the most glaring duplicate files which freed up a lot of space. And I created this simple folder structure that allows me quick access to all my personal film projects from the last 10 years, all the YouTube videos from the last three years and all the client work that I actually cared enough. | NAS에 있는 모든 것을 처리하고, 그 안에 중복 파일을 제거하고 싶었습니다. 그리고 그 모든 일을 두 번째날에 한 결과, 제가 확신했던 가장 눈에 띄는 중복 파일을 없애면서 많은 공간을 확보했습니다. 그리고 지난 10년간의 모든 개인 영화 프로젝트, 지난 3년간의 모든 YouTube 동영상, 그리고 실제로 신경 써왔던 모든 클라이언트 작업에 빠르게 접근할 수 있는 간단한 폴더 구조를 만들었습니다. |
-		- Again, this is not just the finished exports this is all of the working files too.
-		  The idea is I can go open up any random premier project if I need to and pull any file or asset, whatever I need.
-		  But there was still too much data on here.
-		  I wanted to have a lot of free space for future projects.
+		- ||
+		  | Again, this is not just the finished exports this is all of the working files too. | 다시말해서, 이것은 완성된 내보내기만이 아니라 모든 작업 파일입니다. |
+		  | The idea is I can go open up any random premier project if I need to and pull any file or asset, whatever I need. | 이 아이디어는 필요할 때 어떤 프리미어 프로젝트든 열어서 필요한 모든 파일이나 자산을 가져올 수 있다는 거죠. |
+		  | But there was still too much data on here. | 그래도 여기에는 너무 많은 데이터가 있었습니다. |
+		  | I wanted to have a lot of free space for future projects. | 미래 프로젝트를 위해 많은 여유 공간을 갖고 싶었습니다. |
 		- I mean that was kind of the whole point originally and after doing some soul searching, I finally let go and took the working files from my old client edits off the nask.
 		  So I reduced it to just the final exports and that saved me three terabytes.
 		  I usually only use about the tear BTE and a half every year for YouTube videos.
