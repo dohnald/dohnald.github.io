@@ -199,14 +199,16 @@ public:: false
 		  | and the giant hard drive every night. | 그리고 거대한 하드 드라이브마다 매일 밤. |
 		  | Now my NAS and all my personal files are backed up off site automatically for 100 dollars a year plus the one time cost of a Terby hard drive and a USB dock for it. | 지금 제 NAS와 모든 개인 파일은 연간 100달러에 외부로 자동 백업되며, 한 번 지불해야 하는 Terby 하드 드라이브 및 USB 독에 저장됩니다. |
 		  | Now, the biggest downside is that the initial backup takes forever. | 그리고 가장 큰 단점은 초기 백업이 영원히 걸린다는 것입니다. |
-		- It actually is still running as I record, this might end up taking three weeks on my connection to get all that data backed up to the cloud.
-		  That's okay because I still have my local backups here anyways.
-		  So I'm no worse than I was before I bought the nask and once the initial backup is complete, it's only going to have to upload the new files that have been added in the past day, which is much, much, much faster.
-		- And to automate the system, I used a program called Carbon Copy Cloner, which I already had on the MAC to sink the NAS to the drive on a schedule every night when I'm not working, Backblaze runs continuously so I don't have to do anything there.
-		  And if I don't want to have the drive running during the day, I can just turn it off and then turn it back on at night or just leave it running.
-		  Who
-		- now if you watch this far, it's almost time for the satisfying conclusion of getting rid of all my old hard drives.
-		  But first if this whole system just sounds too expensive too involved, there are cheaper, although less robust options for backing up and storing your, you know, we can't afford the fun pack for most people, especially individual editors or filmmakers working solo you don't need the ability for collaborators or employees to connect to your media and work simultaneously on your project.
+		- ||
+		  | It actually is still running as I record, this might end up taking three weeks on my connection to get all that data backed up to the cloud. | 사실은 녹화 중이기 때문에 여전히 실행 중입니다. 클라우드로 데이터를 모두 백업하려면 내 연결에 3주 정도 걸릴 수도 있습니다. |
+		  | That's okay because I still have my local backups here anyways. | 괜찮아요. 어차피 여기에 로컬 백업이 있으니까요. |
+		  | So I'm no worse than I was before I bought the nask and once the initial backup is complete, it's only going to have to upload the new files that have been added in the past day, which is much, much, much faster. | 따라서, nask를 사기 전보다 나빠진 게 아닙니다. 초기 백업이 완료되면 어제 추가된 새 파일만 업로드하면 되는데, 이것이 훨씬 훨씬 빠릅니다. |
+		- ||
+		  | And to automate the system, I used a program called Carbon Copy Cloner, which I already had on the MAC to sink the NAS to the drive on a schedule every night when I'm not working, Backblaze runs continuously so I don't have to do anything there. | 그리고 그 시스템을 자동화하기 위해 이미 MAC에서 가지고 있던 Carbon Copy Cloner라는 프로그램을 사용하여 나는 일하는 동안이 아닌 매일 밤 일정 시간에 NAS를 드라이브와 동기화했습니다. Backblaze는 계속 실행되므로 거기서 아무것도 할 필요가 없습니다. |
+		  | And if I don't want to have the drive running during the day, I can just turn it off and then turn it back on at night or just leave it running. | 만약 낮에 드라이브를 실행시키고 싶지 않다면, 그냥 끄고 밤에 다시 켜거나 그냥 가만히 두면 됩니다. |
+		- ||
+		  | now if you watch this far, it's almost time for the satisfying conclusion of getting rid of all my old hard drives. | 지금까지 따라와 주셔서 감사합니다. 이제 내 오래된 하드 드라이브를 모두 없애는 마무리가 거의 다가왔습니다. |
+		  | But first if this whole system just sounds too expensive too involved, there are cheaper, although less robust options for backing up and storing your, you know, we can't afford the fun pack for most people, especially individual editors or filmmakers working solo you don't need the ability for collaborators or employees to connect to your media and work simultaneously on your project. | 그런데 이 시스템이 너무 비싸고 복잡하게 들린다면, 보다 저렴하지만 덜 견고한 옵션이 백업하고 저장할 수 있는, 아시다시피, 대부분의 사람들에게는 재미있는 모습을 할 필요가 없습니다. 특히 혼자 작업하는 개별 편집자나 영화제작자들에게 협업자나 직원들이 미디어에 연결하고 프로젝트에서 동시에 작업할 필요가 없습니다. |
 		- You also don't need the ability to download any projects files you've ever used over WI Fi but you still need your work backed up and accessible while you're at work.
 		  So here's two easy and cheap options that I'd recommend.
 		  The easiest, the cheapest option is to simply get the biggest hard drive you can afford like the 22 TERBT drive I bought and get Back Blaze personal.
