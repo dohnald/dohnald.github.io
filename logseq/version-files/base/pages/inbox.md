@@ -325,6 +325,16 @@ public:: false
 			  | 24개월           | 4800     | $z       |
 			  
 			  비용은 S3의 가격에 따라 다르며, 용량에 따라 비례하여 증감됩니다. 이에 따라 정확한 비용을 확인하려면 AWS의 S3 요금 페이지를 참고하시기 바랍니다.
+		- * Sure, here are the comparison of pricing per GB for different storage services offered by Amazon Web Services (AWS):
+		    
+		  | 서비스         | 요금 (GB 당) |
+		  |---------------|------------|
+		  | S3 Standard   | $0.023     |
+		  | S3 Infrequent Access | $0.0125  |
+		  | S3 Glacier    | $0.004     |
+		  | S3 Glacier Deep Archive | $0.00099 |
+		  
+		  * 여러 서비스를 활용하는 전략을 고려해 볼 수 있습니다. 예를 들어, 자주 접근하지 않는 영상은 S3 Infrequent Access나 S3 Glacier에 저장하고, 더 이상 필요하지 않은 영상은 일정 기간 후 S3 Glacier Deep Archive로 이관하는 방법이 있습니다. 이렇게 하면 비용을 절약할 수 있으며, 필요할 때 원하는 데이터를 더 빠르게 검색할 수 있습니다. 또한, Lifecycle policies를 설정하여 자동으로 데이터를 이동하도록 할 수도 있습니다.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
