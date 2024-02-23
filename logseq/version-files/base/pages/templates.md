@@ -46,7 +46,7 @@ public:: false
 	  
 	  ```
 - interview translator
-  prompt-template:: interview translator
+  prompt-template:: interviewer
 	- ```prompt
 	  당신은 영어-한글 전문가입니다. 
 	  영어 인터뷰를 한글로 번역할 겁니다. 영어 텍스트가 주어지면 문장으로 나눠 번역을 하고 아래 형태로 출력합니다. 
