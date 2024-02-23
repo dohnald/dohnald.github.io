@@ -71,7 +71,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
 - [[chatGPT]]
-	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 아티클 3개를 작성해주세요. 그리고 내 수준에 적합한 뉴스 사이트를 3개 추천해주세요.
+	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 애플 관련 뉴스 3개를 작성해주세요.
 		- - **적합한 아티클**:
 		    1. The Life Cycle of a Butterfly
 		    2. Fun Facts About Penguins
@@ -79,5 +79,5 @@ public:: false
 		- - **적합한 뉴스 사이트**: 
 		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
 - TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
