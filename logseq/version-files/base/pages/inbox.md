@@ -158,3 +158,11 @@ collapsed:: true
 - TODO [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
+
+- TODO [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
+
+- TODO [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
