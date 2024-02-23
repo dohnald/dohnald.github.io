@@ -1663,3 +1663,21 @@ public:: false
 			  | I also hit up my old editing client who most of those client hard drives belonged to. | 나도 그 고객에게 연락을 했는데, 대다수의 하드 드라이브는 그분 소유였다. |
 			  | It turns out he wanted them back. | 그 들렸더니 그 분이 그 하드 드라이브들을 되돌려 받길 원했다. |
 			  | So there it is years of annoyances, worries, fears and confusion finally resolved Today truly feels like the first day the rest of my day to harding life. | 그래서 수년간의 괴로움, 걱정, 두려움, 혼란이 드디어 해결되었습니다. 오늘은 정말로 나머지 삶을 힘들게 만드는 첫날과 같은 날입니다.|
+	- DONE [ootb STUDIO-무인도에서 근손실은 못참지 [무인도 6일차] | 무이자 ep.06 [EN/JP/ID]](https://youtube.com/watch?v=43JWLki-nUA&si=QI-gLhkIcWrUpHQX) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/43JWLki-nUA/hqdefault.jpg)
+	- DONE [뉴스안하니-김대호라고 다 잘 하겠어? 솔직히 중계는 좀…](https://youtube.com/watch?v=YRwYknrvKAM&si=dg23tPJakJ3_WFsT) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/YRwYknrvKAM/hqdefault.jpg)
+	- DONE [쉬케치-내 사랑은 한집배달](https://youtube.com/watch?v=kX1Nd6NUYwc&si=XJOGjzHYjd0CHvNF) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/kX1Nd6NUYwc/hqdefault.jpg)
+	- DONE [긱블 Geekble-장난감 차를 '실제 자동차'처럼 빠르게 만들 수 있을까??](https://youtube.com/watch?v=hX9Pb26JsRE&si=QzCg1TKNiM9VcImd) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/hX9Pb26JsRE/hqdefault.jpg)
+	- DONE [노빠꾸탁재훈-주현영, 많은 현영이들 중 제일 잘나갔지만 SNL 관두고 이제 토요일에 할 일 없는 백수ㅣ노빠꾸탁재훈 시즌2 EP.92](https://youtube.com/watch?v=3pQAg1Zsq5c&si=ujLhZGt6xjY--494) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/3pQAg1Zsq5c/hqdefault.jpg)
+	- DONE [빠더너스 BDNS-[해인칭] 고등학교 자퇴 후 입사? MZ와 허물없는 대화 나누는 빠더너스](https://youtube.com/watch?v=iuPvuALlcsY&si=Z5WWUjd4uZM5_Bca) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/iuPvuALlcsY/hqdefault.jpg)
