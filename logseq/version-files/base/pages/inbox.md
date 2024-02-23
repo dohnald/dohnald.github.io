@@ -76,6 +76,5 @@ public:: false
 		    1. The Life Cycle of a Butterfly
 		    2. Fun Facts About Penguins
 		    3. Exploring the Solar System
-		  
-		  - **적합한 뉴스 사이트**: 
+		- - **적합한 뉴스 사이트**: 
 		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
