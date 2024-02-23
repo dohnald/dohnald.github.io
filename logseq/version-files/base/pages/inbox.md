@@ -56,14 +56,12 @@ public:: false
 		  | So it's always available to give other computers the files that it's storing. | 따라서 항상 저장하고 있는 파일들을 다른 컴퓨터에 제공할 수 있습니다. |
 		  | And you can actually run a whole production company with a powerful NAS and have multiple editors working off of the same unit at the same time which was common when I would go into agencies or production companies to edit. | 또한 강력한 NAS로 전체 제작 회사를 운영하고 하나의 장치에서 동시에 여러 편집자가 작업할 수 있습니다. 저는 에이전시나 제작사에 편집을 하러 갔을 때 이렇게 하는 것이 흔했습니다. |
 		  | As a freelancer we might have five editors working across the same projects from one NAS and we're all getting fast enough speeds off that device through the network. | 프리랜서로서 한 대의 NAS에서 동일한 프로젝트를 작업하는 다섯 명의 편집자가 있을 수 있으며 그 장치에서 네트워크를 통해 충분히 빠른 속도로 파일을 받아올 수 있습니다. |
-		- And full disclosure This NAS was given to me by QNAP but they don't get to see this video until I post it.
-		  So I can and will say whatever I want.
-		  Don't believe me scroll EM there.
-		  Speaking of which, let's get into the nuts and bolts of this device and how I've set up my whole data workflow with this NAST as the backbone of it because I know a lot of other editors and filmmakers could benefit from a similar setup.
-		- Now this is a 6 Bay Nas, meaning 6 hard drives or SSDS if I wanted can fit in here.
-		  I've set it up in a RAID 6 configuration, which just means that the hard drives all work together so you get faster transfer speeds plus some safety in knowing that if two of these drives suddenly died, I can just replace them and the NAS will rebuild all the data I lost from the four drives that are still working.
-		- Now if I get up in that Nas, you'll see that I've filled it up with 8 terabyte drives, giving me a total of 48 terabytes of space.
-		  But in Raid 6, two drives are used as data protection so my usable space gets knocked down to 32 terabytes.
+		- ||
+		  | And full disclosure This NAS was given to me by QNAP but they don't get to see this video until I post it. So I can and will say whatever I want. Don't believe me scroll EM there. Speaking of which, let's get into the nuts and bolts of this device and how I've set up my whole data workflow with this NAST as the backbone of it because I know a lot of other editors and filmmakers could benefit from a similar setup. | 노트북이 켜졌을 때 프로세스 설정 등 어떠한 작동도 되지 않기 때문에 안심하고 태블릿을 충전할 수 있다. |
+		- ||
+		  | Now this is a 6 Bay Nas, meaning 6 hard drives or SSDS if I wanted can fit in here. I've set it up in a RAID 6 configuration, which just means that the hard drives all work together so you get faster transfer speeds plus some safety in knowing that if two of these drives suddenly died, I can just replace them and the NAS will rebuild all the data I lost from the four drives that are still working. | 이게 6 베이 나스입니다. 만약 원한다면 하드 드라이브나 SSD 6개를 여기에 넣을 수 있습니다.  RAID 6 구성으로 설정했는데, 이는 모든 하드 드라이브가 함께 작동하여 전송 속도를 빠르게 하고, 만약 두 개의 하드 드라이브가 갑자기 고장나면, 그냥 교체하면 되고 NAS가 여전히 작동 중인 네 개의 드라이브에서 잃어 버린 모든 데이터를 다시 구성할 수 있다는 안전성을 얻게 됩니다. |
+		- ||
+		  | Now if I get up in that Nas, you'll see that I've filled it up with 8 terabyte drives, giving me a total of 48 terabytes of space. But in Raid 6, two drives are used as data protection so my usable space gets knocked down to 32 terabytes. | 이제 Nas로 가보면 8테라바이트 드라이브로 채워져 있어 총 48테라바이트의 공간을 제공합니다. 그러나 RAID 6에서는 두 개의 드라이브가 데이터 보호용으로 사용되므로 사용 가능한 공간이 32테라바이트로 줄어듭니다. |
 		- There's some other little things that'll eat that down even further.
 		  So if you want a lot of space, get bigger drives in the beginning.
 		  But before you go shoving a bunch of big hard disks up your Nas, remember size isn't everything.

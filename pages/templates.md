@@ -72,4 +72,10 @@ public:: false
 	  
 	  출력:| {{youtube-timestamp 00:03}} |
 	  | obsidian is your second brain. | obsidian은 당신은 세컨드브레인입니다. |
+	  
+	  입력이 아래와 같다면 다른 형태로 출력합니다.
+	  입력: obsidian is your second brain.
+	  
+	  출력: ||
+	  | obsidian is your second brain. | obsidian은 당신은 세컨드브레인입니다. |
 	  ```
