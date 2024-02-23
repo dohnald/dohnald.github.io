@@ -61,6 +61,9 @@ public:: false
 		  Finally, I've had enough and it's time to fix this mess.
 		  So feel free to watch this and copy my new system for keeping my data organized and safe.
 		  And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me.
+			- | 입력 | 출력 |
+			  | --- | --- |
+			  | And the only thing that stopped me from fixing it earlier is fear, fear of the time, money, and frustration that devising an organized and automated data storage and backup system that would stand the tested time would cost me. Finally, I've had enough and it's time to fix this mess. So feel free to watch this and copy my new system for keeping my data organized and safe. And if you don't want to spend the time or money doing what you're about to see, which is a little bit crazy, I'll also show you an easier alternative system that I recommend for any of you that are further back in the path of data hoarding than me. | 그리고 이를 이전에 수정하지 못한 유일한 것은 두려움, 시간, 돈, 정돈되고 자동화된 데이터 저장 및 백업 시스템을 고안하는 데 드는 시간, 비용 및 좌절을 견딜 만한 것이 필요했기 때문입니다. 마침내, 내가 충분히 참았다. 이제 이 난장을 고치는 때입니다. 그래서 이것을 보고 내 새로운 시스템을 복사해 나의 데이터를 조직화하고 안전하게 보관하세요. 그리고 당신이 볼 것을 하기에 시간이나 돈을 들이고 싶지 않다면, 그것은 약간 미친 일일 수 있으나, 나는 더 많은 데이터 저장을 위한 길로 나보다 더 뒤떨어진 사람을 위해 권장하는 간단한 대안 시스템도 보여줄 것입니다. |
 		- Now my goals are as follows one, consolidate all of the relevant data in these drives into one giant working drive.
 		  Two, get rid of all these shuttle drives minus a couple as actual shuttle drives when you need to actually shuttle data from one place to another.
 		- Three, organize all this data logically and cleanly on this new giant drive and delete any duplicate files wasting storage space.
