@@ -70,3 +70,12 @@ public:: false
 - TODO [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
+- [[chatGPT]]
+	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 아티클 3개를 작성해주세요. 그리고 내 수준에 적합한 뉴스 사이트를 3개 추천해주세요.
+		- - **적합한 아티클**:
+		    1. The Life Cycle of a Butterfly
+		    2. Fun Facts About Penguins
+		    3. Exploring the Solar System
+		  
+		  - **적합한 뉴스 사이트**: 
+		    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
