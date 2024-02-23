@@ -108,10 +108,8 @@ public:: false
 		  | So if you're considering buying a Nas, I do recommend that you first get a couple of 100,000 subscribers on YouTube so that you can get it for free. | 따라서 Nas를 구매하려는 경우, 일단 YouTube에서 100,000명 가량의 구독자를 확보하여 무료로 받을 수 있도록 하는 것이 좋습니다. |
 		  | But I will say that even if I wasn't given this unit, I was ready to buy Nas. | 그러나 이 장치를 받지 않았더라도 Nas를 구입할 준비가 되어 있었습니다. |
 		  | And knowing what I now know about NAS systems after two weeks straight of learning and fiddling with the thing, | 그리고 이러한 장치와 두 주 동안 배우고 실험한 후, 이제 NAS 시스템에 대해 알게 되었습니다. |
-		- I can honestly say that this higher end unit would have been worth the investment for me and for my business it's not only helping me.
-		  Now I plan on using this unit for the next five to 10 years and expanding upon it.
-		  And I think the time and money that I'm spending on it right now is creating the infrastructure for me to continue growing my little business.
-		  So now that we've covered the hardware, let's look at how this whole thing actually works and how I set it up.
+		- ||
+		  | I can honestly say that this higher end unit would have been worth the investment for me and for my business it's not only helping me. Now I plan on using this unit for the next five to 10 years and expanding upon it. And I think the time and money that I'm spending on it right now is creating the infrastructure for me to continue growing my little business. So now that we've covered the hardware, let's look at how this whole thing actually works and how I set it up. | 솔직히 말씀드리자면, 이 고급 유닛은 나와 내 비즈니스에 대한 투자 가치가 있었을 것이고, 나를 도와주는 것이 아닙니다. 이제 5~10년 뒤에도 이 장치를 사용하고 확장할 계획입니다. 지금 투자하고 있는 시간과 돈이 내 작은 비즈니스를 계속 성장시킬 인프라를 만드는 것으로 생각됩니다. 이제 하드웨어를 다루었으니, 이 모든 것이 실제로 어떻게 작동하고 어떻게 설정하는지 살펴봅시다. |
 		- I'm not going to get in the weeds of the details of setting this thing up.
 		  There's better videos on other channels that will do that which I'll give you some recommendations for and I probably will tell you something wrong.
 		  And in fact, one fear I had about getting an ask was that the whole thing would be way too technical for me to figure out because I am not an IT guy.
