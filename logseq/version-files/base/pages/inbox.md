@@ -175,12 +175,14 @@ public:: false
 		  | You got to buy a whole new Nas, bunch of drives and I'd have to convince somebody to let me store this big box in their house. | 새로운 Nas를 사야 하고, 드라이브를 많이 사야 합니다. 그리고 누군가에게 이 큰 상자를 집에 저장해도 되냐고 설득해야 할 거에요. |
 		  | Another straightforward option is to use one of the many cloud backup services that's integrated with QNAP software to store everything online. | 또 다른 간단한 옵션은 QNAP 소프트웨어와 통합된 다양한 클라우드 백업 서비스 중 하나를 사용하여 모든 것을 온라인으로 저장하는 것입니다. |
 		  | But since they charge by the terabyte, add 19 terabytes in counting. | 하지만 테라바이트 단위로 요금을 부과하기 때문에, 19테라바이트를 더해야 합니다. |
-		- That's also going to add up fast.
-		  Now a cheaper option is to buy a giant 22 terabyte hard drive and back up the whole NAST to that.
-		  The downside is that I'll run out of space on that drive pretty soon and to protect my data against catastrophes like my house burning down, I'd have to physically store the hard drive in another location after backing it up, which is very far from an automated system.
-		- I considered instead running a backup to a 22 Tearbt hard drive once a week and keeping that drive and a fireproof safe.
-		  But even fireproof safes get really hot inside when there's a fire potentially frying the drive anyways and they're only rated to last an hour in the event of a fire.
-		  So let's be real this option won't actually protect my data if the house burns down or gets robbed and it's still a lot of manual work.
+		- ||
+		  | That's also going to add up fast. | 그것도 빨리 누적될 거에요. |
+		  | Now a cheaper option is to buy a giant 22 terabyte hard drive and back up the whole NAST to that. | 이제 더 저렴한 옵션은 거대한 22 테라바이트 하드 드라이브를 구매하고 전체 NAST를 백업하는 것입니다. |
+		  | The downside is that I'll run out of space on that drive pretty soon and to protect my data against catastrophes like my house burning down, I'd have to physically store the hard drive in another location after backing it up, which is very far from an automated system. | 그 단점은 나는 그 드라이브의 공간이 매우 빨리 부족해지고, 내 집이 불이 나는 등의 재앙으로부터 내 데이터를 보호하기 위해, 백업 후에 그 하드 드라이브를 물리적으로 다른 위치에 저장해야 한다는 것입니다. 이것은 자동화된 시스템과는 아주 거리가 먼 일입니다. |
+		- ||
+		  | I considered instead running a backup to a 22 Tearbt hard drive once a week and keeping that drive and a fireproof safe. | 대신 매주 22테라바이트 하드 드라이브로 백업을 실행하고 그 드라이브와 방화 안전 금고에 보관하는 것을 고려했습니다. |
+		  | But even fireproof safes get really hot inside when there's a fire potentially frying the drive anyways and they're only rated to last an hour in the event of a fire. | 그러나 화재가 발생할 때 방화 안전 금고도 실제로 내부가 엄청나게 뜨거워지며, 어쨌든 드라이브를 태워 버릴 수 있으며, 금고는 화재 시 1시간만 버틴다는 등급만 받았습니다. |
+		  | So let's be real this option won't actually protect my data if the house burns down or gets robbed and it's still a lot of manual work. | 그러니 실상, 이 옵션은 집이 불에 타거나 도난당할 경우 실제로 데이터를 보호하지 못할 것이고, 여전히 많은 수작업이 필요할 것입니다. |
 		- I couldn't crack the code for a while on this problem but finally, I found exactly what I was looking for.
 		  This video is not sponsored by the service it's just the only option that made sense to me.
 		  Backblaze is a website that offers automated cloud backups of all of the data on your computer and using their personal plan, this costs 100 dollars a year for unlimited data,
