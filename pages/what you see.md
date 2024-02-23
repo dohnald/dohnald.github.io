@@ -1414,3 +1414,16 @@ public:: false
 			  위의 예시는 6시간마다 실행되며, Python 스크립트인 `save_video_info.py`를 실행하여 YouTube 영상 정보를 저장하는 방법입니다. `save_video_info.py`는 YouTube Data API를 사용하여 원하는 정보를 가져와 GitHub에 저장하는 스크립트입니다.
 			  
 			  영상 파일을 GitHub에 업로드하고 싶다면, 직접 스크립트를 작성하여 영상 파일을 다운로드한 뒤 GitHub API를 사용하여 업로드하는 방법이 있습니다. 그러나 이 작업은 보안상의 이유로 주의해야 하며, API 사용량 제한 등을 고려해야 합니다.
+- [[2024/02/22]]
+	- DONE [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
+	- DONE [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/xI1ShY-zKus/hqdefault.jpg)
+	- DONE [jessica quiambao-how i film & edit my youtube videos using phone📱: intro, music, fonts + more (aesthetic & pastel)](https://youtube.com/watch?v=13mpKPOah54&si=btRjwNl9GLOn6KIP) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/13mpKPOah54/hqdefault.jpg)
+	- DONE [Standard Story Company-Working Smarter (not harder) to Make a Short Film](https://youtube.com/watch?v=XCMJP2iiWII&si=y3EUrjgxzUnnl1bl) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/XCMJP2iiWII/hqdefault.jpg)

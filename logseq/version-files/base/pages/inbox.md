@@ -21,15 +21,9 @@ public:: false
 - TODO [[2024/02/15]] 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
 - TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
 	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
-- DONE [EO 이오-회계사 1년 합격 공부법과 경제적 목표 달성 전략 | 최성운의 사고실험 [이재용]](https://youtube.com/watch?v=Q5Z-ovinDd0&si=Wd0SvYFuL7aI_vsn) [[2024/02/16]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Q5Z-ovinDd0/hqdefault.jpg)
 - TODO [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
-- DONE [Dundas Valley Montessori School-A Montessori Toddler Morning](https://youtube.com/watch?v=xI1ShY-zKus&si=pXjiVSH3p_ZyXqLi) [[2024/02/17]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/xI1ShY-zKus/hqdefault.jpg)
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
