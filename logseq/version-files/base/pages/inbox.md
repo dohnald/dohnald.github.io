@@ -96,10 +96,8 @@ public:: false
 		- ||
 		  | I needed one that could handle some hardcore work. | 저는 강력한 작업을 처리할 수 있는 것이 필요했습니다. |
 		  | And one more big benefit for editors This unit also has an extra PCI Express slot available, which means you can buy a card like this for about 200 bucks and you'll easily be able to add two more SSDS to the system. | 그리고 편집자들에 대한 또 한 가지 큰 혜택입니다. 이 장치에는 추가 PCI Express 슬롯이 있어서 약 200달러 정도로 이런 카드를 구입할 수 있으며 시스템에 더 두 개의 SSD를 쉽게 추가할 수 있습니다. |
-		- If you ever want more fast storage space, for example, pretty handy, I'll probably add 28 terabyte SSDS to this once the prices come down on those over the next year or two or maybe I'll just buy a lower priced expansion unit like this connects to the NAS to add more storage or for a specific bigger project like whenever I make my next feature for example.
-		  So you get a lot of options about expanding your storage space when you get an ask.
-		  So it seems like this system might allow me to complete all 7 of my goals.
-		  However, it's not cheap. Make no mistake.
+		- | |
+		  | If you ever want more fast storage space, for example, pretty handy, I'll probably add 28 terabyte SSDs to this once the prices come down on those over the next year or two. or maybe I'll just buy a lower-priced expansion unit like this connects to the NAS to add more storage or for a specific bigger project. like whenever I make my next feature for example. So you get a lot of options about expanding your storage space when you get an ask. So it seems like this system might allow me to complete all 7 of my goals. However, it's not cheap. Make no mistake. | 더 빠른 저장 공간이 필요할 경우 28테라바이트 SSD를 추가할 예정입니다. 다음 1~2년 동안 가격이 내려간 후에요. 혹은 이 NAS에 연결해 더 많은 용량을 추가하거나 특정 대형 프로젝트에 사용할 저렴한 확장 유닛을 사기도 할 수 있을 거예요. 예를 들어, 제가 다음 기능을 만들 때처럼요. 따라서 요청을 받게 되면 저장 공간을 확장할 수 있는 많은 옵션이 제공될 것입니다. 모든 7가지 목표를 달성할 수 있을 것 같아요! 하지만 싸지 않아요. 착각하지 마세요. |
 		- Getting a NAS system, especially a powerful and versatile one like this, is an investment for your business.
 		  And if your data is not bringing in money, it's probably not the time to invest in a NAS because this NAS empty without any of the hard drives or SSDS inside it costs significantly more than my first card.
 		  You can believe that now, granted, this was not a nice car.
