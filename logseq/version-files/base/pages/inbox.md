@@ -205,3 +205,7 @@ public:: false
 - TODO [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
+
+- TODO [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
