@@ -175,7 +175,7 @@ public:: false
 	- 하인-하나님께서 인도하심
 	-
 -
-- TODO [띱 Deep-손님과 알바](https://youtube.com/watch?v=F8f_Tobdu6o&si=-KER9cqn_ulYiLKR) [[2024/02/24]] 
+- DONE [띱 Deep-손님과 알바](https://youtube.com/watch?v=F8f_Tobdu6o&si=-KER9cqn_ulYiLKR) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/F8f_Tobdu6o/hqdefault.jpg)
 - TODO [Chris J Wilson-How to Add the Bible to Obsidian](https://youtube.com/watch?v=kT4g59YCbd0&si=C3h1AcbGxeGDHTJA) [[2024/02/24]] 
