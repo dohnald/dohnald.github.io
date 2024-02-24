@@ -221,3 +221,7 @@ collapsed:: true
 - TODO [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
+
+- TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
