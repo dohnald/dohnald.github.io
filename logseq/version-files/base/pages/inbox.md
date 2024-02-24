@@ -159,7 +159,7 @@ public:: false
 - DONE [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
-- TODO [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
+- DONE [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
 - DONE [[2024/02/24]] https://twitter.com/GeekNewsBot
