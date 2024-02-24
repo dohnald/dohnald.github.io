@@ -201,3 +201,7 @@ collapsed:: true
 - TODO [천천히 세계여행 앤젤리나_Angelina_lee-환전,현금 없이 여행 가능한 동남아 자유의 도시 방콕](https://youtube.com/watch?v=ZOHTJvE07Yk&si=9vO_a6GwR-vTviK7) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
+
+- TODO [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
