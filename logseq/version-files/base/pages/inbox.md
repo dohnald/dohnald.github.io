@@ -197,3 +197,7 @@ collapsed:: true
 - TODO [디에디트 라이프 THE EDIT-빵도 호텔에서 사먹고 더치페이도 안하는 제가 문제일까요??](https://youtube.com/watch?v=meOodoGA9rA&si=8WB2p_KoX-n5bWxN) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
+
+- TODO [천천히 세계여행 앤젤리나_Angelina_lee-환전,현금 없이 여행 가능한 동남아 자유의 도시 방콕](https://youtube.com/watch?v=ZOHTJvE07Yk&si=9vO_a6GwR-vTviK7) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
