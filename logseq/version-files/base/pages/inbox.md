@@ -225,3 +225,7 @@ collapsed:: true
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
+
+- TODO [생활코딩-AWS - S3 1 : 소개](https://youtube.com/watch?v=Dr7WKfHvqIw&si=Kh18bac9q4nl0skC) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
