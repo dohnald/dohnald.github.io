@@ -44,7 +44,7 @@ public:: false
 - TODO [무아공간-이렇게나 좁은 자녀방도 해결 가능합니다 #자녀방인테리어](https://youtube.com/watch?v=HhLZJ7FHA9U&si=MNL0W5MK6U3FNu3g) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HhLZJ7FHA9U/hqdefault.jpg)
-- TODO [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
+- DONE [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/BSxyRIlinTM/hqdefault.jpg)
 - DONE [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
