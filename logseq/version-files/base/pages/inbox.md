@@ -187,6 +187,6 @@ public:: false
 - TODO [미키피디아-🍾대세는 홈파티? 쉽게 준비하면서도 인맥왕 되는 5가지 방법](https://youtube.com/watch?v=GnPNy4Y5hzw&si=qI41If8RfB96-bIE) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GnPNy4Y5hzw/hqdefault.jpg)
-- TODO [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
+- DONE [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
