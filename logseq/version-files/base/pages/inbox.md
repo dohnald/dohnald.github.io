@@ -171,4 +171,7 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/geeknewsbot/status/1761194997632864706?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- 하인-하나님께거 인도하심
+- 꾸미
+	- 하인-하나님께서 인도하심
+	-
+-
