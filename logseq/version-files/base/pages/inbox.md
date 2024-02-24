@@ -232,3 +232,6 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [만부부당-만명 그 이상의 경험-조호바루 한달살기 할것 장단점 어린이집 유치원 숙소 렌트카 에어비앤비 이스칸다르 엘리시아 키디코브 마나카페 예산](https://youtube.com/watch?v=tTHYqz-4sDM&si=L6gz4n3gW5DhO06s) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/tTHYqz-4sDM/hqdefault.jpg)
