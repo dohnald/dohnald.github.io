@@ -202,40 +202,33 @@ public:: false
 - DONE [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
-- TODO [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
-
+- DONE [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
 - TODO [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
 - TODO [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
 - TODO [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
 - TODO [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
 - TODO [생활코딩-AWS - S3 1 : 소개](https://youtube.com/watch?v=Dr7WKfHvqIw&si=Kh18bac9q4nl0skC) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
 - TODO [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/smartbosslee
-> 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
-
-collapsed:: true
-  - {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  collapsed:: true
+  > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
+  
+  collapsed:: true
+	- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
