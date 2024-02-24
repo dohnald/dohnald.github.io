@@ -205,7 +205,7 @@ public:: false
 - DONE [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
-- TODO [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
+- DONE [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
 - TODO [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
