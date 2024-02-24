@@ -34,8 +34,8 @@ public:: false
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- TODO https://empty.coffee/logseq-feedbin-share-quick-capture/
-- TODO [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
+- DONE https://empty.coffee/logseq-feedbin-share-quick-capture/
+- DONE [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
 - TODO [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
@@ -120,7 +120,7 @@ public:: false
 		  | 3 | 인스타 360 앱을 통해 파일을 외부 저장 매체에 전송하거나 컴퓨터에 연결하여 파일을 이동할 수 있습니다. |
 		  | 4 | 외장 하드 드라이브나 USB 플래시 드라이브를 이용하여 파일을 직접 이동하고 백업할 수 있습니다. |
 		  | 5 | 파일 공유 앱을 활용하여 다른 기기로 파일을 전송하여 백업할 수도 있습니다. |
-- TODO [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
+- DONE [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
 - DONE [슈카월드 코믹스-신입의 돌발발언에 속 타는 좋좋소 사장](https://youtube.com/watch?v=Tios00lS03Q&si=cKxWj8PCfN_Wbapv) [[2024/02/23]] 
@@ -138,13 +138,13 @@ public:: false
 - TODO [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
   collapsed:: true
 	- ![]()
-- TODO [Linking Your Thinking with Nick Milo-Bible Study: How Joschua uses the LYT frameworks (Obsidian)](https://youtube.com/watch?v=vxc6YbmpMNQ&si=8ODYPv5kwjQAW_lr) [[2024/02/23]] 
+- DONE [Linking Your Thinking with Nick Milo-Bible Study: How Joschua uses the LYT frameworks (Obsidian)](https://youtube.com/watch?v=vxc6YbmpMNQ&si=8ODYPv5kwjQAW_lr) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vxc6YbmpMNQ/hqdefault.jpg)
 - TODO [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
-- TODO [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
+- DONE [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
 - TODO [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
@@ -156,9 +156,18 @@ public:: false
 - DONE [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
-- TODO [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
+- DONE [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
+- DONE [[2024/02/24]] https://twitter.com/GeekNewsBot
+  collapsed:: true
+  > NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기 <https://t.co/LLJuIGj3nn>   
+  \- Ollama를 이용하여 애플의 메모(Notes) 앱 안에서 로컬 LLM과 대화하기   
+  \- Obsidian Ollama에서 영감을 받음 (왜 옵시디언만 훌륭한 플러그인을 가지고 있어야 하지?!)   
+  \- SwiftUI + AXSwift(접근성 API를 이용...
+  
+  collapsed:: true
+	- {{tweet https://x.com/geeknewsbot/status/1761194997632864706?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
