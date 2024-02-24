@@ -193,3 +193,7 @@ public:: false
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
+
+- TODO [디에디트 라이프 THE EDIT-빵도 호텔에서 사먹고 더치페이도 안하는 제가 문제일까요??](https://youtube.com/watch?v=meOodoGA9rA&si=8WB2p_KoX-n5bWxN) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
