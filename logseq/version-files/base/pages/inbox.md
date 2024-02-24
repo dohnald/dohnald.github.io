@@ -217,3 +217,7 @@ collapsed:: true
 - TODO [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
+
+- TODO [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
