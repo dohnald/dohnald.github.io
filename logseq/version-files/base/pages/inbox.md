@@ -213,3 +213,7 @@ collapsed:: true
 - TODO [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
+
+- TODO [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
