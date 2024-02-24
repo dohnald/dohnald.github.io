@@ -229,3 +229,7 @@ collapsed:: true
 - TODO [생활코딩-AWS - S3 1 : 소개](https://youtube.com/watch?v=Dr7WKfHvqIw&si=Kh18bac9q4nl0skC) [[2024/02/25]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
+
+- TODO [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
