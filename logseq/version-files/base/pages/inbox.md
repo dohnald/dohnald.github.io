@@ -202,3 +202,6 @@ public:: false
 - DONE [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
+- TODO [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
