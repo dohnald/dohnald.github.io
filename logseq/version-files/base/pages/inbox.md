@@ -47,7 +47,7 @@ public:: false
 - TODO [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/BSxyRIlinTM/hqdefault.jpg)
-- TODO [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
+- DONE [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
 - [[chatGPT]]
@@ -191,17 +191,14 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
 - TODO [디에디트 라이프 THE EDIT-빵도 호텔에서 사먹고 더치페이도 안하는 제가 문제일까요??](https://youtube.com/watch?v=meOodoGA9rA&si=8WB2p_KoX-n5bWxN) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
 - TODO [천천히 세계여행 앤젤리나_Angelina_lee-환전,현금 없이 여행 가능한 동남아 자유의 도시 방콕](https://youtube.com/watch?v=ZOHTJvE07Yk&si=9vO_a6GwR-vTviK7) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
 - TODO [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
