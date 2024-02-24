@@ -190,3 +190,6 @@ public:: false
 - DONE [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
+- TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
