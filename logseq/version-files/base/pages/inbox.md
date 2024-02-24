@@ -147,7 +147,7 @@ public:: false
 - DONE [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
-- TODO [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
+- DONE [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/91NAYZ7vXBE/hqdefault.jpg)
 - DONE [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
