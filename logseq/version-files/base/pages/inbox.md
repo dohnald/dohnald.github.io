@@ -209,3 +209,7 @@ collapsed:: true
 - TODO [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
+
+- TODO [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
