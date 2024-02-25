@@ -241,30 +241,24 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [이과장-아침 충성으로 시작하는 중소인의 하루](https://youtube.com/watch?v=Vqkmaa3LU24&si=Vmza81lX-OML6IhK) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/Vqkmaa3LU24/hqdefault.jpg)
-
+- DONE [이과장-아침 충성으로 시작하는 중소인의 하루](https://youtube.com/watch?v=Vqkmaa3LU24&si=Vmza81lX-OML6IhK) [[2024/02/25]] 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Vqkmaa3LU24/hqdefault.jpg)
 - TODO [자취남-"사무실에 전입신고해서 살고 있어요" ll 38평 원룸이에요 ll 전주 월세](https://youtube.com/watch?v=8pxrS-IJaMM&si=IJ3bwEIfIriRkcDB) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
 - TODO [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
 - TODO [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/vPy92gmO1wQ/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/vPy92gmO1wQ/hqdefault.jpg)
 - TODO [소람 soram-백수 끝, 다시 출근하는 삶 | 아이패드 미니6 키보드와 업무일지 만들기⌨️ | 출근 준비](https://youtube.com/watch?v=VQ5k56O_Ny8&si=7I9Ar8MsvXa6y2S_) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/VQ5k56O_Ny8/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/VQ5k56O_Ny8/hqdefault.jpg)
 - TODO [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
 - TODO [내일은 투자왕 - 김단테-버핏이 역대급 220조원 현금을 쌓아둔 비밀. 패닉에 대비한다는 표현은 무슨 의미일까?](https://youtube.com/watch?v=B_1v731HxrY&si=YlAkfYW59gJtTU4S) [[2024/02/25]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
