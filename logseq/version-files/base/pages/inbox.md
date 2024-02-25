@@ -250,7 +250,7 @@ public:: false
 - TODO [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
-- TODO [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
+- DONE [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vPy92gmO1wQ/hqdefault.jpg)
 - TODO [소람 soram-백수 끝, 다시 출근하는 삶 | 아이패드 미니6 키보드와 업무일지 만들기⌨️ | 출근 준비](https://youtube.com/watch?v=VQ5k56O_Ny8&si=7I9Ar8MsvXa6y2S_) [[2024/02/25]] 
