@@ -264,3 +264,7 @@ collapsed:: true
 - TODO [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
+
+- TODO [내일은 투자왕 - 김단테-버핏이 역대급 220조원 현금을 쌓아둔 비밀. 패닉에 대비한다는 표현은 무슨 의미일까?](https://youtube.com/watch?v=B_1v731HxrY&si=YlAkfYW59gJtTU4S) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
