@@ -273,3 +273,7 @@ collapsed:: true
 - TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
+
+- TODO [방구석편집자-방구석편집자가 알려주는 "영상 편집가격은 얼마인가요?"](https://youtube.com/watch?v=yh-PrUMv6xA&si=x5hxqXIhmOZ-HYok) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
