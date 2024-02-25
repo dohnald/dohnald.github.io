@@ -247,7 +247,7 @@ public:: false
 - DONE [자취남-"사무실에 전입신고해서 살고 있어요" ll 38평 원룸이에요 ll 전주 월세](https://youtube.com/watch?v=8pxrS-IJaMM&si=IJ3bwEIfIriRkcDB) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
-- TODO [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
+- DONE [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
 - DONE [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
