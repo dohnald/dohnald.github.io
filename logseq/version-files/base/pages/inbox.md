@@ -277,3 +277,7 @@ collapsed:: true
 - TODO [방구석편집자-방구석편집자가 알려주는 "영상 편집가격은 얼마인가요?"](https://youtube.com/watch?v=yh-PrUMv6xA&si=x5hxqXIhmOZ-HYok) [[2024/02/26]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
+
+- TODO [박병일의 명장본색-운전자에게 오토스탑&오토홀드 쓸모가 있을까](https://youtube.com/watch?v=5fqxUYAK9-o&si=BxItD61WoUp4JR9i) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/5fqxUYAK9-o/hqdefault.jpg)
