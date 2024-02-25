@@ -265,3 +265,7 @@ public:: false
 - TODO [-](https://youtube.com/watch?v=rsDGYD9cDPw&si=kliW0M48PSC9ntOI) [[2024/02/26]] 
 collapsed:: true
   - ![]()
+
+- TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
