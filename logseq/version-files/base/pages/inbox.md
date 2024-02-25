@@ -269,3 +269,7 @@ collapsed:: true
 - TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
+
+- TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
