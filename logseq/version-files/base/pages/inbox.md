@@ -260,3 +260,7 @@ collapsed:: true
 - TODO [소람 soram-백수 끝, 다시 출근하는 삶 | 아이패드 미니6 키보드와 업무일지 만들기⌨️ | 출근 준비](https://youtube.com/watch?v=VQ5k56O_Ny8&si=7I9Ar8MsvXa6y2S_) [[2024/02/25]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/VQ5k56O_Ny8/hqdefault.jpg)
+
+- TODO [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
