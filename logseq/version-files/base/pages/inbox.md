@@ -211,10 +211,10 @@ public:: false
 - TODO [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
-- TODO [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
+- DONE [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
-- TODO [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
+- DONE [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
@@ -236,7 +236,5 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tTHYqz-4sDM/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/Ep7WbP1KRC4wxyU
-> 이 사람은 공짜로 남의 집 정원을 청소하고 가꾸어 줍니다. 그리고 그 영상으로 돈을 법니다. 🤔 [pic.twitter.com/TYfrd0SFid](https://t.co/TYfrd0SFid)
-
-collapsed:: true
-  - {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  > 이 사람은 공짜로 남의 집 정원을 청소하고 가꾸어 줍니다. 그리고 그 영상으로 돈을 법니다. 🤔 [pic.twitter.com/TYfrd0SFid](https://t.co/TYfrd0SFid)
+	- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
