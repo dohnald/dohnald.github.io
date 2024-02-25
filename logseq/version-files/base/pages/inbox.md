@@ -241,3 +241,14 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [이과장-아침 충성으로 시작하는 중소인의 하루](https://youtube.com/watch?v=Vqkmaa3LU24&si=Vmza81lX-OML6IhK) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Vqkmaa3LU24/hqdefault.jpg)
+
+- TODO [자취남-"사무실에 전입신고해서 살고 있어요" ll 38평 원룸이에요 ll 전주 월세](https://youtube.com/watch?v=8pxrS-IJaMM&si=IJ3bwEIfIriRkcDB) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
+
+- TODO [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
