@@ -235,6 +235,9 @@ public:: false
 - TODO [만부부당-만명 그 이상의 경험-조호바루 한달살기 할것 장단점 어린이집 유치원 숙소 렌트카 에어비앤비 이스칸다르 엘리시아 키디코브 마나카페 예산](https://youtube.com/watch?v=tTHYqz-4sDM&si=L6gz4n3gW5DhO06s) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/tTHYqz-4sDM/hqdefault.jpg)
-- TODO [[2024/02/25]] https://twitter.com/Ep7WbP1KRC4wxyU
+- DONE [[2024/02/25]] https://twitter.com/Ep7WbP1KRC4wxyU
+  collapsed:: true
   > 이 사람은 공짜로 남의 집 정원을 청소하고 가꾸어 줍니다. 그리고 그 영상으로 돈을 법니다. 🤔 [pic.twitter.com/TYfrd0SFid](https://t.co/TYfrd0SFid)
+  
+  collapsed:: true
 	- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
