@@ -172,3 +172,10 @@ public:: false
 - TODO [판교 뚜벅쵸-AI에 대해 얘기하다가 출근하기 싫어진 개발자 부부의 반차 (feat. 유튜브 오류로 식겁함)](https://youtube.com/watch?v=d5Z1U1e4FYM&si=r7OFbSiWCpljgGAM) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
+- TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=67ivskCrSZl0q-eH) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
+
+- TODO [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
