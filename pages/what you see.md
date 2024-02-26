@@ -1815,3 +1815,49 @@ public:: false
 	- DONE [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
+	- DONE [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
+	- DONE [방구석편집자-방구석편집자가 알려주는 "영상 편집가격은 얼마인가요?"](https://youtube.com/watch?v=yh-PrUMv6xA&si=x5hxqXIhmOZ-HYok) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
+	- DONE [박병일의 명장본색-운전자에게 오토스탑&오토홀드 쓸모가 있을까](https://youtube.com/watch?v=5fqxUYAK9-o&si=BxItD61WoUp4JR9i) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/5fqxUYAK9-o/hqdefault.jpg)
+	- DONE [초코우유 Chocouyu-조식 먹는데 벗고 온 직원들... (코이티비 비하인드)](https://youtube.com/watch?v=ewFKe2pCSvU&si=seOoVz_NFKlPMVs5) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ewFKe2pCSvU/hqdefault.jpg)
+	- DONE [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
+	- DONE [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
+	- DONE [정리왕-정리정돈은 이 영상으로 마무리 하세요ㅣ청소루틴ㅣ깨끗한집ㅣ미니멀라이프](https://youtube.com/watch?v=vnFI0n1eF5w&si=8vludEalq_8xI7Yp) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/vnFI0n1eF5w/hqdefault.jpg)
+	- DONE [판교 뚜벅쵸-AI에 대해 얘기하다가 출근하기 싫어진 개발자 부부의 반차 (feat. 유튜브 오류로 식겁함)](https://youtube.com/watch?v=d5Z1U1e4FYM&si=r7OFbSiWCpljgGAM) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
+	- DONE [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=67ivskCrSZl0q-eH) [[2024/02/26]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
+		- 위네 있음
+	- DONE [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
+	- DONE [Reagan Rose-How to Plan for a Productive Week | Christian Productivity](https://youtube.com/watch?v=sZyDy69JK6M&si=fKqV63Tw0a-dkY59) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/sZyDy69JK6M/hqdefault.jpg)
+	- DONE [Reagan Rose-Should Christians Be Minimalists?](https://youtube.com/watch?v=_953JLi7knE&si=bak4M34xv1gXE0vJ) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
+	- DONE [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
+	- DONE [빨빨파니-P와 J의 즉흥여행기 J는 피곤하다](https://youtube.com/watch?v=P0ANPu8RVsA&si=03Enhar3UO87kd0I) [[2024/02/27]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/P0ANPu8RVsA/hqdefault.jpg)
+	- DONE [마커스픽쳐스-마크 러팔로가  충격받고 제작한 영화 - 대기업에 맞서 20년간 싸운 한 변호사의 이야기 [영화리뷰/결말포함]](https://youtube.com/watch?v=FglttggNKJc&si=F78Fx6KEjk113Qj6) [[2024/02/27]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/FglttggNKJc/hqdefault.jpg)
