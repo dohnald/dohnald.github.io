@@ -26,7 +26,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
 - TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
-- TODO [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
+- DONE [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
 	- target url이 아닌 target directory로 배포하면 될 것 같은데...
 - TODO [NAVER Cloud Platform : 네이버 클라우드 플랫폼-쿠버네티스 안 써도 되지 않나요? 조훈 님에게 물어봤습니다. (쿠버네티스 담당자 필수 시청)](https://youtube.com/watch?v=m-EmnMFRgeQ&si=iT6iBPZAPr0oVA6B) [[2024/02/21]]
   collapsed:: true
@@ -152,3 +152,9 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/02/26]] https://twitter.com/Vajrahomo
+  collapsed:: true
+  > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
+  
+  collapsed:: true
+	- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
