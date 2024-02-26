@@ -1455,6 +1455,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/IkrUFytfiv0/hqdefault.jpg)
 - [[2024/02/23]]
+  collapsed:: true
 	- DONE [Standard Story Company-Editors: There's a better way to store media.](https://youtube.com/watch?v=cx1oyyKvnBE&si=dy4IxQKYLWqrZGTa) [[2024/02/16]]
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/cx1oyyKvnBE/hqdefault.jpg)
@@ -1681,3 +1682,5 @@ public:: false
 	- DONE [빠더너스 BDNS-[해인칭] 고등학교 자퇴 후 입사? MZ와 허물없는 대화 나누는 빠더너스](https://youtube.com/watch?v=iuPvuALlcsY&si=Z5WWUjd4uZM5_Bca) [[2024/02/22]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/iuPvuALlcsY/hqdefault.jpg)
+- [[2024/02/25]]
+	-
