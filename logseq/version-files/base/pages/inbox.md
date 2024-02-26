@@ -185,7 +185,7 @@ public:: false
 - DONE [Reagan Rose-Should Christians Be Minimalists?](https://youtube.com/watch?v=_953JLi7knE&si=bak4M34xv1gXE0vJ) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
-- TODO [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
+- DONE [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
 - TODO [빨빨파니-P와 J의 즉흥여행기 J는 피곤하다](https://youtube.com/watch?v=P0ANPu8RVsA&si=03Enhar3UO87kd0I) [[2024/02/27]] 
