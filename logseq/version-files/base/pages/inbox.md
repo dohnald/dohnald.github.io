@@ -179,7 +179,7 @@ public:: false
 - DONE [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
-- TODO [Reagan Rose-How to Plan for a Productive Week | Christian Productivity](https://youtube.com/watch?v=sZyDy69JK6M&si=fKqV63Tw0a-dkY59) [[2024/02/26]] 
+- DONE [Reagan Rose-How to Plan for a Productive Week | Christian Productivity](https://youtube.com/watch?v=sZyDy69JK6M&si=fKqV63Tw0a-dkY59) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/sZyDy69JK6M/hqdefault.jpg)
 - TODO [Reagan Rose-Should Christians Be Minimalists?](https://youtube.com/watch?v=_953JLi7knE&si=bak4M34xv1gXE0vJ) [[2024/02/26]] 
