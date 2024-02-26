@@ -114,7 +114,7 @@ public:: false
 - TODO [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
   collapsed:: true
 	- ![]()
-- TODO [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
+- DONE [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
@@ -173,6 +173,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
 - DONE [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=67ivskCrSZl0q-eH) [[2024/02/26]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
 	- 위네 있음
 - DONE [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
@@ -185,5 +186,5 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
 - TODO [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
