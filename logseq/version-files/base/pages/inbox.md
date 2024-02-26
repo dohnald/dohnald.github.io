@@ -163,3 +163,6 @@ public:: false
 - TODO [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
+- TODO [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
