@@ -34,22 +34,12 @@ public:: false
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- DONE https://empty.coffee/logseq-feedbin-share-quick-capture/
-- DONE [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
 - TODO [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/8F9jQS5xUq4/hqdefault.jpg)
 - TODO [무아공간-이렇게나 좁은 자녀방도 해결 가능합니다 #자녀방인테리어](https://youtube.com/watch?v=HhLZJ7FHA9U&si=MNL0W5MK6U3FNu3g) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HhLZJ7FHA9U/hqdefault.jpg)
-- DONE [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/BSxyRIlinTM/hqdefault.jpg)
-- DONE [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
 - [[chatGPT]]
   collapsed:: true
 	- 내 lexile 점수는 430점입니다. 내 수준에 적합한 500자 정도 분량의 영어로 된 애플 관련 뉴스 3개를 작성해주세요.
@@ -120,172 +110,51 @@ public:: false
 		  | 3 | 인스타 360 앱을 통해 파일을 외부 저장 매체에 전송하거나 컴퓨터에 연결하여 파일을 이동할 수 있습니다. |
 		  | 4 | 외장 하드 드라이브나 USB 플래시 드라이브를 이용하여 파일을 직접 이동하고 백업할 수 있습니다. |
 		  | 5 | 파일 공유 앱을 활용하여 다른 기기로 파일을 전송하여 백업할 수도 있습니다. |
-- DONE [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
-- DONE [슈카월드 코믹스-신입의 돌발발언에 속 타는 좋좋소 사장](https://youtube.com/watch?v=Tios00lS03Q&si=cKxWj8PCfN_Wbapv) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Tios00lS03Q/hqdefault.jpg)
-- DONE [채널십오야-지락이들에게점령당한에그이즈커밍 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=NFcp_8np3e8&si=Tzhy79V8tVhOLTWa) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/NFcp_8np3e8/hqdefault.jpg)
-- DONE [미망이-미망이 잡썰(GPT로 설교 준비하기)](https://youtube.com/watch?v=ExL6VLD8nTE&si=Ex7p9U-1qayV7j0A) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/ExL6VLD8nTE/hqdefault.jpg)
-- DONE [숏박스-오늘의 날씨](https://youtube.com/watch?v=W0rjQWpxgdA&si=feT3ZJJZ4XMu4Xe2) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/W0rjQWpxgdA/hqdefault.jpg)
 - TODO [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
   collapsed:: true
 	- ![]()
-- DONE [Linking Your Thinking with Nick Milo-Bible Study: How Joschua uses the LYT frameworks (Obsidian)](https://youtube.com/watch?v=vxc6YbmpMNQ&si=8ODYPv5kwjQAW_lr) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/vxc6YbmpMNQ/hqdefault.jpg)
 - TODO [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
-- DONE [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
-- DONE [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/91NAYZ7vXBE/hqdefault.jpg)
-- DONE [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/PpP9_7ymx7g/hqdefault.jpg)
-- DONE [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
-- DONE [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
-- DONE [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
-- DONE [[2024/02/24]] https://twitter.com/GeekNewsBot
-  collapsed:: true
-  > NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기 <https://t.co/LLJuIGj3nn>   
-  \- Ollama를 이용하여 애플의 메모(Notes) 앱 안에서 로컬 LLM과 대화하기   
-  \- Obsidian Ollama에서 영감을 받음 (왜 옵시디언만 훌륭한 플러그인을 가지고 있어야 하지?!)   
-  \- SwiftUI + AXSwift(접근성 API를 이용...
-  
-  collapsed:: true
-	- {{tweet https://x.com/geeknewsbot/status/1761194997632864706?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - 꾸미
 	- 하인-하나님께서 인도하심
 	-
 -
-- DONE [띱 Deep-손님과 알바](https://youtube.com/watch?v=F8f_Tobdu6o&si=-KER9cqn_ulYiLKR) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/F8f_Tobdu6o/hqdefault.jpg)
-- DONE [Chris J Wilson-How to Add the Bible to Obsidian](https://youtube.com/watch?v=kT4g59YCbd0&si=C3h1AcbGxeGDHTJA) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/kT4g59YCbd0/hqdefault.jpg)
-- DONE [메타택시-오빠 어떻게하면 기분이 풀리겠어?](https://youtube.com/watch?v=GxAlIRi6tpo&si=0l6DnP9u3kPQdNhQ) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/GxAlIRi6tpo/hqdefault.jpg)
-- DONE [미키피디아-🍾대세는 홈파티? 쉽게 준비하면서도 인맥왕 되는 5가지 방법](https://youtube.com/watch?v=GnPNy4Y5hzw&si=qI41If8RfB96-bIE) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/GnPNy4Y5hzw/hqdefault.jpg)
-- DONE [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
-- DONE [디에디트 라이프 THE EDIT-빵도 호텔에서 사먹고 더치페이도 안하는 제가 문제일까요??](https://youtube.com/watch?v=meOodoGA9rA&si=8WB2p_KoX-n5bWxN) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
-- DONE [천천히 세계여행 앤젤리나_Angelina_lee-환전,현금 없이 여행 가능한 동남아 자유의 도시 방콕](https://youtube.com/watch?v=ZOHTJvE07Yk&si=9vO_a6GwR-vTviK7) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
-- DONE [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
-- DONE [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
-- DONE [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
-- DONE [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
-- DONE [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
-- DONE [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
-- DONE [생활코딩-AWS - S3 1 : 소개](https://youtube.com/watch?v=Dr7WKfHvqIw&si=Kh18bac9q4nl0skC) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
 - TODO [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/smartbosslee
   collapsed:: true
   > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
-  
-  collapsed:: true
 	- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- DONE [만부부당-만명 그 이상의 경험-조호바루 한달살기 할것 장단점 어린이집 유치원 숙소 렌트카 에어비앤비 이스칸다르 엘리시아 키디코브 마나카페 예산](https://youtube.com/watch?v=tTHYqz-4sDM&si=L6gz4n3gW5DhO06s) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/tTHYqz-4sDM/hqdefault.jpg)
-- DONE [[2024/02/25]] https://twitter.com/Ep7WbP1KRC4wxyU
-  collapsed:: true
-  > 이 사람은 공짜로 남의 집 정원을 청소하고 가꾸어 줍니다. 그리고 그 영상으로 돈을 법니다. 🤔 [pic.twitter.com/TYfrd0SFid](https://t.co/TYfrd0SFid)
-  
-  collapsed:: true
-	- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- DONE [이과장-아침 충성으로 시작하는 중소인의 하루](https://youtube.com/watch?v=Vqkmaa3LU24&si=Vmza81lX-OML6IhK) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/Vqkmaa3LU24/hqdefault.jpg)
-- DONE [자취남-"사무실에 전입신고해서 살고 있어요" ll 38평 원룸이에요 ll 전주 월세](https://youtube.com/watch?v=8pxrS-IJaMM&si=IJ3bwEIfIriRkcDB) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
-- DONE [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
-- DONE [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/vPy92gmO1wQ/hqdefault.jpg)
-- DONE [소람 soram-백수 끝, 다시 출근하는 삶 | 아이패드 미니6 키보드와 업무일지 만들기⌨️ | 출근 준비](https://youtube.com/watch?v=VQ5k56O_Ny8&si=7I9Ar8MsvXa6y2S_) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/VQ5k56O_Ny8/hqdefault.jpg)
 - TODO [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
-- DONE [내일은 투자왕 - 김단테-버핏이 역대급 220조원 현금을 쌓아둔 비밀. 패닉에 대비한다는 표현은 무슨 의미일까?](https://youtube.com/watch?v=B_1v731HxrY&si=YlAkfYW59gJtTU4S) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
-- TODO [-](https://youtube.com/watch?v=rsDGYD9cDPw&si=kliW0M48PSC9ntOI) [[2024/02/26]] 
-collapsed:: true
-  - ![]()
-
+- TODO [-](https://youtube.com/watch?v=rsDGYD9cDPw&si=kliW0M48PSC9ntOI) [[2024/02/26]]
+	- ![]()
 - TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
 - TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
 - TODO [방구석편집자-방구석편집자가 알려주는 "영상 편집가격은 얼마인가요?"](https://youtube.com/watch?v=yh-PrUMv6xA&si=x5hxqXIhmOZ-HYok) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
 - TODO [박병일의 명장본색-운전자에게 오토스탑&오토홀드 쓸모가 있을까](https://youtube.com/watch?v=5fqxUYAK9-o&si=BxItD61WoUp4JR9i) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/5fqxUYAK9-o/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/5fqxUYAK9-o/hqdefault.jpg)
 - TODO [[2024/02/26]] https://twitter.com/yonggary
-> 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
+  collapsed:: true
+  > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
   
-역사는 돌에 새기는 것이 아니라 사람이 기억하는 것이고, 우리가 기억하는 걸 반일이라고 부른다면 그 사람은 기억을 얕보는거다.<https://t.co/kpslNBiaTT>
-
-collapsed:: true
-  - {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+  역사는 돌에 새기는 것이 아니라 사람이 기억하는 것이고, 우리가 기억하는 걸 반일이라고 부른다면 그 사람은 기억을 얕보는거다.<https://t.co/kpslNBiaTT>
+  
+  collapsed:: true
+	- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}

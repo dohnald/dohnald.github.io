@@ -1753,3 +1753,57 @@ public:: false
 	- DONE [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
+	- DONE [디에디트 라이프 THE EDIT-빵도 호텔에서 사먹고 더치페이도 안하는 제가 문제일까요??](https://youtube.com/watch?v=meOodoGA9rA&si=8WB2p_KoX-n5bWxN) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/meOodoGA9rA/hqdefault.jpg)
+	- DONE [천천히 세계여행 앤젤리나_Angelina_lee-환전,현금 없이 여행 가능한 동남아 자유의 도시 방콕](https://youtube.com/watch?v=ZOHTJvE07Yk&si=9vO_a6GwR-vTviK7) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ZOHTJvE07Yk/hqdefault.jpg)
+	- DONE [시칠리안 SICILIAN-치앙마이에서 태국 전통의상 입고 올드타운 누비기 [시칠리안 태국14]](https://youtube.com/watch?v=AV6R0uYl3Y4&si=SWVzQcuWH1rhjMff) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/AV6R0uYl3Y4/hqdefault.jpg)
+	- DONE [Alejandro & Marina 알레한드로와 마리나-다이빙 롱핀 비행기 어떻게 타? 공항에서 낭패보지 않는 여행 짐싸기 꿀팁!](https://youtube.com/watch?v=tMvmIkayvEk&si=yRBs-F8MqbJTJJap) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/tMvmIkayvEk/hqdefault.jpg)
+	- DONE [JohnKOBA Design-먼저 연락 X, 영업 X, 인맥 없는 디자이너가 살아남은 법 // MSI](https://youtube.com/watch?v=dWJyRff1AHg&si=pZMNv9B-mx5R3OXt) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/dWJyRff1AHg/hqdefault.jpg)
+	- DONE [유부남-딩크부부의 14평 신혼집 l 요즘 결혼하는 분들이 가장 많이 생각하는 집일지도..? l 아차산 빌라 전세](https://youtube.com/watch?v=6nH-_uVXx3g&si=0hEEwKBZW1nZmx8a) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/6nH-_uVXx3g/hqdefault.jpg)
+	- DONE [엄마표영어성장기-엄마표영어 원서읽기 능력 측정 👌렉사일(lexile) 테스트 무료 사이트들 알려드려요!! (이중언어, 초등영어)](https://youtube.com/watch?v=jl0fJ1Slo3w&si=alWl2OqI-GtsiS24) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/jl0fJ1Slo3w/hqdefault.jpg)
+	- DONE [런던쌤-[낮은중급] 영어원서 추천 ｜ 동화책 말고, 이 책으로 보세요 ｜ 성인 학습자를 위한 영어 원서 추천도서](https://youtube.com/watch?v=Ony3Z_6I_ok&si=bbLnDB5NYHn-KF_1) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Ony3Z_6I_ok/hqdefault.jpg)
+	- DONE [만부부당-만명 그 이상의 경험-조호바루 한달살기 할것 장단점 어린이집 유치원 숙소 렌트카 에어비앤비 이스칸다르 엘리시아 키디코브 마나카페 예산](https://youtube.com/watch?v=tTHYqz-4sDM&si=L6gz4n3gW5DhO06s) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/tTHYqz-4sDM/hqdefault.jpg)
+	- DONE [[2024/02/25]] https://twitter.com/Ep7WbP1KRC4wxyU
+	  collapsed:: true
+	  > 이 사람은 공짜로 남의 집 정원을 청소하고 가꾸어 줍니다. 그리고 그 영상으로 돈을 법니다. 🤔 [pic.twitter.com/TYfrd0SFid](https://t.co/TYfrd0SFid)
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/ep7wbp1krc4wxyu/status/1761403949457063961?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [이과장-아침 충성으로 시작하는 중소인의 하루](https://youtube.com/watch?v=Vqkmaa3LU24&si=Vmza81lX-OML6IhK) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Vqkmaa3LU24/hqdefault.jpg)
+	- DONE [자취남-"사무실에 전입신고해서 살고 있어요" ll 38평 원룸이에요 ll 전주 월세](https://youtube.com/watch?v=8pxrS-IJaMM&si=IJ3bwEIfIriRkcDB) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/8pxrS-IJaMM/hqdefault.jpg)
+	- DONE [스튜디오헤이 StudioHey-나와라 정전기! 타올라라 불꽃! 익어라 고기!](https://youtube.com/watch?v=OxYgRkqOuCE&si=66FPhTIuz1QKRSV7) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/OxYgRkqOuCE/hqdefault.jpg)
+	- DONE [180초-소주랑](https://youtube.com/watch?v=vPy92gmO1wQ&si=OCP90V3GUW_AA3ty) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/vPy92gmO1wQ/hqdefault.jpg)
+	- DONE [소람 soram-백수 끝, 다시 출근하는 삶 | 아이패드 미니6 키보드와 업무일지 만들기⌨️ | 출근 준비](https://youtube.com/watch?v=VQ5k56O_Ny8&si=7I9Ar8MsvXa6y2S_) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/VQ5k56O_Ny8/hqdefault.jpg)
+	- DONE [생활코딩-AWS - S3 1 : 소개](https://youtube.com/watch?v=Dr7WKfHvqIw&si=Kh18bac9q4nl0skC) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Dr7WKfHvqIw/hqdefault.jpg)
+	- DONE [내일은 투자왕 - 김단테-버핏이 역대급 220조원 현금을 쌓아둔 비밀. 패닉에 대비한다는 표현은 무슨 의미일까?](https://youtube.com/watch?v=B_1v731HxrY&si=YlAkfYW59gJtTU4S) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
