@@ -1683,4 +1683,73 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/iuPvuALlcsY/hqdefault.jpg)
 - [[2024/02/25]]
-	-
+	- DONE https://empty.coffee/logseq-feedbin-share-quick-capture/
+	- DONE [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/YjAzKBzwWS8/hqdefault.jpg)
+	- DONE [패트 PAT-카페에서 책 읽고 필통 정리한 일상 vlog✏️](https://youtube.com/watch?v=BSxyRIlinTM&si=6rNWMJYobD4mvOCt) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/BSxyRIlinTM/hqdefault.jpg)
+	- DONE [유랄라Youlalla-브브걸 멤버들이랑 캠핑🏕️](https://youtube.com/watch?v=If2e6xcc44I&si=huBBBsuygClkexrL) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/If2e6xcc44I/hqdefault.jpg)
+	- DONE [MMTG-(감동 주의) 부모님한테 전화 걸고 싶어지는 영상](https://youtube.com/watch?v=b5UlHkGSegs&si=LOKNZydrx4N6OvfN) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/b5UlHkGSegs/hqdefault.jpg)
+	- DONE [슈카월드 코믹스-신입의 돌발발언에 속 타는 좋좋소 사장](https://youtube.com/watch?v=Tios00lS03Q&si=cKxWj8PCfN_Wbapv) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Tios00lS03Q/hqdefault.jpg)
+	- DONE [채널십오야-지락이들에게점령당한에그이즈커밍 | 👅나영석의 우르르쾅쾅](https://youtube.com/watch?v=NFcp_8np3e8&si=Tzhy79V8tVhOLTWa) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/NFcp_8np3e8/hqdefault.jpg)
+	- DONE [미망이-미망이 잡썰(GPT로 설교 준비하기)](https://youtube.com/watch?v=ExL6VLD8nTE&si=Ex7p9U-1qayV7j0A) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ExL6VLD8nTE/hqdefault.jpg)
+	- DONE [숏박스-오늘의 날씨](https://youtube.com/watch?v=W0rjQWpxgdA&si=feT3ZJJZ4XMu4Xe2) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/W0rjQWpxgdA/hqdefault.jpg)
+	- DONE [Linking Your Thinking with Nick Milo-Bible Study: How Joschua uses the LYT frameworks (Obsidian)](https://youtube.com/watch?v=vxc6YbmpMNQ&si=8ODYPv5kwjQAW_lr) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/vxc6YbmpMNQ/hqdefault.jpg)
+	- DONE [Reagan Rose-How to Track Your Bible Reading in Obsidian](https://youtube.com/watch?v=tSQVmhaLN7c&si=yzLK1lJkRWdyQ8AS) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/tSQVmhaLN7c/hqdefault.jpg)
+	- DONE [스튜디오헤이 StudioHey-어르신, 고나리는 처음이시죠? | 고나리자 EP.07](https://youtube.com/watch?v=91NAYZ7vXBE&si=H0hNV5vDra6ur6tI) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/91NAYZ7vXBE/hqdefault.jpg)
+	- DONE [그것이 알고싶다-담당PD가 만난 당시 용의선상에 올랐던 사람들의 반응은? | 그알 비하인드](https://youtube.com/watch?v=PpP9_7ymx7g&si=C7lxr1aoUjVsBfQy) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/PpP9_7ymx7g/hqdefault.jpg)
+	- DONE [취재대행소 왱-전기차도 주행 중 충전할 수 있을까?](https://youtube.com/watch?v=k0g7x7K4dxw&si=zQ-qg9F4mG6PIZZI) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/k0g7x7K4dxw/hqdefault.jpg)
+	- DONE [긱블 Geekble-한국인이 개발한 냉면용 차가운 버너 ㄷㄷ](https://youtube.com/watch?v=m9MSQMMw4CU&si=Ma4xZjFMpuADZ--f) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/m9MSQMMw4CU/hqdefault.jpg)
+	- DONE [시칠리안 SICILIAN-파워 내향인 여자 혼자 해외여행가면 생기는 일 [태국 23_치앙마이]](https://youtube.com/watch?v=I8zYpW5VoKU&si=FXZqNtFt__nWYZbt) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/I8zYpW5VoKU/hqdefault.jpg)
+	- DONE [[2024/02/24]] https://twitter.com/GeekNewsBot
+	  collapsed:: true
+	  > NotesOllama - 애플 메모 앱 안에서 LLM과 대화하기 <https://t.co/LLJuIGj3nn>   
+	  \- Ollama를 이용하여 애플의 메모(Notes) 앱 안에서 로컬 LLM과 대화하기   
+	  \- Obsidian Ollama에서 영감을 받음 (왜 옵시디언만 훌륭한 플러그인을 가지고 있어야 하지?!)   
+	  \- SwiftUI + AXSwift(접근성 API를 이용...
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/geeknewsbot/status/1761194997632864706?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [띱 Deep-손님과 알바](https://youtube.com/watch?v=F8f_Tobdu6o&si=-KER9cqn_ulYiLKR) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/F8f_Tobdu6o/hqdefault.jpg)
+	- DONE [Chris J Wilson-How to Add the Bible to Obsidian](https://youtube.com/watch?v=kT4g59YCbd0&si=C3h1AcbGxeGDHTJA) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/kT4g59YCbd0/hqdefault.jpg)
+	- DONE [메타택시-오빠 어떻게하면 기분이 풀리겠어?](https://youtube.com/watch?v=GxAlIRi6tpo&si=0l6DnP9u3kPQdNhQ) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/GxAlIRi6tpo/hqdefault.jpg)
+	- DONE [미키피디아-🍾대세는 홈파티? 쉽게 준비하면서도 인맥왕 되는 5가지 방법](https://youtube.com/watch?v=GnPNy4Y5hzw&si=qI41If8RfB96-bIE) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/GnPNy4Y5hzw/hqdefault.jpg)
+	- DONE [유랑쓰 YOURANGSS-숙박비 2배로 내고 퇴실... 해외에서 이렇게 집 구하면 망합니다](https://youtube.com/watch?v=ycN0c6w-sb4&si=wy9VZawCuLppl4tm) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/ycN0c6w-sb4/hqdefault.jpg)
