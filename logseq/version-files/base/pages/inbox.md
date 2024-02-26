@@ -153,24 +153,22 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/02/26]] https://twitter.com/Vajrahomo
+- DONE [[2024/02/26]] https://twitter.com/Vajrahomo
   collapsed:: true
   > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
 	- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [초코우유 Chocouyu-조식 먹는데 벗고 온 직원들... (코이티비 비하인드)](https://youtube.com/watch?v=ewFKe2pCSvU&si=seOoVz_NFKlPMVs5) [[2024/02/26]] 
+- DONE [초코우유 Chocouyu-조식 먹는데 벗고 온 직원들... (코이티비 비하인드)](https://youtube.com/watch?v=ewFKe2pCSvU&si=seOoVz_NFKlPMVs5) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/ewFKe2pCSvU/hqdefault.jpg)
-- TODO [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
+- DONE [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
 - TODO [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
 - TODO [정리왕-정리정돈은 이 영상으로 마무리 하세요ㅣ청소루틴ㅣ깨끗한집ㅣ미니멀라이프](https://youtube.com/watch?v=vnFI0n1eF5w&si=8vludEalq_8xI7Yp) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/vnFI0n1eF5w/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/vnFI0n1eF5w/hqdefault.jpg)
 - TODO [판교 뚜벅쵸-AI에 대해 얘기하다가 출근하기 싫어진 개발자 부부의 반차 (feat. 유튜브 오류로 식겁함)](https://youtube.com/watch?v=d5Z1U1e4FYM&si=r7OFbSiWCpljgGAM) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
