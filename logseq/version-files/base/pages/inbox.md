@@ -163,7 +163,7 @@ public:: false
 - DONE [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
-- TODO [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
+- DONE [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
 - TODO [정리왕-정리정돈은 이 영상으로 마무리 하세요ㅣ청소루틴ㅣ깨끗한집ㅣ미니멀라이프](https://youtube.com/watch?v=vnFI0n1eF5w&si=8vludEalq_8xI7Yp) [[2024/02/26]] 
@@ -173,9 +173,8 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
 - TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=67ivskCrSZl0q-eH) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
 - TODO [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
