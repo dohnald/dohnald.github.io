@@ -281,3 +281,11 @@ collapsed:: true
 - TODO [박병일의 명장본색-운전자에게 오토스탑&오토홀드 쓸모가 있을까](https://youtube.com/watch?v=5fqxUYAK9-o&si=BxItD61WoUp4JR9i) [[2024/02/26]] 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/5fqxUYAK9-o/hqdefault.jpg)
+
+- TODO [[2024/02/26]] https://twitter.com/yonggary
+> 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
+  
+역사는 돌에 새기는 것이 아니라 사람이 기억하는 것이고, 우리가 기억하는 걸 반일이라고 부른다면 그 사람은 기억을 얕보는거다.<https://t.co/kpslNBiaTT>
+
+collapsed:: true
+  - {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
