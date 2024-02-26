@@ -136,9 +136,9 @@ public:: false
 - TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
-- TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]] 
-  collapsed:: true
+- TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]]
 	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
+	-
 - DONE [방구석편집자-방구석편집자가 알려주는 "영상 편집가격은 얼마인가요?"](https://youtube.com/watch?v=yh-PrUMv6xA&si=x5hxqXIhmOZ-HYok) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/yh-PrUMv6xA/hqdefault.jpg)
@@ -179,9 +179,8 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
 - TODO [Reagan Rose-How to Plan for a Productive Week | Christian Productivity](https://youtube.com/watch?v=sZyDy69JK6M&si=fKqV63Tw0a-dkY59) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/sZyDy69JK6M/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/sZyDy69JK6M/hqdefault.jpg)
 - TODO [Reagan Rose-Should Christians Be Minimalists?](https://youtube.com/watch?v=_953JLi7knE&si=bak4M34xv1gXE0vJ) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
