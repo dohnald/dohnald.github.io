@@ -116,10 +116,6 @@ public:: false
 - TODO [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
-- 꾸미
-	- 하인-하나님께서 인도하심
-	-
--
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
@@ -136,8 +132,6 @@ public:: false
 - TODO [Jordi Koalitic-5 CREATIVE Tricks with Insta360 flow](https://youtube.com/watch?v=KrkV-Ota0Y0&si=baJKWahTbf6_aTCe) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/KrkV-Ota0Y0/hqdefault.jpg)
-- TODO [-](https://youtube.com/watch?v=rsDGYD9cDPw&si=kliW0M48PSC9ntOI) [[2024/02/26]]
-	- ![]()
 - TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
