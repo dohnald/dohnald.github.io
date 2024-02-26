@@ -1683,6 +1683,7 @@ public:: false
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/iuPvuALlcsY/hqdefault.jpg)
 - [[2024/02/25]]
+  collapsed:: true
 	- DONE https://empty.coffee/logseq-feedbin-share-quick-capture/
 	- DONE [이래도 될래나  iamRENA-비키니 입고 오토바이 타고 바다 수영 하려던 나의 큰 꿈은.... / 프리다이빙 스쿠버다이빙 하러 떠난 오키나와 일본 여행 브이로그](https://youtube.com/watch?v=YjAzKBzwWS8&si=y-FP8X3w2ld5Jx9-) [[2024/02/22]] 
 	  collapsed:: true
@@ -1807,3 +1808,10 @@ public:: false
 	- DONE [내일은 투자왕 - 김단테-버핏이 역대급 220조원 현금을 쌓아둔 비밀. 패닉에 대비한다는 표현은 무슨 의미일까?](https://youtube.com/watch?v=B_1v731HxrY&si=YlAkfYW59gJtTU4S) [[2024/02/25]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/B_1v731HxrY/hqdefault.jpg)
+- [[2024/02/26]]
+	- DONE [[2024/02/20]] [ [Open Infra & Cloud Native Korea 2019] Day 2 - T4-1: 쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.youtube.com/watch?v=lmoOMkEecS4)
+		- target url이 아닌 target directory로 배포하면 될 것 같은데...
+			- 응 안 돼
+	- DONE [Pints With Aquinas-Jeff Cavins' CRAZY Note Taking System](https://youtube.com/watch?v=3TeRR9KnLDg&si=OING6_GWnJ85RB4J) [[2024/02/23]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/3TeRR9KnLDg/hqdefault.jpg)
