@@ -188,7 +188,7 @@ public:: false
 - DONE [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
-- TODO [빨빨파니-P와 J의 즉흥여행기 J는 피곤하다](https://youtube.com/watch?v=P0ANPu8RVsA&si=03Enhar3UO87kd0I) [[2024/02/27]] 
+- DONE [빨빨파니-P와 J의 즉흥여행기 J는 피곤하다](https://youtube.com/watch?v=P0ANPu8RVsA&si=03Enhar3UO87kd0I) [[2024/02/27]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P0ANPu8RVsA/hqdefault.jpg)
 - TODO [마커스픽쳐스-마크 러팔로가  충격받고 제작한 영화 - 대기업에 맞서 20년간 싸운 한 변호사의 이야기 [영화리뷰/결말포함]](https://youtube.com/watch?v=FglttggNKJc&si=F78Fx6KEjk113Qj6) [[2024/02/27]] 
