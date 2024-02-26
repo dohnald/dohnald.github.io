@@ -174,7 +174,8 @@ public:: false
 	- ![](https://i.ytimg.com/vi/d5Z1U1e4FYM/hqdefault.jpg)
 - DONE [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=67ivskCrSZl0q-eH) [[2024/02/26]]
 	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
-- TODO [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
+	- 위네 있음
+- DONE [Bible Study Tips with LaRosa Johnson-Zettelkasten Bible Study: Connected Biblical Thinking](https://youtube.com/watch?v=1TgZg69sn58&si=bvwA_ep8LACq0uD-) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/1TgZg69sn58/hqdefault.jpg)
 - TODO [Reagan Rose-How to Plan for a Productive Week | Christian Productivity](https://youtube.com/watch?v=sZyDy69JK6M&si=fKqV63Tw0a-dkY59) [[2024/02/26]] 
