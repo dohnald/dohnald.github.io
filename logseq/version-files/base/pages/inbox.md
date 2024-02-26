@@ -156,3 +156,6 @@ public:: false
 - TODO [[2024/02/26]] https://twitter.com/Vajrahomo
   > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
 	- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [초코우유 Chocouyu-조식 먹는데 벗고 온 직원들... (코이티비 비하인드)](https://youtube.com/watch?v=ewFKe2pCSvU&si=seOoVz_NFKlPMVs5) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/ewFKe2pCSvU/hqdefault.jpg)
