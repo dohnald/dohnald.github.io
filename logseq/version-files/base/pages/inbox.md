@@ -184,3 +184,6 @@ public:: false
 - TODO [Reagan Rose-Should Christians Be Minimalists?](https://youtube.com/watch?v=_953JLi7knE&si=bak4M34xv1gXE0vJ) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/_953JLi7knE/hqdefault.jpg)
+- TODO [슈카월드 코믹스-은행은 횡재했나? 근데 주식은 왜…](https://youtube.com/watch?v=wVp8jkHSL50&si=LqD6n8Y5R3LOCxge) [[2024/02/26]] 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/wVp8jkHSL50/hqdefault.jpg)
