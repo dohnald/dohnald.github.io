@@ -123,7 +123,7 @@ public:: false
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
-- TODO [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
+- DONE [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/smartbosslee
@@ -154,12 +154,12 @@ public:: false
   collapsed:: true
 	- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/02/26]] https://twitter.com/Vajrahomo
+  collapsed:: true
   > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
 	- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [초코우유 Chocouyu-조식 먹는데 벗고 온 직원들... (코이티비 비하인드)](https://youtube.com/watch?v=ewFKe2pCSvU&si=seOoVz_NFKlPMVs5) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/ewFKe2pCSvU/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/ewFKe2pCSvU/hqdefault.jpg)
 - TODO [MBCNEWS-[뉴스 '꾹'] 손흥민 "어어..그건 못해드려요" 평소엔 안 그러더니 왜? (2024.02.26/MBC뉴스)](https://youtube.com/watch?v=GjrVS9hS61g&si=ZMoPpuvLhKjURRUv) [[2024/02/26]] 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/GjrVS9hS61g/hqdefault.jpg)
