@@ -166,7 +166,7 @@ public:: false
 - DONE [뷰모리  Viewmory-1억은 베트남에서 어떤 가치가 있을까요? 베트남인이 생각하는 경제적 자유의 기준](https://youtube.com/watch?v=lwK3w5I-XWg&si=0JP1GtvE_10NRvKn) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/lwK3w5I-XWg/hqdefault.jpg)
-- TODO [정리왕-정리정돈은 이 영상으로 마무리 하세요ㅣ청소루틴ㅣ깨끗한집ㅣ미니멀라이프](https://youtube.com/watch?v=vnFI0n1eF5w&si=8vludEalq_8xI7Yp) [[2024/02/26]] 
+- DONE [정리왕-정리정돈은 이 영상으로 마무리 하세요ㅣ청소루틴ㅣ깨끗한집ㅣ미니멀라이프](https://youtube.com/watch?v=vnFI0n1eF5w&si=8vludEalq_8xI7Yp) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vnFI0n1eF5w/hqdefault.jpg)
 - DONE [판교 뚜벅쵸-AI에 대해 얘기하다가 출근하기 싫어진 개발자 부부의 반차 (feat. 유튜브 오류로 식겁함)](https://youtube.com/watch?v=d5Z1U1e4FYM&si=r7OFbSiWCpljgGAM) [[2024/02/26]] 
