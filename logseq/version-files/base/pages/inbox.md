@@ -328,9 +328,7 @@ public:: false
 - TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=cJHOR5Ljm5g4Cd5k) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
-- - TODO [[2024/02/27]] [-](https://youtube.com/watch?v=KWaBoZIZemA&si=RkK69pr3iG904vWe) 
-  collapsed:: true
-    - ![]()
-- - TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=_EP9j7S8GxE4qI_x)
+- TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=_EP9j7S8GxE4qI_x)
   collapsed:: true
 	- - ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
+-
