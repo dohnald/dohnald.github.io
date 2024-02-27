@@ -172,6 +172,17 @@ public:: false
 	  | And like any note taking software, you could write something here but a bidirectional length is when you put two brackets around a word like Bible for example, that creates what's called a bidirectional link. | 그리고 어떤 메모장 소프트웨어와 같이, 여기에 무언가를 쓸 수 있지만, 예를 들어 성경과 같은 단어 주위에 두 개의 괄호를 넣으면, 그것은 양방향 링크라고 하는 것을 만듭니다. |
 	  | So if I click on this, that actually takes me a page that already exists that I've made called Bible down here in the linked references, you can see August Third write something here Bible that's why it's bidirectional because it's not one way. | 따라서 이것을 클릭하면 이미 제가 만들어 둔 Bible이라는 페이지로 저를 안내하는데, 연결된 참조로 여기서 8월 3일에 무언가를 쓴 Bible을 볼 수 있습니다. 그래서 이것이 양방향인 이유입니다. 이것이 단방향만이 아니기 때문입니다. |
 	  | It didn't just link me to this page. This page links me back. And what this means is as you create these links, you're actually building a network for your thoughts. | 그것은 나를 이 페이지에만 링크시키지 않았습니다. 이 페이지는 다시 나를 연결합니다. 이것이 의미하는 바는 이 링크들을 만들면, 실제로 당신의 생각을 위한 네트워크를 만들고 있다는 것입니다. |
+	- ||
+	  | 원문 | 번역문 |
+	  |------|--------|
+	  | That's really, really important and there's a lot of new tools on the market that are starting to do this like obsidian even notion is added, something like this. | 그것은 정말로 매우 중요하며 시장에는 obsidian 같은 새로운 도구들이 많이 나와 있습니다. 심지어 notion도 이와 같은 것을 추가했습니다. |
+	  | But ROME does it best in my opinion the result is as you start to create those, you build out what's called a graph. | 그러나 내 의견으로는 ROME이 이것을 가장 잘 수행합니다. 결과적으로 이것을 만들기 시작하면, 그래프라고 불리는 것을 만들어냅니다. |
+	  | So this is the graph view of Bible. | 이것은 성경의 그래프 뷰입니다. |
+	  | So it shows me everything that's connected to it. | 그래서 그것에 연결된 모든 것을 나에게 보여줍니다. |
+	  | I can see the different books, anything that links back to it, different dates all of that. | 다른 서적, 그에 다시 연결되는 모든 것, 그리고 다양한 날짜를 볼 수 있습니다. |
+	- That's a very simple view.
+	  This is not a really built out note that I have, but that's just gives you an idea of how the graph works.
+	  I, to be honest with you, don't really look at the graph view that often, I almost never but the fact that these links are here that's what really gives the power to these bidirectional links.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
