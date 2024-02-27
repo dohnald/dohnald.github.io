@@ -180,9 +180,36 @@ public:: false
 	  | So this is the graph view of Bible. | 이것은 성경의 그래프 뷰입니다. |
 	  | So it shows me everything that's connected to it. | 그래서 그것에 연결된 모든 것을 나에게 보여줍니다. |
 	  | I can see the different books, anything that links back to it, different dates all of that. | 다른 서적, 그에 다시 연결되는 모든 것, 그리고 다양한 날짜를 볼 수 있습니다. |
-	- That's a very simple view.
-	  This is not a really built out note that I have, but that's just gives you an idea of how the graph works.
-	  I, to be honest with you, don't really look at the graph view that often, I almost never but the fact that these links are here that's what really gives the power to these bidirectional links.
+	- ||
+	  | 원문 | 번역문 |
+	  | --- | --- |
+	  | That's a very simple view. | 그것은 매우 간단한 관점입니다. |
+	  | This is not a really built out note that I have, but that's just gives you an idea of how the graph works. | 이것은 제가 정말 잘 정리된 노트가 아니지만, 이것은 단지 그래프가 어떻게 작동하는지에 대한 아이디어를 제공합니다. |
+	  | I, to be honest with you, don't really look at the graph view that often, I almost never but the fact that these links are here that's what really gives the power to these bidirectional links. | 솔직히 말해서, 저는 그래프 뷰를 그렇게 자주 보는 편은 아니에요. 거의 결코 보지 않지만 이 링크들이 여기 있는 것이 정말 이 이중방향 링크들에 힘을 실어주는 것입니다. |
+	- Now let me go back to the daily note and show you the other things.
+	  So I told you there was two killer features.
+	  The first is the bidirectional length.
+	  The second is what's called a block reference.
+	  So you notice how there's bullet points here that is how ROME is set up.
+	  This is not just a free form document like in Microsoft Word or something like that.
+	  Every single line of information here is put in a bullet point which is called a block.
+	  So I can make these subordinate to each other, something else, something else else I can swap them around I can do things with each of these I can copy references to them I can focus on just that block.
+	  I can do a lot of stuff but the real power is this copy reference of block.
+	  If I do that and then come down here to a new line and paste it this little key is actually a reference to this line here and if I click away, it will render it.
+	  You see it's actually a copy of this and if I were to change this, it would update the reference as well. That's the second powerful way of interlinking things in here.
+	  It means that I don't just need to link to an entire document I can link to a single line within a document.
+	  Do you see the potential of this for creating a highly interconnected system.
+	  So that's all well and good.
+	  But let me show you how I actually use this to study the Bible.
+	  All right so let me talk about the building blocks for making a Rome graph for studying the Bible.
+	  The first building block is going to be the text of Scripture.
+	  So I showed you I had a page in here called Bible and that really was just a page that eventually as I add more scriptures to this, I'll build that out.
+	  But really that would just be an index.
+	  So I quickly find all the books of the Bible.
+	  But I want to show you an actual example of how I use the text of Scripture in Rome.
+	  So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five.
+	  Okay so in here I have put the text of first Peter five.
+	  Now you can just copy and paste this.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
