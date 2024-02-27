@@ -1861,3 +1861,6 @@ public:: false
 	- DONE [마커스픽쳐스-마크 러팔로가  충격받고 제작한 영화 - 대기업에 맞서 20년간 싸운 한 변호사의 이야기 [영화리뷰/결말포함]](https://youtube.com/watch?v=FglttggNKJc&si=F78Fx6KEjk113Qj6) [[2024/02/27]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/FglttggNKJc/hqdefault.jpg)
+	- DONE [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)

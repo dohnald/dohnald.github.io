@@ -117,9 +117,6 @@ public:: false
 - TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
-- DONE [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/smartbosslee
   collapsed:: true
   > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
