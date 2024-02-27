@@ -236,13 +236,22 @@ public:: false
 	  |Here's just a really quick one page at a way to do that. |여기 단지 그 일을 하는 한 가지 빠르고 간단한 방법이 있습니다.|
 	  |So this is a super helpful thing as you're doing Bible backgrounds to build these out for your books of the Bible and put them into Rome research. |그래서 이것은 당신이 성경 배경을 하는 동안 실질적으로 책들을 위해 이것들을 개발하고, 로마 연구에 넣는데 매우 도움이 되는 것입니다.|
 	  |Another cool thing is there's a lot of key passages and look at this do you notice how those are actually block level references? |또다른 멋진 점은 많은 중요한 구절들이 있다는 것이며, 이것들이 실제로 블록 수준 참조인 것을 주목하세요. |
-	- What I've done is I've come in here I've done double parentheses I've started typing the verse that I want to put in here and this actually works as a search bar too and it finds it and when I click away, it renders that.
-	  So now it means that if I'm actually back on that book of the Bible so I'm say I'm on First Peter chapter two there's verse two see these little numbers.
-	  Click on that it shows me anywhere I have referenced that.
-	  And so that's the one I just added the new reference to it to.
-	  But also it looks like these are some notes on a sermon someone else gave at my church that I took and they referenced it.
-	  And after I took my notes, I processed it.
-	  Oh, and if you're interested in seeing how I use Rome research as the final step in taking notes in church, I have another video that I will link to above.
+	- ||
+	  | 원문 | 번역문 |
+	  |What I've done is I've come in here I've done double parentheses I've started typing the verse that I want to put in here and this actually works as a search bar too and it finds it and when I click away, it renders that.|내가 한 것은 이 곳에 들어와 쌍 괄호를 입력했고 여기에 넣고 싶은 절을 타이핑하기 시작했고 실제로 이것은 검색 막대로도 작동하며 결과를 찾아내고, 클릭을 벗어나면 렌더링된다.|
+	  |So now it means that if I'm actually back on that book of the Bible so I'm say I'm on First Peter chapter two there's verse two see these little numbers. Click on that it shows me anywhere I have referenced that.|그럼 이제, 만약 실제로 성경의 그 책 속으로 돌아가 있다면 말하자면 첫째 베드로서 장 2에 있다면, 거기에 두 번째 절이 있다. 이런 작은 숫자들을 보세요. 그것을 클릭하면 내가 그것을 참조했던 곳을 보여줍니다.|
+	  |And so that's the one I just added the new reference to it to.|그래서 그것이 내가 막 추가한 것이고, 새 참조를 달았습니다.|
+	  |But also it looks like these are some notes on a sermon someone else gave at my church that I took and they referenced it.|그러나 또한, 이것은 내 교회에서 다른 사람이 한 설교에 대한 내가 적은 노트인 것 같습니다. 그들은 그것을 언급했습니다.|
+	  |And after I took my notes, I processed it.|내가 노트를 적은 후, 그것을 처리했습니다.|
+	  |Oh, and if you're interested in seeing how I use Rome research as the final step in taking notes in church, I have another video that I will link to above.|아, 그리고 교회에서 노트를 작성하는 마지막 단계로 로마 연구를 어떻게 사용하는지 보고 싶다면, 링크한 다른 동영상을 보실 수 있습니다. |
+	- Now you can begin to see how powerful this can become because look at this all throughout we've been studying this at our church and I've been taking notes on it and I have references all over the place to these different verses and I can jump into these pages if I want to.
+	  And I can see exactly the context in which I cited that.
+	  So you see every time I use a verse in here, I cross reference it to the page that has that verse in it so that it builds out those connections and those indices.
+	  Another building block I use is tags.
+	  Now anything in Rome research could be its own page.
+	  You just put it in double brackets you can create another bidirectional link and I will use these as I just made this thing called tags.
+	  And these are just topics that I add to from time to time.
+	  So if I click on suffering, for example, these linked references are any time that I've tagged any note or block with the word suffering.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
