@@ -148,6 +148,17 @@ public:: false
 	  |---|---|
 	  | I wanted sort of a Wikipedia of my own understanding of the Bible and I wanted that system to be deeply interconnected that it would link back and forth through different phrases, through different passages. | 나는 성경에 대한 나만의 이해의 위키백과 같은 것을 원했고, 그 시스템이 깊게 연결되어 서로 링크되어 다른 구절을 통해 왔다갔다 할 수 있기를 희망했다. |
 	  | And really that was the main thing I wanted it to be all indexed to the scriptures themselves. So if I looked at a verse, I could find everything I'd ever written or talked about relating to that verse. | 정말 그것이 나에겐 중요한 부분이었고, 그것이 모두 성경 자체에 색인되기를 원했다. 그래서 만약 내가 구절을 보게 된다면, 그 구절과 관련한 내가 쓴 모든 것이나 말한 모든 것을 찾을 수 있기를 원했다. |
+	- ||
+	  | 원문 | 번역문 |
+	  | ----- | ------ |
+	  | I also want to be able to tag different ideas so that they could be sorted into topics for later if I wanted to write a blog post or do a topical message or do a video about a subject that I'm kind of slowly accumulating different thoughts on this one area of Bible knowledge. | 또한 나는 서로 다른 아이디어를 태그하여 추후 블로그 게시물을 쓰거나 특정 메시지를 작성하거나 비디오를 만들고 싶을 때 이를 주제별로 정리할 수 있기를 원합니다. 나는 성서 지식의 한 영역에 대해 서서히 다양한 생각을 축적하고 있기 때문에 이를 원합니다. |
+	  | And finally, I wanted it to make the process of citing sources very easy. | 마지막으로, 나는 참고 자료를 인용하는 과정을 매우 쉽게 만들고 싶었습니다. |
+	- ||
+	  | 원문 | 번역문 |
+	  | ----- | ------ |
+	  | Okay so like I said in the beginning, the tool that I found that's actually enabled me to do these things and really has made my process of studying the Bible just so much more fun and profitable has been Rome research. | 그래서 시작할 때 말했던 대로, 나에게 이 일들을 할 수 있게 한 도구는 실제로 성경 공부 과정을 훨씬 더 재미있고 유익하게 만들어주었던 것입니다. |
+	  | So if you don't know what Rome research is, they call it a note taking tool for networked thought. | Rome research가 무엇인지 모른다면, 그들은 이것을 네트워크된 사고를 위한 필기 도구라고 부릅니다. |
+	  | Basically it approaches the process of note taking more in, I guess an atomized way. | 기본적으로 이것은 노트를 작성하는 과정을, 아마도 원자화된 방식으로 다룹니다. |
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
