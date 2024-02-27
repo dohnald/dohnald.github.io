@@ -333,3 +333,4 @@ public:: false
 	- - ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
 - TODO [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext)
 	- * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
+-
