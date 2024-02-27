@@ -121,8 +121,11 @@ public:: false
 	- script
 		- | 원문 | 번역문 |
 		  | --- | --- |
-		  | Today I'm going to show you a method for studying the Bible using a tool called Rome Research that has honestly changed the way I approach Bible. And this method will be beneficial to anybody who studies God's word whether you do it casually you're a student or a pastor or even an academic. | 오늘은 로마 연구라 불리는 도구를 사용해 성경을 공부하는 방법을 알려드리겠습니다. 이 방법은 성경을 연구하는 데 도움이 되며, 취미로 하든 학생이든 목사이든 학자이든 모두에게 유익할 것입니다. |
+		  | Today I'm going to show you a method for studying the Bible using a tool called Rome Research that has honestly changed the way I approach Bible. And this method will be beneficial to anybody who studies God's word whether you do it casually you're a student or a pastor or even an academic. | 오늘은 Rome Research라 불리는 도구를 사용해 성경을 공부하는 방법을 알려드리겠습니다. 이 방법은 성경을 연구하는 데 도움이 되며, 취미로 하든 학생이든 목사이든 학자이든 모두에게 유익할 것입니다. |
 		  | Hey, my name is Reagan Rose. I teach about personal productivity from a biblical perspective and I've actually been teaching the Bible for many, many moons. | 안녕하세요, 제 이름은 Reagan Rose입니다. 저는 성경적인 시각에서 개인 생산성에 대해 가르치고 실제로 많은 시간동안 성경을 가르쳐왔습니다. |
+	- I teach through various settings in church, through preaching, through teaching, through Bible studies, through writing online, through a podcast and many other venues.
+	  And so that means I've been studying the Bible for a long time and over that time I've accumulated a lot of Bible notes especially when I went through seminary back in 2014 through 2017.
+	  I just have reams and reams of notes on the Bible.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
