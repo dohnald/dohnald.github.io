@@ -1864,3 +1864,12 @@ public:: false
 	- DONE [EBS 지식-"언어 천재는 이렇게 공부합니다!" 아무리 배워도 늘지않는 외국어 실력🌎 우리가 꼭 알아야 할 효율적으로 외국어 공부하는 법 #인문 #EBS지식](https://youtube.com/watch?v=9uo0RdRj68o&si=qt4mzhIS0rFF_gRa) [[2024/02/25]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/9uo0RdRj68o/hqdefault.jpg)
+	- DONE [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/8F9jQS5xUq4/hqdefault.jpg)
+	- DONE [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
+	- DONE [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
