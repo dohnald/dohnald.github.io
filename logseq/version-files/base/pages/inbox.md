@@ -166,10 +166,9 @@ public:: false
 	  | So ROME has a lot of tools in here but there are two that really make this system super powerful. | ROME에는 많은 도구가 있지만 이 시스템을 정말 강력하게 만드는 두 가지 요소가 있습니다. |
 	  | The first is bidirectional links. | 첫 번째는 양방향 링크입니다. |
 	  | So when you first open Rome, you're greeted by your daily note and it's just the day's date. | Rome을 처음 열면 매일 노트가 표시되는데, 그냥 그 날짜뿐입니다. |
-	- And like any note taking software, you could write something here but a bidirectional length is when you put two brackets around a word like Bible for example, that creates what's called a bidirectional link.
-	  So if I click on this, that actually takes me a page that already exists that I've made called Bible down here in the linked references, you can see August Third write something here Bible that's why it's bidirectional because it's not one way.
-	  It didn't just link me to this page.
-	  This page links me back. And what this means is as you create these links, you're actually building a network for your thoughts.
+	- ||
+	  | **원문** | And like any note taking software, you could write something here but a bidirectional length is when you put two brackets around a word like Bible for example, that creates what's called a bidirectional link. So if I click on this, that actually takes me a page that already exists that I've made called Bible down here in the linked references, you can see August Third write something here Bible that's why it's bidirectional because it's not one way. It didn't just link me to this page. This page links me back. And what this means is as you create these links, you're actually building a network for your thoughts. |
+	  | **번역문** | 어떤 메모장 소프트웨어든지와 같이 여기에 무언가를 쓸 수 있지만, 양방향 길이란 예를 들어 성서 같은 단어 주위에 괄호를 두 개 씌우는 것을 말합니다. 예를 들어, Bible 이라는 단어 주위에 괄호를 두 개 씌우면 양방향 링크라고 불리는 것이 생성됩니다. 그래서 이것을 클릭하면 이미 연결된 참조에서 Bible이라는 제가 만든 페이지로 이동합니다. 여기에서 "8월 3일 무언가를 써요 Bible"라고 볼 수 있습니다. 이것이 양방향 길이라고 하는 이유는 단방향이 아니기 때문입니다. 그냥 이 페이지로 나를 링크하지 않았습니다. 이 페이지는 다시 나를 연결해줍니다. 이것이 의미하는 것은 이 링크를 만들면 실제로 여러분의 생각에 대한 네트워크를 구축하고 있다는 것입니다. |
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
