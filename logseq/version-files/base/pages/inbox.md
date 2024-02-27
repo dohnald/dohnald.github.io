@@ -186,30 +186,32 @@ public:: false
 	  | That's a very simple view. | 그것은 매우 간단한 관점입니다. |
 	  | This is not a really built out note that I have, but that's just gives you an idea of how the graph works. | 이것은 제가 정말 잘 정리된 노트가 아니지만, 이것은 단지 그래프가 어떻게 작동하는지에 대한 아이디어를 제공합니다. |
 	  | I, to be honest with you, don't really look at the graph view that often, I almost never but the fact that these links are here that's what really gives the power to these bidirectional links. | 솔직히 말해서, 저는 그래프 뷰를 그렇게 자주 보는 편은 아니에요. 거의 결코 보지 않지만 이 링크들이 여기 있는 것이 정말 이 이중방향 링크들에 힘을 실어주는 것입니다. |
-	- Now let me go back to the daily note and show you the other things.
-	  So I told you there was two killer features.
-	  The first is the bidirectional length.
-	  The second is what's called a block reference.
-	  So you notice how there's bullet points here that is how ROME is set up.
-	  This is not just a free form document like in Microsoft Word or something like that.
-	  Every single line of information here is put in a bullet point which is called a block.
-	  So I can make these subordinate to each other, something else, something else else I can swap them around I can do things with each of these I can copy references to them I can focus on just that block.
-	  I can do a lot of stuff but the real power is this copy reference of block.
-	  If I do that and then come down here to a new line and paste it this little key is actually a reference to this line here and if I click away, it will render it.
-	  You see it's actually a copy of this and if I were to change this, it would update the reference as well. That's the second powerful way of interlinking things in here.
-	  It means that I don't just need to link to an entire document I can link to a single line within a document.
-	  Do you see the potential of this for creating a highly interconnected system.
-	  So that's all well and good.
-	  But let me show you how I actually use this to study the Bible.
-	  All right so let me talk about the building blocks for making a Rome graph for studying the Bible.
-	  The first building block is going to be the text of Scripture.
-	  So I showed you I had a page in here called Bible and that really was just a page that eventually as I add more scriptures to this, I'll build that out.
-	  But really that would just be an index.
-	  So I quickly find all the books of the Bible.
-	  But I want to show you an actual example of how I use the text of Scripture in Rome.
-	  So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five.
-	  Okay so in here I have put the text of first Peter five.
-	  Now you can just copy and paste this.
+	- | 원문 | 번역문 |
+	  | Now let me go back to the daily note and show you the other things. | 이제 일지로 돌아가서 다른 것들을 보여드리겠습니다. |
+	  | So I told you there was two killer features. | 그래서 두 가지 핵심 기능이 있음을 말씀드렸습니다. |
+	  | The first is the bidirectional length. | 첫 번째는 양방향 길이입니다. |
+	  | The second is what's called a block reference. | 두 번째는 블록 참조라 불리우는 것입니다. |
+	  | So you notice how there's bullet points here that is how ROME is set up. | 여기에 어떻게 점 형식으로 표시되었는지 주목하세요. 이것이 ROME의 구성 방식입니다. |
+	   | This is not just a free form document like in Microsoft Word or something like that. | 이것은 Microsoft Word와 같은 자유 형식 문서가 아닙니다. |
+	   | Every single line of information here is put in a bullet point which is called a block. | 이곳의 모든 정보 줄은 블록이라 불리는 점 형식으로 정리됩니다. |
+	   | So I can make these subordinate to each other, something else, something else else I can swap them around I can do things with each of these I can copy references to them I can focus on just that block. | 그래서 이것들을 서로 종속시킬 수 있고, 다른 것을 할 수 있습니다. 이러한 각각에 대해 다양한 작업을 수행할 수 있고, 이에 대한 참조를 복사하거나 그 블록에만 집중할 수 있습니다. |
+	  | I can do a lot of stuff but the real power is this copy reference of block. | 많은 작업을 수행할 수 있지만, 실제 파워는 블록의 참조를 복사하는 것입니다. |
+	   | If I do that and then come down here to a new line and paste it this little key is actually a reference to this line here and if I click away, it will render it. | 그렇게 하고 나서 여기로 내려와서 새 줄에 붙여넣으면 이 작은 키는 실제로 여기 줄에 대한 참조이며, 내가 클릭을 하면 렌더링 될 것입니다. |
+	   | You see it's actually a copy of this and if I were to change this, it would update the reference as well. That's the second powerful way of interlinking things in here. | 실제로 이것은 이것의 복사본이며, 내가 이것을 변경하면 참조가 갱신될 것입니다. 이것이 이곳에서 사물을 연결하는 두 번째 강력한 방법입니다. |
+	   | It means that I don't just need to link to an entire document I can link to a single line within a document. | 이것은 전체 문서에 연결할 필요가 없다는 것을 의미합니다. 문서 내의 단일 줄에 연결할 수 있습니다. |
+	   | Do you see the potential of this for creating a highly interconnected system. | 이것이 높은 상호 연결성 시스템을 만드는 데 가지는 잠재력을 보십니까. |
+	   | So that's all well and good. | 그래서 그것이 모두 잘되었습니다. |
+	   | But let me show you how I actually use this to study the Bible. | 그러나 실제로 이것을 성경 연구에 어떻게 사용하는지 보여드릴게요. |
+	   | All right so let me talk about the building blocks for making a Rome graph for studying the Bible. | 좋아 그러니 성경 연구를 위한 로마 그래프를 만드는 데 사용되는 구성 요소에 대해 이야기해 보겠습니다. |
+	   | The first building block is going to be the text of Scripture. | 첫 번째 구성 요소는 성서 본문이 될 것입니다. |
+	   | So I showed you I had a page in here called Bible and that really was just a page that eventually as I add more scriptures to this, I'll build that out. | 그래서 이 중에 성서라는 페이지가 있음을 보여드렸고, 실제로 이것은 이를 더 추가하면 점차적으로 그것을 확장할 것입니다. |
+	   | But really that would just be an index. | 하지만 실제로 그것은 인덱스일 뿐입니다. |
+	   | So I quickly find all the books of the Bible. | 따라서 성서의 모든 부분을 빠르게 찾을 수 있습니다. |
+	   | But I want to show you an actual example of how I use the text of Scripture in Rome. | 그러나 로마에서 성서 텍스트를 어떻게 사용하는지에 대한 실제 예시를 보여드리고 싶습니다. |
+	   | So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five. | 따라서 여기서 제가 첫 베드로서 1장을 검색하여 실제로 제가 5장을 보여드리겠습니다. |
+	   | Okay so in here I have put the text of first Peter five. | 좋습니다. 그래서 여기에 첫 베드로서 5장의 본문을 넣었습니다. |
+	   | Now you can just copy and paste this. | 이제 이것을 그대로 복사하여 붙일 수 있습니다. |
+	-
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
