@@ -129,6 +129,7 @@ public:: false
 	  | I just have reams and reams of notes on the Bible. | 제게는 성서에 대한 엄청난 양의 노트가 있습니다. |
 	- | 원문 | 번역문 |
 	  | Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me. I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other. | 어떤 것은 서로 다른 폴더에, 서로 다른 노트북에 저장돼 있고 어떤 것은 서로 다른 앱에, 워드 문서에 있지만 모든 것이 흩어져 있어 항상 마음이 걸렸습니다. 항상 마음 속 깊은 곳에 있던 꿈은 내 성경 노트를 더 연계된 시스템에 모두 모아놓으면, 내가 무엇을 가르쳤는지, 무엇을 공부했는지, 그리고 그 아이디어들이 서로 어떻게 연결되는지 쉽게 볼 수 있도록 하는 것이었습니다. |
+	- And I want to show you today how Rome Research has been the solution to that problem for me and maybe it will be for you too.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
