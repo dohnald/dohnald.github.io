@@ -211,7 +211,20 @@ public:: false
 	   | So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five. | 따라서 여기서 제가 첫 베드로서 1장을 검색하여 실제로 제가 5장을 보여드리겠습니다. |
 	   | Okay so in here I have put the text of first Peter five. | 좋습니다. 그래서 여기에 첫 베드로서 5장의 본문을 넣었습니다. |
 	   | Now you can just copy and paste this. | 이제 이것을 그대로 복사하여 붙일 수 있습니다. |
-	-
+	- Now you can just copy and paste this.
+	  I've written a little script that allows me to paste them really quickly but this is just copied actually from accordance and this is the ESV.
+	  So each time I'm looking at a new passage, I will put that chapter of the Bible in here and begin working with the Scripture.
+	  I'll show you how this works.
+	  You can see those little numbers on the right side of them.
+	  I'll show you what those mean in a moment and some of these headings.
+	  But I just want to show you what it starts with is the text of Scripture because remember, my goal has been to use the Bible verses themselves as an index for my study of the Bible.
+	  I want everything to link back to verses or chapters.
+	  The second building block in how I study the Bible in Rome research are book overviews.
+	  Now if you look here, I have the whole book of First Peter Anne.
+	  I've created things like you can.
+	  By the way, you can unfold and fold these things to make it easier to see.
+	  So I've created some references.
+	  Those are commentaries on this book because I've recently taught out of it.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
