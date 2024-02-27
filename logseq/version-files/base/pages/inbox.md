@@ -129,7 +129,7 @@ public:: false
 - [[2024. 2. 27.]] [잡지/이코노미스트 2024.02(1723호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641907%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641907)
 - [[2024. 2. 27.]] [잡지/매경이코노미 2248호](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641999%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641999)
 - [[2024/02/27]] 새로운 정치 컨텐츠에 대한 논의가 발생하는 현장의 목소리다. 필요에 대해서는 공감하지만 박정호님 의견처럼 낙관할 수는 없다. 반대 세력의 헐뜯기가 엄청날까 염려된다. 또 준비한 시간만큼 이야기를 풀어나갈 사람이 얼마나 될까.
-- [[2024/02/27]]
+  collapsed:: true
 	- [[2024/02/02]] [[손에 잡히는 경제/커피타임]] 편성회의
 		- **이진우**: 솔직히 이건 내 생각이 꼬인 것 같아요. 정치인들 불러다가 인터뷰를 왜 하는지 난 아직도 모르겠어요. '야당에서 이렇게 얘기했는데 너는 어떻게 생각하니?' 라는 질문이나, 또 '여당에서 이렇게 얘기하던데 너는 어떻게 생각하니?'라는 질문을. 그거 왜 하지? 그거 뭐 어떻게 생각할 지 대충 뻔한데. 다만 표현을 사랑스럽습니다라고 하겠어 뭐 어떡하겠어.
 		- **김현우**: 뻔해. 그런데 정책같은 거 이렇게 이렇게 하는 게 맞다 그런 생각이나 뭐 안 이런 것을 내놓기도 하고.
