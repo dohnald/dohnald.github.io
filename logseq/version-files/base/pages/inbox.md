@@ -227,13 +227,22 @@ public:: false
 	  | By the way, you can unfold and fold these things to make it easier to see. | 그런데, 보기 쉽게하기 위해 이것을 펼치고 접을 수 있습니다. |
 	  | So I've created some references. | 그래서 몇 가지 참고자료들을 만들었습니다. |
 	  | Those are commentaries on this book because I've recently taught out of it. | 그것들은 이 책에 대한 주석들인데요, 최근에 이에 대해 가르쳤기 때문입니다. |
-	- What's the key word suffering purpose statement author date, some background information who's the audience?
-	  This information is stuff that I actually got from a course in seminary and I slowly I improve upon these over time as my understanding of these books if I, if I go to study a book, I will change some of these things and alter them, make them a bit clearer as I go.
-	  But this gives me a really easy place to look at my Bible background on any book that I've studied and get a quick overview what was First Peter about again, what's the main theme?
-	  Okay, I know Peter wrote it but like, what was the audience what was going on?
-	  Here's just a really quick one page at a way to do that.
-	  So this is a super helpful thing as you're doing Bible backgrounds to build these out for your books of the Bible and put them into Rome research.
-	  Another cool thing is there's a lot of key passages and look at this do you notice how those are actually block level references?
+	- ||
+	  | **Original** | **Translation** |
+	  |What's the key word suffering purpose statement author date, some background information who's the audience? |주요 키워드 고통 목적 진술 작가 날짜, 일부 배경 정보 청중은 누구인가요? |
+	  |This information is stuff that I actually got from a course in seminary and I slowly I improve upon these over time as my understanding of these books if I, if I go to study a book, I will change some of these things and alter them, make them a bit clearer as I go. |이 정보는 제가 실제로 신학교에서 얻은 것으로, 이 책들에 대한 이해가 시간이 지나면서 조금씩 개선되어 갑니다. 만약 책을 공부하러 가면, 일부를 변경하고 수정하여 더 명확하게 만들 거예요.|
+	  |But this gives me a really easy place to look at my Bible background on any book that I've studied and get a quick overview what was First Peter about again, what's the main theme? |그러나 이것은 내가 공부했던 어떤 책이든 내 성경 배경을 쉽게 볼 수 있는 장소를 제공하며, 첫 베드로가 무엇이었고, 주요 테마가 무엇이었는지 간단히 파악할 수 있어요.|
+	  |Okay, I know Peter wrote it but like, what was the audience what was going on? |알겠어, 피터가 썼다는 건 알겠는데, 그러니까, 청중이 누구였고, 무슨 일이 일어났는지요? |
+	  |Here's just a really quick one page at a way to do that. |여기 단지 그 일을 하는 한 가지 빠르고 간단한 방법이 있습니다.|
+	  |So this is a super helpful thing as you're doing Bible backgrounds to build these out for your books of the Bible and put them into Rome research. |그래서 이것은 당신이 성경 배경을 하는 동안 실질적으로 책들을 위해 이것들을 개발하고, 로마 연구에 넣는데 매우 도움이 되는 것입니다.|
+	  |Another cool thing is there's a lot of key passages and look at this do you notice how those are actually block level references? |또다른 멋진 점은 많은 중요한 구절들이 있다는 것이며, 이것들이 실제로 블록 수준 참조인 것을 주목하세요. |
+	- What I've done is I've come in here I've done double parentheses I've started typing the verse that I want to put in here and this actually works as a search bar too and it finds it and when I click away, it renders that.
+	  So now it means that if I'm actually back on that book of the Bible so I'm say I'm on First Peter chapter two there's verse two see these little numbers.
+	  Click on that it shows me anywhere I have referenced that.
+	  And so that's the one I just added the new reference to it to.
+	  But also it looks like these are some notes on a sermon someone else gave at my church that I took and they referenced it.
+	  And after I took my notes, I processed it.
+	  Oh, and if you're interested in seeing how I use Rome research as the final step in taking notes in church, I have another video that I will link to above.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
