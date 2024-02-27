@@ -331,5 +331,5 @@ public:: false
 - TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=_EP9j7S8GxE4qI_x)
   collapsed:: true
 	- - ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
-- TODO [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext) 
-  * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
+- TODO [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext)
+	- * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
