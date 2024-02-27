@@ -139,6 +139,15 @@ public:: false
 	  | What I mean is I use accordance for Bible study. | 말하고 싶은 건 저는 성경 연구를 위해 어코던스를 사용한다는 거예요. |
 	  | Some of you maybe use logos or something else and I'm not looking for a replacement for those tools. | 어느 분들은 로고스나 다른 것을 사용할 수도 있겠지만, 저는 그런 도구를 대체할 필요는 없어요. |
 	  | They're wonderful they're great for doing original language study. | 그들은 훌륭하고, 원어를 연구하는 데에 큰 도움이 돼요. |
+	- ||
+	  | 원문 | 번역문 |
+	  |---|---|
+	  | They're great for sorting through your commentaries and looking things up that's wonderful and they have notes features built into them | 그들은 귀하의 주석을 분류하고 찾아보는 데에 훌륭하며, 그것은 멋진 것이고, 내장 노트 기능까지 있지만, 조금 더 견고한 것이 필요했습니다. |
+	- ||
+	  | 원문 | 번역문 |
+	  |---|---|
+	  | I wanted sort of a Wikipedia of my own understanding of the Bible and I wanted that system to be deeply interconnected that it would link back and forth through different phrases, through different passages. | 나는 성경에 대한 나만의 이해의 위키백과 같은 것을 원했고, 그 시스템이 깊게 연결되어 서로 링크되어 다른 구절을 통해 왔다갔다 할 수 있기를 희망했다. |
+	  | And really that was the main thing I wanted it to be all indexed to the scriptures themselves. So if I looked at a verse, I could find everything I'd ever written or talked about relating to that verse. | 정말 그것이 나에겐 중요한 부분이었고, 그것이 모두 성경 자체에 색인되기를 원했다. 그래서 만약 내가 구절을 보게 된다면, 그 구절과 관련한 내가 쓴 모든 것이나 말한 모든 것을 찾을 수 있기를 원했다. |
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
