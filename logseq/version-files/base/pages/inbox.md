@@ -410,3 +410,7 @@ public:: false
 - TODO [[2024/02/27]] [Reagan Rose-How I Take Sermon Notes to Focus Better, Learn More, And Grow Spiritually](https://youtube.com/watch?v=w5xjqurDaYo&si=lY0TWXH2MccfWIpS) 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/w5xjqurDaYo/hqdefault.jpg)
+
+- TODO [[2024/02/27]] [Reagan Rose-How to Prepare for a Great Morning Routine](https://youtube.com/watch?v=kqQuXaSGFYw&si=wY9Z7lSdnhmYEKmd) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/kqQuXaSGFYw/hqdefault.jpg)
