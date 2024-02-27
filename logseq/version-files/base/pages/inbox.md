@@ -325,3 +325,6 @@ public:: false
 		- **김현우**: 새로운 정치 채널을 하나 파보시는 건 어떠세요? 맞아 정치.
 		- **박정호**: 이거 대박 날 것 같아요. 유튜브로. MBC에서 어렵다면 유튜브는 어차피 기반이 좀 있으시니까 이제 회사가 거기에서 정치 정론 유튜브처럼 이거 대박 날 것 같은데
 - [[2024. 2. 27.]] [잡지/더스쿠프 The SCOOP Vol.586](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179642300%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179642300)
+- TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=cJHOR5Ljm5g4Cd5k) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
