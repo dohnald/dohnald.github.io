@@ -335,3 +335,6 @@ public:: false
   collapsed:: true
 	- * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
 -
+- TODO [[2024/02/27]] [전지적 한국인 시점으로 보는 영어이야기-주니어 리딩튜터 스타터 1 / 난이도 / 추천 대상 / 교재 활용 팁 / 공부방법](https://youtube.com/watch?v=LeoGVqs_B9I&si=c4P-Q4w2LhbG481h) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/LeoGVqs_B9I/hqdefault.jpg)
