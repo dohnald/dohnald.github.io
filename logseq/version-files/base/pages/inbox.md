@@ -244,14 +244,16 @@ public:: false
 	  |But also it looks like these are some notes on a sermon someone else gave at my church that I took and they referenced it.|그러나 또한, 이것은 내 교회에서 다른 사람이 한 설교에 대한 내가 적은 노트인 것 같습니다. 그들은 그것을 언급했습니다.|
 	  |And after I took my notes, I processed it.|내가 노트를 적은 후, 그것을 처리했습니다.|
 	  |Oh, and if you're interested in seeing how I use Rome research as the final step in taking notes in church, I have another video that I will link to above.|아, 그리고 교회에서 노트를 작성하는 마지막 단계로 로마 연구를 어떻게 사용하는지 보고 싶다면, 링크한 다른 동영상을 보실 수 있습니다. |
-	- Now you can begin to see how powerful this can become because look at this all throughout we've been studying this at our church and I've been taking notes on it and I have references all over the place to these different verses and I can jump into these pages if I want to.
-	  And I can see exactly the context in which I cited that.
-	  So you see every time I use a verse in here, I cross reference it to the page that has that verse in it so that it builds out those connections and those indices.
-	  Another building block I use is tags.
-	  Now anything in Rome research could be its own page.
-	  You just put it in double brackets you can create another bidirectional link and I will use these as I just made this thing called tags.
-	  And these are just topics that I add to from time to time.
-	  So if I click on suffering, for example, these linked references are any time that I've tagged any note or block with the word suffering.
+	- ||
+	  | 원문 | 번역 |
+	  | Now you can begin to see how powerful this can become because look at this all throughout we've been studying this at our church and I've been taking notes on it and I have references all over the place to these different verses and I can jump into these pages if I want to. And I can see exactly the context in which I cited that. So you see every time I use a verse in here, I cross reference it to the page that has that verse in it so that it builds out those connections and those indices. Another building block I use is tags. Now anything in Rome research could be its own page. You just put it in double brackets you can create another bidirectional link and I will use these as I just made this thing called tags. And these are just topics that I add to from time to time. So if I click on suffering, for example, these linked references are any time that I've tagged any note or block with the word suffering. | 이제 이것이 얼마나 강력해질 수 있는지 보기 시작할 수 있습니다. 우리 교회에서 계속해서 공부해 왔고 이것노트를 쓰고 있으며 서로 다른 구절들에 대한 참조가 이곳저곳에 있습니다 그리고 원할 때 이 페이지로 이동할 수 있습니다. 그리고 제가 인용한 문맥을 정확히 볼 수 있습니다. 그래서 여기서 구절을 사용할 때마다 해당 구절이 있는 페이지로 상호 참조를 통해 연결하여 연결과 색인을 작성합니다. 저는 사용하는 또 다른 기본 요소는 태그입니다. Rome research에서 모든 것이 자체 페이지가 될 수 있습니다. 이중 대괄호에 넣으면 다른 양방향 링크를 만들 수 있고 이것을 태그라는 것을 만든 것 처럼 사용할 것입니다. 그리고 이것들은 가끔식 추가하는 주제들입니다. 예를 들어 고통을 클릭하면, 이 연결된 참조는 언제든지 고통이라는 단어로 어떤 주석 또는 블록을 태그한 시간입니다. |
+	- I have some quotes from ED Welch's book When People are Big and God is Small, there's a quote from the book The Path of God's Love is not without Suffering.
+	  In fact, those who love more will suffer more interesting something from a Mcarthur book called Power of Suffering.
+	  This is a blog that I think I wrote for the Master's Seminary blog or maybe someone else did.
+	  Let me look yeah, author me see I'll even put my own articles in here and then go through and tag them with verses and topics so that I have again a bigger index of my thoughts on any subject.
+	  And let me give you just a use case why this is so powerful.
+	  If you faithfully tag stuff you find in Rome, you are slowly building out a set of resources.
+	  If you ever wanted to write or teach on this topic so say I was going to give a topical message on suffering or do a Bible study on suffering I could go to this tag and start to find some of the stuff that I have found most helpful on that topic and even some cross references to scriptures on that topic.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
