@@ -338,3 +338,12 @@ public:: false
 - TODO [[2024/02/27]] [전지적 한국인 시점으로 보는 영어이야기-주니어 리딩튜터 스타터 1 / 난이도 / 추천 대상 / 교재 활용 팁 / 공부방법](https://youtube.com/watch?v=LeoGVqs_B9I&si=c4P-Q4w2LhbG481h) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LeoGVqs_B9I/hqdefault.jpg)
+TODO [[2024/02/27]] https://twitter.com/jojoldu
+> (최근까지 작업했던 많은 내용들이 속속 적용하게 되어서 공유드릴 내용이 너무 많은것 같습니다. ^^;)  
+  
+제품 출시에 신경을 쓰다보면 클라우드 비용을 고려하지 않다가, 어느 순간 폭발적으로 늘어난 클라우드 비용에 깜짝 놀라게 됩니다.  
+  
+그래서 개발팀에서는 항상 이 클라우드 비용이 합리적으로…
+
+collapsed:: true
+* {{tweet https://x.com/jojoldu/status/1762403333619495061?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
