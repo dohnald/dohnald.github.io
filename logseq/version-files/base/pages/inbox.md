@@ -146,3 +146,7 @@ public:: false
 - [[2024. 2. 27.]] [잡지/더스쿠프 The SCOOP Vol.586](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179642300%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179642300)
 - [[2024. 2. 27.]] [잡지/이코노미스트 2024.02(1723호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641907%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641907)
 - [[2024. 2. 27.]] [잡지/매경이코노미 2248호](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641999%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641999)
+- [[2024/02/27]]
+	- [[2024/02/02]] [[손에 잡히는 경제/커피타임]] 편성회의
+		-
+-
