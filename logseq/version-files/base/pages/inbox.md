@@ -127,8 +127,8 @@ public:: false
 	  | I teach through various settings in church, through preaching, through teaching, through Bible studies, through writing online, through a podcast and many other venues. | 저는 교회에서 다양한 방식으로 가르치고 있습니다. 예배를 통해, 교육을 통해, 성서공부를 통해, 온라인으로 글을 쓰는 것을 통해, 팟캐스트를 통해 그리고 다른 많은 장소에서도 가르치고 있습니다.  |
 	  | And so that means I've been studying the Bible for a long time and over that time I've accumulated a lot of Bible notes especially when I went through seminary back in 2014 through 2017. | 그래서 저는 오랜 시간 동안 성서를 공부해 왔고, 그 시간 동안 2014년부터 2017년까지 신학교를 다닐 때 특히 많은 성서 노트를 쌓아 왔습니다. |
 	  | I just have reams and reams of notes on the Bible. | 제게는 성서에 대한 엄청난 양의 노트가 있습니다. |
-	- Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me.
-	  I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other.
+	- | 원문 | 번역문 |
+	  | Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me. I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other. | 어떤 것은 서로 다른 폴더에, 서로 다른 노트북에 저장돼 있고 어떤 것은 서로 다른 앱에, 워드 문서에 있지만 모든 것이 흩어져 있어 항상 마음이 걸렸습니다. 항상 마음 속 깊은 곳에 있던 꿈은 내 성경 노트를 더 연계된 시스템에 모두 모아놓으면, 내가 무엇을 가르쳤는지, 무엇을 공부했는지, 그리고 그 아이디어들이 서로 어떻게 연결되는지 쉽게 볼 수 있도록 하는 것이었습니다. |
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
