@@ -407,3 +407,6 @@ public:: false
 - DONE [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
+- TODO [[2024/02/27]] [Reagan Rose-How I Take Sermon Notes to Focus Better, Learn More, And Grow Spiritually](https://youtube.com/watch?v=w5xjqurDaYo&si=lY0TWXH2MccfWIpS) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/w5xjqurDaYo/hqdefault.jpg)
