@@ -19,9 +19,6 @@ public:: false
 	- 인용
 		- 정보를 투자하여 이익을 내는 자산으로 다뤄야 하며, 그 이익은 다시 다른 사업에 재투자될 수 있다. 이것은 높은 수익을 내는 자산처럼 시간이 흐를수록 지식이 늘어나 큰 폭으로 증가하게 하는 방법이다. 매달 주식에 소액을 투자하듯이 지식이 계속해서 늘어나고 아이디어가 서로 연결되어 발전하면서 우리의 관심도 투자하면 이와 유사한 방식으로 증가한다.
 - TODO [[2024/02/15]] 임산부 비행기 탑승 https://babybilly.app/contents/detail/2451
-- TODO [James Bruton-DIY IoT  E-PAPER  Message Board](https://youtube.com/watch?v=cGsRJhoF5yY&si=j9AZh9NTl9Kcq0sr) [[2024/02/15]]
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/cGsRJhoF5yY/hqdefault.jpg)
 - TODO [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
@@ -32,9 +29,6 @@ public:: false
 	- TODO [쇼라링 showraring-소형suv에서 먹고자고씻고 제주 한달살이 장기차박 세팅 | 캠핑카구조변경,무시동히터,루프백,알피쿨25](https://youtube.com/watch?v=tVacpdkCzNQ&si=ju2_aTeLAP8nOnc4) [[2024/02/21]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/tVacpdkCzNQ/hqdefault.jpg)
-- TODO [김종국 GYM JONG KOOK-GYM종국 구'독한' 하체... (Feat. 마선호, LA그녀)](https://youtube.com/watch?v=8F9jQS5xUq4&si=mu2UVNqcvVW0IgsB) [[2024/02/22]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/8F9jQS5xUq4/hqdefault.jpg)
 - TODO [무아공간-이렇게나 좁은 자녀방도 해결 가능합니다 #자녀방인테리어](https://youtube.com/watch?v=HhLZJ7FHA9U&si=MNL0W5MK6U3FNu3g) [[2024/02/22]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HhLZJ7FHA9U/hqdefault.jpg)
@@ -114,9 +108,6 @@ public:: false
 - TODO [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
-- TODO [Amazon Web Services Korea-새로운 Amazon S3 클래스로 비용 절감하기 - 김용기 솔루션즈 아키텍트, AWS / 박양수 테크니컬 어카운트 매니저, AWS :: AWS Summit Korea 2022](https://youtube.com/watch?v=XvWhhxvdiIQ&si=fa4pB44j5qt7n2vm) [[2024/02/25]] 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/XvWhhxvdiIQ/hqdefault.jpg)
 - TODO [[2024/02/25]] https://twitter.com/smartbosslee
   collapsed:: true
   > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
@@ -132,17 +123,12 @@ public:: false
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
   
   역사는 돌에 새기는 것이 아니라 사람이 기억하는 것이고, 우리가 기억하는 걸 반일이라고 부른다면 그 사람은 기억을 얕보는거다.<https://t.co/kpslNBiaTT>
-  
-  collapsed:: true
 	- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- DONE [[2024/02/26]] https://twitter.com/Vajrahomo
-  collapsed:: true
-  > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
-	- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 -
 - [[2024. 2. 27.]] [잡지/더스쿠프 The SCOOP Vol.586](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179642300%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179642300)
 - [[2024. 2. 27.]] [잡지/이코노미스트 2024.02(1723호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641907%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641907)
 - [[2024. 2. 27.]] [잡지/매경이코노미 2248호](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641999%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641999)
+- [[2024/02/27]] 새로운 정치 컨텐츠에 대한 논의가 발생하는 현장의 목소리다. 필요에 대해서는 공감하지만 박정호님 의견처럼 낙관할 수는 없다. 반대 세력의 헐뜯기가 엄청날까 염려된다. 또 준비한 시간만큼 이야기를 풀어나갈 사람이 얼마나 될까.
 - [[2024/02/27]]
 	- [[2024/02/02]] [[손에 잡히는 경제/커피타임]] 편성회의
 		- **이진우**: 솔직히 이건 내 생각이 꼬인 것 같아요. 정치인들 불러다가 인터뷰를 왜 하는지 난 아직도 모르겠어요. '야당에서 이렇게 얘기했는데 너는 어떻게 생각하니?' 라는 질문이나, 또 '여당에서 이렇게 얘기하던데 너는 어떻게 생각하니?'라는 질문을. 그거 왜 하지? 그거 뭐 어떻게 생각할 지 대충 뻔한데. 다만 표현을 사랑스럽습니다라고 하겠어 뭐 어떡하겠어.
