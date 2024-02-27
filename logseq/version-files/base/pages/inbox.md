@@ -359,8 +359,9 @@ public:: false
 	- {{tweet https://x.com/jojoldu/status/1762403333619495061?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - 생각
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
-  tag:: card, memo, #감상/책/읽는, [[2024/02/27]] 
+  tag:: card, memo, #감상/책/읽는, [[2024/02/27]]
   purpose:: 
+  collapsed:: true
   * [X] [[p1.영감]] 
   * [X] [[p2.유용]]
   * [ ] [[p3.개인적]]
@@ -371,8 +372,9 @@ public:: false
 		- 이 과정에서는 메모들을 하이라이트 처리하거나 요약하지 않는다. 내용을 이해하거나 흡수하려 애쓰지도 않는다. 메모들과 관련 있을 수도 있는 모든 주제에 대해 걱정하지도 않는다. 단지 그 모든 생각을 미래를 위해, 즉 무엇을 성취하려는지 알고 있는 상태에서 유용한 지식 블록을 찾고자 할 때를 대비해 저장해둘 뿐이다. 이렇게 매주 진행하는 선별 과정은 지난주에 축적한 지식을 잊지 말라고 가볍게 상기시키는 역할을 한다. 그리고 새로운 아이디어와 통찰력이 세컨드 브레인으로 활기차게 흘러들도록 한다.
 - 생각
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
-  tag:: card, memo, #감상/책/읽는, [[2024/02/27]] 
+  tag:: card, memo, #감상/책/읽는, [[2024/02/27]]
   purpose:: 
+  collapsed:: true
   * [X] [[p1.영감]] 
   * [ ] [[p2.유용]]
   * [ ] [[p3.개인적]]
@@ -382,13 +384,15 @@ public:: false
 	- 인용
 		- 디지털 메모를 단순한 저장 환경이 아니라 작업 환경으로 만들면 그 안에서 시간을 더 많이 보내게 된다. 그러면 더 많은 변화를 가져올 조그만 기회들을 더 많이 찾아낼 것이다. 시간이 흐르면서 이 과정이 계속 쌓이면 당신이 미리 계획할 수 있었던 그 어떤 것보다도 훨씬 실제적이고 적합한 작업 환경을 만들어낼 것이다.
 - [[2024/02/26]]
+  collapsed:: true
 	- 국제갈비
 		- 갈비 - 맛이 좋아졌다.
 		- 오겹살 - 껍질이 너무 질겨 오히려 맛이 덜하다.
 - 생각
   source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
-  tag:: card, memo, #감상/책/읽는, [[2024/02/27]] 
+  tag:: card, memo, #감상/책/읽는, [[2024/02/27]]
   purpose:: 
+  collapsed:: true
   * [ ] [[p1.영감]] 
   * [ ] [[p2.유용]]
   * [ ] [[p3.개인적]]
@@ -400,6 +404,6 @@ public:: false
 - TODO [[2024/02/27]] [Aryan Sawhney-Is this the BEST Notetaking app for students? |  Logseq Student Workflow](https://youtube.com/watch?v=Fz1EKzZZffA&si=PIuqgBl-3MTJNJpP) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Fz1EKzZZffA/hqdefault.jpg)
-- TODO [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
+- DONE [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
