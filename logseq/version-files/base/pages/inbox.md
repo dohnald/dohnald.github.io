@@ -211,20 +211,29 @@ public:: false
 	   | So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five. | 따라서 여기서 제가 첫 베드로서 1장을 검색하여 실제로 제가 5장을 보여드리겠습니다. |
 	   | Okay so in here I have put the text of first Peter five. | 좋습니다. 그래서 여기에 첫 베드로서 5장의 본문을 넣었습니다. |
 	   | Now you can just copy and paste this. | 이제 이것을 그대로 복사하여 붙일 수 있습니다. |
-	- Now you can just copy and paste this.
-	  I've written a little script that allows me to paste them really quickly but this is just copied actually from accordance and this is the ESV.
-	  So each time I'm looking at a new passage, I will put that chapter of the Bible in here and begin working with the Scripture.
-	  I'll show you how this works.
-	  You can see those little numbers on the right side of them.
-	  I'll show you what those mean in a moment and some of these headings.
-	  But I just want to show you what it starts with is the text of Scripture because remember, my goal has been to use the Bible verses themselves as an index for my study of the Bible.
-	  I want everything to link back to verses or chapters.
-	  The second building block in how I study the Bible in Rome research are book overviews.
-	  Now if you look here, I have the whole book of First Peter Anne.
-	  I've created things like you can.
-	  By the way, you can unfold and fold these things to make it easier to see.
-	  So I've created some references.
-	  Those are commentaries on this book because I've recently taught out of it.
+	- ||
+	  | 원문 | 번역 |
+	  |---|---|
+	  | I've written a little script that allows me to paste them really quickly but this is just copied actually from accordance and this is the ESV. | 제가 매우 빠르게 붙여넣을 수 있게 해주는 작은 스크립트를 작성했지만 이것은 사실 accordance에서 복사한 것이며 ESV입니다. |
+	  | So each time I'm looking at a new passage, I will put that chapter of the Bible in here and begin working with the Scripture. | 그래서 새 절을 살펴볼 때마다 성경 장을 여기에 넣고 성경과 함께 작업을 시작할 것입니다. |
+	  | I'll show you how this works. | 어떻게 작동하는지 보여드리겠습니다. |
+	  | You can see those little numbers on the right side of them. | 그들 오른쪽에 있는 작은 숫자를 볼 수 있습니다. |
+	  | I'll show you what those mean in a moment and some of these headings. | 잠시 후 그 의미를 보여드리고 이것의 일부 제목을 보여드리겠습니다. |
+	  | But I just want to show you what it starts with is the text of Scripture because remember, my goal has been to use the Bible verses themselves as an index for my study of the Bible. | 그러나 시작 부분이 성경 본문이라는 것을 보여드리고 싶습니다. 왜냐하면 기억하세요, 내 목표는 성경 공부를 위해 성경 절 자체를 색인으로 사용하는 것이기 때문입니다. |
+	  | I want everything to link back to verses or chapters. | 모든 것이 절이나 장에 다시 연결되길 원합니다. |
+	  | The second building block in how I study the Bible in Rome research are book overviews. | 로마 연구에서 성경을 공부하는 방법 중 두 번째 건물은 책 개관입니다. |
+	  | Now if you look here, I have the whole book of First Peter Anne. | 여기 보시면, 나는 온전한 첫째 베드로 책을 가지고 있습니다. |
+	  | I've created things like you can. | 당신도 할 수 있는 것들을 만들었습니다. |
+	  | By the way, you can unfold and fold these things to make it easier to see. | 그런데, 보기 쉽게하기 위해 이것을 펼치고 접을 수 있습니다. |
+	  | So I've created some references. | 그래서 몇 가지 참고자료들을 만들었습니다. |
+	  | Those are commentaries on this book because I've recently taught out of it. | 그것들은 이 책에 대한 주석들인데요, 최근에 이에 대해 가르쳤기 때문입니다. |
+	- What's the key word suffering purpose statement author date, some background information who's the audience?
+	  This information is stuff that I actually got from a course in seminary and I slowly I improve upon these over time as my understanding of these books if I, if I go to study a book, I will change some of these things and alter them, make them a bit clearer as I go.
+	  But this gives me a really easy place to look at my Bible background on any book that I've studied and get a quick overview what was First Peter about again, what's the main theme?
+	  Okay, I know Peter wrote it but like, what was the audience what was going on?
+	  Here's just a really quick one page at a way to do that.
+	  So this is a super helpful thing as you're doing Bible backgrounds to build these out for your books of the Bible and put them into Rome research.
+	  Another cool thing is there's a lot of key passages and look at this do you notice how those are actually block level references?
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
