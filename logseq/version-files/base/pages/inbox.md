@@ -159,6 +159,17 @@ public:: false
 	  | Okay so like I said in the beginning, the tool that I found that's actually enabled me to do these things and really has made my process of studying the Bible just so much more fun and profitable has been Rome research. | 그래서 시작할 때 말했던 대로, 나에게 이 일들을 할 수 있게 한 도구는 실제로 성경 공부 과정을 훨씬 더 재미있고 유익하게 만들어주었던 것입니다. |
 	  | So if you don't know what Rome research is, they call it a note taking tool for networked thought. | Rome research가 무엇인지 모른다면, 그들은 이것을 네트워크된 사고를 위한 필기 도구라고 부릅니다. |
 	  | Basically it approaches the process of note taking more in, I guess an atomized way. | 기본적으로 이것은 노트를 작성하는 과정을, 아마도 원자화된 방식으로 다룹니다. |
+	- ||
+	  | 원문 | 번역문 |
+	  | --- | --- |
+	  | So you're not just taking pages of notes like you would in ever note or in a word document the each individual part of the note is its own discrete piece of information which can be interlinked. Let me show you how that works exactly. | 당신이 Evernote나 워드 문서에서 하는 것과 같이 노트의 페이지를 작성하는 것이 아니라 각각의 노트 부분은 자체 독립적인 정보 조각으로 서로 연결될 수 있습니다. 정확히 어떻게 작동하는지 보여드리죠. |
+	  | So ROME has a lot of tools in here but there are two that really make this system super powerful. | ROME에는 많은 도구가 있지만 이 시스템을 정말 강력하게 만드는 두 가지 요소가 있습니다. |
+	  | The first is bidirectional links. | 첫 번째는 양방향 링크입니다. |
+	  | So when you first open Rome, you're greeted by your daily note and it's just the day's date. | Rome을 처음 열면 매일 노트가 표시되는데, 그냥 그 날짜뿐입니다. |
+	- And like any note taking software, you could write something here but a bidirectional length is when you put two brackets around a word like Bible for example, that creates what's called a bidirectional link.
+	  So if I click on this, that actually takes me a page that already exists that I've made called Bible down here in the linked references, you can see August Third write something here Bible that's why it's bidirectional because it's not one way.
+	  It didn't just link me to this page.
+	  This page links me back. And what this means is as you create these links, you're actually building a network for your thoughts.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
