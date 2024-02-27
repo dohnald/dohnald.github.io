@@ -112,7 +112,7 @@ public:: false
   collapsed:: true
   > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
 	- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
+- DONE [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
 - TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]]
