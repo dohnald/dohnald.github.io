@@ -129,7 +129,16 @@ public:: false
 	  | I just have reams and reams of notes on the Bible. | 제게는 성서에 대한 엄청난 양의 노트가 있습니다. |
 	- | 원문 | 번역문 |
 	  | Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me. I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other. | 어떤 것은 서로 다른 폴더에, 서로 다른 노트북에 저장돼 있고 어떤 것은 서로 다른 앱에, 워드 문서에 있지만 모든 것이 흩어져 있어 항상 마음이 걸렸습니다. 항상 마음 속 깊은 곳에 있던 꿈은 내 성경 노트를 더 연계된 시스템에 모두 모아놓으면, 내가 무엇을 가르쳤는지, 무엇을 공부했는지, 그리고 그 아이디어들이 서로 어떻게 연결되는지 쉽게 볼 수 있도록 하는 것이었습니다. |
-	- And I want to show you today how Rome Research has been the solution to that problem for me and maybe it will be for you too.
+	- | 원문 | 번역문 |
+	  | And I want to show you today how Rome Research has been the solution to that problem for me and maybe it will be for you too. | 오늘 Rome Research가 제게 그 문제의 해결책이 되었던 방식을 보여드리고 싶어요. 아마 여러분에게도 도움이 될지도 몰라요. |
+	- ||
+	  | 원문 | 번역문 |
+	  |-----|------|
+	  | So before I show you Rome research itself, let me talk through kind of the objectives I had in finding a tool to do this for me. | Rome Research 자체를 보여주기 전에, 이 작업을 위해 도구를 찾을 때 가지고 있던 목적에 대해 이야기해 볼게요. |
+	  | So first, I wanted something that would be a repository for my understanding about the Bible. | 먼저, 성경에 대한 나의 이해를 저장할 수 있는 무언가가 필요했어요. |
+	  | What I mean is I use accordance for Bible study. | 말하고 싶은 건 저는 성경 연구를 위해 어코던스를 사용한다는 거예요. |
+	  | Some of you maybe use logos or something else and I'm not looking for a replacement for those tools. | 어느 분들은 로고스나 다른 것을 사용할 수도 있겠지만, 저는 그런 도구를 대체할 필요는 없어요. |
+	  | They're wonderful they're great for doing original language study. | 그들은 훌륭하고, 원어를 연구하는 데에 큰 도움이 돼요. |
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
