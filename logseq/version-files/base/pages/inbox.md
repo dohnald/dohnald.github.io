@@ -400,3 +400,6 @@ public:: false
 - TODO [[2024/02/27]] [Aryan Sawhney-Is this the BEST Notetaking app for students? |  Logseq Student Workflow](https://youtube.com/watch?v=Fz1EKzZZffA&si=PIuqgBl-3MTJNJpP) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Fz1EKzZZffA/hqdefault.jpg)
+- TODO [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
