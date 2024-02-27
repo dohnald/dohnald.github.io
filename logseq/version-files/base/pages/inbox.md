@@ -116,9 +116,11 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
 - TODO [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]]
+  collapsed:: true
 	- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
 	- 세컨드브레인 활용에 좋은 가이드가 된다. 참고해서 성경공부도 좀 하고 싶다.
 	- script
+	  collapsed:: true
 		- | 원문 | 번역문 |
 		  | --- | --- |
 		  | Today I'm going to show you a method for studying the Bible using a tool called Rome Research that has honestly changed the way I approach Bible. And this method will be beneficial to anybody who studies God's word whether you do it casually you're a student or a pastor or even an academic. | 오늘은 Rome Research라 불리는 도구를 사용해 성경을 공부하는 방법을 알려드리겠습니다. 이 방법은 성경을 연구하는 데 도움이 되며, 취미로 하든 학생이든 목사이든 학자이든 모두에게 유익할 것입니다. |
