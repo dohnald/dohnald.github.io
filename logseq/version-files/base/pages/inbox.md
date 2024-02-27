@@ -414,3 +414,7 @@ collapsed:: true
 - TODO [[2024/02/27]] [Reagan Rose-How to Prepare for a Great Morning Routine](https://youtube.com/watch?v=kqQuXaSGFYw&si=wY9Z7lSdnhmYEKmd) 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/kqQuXaSGFYw/hqdefault.jpg)
+
+- TODO [[2024/02/27]] [Matthew Everhard-Best Bible Note-Taking System: Jonathan Edwards's Miscellanies](https://youtube.com/watch?v=fqq-4-LiFVs&si=WcsVcB1RK7-D_lmT) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/fqq-4-LiFVs/hqdefault.jpg)
