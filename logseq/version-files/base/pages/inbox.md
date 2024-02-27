@@ -123,9 +123,12 @@ public:: false
 		  | --- | --- |
 		  | Today I'm going to show you a method for studying the Bible using a tool called Rome Research that has honestly changed the way I approach Bible. And this method will be beneficial to anybody who studies God's word whether you do it casually you're a student or a pastor or even an academic. | 오늘은 Rome Research라 불리는 도구를 사용해 성경을 공부하는 방법을 알려드리겠습니다. 이 방법은 성경을 연구하는 데 도움이 되며, 취미로 하든 학생이든 목사이든 학자이든 모두에게 유익할 것입니다. |
 		  | Hey, my name is Reagan Rose. I teach about personal productivity from a biblical perspective and I've actually been teaching the Bible for many, many moons. | 안녕하세요, 제 이름은 Reagan Rose입니다. 저는 성경적인 시각에서 개인 생산성에 대해 가르치고 실제로 많은 시간동안 성경을 가르쳐왔습니다. |
-	- I teach through various settings in church, through preaching, through teaching, through Bible studies, through writing online, through a podcast and many other venues.
-	  And so that means I've been studying the Bible for a long time and over that time I've accumulated a lot of Bible notes especially when I went through seminary back in 2014 through 2017.
-	  I just have reams and reams of notes on the Bible.
+	- | 원문 | 번역문 |
+	  | I teach through various settings in church, through preaching, through teaching, through Bible studies, through writing online, through a podcast and many other venues. | 저는 교회에서 다양한 방식으로 가르치고 있습니다. 예배를 통해, 교육을 통해, 성서공부를 통해, 온라인으로 글을 쓰는 것을 통해, 팟캐스트를 통해 그리고 다른 많은 장소에서도 가르치고 있습니다.  |
+	  | And so that means I've been studying the Bible for a long time and over that time I've accumulated a lot of Bible notes especially when I went through seminary back in 2014 through 2017. | 그래서 저는 오랜 시간 동안 성서를 공부해 왔고, 그 시간 동안 2014년부터 2017년까지 신학교를 다닐 때 특히 많은 성서 노트를 쌓아 왔습니다. |
+	  | I just have reams and reams of notes on the Bible. | 제게는 성서에 대한 엄청난 양의 노트가 있습니다. |
+	- Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me.
+	  I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other.
 - TODO [[2024/02/26]] https://twitter.com/yonggary
   collapsed:: true
   > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
