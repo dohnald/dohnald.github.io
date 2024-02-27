@@ -325,16 +325,15 @@ public:: false
 		- **김현우**: 새로운 정치 채널을 하나 파보시는 건 어떠세요? 맞아 정치.
 		- **박정호**: 이거 대박 날 것 같아요. 유튜브로. MBC에서 어렵다면 유튜브는 어차피 기반이 좀 있으시니까 이제 회사가 거기에서 정치 정론 유튜브처럼 이거 대박 날 것 같은데
 - [[2024. 2. 27.]] [잡지/더스쿠프 The SCOOP Vol.586](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179642300%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179642300)
-- TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=cJHOR5Ljm5g4Cd5k) 
+- DONE [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=cJHOR5Ljm5g4Cd5k) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
-- TODO [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=_EP9j7S8GxE4qI_x)
+- DONE [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=_EP9j7S8GxE4qI_x)
   collapsed:: true
 	- - ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
-- TODO [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext)
+- DONE [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext)
   collapsed:: true
 	- * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
--
 - TODO [[2024/02/27]] [전지적 한국인 시점으로 보는 영어이야기-주니어 리딩튜터 스타터 1 / 난이도 / 추천 대상 / 교재 활용 팁 / 공부방법](https://youtube.com/watch?v=LeoGVqs_B9I&si=c4P-Q4w2LhbG481h) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LeoGVqs_B9I/hqdefault.jpg)
