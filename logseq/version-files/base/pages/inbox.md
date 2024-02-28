@@ -418,3 +418,16 @@ collapsed:: true
 - TODO [[2024/02/27]] [Matthew Everhard-Best Bible Note-Taking System: Jonathan Edwards's Miscellanies](https://youtube.com/watch?v=fqq-4-LiFVs&si=WcsVcB1RK7-D_lmT) 
 collapsed:: true
   - ![](https://i.ytimg.com/vi/fqq-4-LiFVs/hqdefault.jpg)
+
+- 생각
+source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
+tag:: card, memo, #감상/책/읽는, [[2024/02/28]] 
+purpose:: 
+* [ ] [[p1.영감]] 
+* [ ] [[p2.유용]]
+* [ ] [[p3.개인적]]
+* [ ] [[p4.놀랄]]
+  - 생각가지
+    - 
+  - 인용
+    - 세컨드 브레인을 구축할 때 옳다고 정해진 단 한 가지 방법은 없다. 당신의 시스템은 다른 사람들에게 혼란스럽게 보일 수 있지만, 당신이 앞으로 나아갈 수 있고 또 당신만 기쁘다면 그게 올바른 시스템이다
