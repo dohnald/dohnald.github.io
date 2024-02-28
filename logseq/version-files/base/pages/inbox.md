@@ -264,6 +264,7 @@ public:: false
 - [[2024/02/27]] 새로운 정치 컨텐츠에 대한 논의가 발생하는 현장의 목소리다. 필요에 대해서는 공감하지만 박정호님 의견처럼 낙관할 수는 없다. 반대 세력의 헐뜯기가 엄청날까 염려된다. 또 준비한 시간만큼 이야기를 풀어나갈 사람이 얼마나 될까.
   collapsed:: true
 	- [[2024/02/02]] [[손에 잡히는 경제/커피타임]] 편성회의
+	  id:: 65dd2d2a-36e7-40a3-b4b4-67a43e8d6b6e
 		- **이진우**: 솔직히 이건 내 생각이 꼬인 것 같아요. 정치인들 불러다가 인터뷰를 왜 하는지 난 아직도 모르겠어요. '야당에서 이렇게 얘기했는데 너는 어떻게 생각하니?' 라는 질문이나, 또 '여당에서 이렇게 얘기하던데 너는 어떻게 생각하니?'라는 질문을. 그거 왜 하지? 그거 뭐 어떻게 생각할 지 대충 뻔한데. 다만 표현을 사랑스럽습니다라고 하겠어 뭐 어떡하겠어.
 		- **김현우**: 뻔해. 그런데 정책같은 거 이렇게 이렇게 하는 게 맞다 그런 생각이나 뭐 안 이런 것을 내놓기도 하고.
 		- **이진우**: 그러니까 하여튼 왼쪽 오른쪽이 나서서 싸우는 것까지는 괜찮은데 그걸 가서 생산적인 결론으로 유도를 해야하는 것 아니예요. 너희도 적어도 이렇게 비난하지는 말아라. 이렇게 얘기하지는 않는 걸로 하자. 오케이. 그게 돼야지.
@@ -408,26 +409,23 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
 - TODO [[2024/02/27]] [Reagan Rose-How I Take Sermon Notes to Focus Better, Learn More, And Grow Spiritually](https://youtube.com/watch?v=w5xjqurDaYo&si=lY0TWXH2MccfWIpS) 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/w5xjqurDaYo/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/w5xjqurDaYo/hqdefault.jpg)
 - TODO [[2024/02/27]] [Reagan Rose-How to Prepare for a Great Morning Routine](https://youtube.com/watch?v=kqQuXaSGFYw&si=wY9Z7lSdnhmYEKmd) 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/kqQuXaSGFYw/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/kqQuXaSGFYw/hqdefault.jpg)
 - TODO [[2024/02/27]] [Matthew Everhard-Best Bible Note-Taking System: Jonathan Edwards's Miscellanies](https://youtube.com/watch?v=fqq-4-LiFVs&si=WcsVcB1RK7-D_lmT) 
-collapsed:: true
-  - ![](https://i.ytimg.com/vi/fqq-4-LiFVs/hqdefault.jpg)
-
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/fqq-4-LiFVs/hqdefault.jpg)
 - 생각
-source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
-tag:: card, memo, #감상/책/읽는, [[2024/02/28]] 
-purpose:: 
-* [ ] [[p1.영감]] 
-* [ ] [[p2.유용]]
-* [ ] [[p3.개인적]]
-* [ ] [[p4.놀랄]]
-  - 생각가지
-    - 
-  - 인용
-    - 세컨드 브레인을 구축할 때 옳다고 정해진 단 한 가지 방법은 없다. 당신의 시스템은 다른 사람들에게 혼란스럽게 보일 수 있지만, 당신이 앞으로 나아갈 수 있고 또 당신만 기쁘다면 그게 올바른 시스템이다
+  source:: [[세컨드 브레인, 지은이 티아고 포르테 옮긴이 서은경]]
+  tag:: card, memo, #감상/책/읽는, [[2024/02/28]] 
+  purpose:: 
+  * [ ] [[p1.영감]] 
+  * [ ] [[p2.유용]]
+  * [ ] [[p3.개인적]]
+  * [ ] [[p4.놀랄]]
+	- 생각가지
+		-
+	- 인용
+		- 세컨드 브레인을 구축할 때 옳다고 정해진 단 한 가지 방법은 없다. 당신의 시스템은 다른 사람들에게 혼란스럽게 보일 수 있지만, 당신이 앞으로 나아갈 수 있고 또 당신만 기쁘다면 그게 올바른 시스템이다
