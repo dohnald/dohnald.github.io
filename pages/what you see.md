@@ -2029,3 +2029,12 @@ public:: false
 	  > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
 		- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 		- #감상/책/읽을/millie 나는 메트로폴리탄 미술관의 경비원입니다
+	- DONE [[2024/02/27]] [알제이T-주니어리딩튜터 공부법 | 리딩튜터 공부법 | 렉사일 지수의 한계](https://youtube.com/watch?v=SBoIB7NwfDM&si=cJHOR5Ljm5g4Cd5k) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/SBoIB7NwfDM/hqdefault.jpg)
+	- DONE [[2024/02/27]] [KBS News-[자막뉴스] "차가 계속 왼쪽으로 가요"...블랙박스 확인하곤 '기겁' / KBS 2022.12.23.](https://youtube.com/watch?v=QyvpIlAxLBw&si=Ymm3QDlOABv33ext)
+	  collapsed:: true
+		- * ![](https://i.ytimg.com/vi/QyvpIlAxLBw/hqdefault.jpg)
+	- DONE [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
