@@ -1878,4 +1878,154 @@ public:: false
 	  collapsed:: true
 	  > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
 		- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
--
+- [[2024/02/27]]
+	- DONE [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
+	- DONE [[2024/02/26]] https://twitter.com/yonggary
+	  collapsed:: true
+	  > 아직까지 반일감정 같은걸 가지냐고 하는데, 이스라엘 사람들에게 "아직도 홀로코스트같은 걸 기억하고 그래요?" 해보면 어떨까.  
+	  
+	  역사는 돌에 새기는 것이 아니라 사람이 기억하는 것이고, 우리가 기억하는 걸 반일이라고 부른다면 그 사람은 기억을 얕보는거다.<https://t.co/kpslNBiaTT>
+		- {{tweet https://x.com/yonggary/status/1761727605722779755?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [Reagan Rose-How I Use Roam Research for Bible Study](https://youtube.com/watch?v=egfZmmiA8qk&si=WL5iAh9AzAVEEVh-) [[2024/02/26]]
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/egfZmmiA8qk/hqdefault.jpg)
+		- 세컨드브레인 활용에 좋은 가이드가 된다. 참고해서 성경공부도 좀 하고 싶다.
+		- script
+		  collapsed:: true
+			- | 원문 | 번역문 |
+			  | --- | --- |
+			  | Today I'm going to show you a method for studying the Bible using a tool called Rome Research that has honestly changed the way I approach Bible. And this method will be beneficial to anybody who studies God's word whether you do it casually you're a student or a pastor or even an academic. | 오늘은 Rome Research라 불리는 도구를 사용해 성경을 공부하는 방법을 알려드리겠습니다. 이 방법은 성경을 연구하는 데 도움이 되며, 취미로 하든 학생이든 목사이든 학자이든 모두에게 유익할 것입니다. |
+			  | Hey, my name is Reagan Rose. I teach about personal productivity from a biblical perspective and I've actually been teaching the Bible for many, many moons. | 안녕하세요, 제 이름은 Reagan Rose입니다. 저는 성경적인 시각에서 개인 생산성에 대해 가르치고 실제로 많은 시간동안 성경을 가르쳐왔습니다. |
+		- | 원문 | 번역문 |
+		  | I teach through various settings in church, through preaching, through teaching, through Bible studies, through writing online, through a podcast and many other venues. | 저는 교회에서 다양한 방식으로 가르치고 있습니다. 예배를 통해, 교육을 통해, 성서공부를 통해, 온라인으로 글을 쓰는 것을 통해, 팟캐스트를 통해 그리고 다른 많은 장소에서도 가르치고 있습니다.  |
+		  | And so that means I've been studying the Bible for a long time and over that time I've accumulated a lot of Bible notes especially when I went through seminary back in 2014 through 2017. | 그래서 저는 오랜 시간 동안 성서를 공부해 왔고, 그 시간 동안 2014년부터 2017년까지 신학교를 다닐 때 특히 많은 성서 노트를 쌓아 왔습니다. |
+		  | I just have reams and reams of notes on the Bible. | 제게는 성서에 대한 엄청난 양의 노트가 있습니다. |
+		- | 원문 | 번역문 |
+		  | Some of it is stored physically in different folders, in different notebooks some of it's in different apps, some of it's in word documents but it's all over the place and this has always bugged me. I've always had in the back of my mind this dream that I could have all of my Bible notes in a more interconnected system so that it would be very easy to see what I've taught on what I've studied and how those ideas interconnect with each other. | 어떤 것은 서로 다른 폴더에, 서로 다른 노트북에 저장돼 있고 어떤 것은 서로 다른 앱에, 워드 문서에 있지만 모든 것이 흩어져 있어 항상 마음이 걸렸습니다. 항상 마음 속 깊은 곳에 있던 꿈은 내 성경 노트를 더 연계된 시스템에 모두 모아놓으면, 내가 무엇을 가르쳤는지, 무엇을 공부했는지, 그리고 그 아이디어들이 서로 어떻게 연결되는지 쉽게 볼 수 있도록 하는 것이었습니다. |
+		- | 원문 | 번역문 |
+		  | And I want to show you today how Rome Research has been the solution to that problem for me and maybe it will be for you too. | 오늘 Rome Research가 제게 그 문제의 해결책이 되었던 방식을 보여드리고 싶어요. 아마 여러분에게도 도움이 될지도 몰라요. |
+		- ||
+		  | 원문 | 번역문 |
+		  |-----|------|
+		  | So before I show you Rome research itself, let me talk through kind of the objectives I had in finding a tool to do this for me. | Rome Research 자체를 보여주기 전에, 이 작업을 위해 도구를 찾을 때 가지고 있던 목적에 대해 이야기해 볼게요. |
+		  | So first, I wanted something that would be a repository for my understanding about the Bible. | 먼저, 성경에 대한 나의 이해를 저장할 수 있는 무언가가 필요했어요. |
+		  | What I mean is I use accordance for Bible study. | 말하고 싶은 건 저는 성경 연구를 위해 어코던스를 사용한다는 거예요. |
+		  | Some of you maybe use logos or something else and I'm not looking for a replacement for those tools. | 어느 분들은 로고스나 다른 것을 사용할 수도 있겠지만, 저는 그런 도구를 대체할 필요는 없어요. |
+		  | They're wonderful they're great for doing original language study. | 그들은 훌륭하고, 원어를 연구하는 데에 큰 도움이 돼요. |
+		- ||
+		  | 원문 | 번역문 |
+		  |---|---|
+		  | They're great for sorting through your commentaries and looking things up that's wonderful and they have notes features built into them | 그들은 귀하의 주석을 분류하고 찾아보는 데에 훌륭하며, 그것은 멋진 것이고, 내장 노트 기능까지 있지만, 조금 더 견고한 것이 필요했습니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  |---|---|
+		  | I wanted sort of a Wikipedia of my own understanding of the Bible and I wanted that system to be deeply interconnected that it would link back and forth through different phrases, through different passages. | 나는 성경에 대한 나만의 이해의 위키백과 같은 것을 원했고, 그 시스템이 깊게 연결되어 서로 링크되어 다른 구절을 통해 왔다갔다 할 수 있기를 희망했다. |
+		  | And really that was the main thing I wanted it to be all indexed to the scriptures themselves. So if I looked at a verse, I could find everything I'd ever written or talked about relating to that verse. | 정말 그것이 나에겐 중요한 부분이었고, 그것이 모두 성경 자체에 색인되기를 원했다. 그래서 만약 내가 구절을 보게 된다면, 그 구절과 관련한 내가 쓴 모든 것이나 말한 모든 것을 찾을 수 있기를 원했다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | ----- | ------ |
+		  | I also want to be able to tag different ideas so that they could be sorted into topics for later if I wanted to write a blog post or do a topical message or do a video about a subject that I'm kind of slowly accumulating different thoughts on this one area of Bible knowledge. | 또한 나는 서로 다른 아이디어를 태그하여 추후 블로그 게시물을 쓰거나 특정 메시지를 작성하거나 비디오를 만들고 싶을 때 이를 주제별로 정리할 수 있기를 원합니다. 나는 성서 지식의 한 영역에 대해 서서히 다양한 생각을 축적하고 있기 때문에 이를 원합니다. |
+		  | And finally, I wanted it to make the process of citing sources very easy. | 마지막으로, 나는 참고 자료를 인용하는 과정을 매우 쉽게 만들고 싶었습니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | ----- | ------ |
+		  | Okay so like I said in the beginning, the tool that I found that's actually enabled me to do these things and really has made my process of studying the Bible just so much more fun and profitable has been Rome research. | 그래서 시작할 때 말했던 대로, 나에게 이 일들을 할 수 있게 한 도구는 실제로 성경 공부 과정을 훨씬 더 재미있고 유익하게 만들어주었던 것입니다. |
+		  | So if you don't know what Rome research is, they call it a note taking tool for networked thought. | Rome research가 무엇인지 모른다면, 그들은 이것을 네트워크된 사고를 위한 필기 도구라고 부릅니다. |
+		  | Basically it approaches the process of note taking more in, I guess an atomized way. | 기본적으로 이것은 노트를 작성하는 과정을, 아마도 원자화된 방식으로 다룹니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | --- | --- |
+		  | So you're not just taking pages of notes like you would in ever note or in a word document the each individual part of the note is its own discrete piece of information which can be interlinked. Let me show you how that works exactly. | 당신이 Evernote나 워드 문서에서 하는 것과 같이 노트의 페이지를 작성하는 것이 아니라 각각의 노트 부분은 자체 독립적인 정보 조각으로 서로 연결될 수 있습니다. 정확히 어떻게 작동하는지 보여드리죠. |
+		  | So ROME has a lot of tools in here but there are two that really make this system super powerful. | ROME에는 많은 도구가 있지만 이 시스템을 정말 강력하게 만드는 두 가지 요소가 있습니다. |
+		  | The first is bidirectional links. | 첫 번째는 양방향 링크입니다. |
+		  | So when you first open Rome, you're greeted by your daily note and it's just the day's date. | Rome을 처음 열면 매일 노트가 표시되는데, 그냥 그 날짜뿐입니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | ----- | ----- |
+		  | And like any note taking software, you could write something here but a bidirectional length is when you put two brackets around a word like Bible for example, that creates what's called a bidirectional link. | 그리고 어떤 메모장 소프트웨어와 같이, 여기에 무언가를 쓸 수 있지만, 예를 들어 성경과 같은 단어 주위에 두 개의 괄호를 넣으면, 그것은 양방향 링크라고 하는 것을 만듭니다. |
+		  | So if I click on this, that actually takes me a page that already exists that I've made called Bible down here in the linked references, you can see August Third write something here Bible that's why it's bidirectional because it's not one way. | 따라서 이것을 클릭하면 이미 제가 만들어 둔 Bible이라는 페이지로 저를 안내하는데, 연결된 참조로 여기서 8월 3일에 무언가를 쓴 Bible을 볼 수 있습니다. 그래서 이것이 양방향인 이유입니다. 이것이 단방향만이 아니기 때문입니다. |
+		  | It didn't just link me to this page. This page links me back. And what this means is as you create these links, you're actually building a network for your thoughts. | 그것은 나를 이 페이지에만 링크시키지 않았습니다. 이 페이지는 다시 나를 연결합니다. 이것이 의미하는 바는 이 링크들을 만들면, 실제로 당신의 생각을 위한 네트워크를 만들고 있다는 것입니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  |------|--------|
+		  | That's really, really important and there's a lot of new tools on the market that are starting to do this like obsidian even notion is added, something like this. | 그것은 정말로 매우 중요하며 시장에는 obsidian 같은 새로운 도구들이 많이 나와 있습니다. 심지어 notion도 이와 같은 것을 추가했습니다. |
+		  | But ROME does it best in my opinion the result is as you start to create those, you build out what's called a graph. | 그러나 내 의견으로는 ROME이 이것을 가장 잘 수행합니다. 결과적으로 이것을 만들기 시작하면, 그래프라고 불리는 것을 만들어냅니다. |
+		  | So this is the graph view of Bible. | 이것은 성경의 그래프 뷰입니다. |
+		  | So it shows me everything that's connected to it. | 그래서 그것에 연결된 모든 것을 나에게 보여줍니다. |
+		  | I can see the different books, anything that links back to it, different dates all of that. | 다른 서적, 그에 다시 연결되는 모든 것, 그리고 다양한 날짜를 볼 수 있습니다. |
+		- ||
+		  | 원문 | 번역문 |
+		  | --- | --- |
+		  | That's a very simple view. | 그것은 매우 간단한 관점입니다. |
+		  | This is not a really built out note that I have, but that's just gives you an idea of how the graph works. | 이것은 제가 정말 잘 정리된 노트가 아니지만, 이것은 단지 그래프가 어떻게 작동하는지에 대한 아이디어를 제공합니다. |
+		  | I, to be honest with you, don't really look at the graph view that often, I almost never but the fact that these links are here that's what really gives the power to these bidirectional links. | 솔직히 말해서, 저는 그래프 뷰를 그렇게 자주 보는 편은 아니에요. 거의 결코 보지 않지만 이 링크들이 여기 있는 것이 정말 이 이중방향 링크들에 힘을 실어주는 것입니다. |
+		- | 원문 | 번역문 |
+		  | Now let me go back to the daily note and show you the other things. | 이제 일지로 돌아가서 다른 것들을 보여드리겠습니다. |
+		  | So I told you there was two killer features. | 그래서 두 가지 핵심 기능이 있음을 말씀드렸습니다. |
+		  | The first is the bidirectional length. | 첫 번째는 양방향 길이입니다. |
+		  | The second is what's called a block reference. | 두 번째는 블록 참조라 불리우는 것입니다. |
+		  | So you notice how there's bullet points here that is how ROME is set up. | 여기에 어떻게 점 형식으로 표시되었는지 주목하세요. 이것이 ROME의 구성 방식입니다. |
+		   | This is not just a free form document like in Microsoft Word or something like that. | 이것은 Microsoft Word와 같은 자유 형식 문서가 아닙니다. |
+		   | Every single line of information here is put in a bullet point which is called a block. | 이곳의 모든 정보 줄은 블록이라 불리는 점 형식으로 정리됩니다. |
+		   | So I can make these subordinate to each other, something else, something else else I can swap them around I can do things with each of these I can copy references to them I can focus on just that block. | 그래서 이것들을 서로 종속시킬 수 있고, 다른 것을 할 수 있습니다. 이러한 각각에 대해 다양한 작업을 수행할 수 있고, 이에 대한 참조를 복사하거나 그 블록에만 집중할 수 있습니다. |
+		  | I can do a lot of stuff but the real power is this copy reference of block. | 많은 작업을 수행할 수 있지만, 실제 파워는 블록의 참조를 복사하는 것입니다. |
+		   | If I do that and then come down here to a new line and paste it this little key is actually a reference to this line here and if I click away, it will render it. | 그렇게 하고 나서 여기로 내려와서 새 줄에 붙여넣으면 이 작은 키는 실제로 여기 줄에 대한 참조이며, 내가 클릭을 하면 렌더링 될 것입니다. |
+		   | You see it's actually a copy of this and if I were to change this, it would update the reference as well. That's the second powerful way of interlinking things in here. | 실제로 이것은 이것의 복사본이며, 내가 이것을 변경하면 참조가 갱신될 것입니다. 이것이 이곳에서 사물을 연결하는 두 번째 강력한 방법입니다. |
+		   | It means that I don't just need to link to an entire document I can link to a single line within a document. | 이것은 전체 문서에 연결할 필요가 없다는 것을 의미합니다. 문서 내의 단일 줄에 연결할 수 있습니다. |
+		   | Do you see the potential of this for creating a highly interconnected system. | 이것이 높은 상호 연결성 시스템을 만드는 데 가지는 잠재력을 보십니까. |
+		   | So that's all well and good. | 그래서 그것이 모두 잘되었습니다. |
+		   | But let me show you how I actually use this to study the Bible. | 그러나 실제로 이것을 성경 연구에 어떻게 사용하는지 보여드릴게요. |
+		   | All right so let me talk about the building blocks for making a Rome graph for studying the Bible. | 좋아 그러니 성경 연구를 위한 로마 그래프를 만드는 데 사용되는 구성 요소에 대해 이야기해 보겠습니다. |
+		   | The first building block is going to be the text of Scripture. | 첫 번째 구성 요소는 성서 본문이 될 것입니다. |
+		   | So I showed you I had a page in here called Bible and that really was just a page that eventually as I add more scriptures to this, I'll build that out. | 그래서 이 중에 성서라는 페이지가 있음을 보여드렸고, 실제로 이것은 이를 더 추가하면 점차적으로 그것을 확장할 것입니다. |
+		   | But really that would just be an index. | 하지만 실제로 그것은 인덱스일 뿐입니다. |
+		   | So I quickly find all the books of the Bible. | 따라서 성서의 모든 부분을 빠르게 찾을 수 있습니다. |
+		   | But I want to show you an actual example of how I use the text of Scripture in Rome. | 그러나 로마에서 성서 텍스트를 어떻게 사용하는지에 대한 실제 예시를 보여드리고 싶습니다. |
+		   | So up here I can just search for it first Peter chapter one actually I'm going to show you chapter five. | 따라서 여기서 제가 첫 베드로서 1장을 검색하여 실제로 제가 5장을 보여드리겠습니다. |
+		   | Okay so in here I have put the text of first Peter five. | 좋습니다. 그래서 여기에 첫 베드로서 5장의 본문을 넣었습니다. |
+		   | Now you can just copy and paste this. | 이제 이것을 그대로 복사하여 붙일 수 있습니다. |
+		- ||
+		  | 원문 | 번역 |
+		  |---|---|
+		  | I've written a little script that allows me to paste them really quickly but this is just copied actually from accordance and this is the ESV. | 제가 매우 빠르게 붙여넣을 수 있게 해주는 작은 스크립트를 작성했지만 이것은 사실 accordance에서 복사한 것이며 ESV입니다. |
+		  | So each time I'm looking at a new passage, I will put that chapter of the Bible in here and begin working with the Scripture. | 그래서 새 절을 살펴볼 때마다 성경 장을 여기에 넣고 성경과 함께 작업을 시작할 것입니다. |
+		  | I'll show you how this works. | 어떻게 작동하는지 보여드리겠습니다. |
+		  | You can see those little numbers on the right side of them. | 그들 오른쪽에 있는 작은 숫자를 볼 수 있습니다. |
+		  | I'll show you what those mean in a moment and some of these headings. | 잠시 후 그 의미를 보여드리고 이것의 일부 제목을 보여드리겠습니다. |
+		  | But I just want to show you what it starts with is the text of Scripture because remember, my goal has been to use the Bible verses themselves as an index for my study of the Bible. | 그러나 시작 부분이 성경 본문이라는 것을 보여드리고 싶습니다. 왜냐하면 기억하세요, 내 목표는 성경 공부를 위해 성경 절 자체를 색인으로 사용하는 것이기 때문입니다. |
+		  | I want everything to link back to verses or chapters. | 모든 것이 절이나 장에 다시 연결되길 원합니다. |
+		  | The second building block in how I study the Bible in Rome research are book overviews. | 로마 연구에서 성경을 공부하는 방법 중 두 번째 건물은 책 개관입니다. |
+		  | Now if you look here, I have the whole book of First Peter Anne. | 여기 보시면, 나는 온전한 첫째 베드로 책을 가지고 있습니다. |
+		  | I've created things like you can. | 당신도 할 수 있는 것들을 만들었습니다. |
+		  | By the way, you can unfold and fold these things to make it easier to see. | 그런데, 보기 쉽게하기 위해 이것을 펼치고 접을 수 있습니다. |
+		  | So I've created some references. | 그래서 몇 가지 참고자료들을 만들었습니다. |
+		  | Those are commentaries on this book because I've recently taught out of it. | 그것들은 이 책에 대한 주석들인데요, 최근에 이에 대해 가르쳤기 때문입니다. |
+		- ||
+		  | **Original** | **Translation** |
+		  |What's the key word suffering purpose statement author date, some background information who's the audience? |주요 키워드 고통 목적 진술 작가 날짜, 일부 배경 정보 청중은 누구인가요? |
+		  |This information is stuff that I actually got from a course in seminary and I slowly I improve upon these over time as my understanding of these books if I, if I go to study a book, I will change some of these things and alter them, make them a bit clearer as I go. |이 정보는 제가 실제로 신학교에서 얻은 것으로, 이 책들에 대한 이해가 시간이 지나면서 조금씩 개선되어 갑니다. 만약 책을 공부하러 가면, 일부를 변경하고 수정하여 더 명확하게 만들 거예요.|
+		  |But this gives me a really easy place to look at my Bible background on any book that I've studied and get a quick overview what was First Peter about again, what's the main theme? |그러나 이것은 내가 공부했던 어떤 책이든 내 성경 배경을 쉽게 볼 수 있는 장소를 제공하며, 첫 베드로가 무엇이었고, 주요 테마가 무엇이었는지 간단히 파악할 수 있어요.|
+		  |Okay, I know Peter wrote it but like, what was the audience what was going on? |알겠어, 피터가 썼다는 건 알겠는데, 그러니까, 청중이 누구였고, 무슨 일이 일어났는지요? |
+		  |Here's just a really quick one page at a way to do that. |여기 단지 그 일을 하는 한 가지 빠르고 간단한 방법이 있습니다.|
+		  |So this is a super helpful thing as you're doing Bible backgrounds to build these out for your books of the Bible and put them into Rome research. |그래서 이것은 당신이 성경 배경을 하는 동안 실질적으로 책들을 위해 이것들을 개발하고, 로마 연구에 넣는데 매우 도움이 되는 것입니다.|
+		  |Another cool thing is there's a lot of key passages and look at this do you notice how those are actually block level references? |또다른 멋진 점은 많은 중요한 구절들이 있다는 것이며, 이것들이 실제로 블록 수준 참조인 것을 주목하세요. |
+		- ||
+		  | 원문 | 번역문 |
+		  |What I've done is I've come in here I've done double parentheses I've started typing the verse that I want to put in here and this actually works as a search bar too and it finds it and when I click away, it renders that.|내가 한 것은 이 곳에 들어와 쌍 괄호를 입력했고 여기에 넣고 싶은 절을 타이핑하기 시작했고 실제로 이것은 검색 막대로도 작동하며 결과를 찾아내고, 클릭을 벗어나면 렌더링된다.|
+		  |So now it means that if I'm actually back on that book of the Bible so I'm say I'm on First Peter chapter two there's verse two see these little numbers. Click on that it shows me anywhere I have referenced that.|그럼 이제, 만약 실제로 성경의 그 책 속으로 돌아가 있다면 말하자면 첫째 베드로서 장 2에 있다면, 거기에 두 번째 절이 있다. 이런 작은 숫자들을 보세요. 그것을 클릭하면 내가 그것을 참조했던 곳을 보여줍니다.|
+		  |And so that's the one I just added the new reference to it to.|그래서 그것이 내가 막 추가한 것이고, 새 참조를 달았습니다.|
+		  |But also it looks like these are some notes on a sermon someone else gave at my church that I took and they referenced it.|그러나 또한, 이것은 내 교회에서 다른 사람이 한 설교에 대한 내가 적은 노트인 것 같습니다. 그들은 그것을 언급했습니다.|
+		  |And after I took my notes, I processed it.|내가 노트를 적은 후, 그것을 처리했습니다.|
+		  |Oh, and if you're interested in seeing how I use Rome research as the final step in taking notes in church, I have another video that I will link to above.|아, 그리고 교회에서 노트를 작성하는 마지막 단계로 로마 연구를 어떻게 사용하는지 보고 싶다면, 링크한 다른 동영상을 보실 수 있습니다. |
+		- ||
+		  | 원문 | 번역 |
+		  | Now you can begin to see how powerful this can become because look at this all throughout we've been studying this at our church and I've been taking notes on it and I have references all over the place to these different verses and I can jump into these pages if I want to. And I can see exactly the context in which I cited that. So you see every time I use a verse in here, I cross reference it to the page that has that verse in it so that it builds out those connections and those indices. Another building block I use is tags. Now anything in Rome research could be its own page. You just put it in double brackets you can create another bidirectional link and I will use these as I just made this thing called tags. And these are just topics that I add to from time to time. So if I click on suffering, for example, these linked references are any time that I've tagged any note or block with the word suffering. | 이제 이것이 얼마나 강력해질 수 있는지 보기 시작할 수 있습니다. 우리 교회에서 계속해서 공부해 왔고 이것노트를 쓰고 있으며 서로 다른 구절들에 대한 참조가 이곳저곳에 있습니다 그리고 원할 때 이 페이지로 이동할 수 있습니다. 그리고 제가 인용한 문맥을 정확히 볼 수 있습니다. 그래서 여기서 구절을 사용할 때마다 해당 구절이 있는 페이지로 상호 참조를 통해 연결하여 연결과 색인을 작성합니다. 저는 사용하는 또 다른 기본 요소는 태그입니다. Rome research에서 모든 것이 자체 페이지가 될 수 있습니다. 이중 대괄호에 넣으면 다른 양방향 링크를 만들 수 있고 이것을 태그라는 것을 만든 것 처럼 사용할 것입니다. 그리고 이것들은 가끔식 추가하는 주제들입니다. 예를 들어 고통을 클릭하면, 이 연결된 참조는 언제든지 고통이라는 단어로 어떤 주석 또는 블록을 태그한 시간입니다. |
+		- | 원문 | 번역문 |
+		  | I have some quotes from ED Welch's book When People are Big and God is Small, there's a quote from the book The Path of God's Love is not without Suffering. In fact, those who love more will suffer more interesting something from a Mcarthur book called Power of Suffering. This is a blog that I think I wrote for the Master's Seminary blog or maybe someone else did. Let me look yeah, author me see I'll even put my own articles in here and then go through and tag them with verses and topics so that I have again a bigger index of my thoughts on any subject. And let me give you just a use case why this is so powerful. If you faithfully tag stuff you find in Rome, you are slowly building out a set of resources. If you ever wanted to write or teach on this topic so say I was going to give a topical message on suffering or do a Bible study on suffering I could go to this tag and start to find some of the stuff that I have found most helpful on that topic and even some cross references to scriptures on that topic. | ED 웰치의 책 '사람이 크고 하나님은 작을 때'에서 몇 가지 인용구가 있습니다. '하나님의 사랑의 길은 고통 없이 될 수 없습니다.'라는 말이 있는데, 사랑하는 사람들이 더 사랑받을 것이고, M카서의 '고통의 힘'이라는 책에 이상한 인용구가 있습니다. 제가 세미나리 블로그에 쓴 것 같은 블로그가 있습니다. 한 번 보겠습니다. 네, 글쓴이는 저이고 제 자신의 글도 이곳에 넣을 거니까 성경 구절과 주제별로 태그를 붙여서 어떤 주제에 대한 나의 생각의 큰 색인을 다시 만들 것입니다. 이것이 왜 강력한지 사용 사례를 드릴게요. 로마에서 찾은 것들에 태그를 충실히 달면 천천히 자원을 축적하게 됩니다. 한 번 이 주제에 대해 글이나 가르침을 하고 싶다면, 예를 들어 고통에 대한 주제로 강의를 할 것이라면 이 태그로 가서 그 주제에 가장 도움이 된 자료를 찾고 그 주제에 대한 성경 교재와 십자가 참조도 찾을 수 있을 거에요. |
+	- DONE [[2024/02/25]] https://twitter.com/smartbosslee
+	  collapsed:: true
+	  > 얼마전에 읽은 "나는 메트로폴리탄 미술관의 경비원입니다"가 생각나는군요. 형의 죽음에 뉴요커 때려치고 미술관 경비로 들어간.
+		- {{tweet https://x.com/smartbosslee/status/1761236084070187438?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+		- #감상/책/읽을/millie 나는 메트로폴리탄 미술관의 경비원입니다
