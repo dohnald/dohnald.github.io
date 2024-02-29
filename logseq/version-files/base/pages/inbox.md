@@ -44,7 +44,7 @@ public:: false
 - TODO [[2024/02/29]] [꼰대희-[아재개그배틀3편] 설경구가 녹으면? (feat. 권일용, 박민정)](https://youtube.com/watch?v=iY1sAaLw3LY&si=kS2qJaFZWY7IjeEH) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iY1sAaLw3LY/hqdefault.jpg)
-- DONE [[2024/02/29]] 엘리사의 죽음
+- TODO DONE [[2024/02/29]] 엘리사의 죽음
   collapsed:: true
 	- 엘리사의 죽음 
 	  
