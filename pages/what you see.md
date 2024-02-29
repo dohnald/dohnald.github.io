@@ -1878,7 +1878,11 @@ public:: false
 	  collapsed:: true
 	  > 아이고.. 무덤 주인분이 아는 분일세... <https://t.co/tEV2GmUZCP>
 		- {{tweet https://x.com/vajrahomo/status/1761722289975165157?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [연구자를 위한 세컨드브레인](https://youtube.com/playlist?list=PLXwZM4oxLDeM9L8_hmo7n_nnYkXAol3Jk&si=FaeplEbq4Lirub35) [[2024/02/23]]
+	  collapsed:: true
+		- ![]()
 - [[2024/02/27]]
+  collapsed:: true
 	- DONE [Chris J Wilson-My Bible Note Taking System for 2021: Analog and Digital Together](https://youtube.com/watch?v=RQigUjq8d4M&si=CbDnMPp8cnulcqZo) [[2024/02/26]] 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/RQigUjq8d4M/hqdefault.jpg)
@@ -2038,3 +2042,149 @@ public:: false
 	- DONE [[2024/02/27]] [쉬케치-엉애의 봄](https://youtube.com/watch?v=jp8iwZ9vcnE&si=6ojANkpu2RBrUxtV) 
 	  collapsed:: true
 		- ![](https://i.ytimg.com/vi/jp8iwZ9vcnE/hqdefault.jpg)
+- [[2024/02/28]]
+  collapsed:: true
+	- [[chatGPT]]
+	  collapsed:: true
+		- 내 lexile 점수는 430점입니다. 내 수준에 적합한 500자 정도 분량의 영어로 된 애플 관련 뉴스 3개를 작성해주세요.
+			- - **적합한 아티클**:
+			    1. The Life Cycle of a Butterfly
+			    2. Fun Facts About Penguins
+			    3. Exploring the Solar System
+			- - **적합한 뉴스 사이트**: 
+			    [DOGOnews](https://www.dogonews.com/) 페이지를 추천합니다.
+			- * **Apple unveils latest iPhone model with advanced camera features**
+			    Apple recently introduced its newest iPhone model, boasting impressive upgrades to its camera capabilities. The device is equipped with a triple-lens camera system, offering users enhanced zoom options and improved low-light performance. Photographers and tech enthusiasts are eager to get their hands on this cutting-edge smartphone to experience its professional-grade camera features firsthand.
+			- * **Apple launches eco-friendly initiatives to reduce carbon footprint**
+			    In an effort to combat climate change, Apple has launched several eco-friendly initiatives aimed at reducing its carbon footprint. The tech giant plans to transition to using 100% recycled materials in its products and packaging by 2030. Additionally, Apple is investing in renewable energy projects, such as solar farms, to power its facilities and reduce greenhouse gas emissions.
+			- * **Apple announces partnership with leading healthcare providers for new health-focused app**
+			    Apple has teamed up with top healthcare providers to develop a new health-focused app that aims to revolutionize personal health monitoring. The app will allow users to track their vital signs, receive personalized health recommendations, and connect with healthcare professionals remotely. This innovative tool is poised to empower individuals to take charge of their well-being and make informed decisions about their health.
+		- amazon S3의 여러 서비스에 대해 알려주세요.
+			- | 서비스 이름            | 설명                                                                                                                               |
+			  |-------------------|------------------------------------------------------------------------------------------------------------------------------------|
+			  | Amazon S3         | 객체 스토리지 서비스로 파일, 이미지, 동영상 등 다양한 유형의 데이터를 저장하고 검색할 수 있는 안전하고 확장 가능한 스토리지 서비스          |
+			  | Amazon S3 Glacier  | 저비용 아카이빙 서비스로 장기 보존을 위해 데이터를 안전하게 보관하고, 필요 시에 빠르게 검색하거나 회수할 수 있는 기능을 제공하는 서비스     |
+			  | Amazon S3 Intelligent-Tiering | 자동으로 데이터 액세스 패턴을 분석하여 알맞은 스토리지 클래스로 이동하며 비용을 최적화하는 스토리지 관리 기능을 제공하는 서비스 |
+			  | Amazon S3 Transfer Acceleration | 인터넷을 통한 데이터 전송 속도를 높이는 서비스로 클라이언트와 가장 가까운 엣지 위치에서 데이터를 전송받아 빠른 전송 속도를 제공하는 |
+			  | Amazon S3 Select  | 객체 내의 데이터를 쿼리하여 해당하는 부분만을 가져오는 기능을 제공하며 데이터 전송량을 줄여 성능을 향상시키는 기능을 제공하는 서비스 |
+		- 취미로 가족들의 영상을 촬영합니다. 저장 공간이 부족해 백업을 고려하고 있습니다. amazon s3를 활용하고 싶은데 각 서비스별로 Gb 당 요금을 비교해주고, 어떤 전략을 사용해 어떻게 보관하면 좋을지 알려주세요. 예를 들면 S3에 1개월 보관 후 S3 Glacier로 이관한다 등. 이 때 부과되는 월별 요금을 24개월까지 표로 작성해주세요.
+			- | 서비스        | Gb 당 요금 (달러) |
+			  | ------------- | ------------------ |
+			  | Amazon S3     | 0.023              |
+			  | Amazon S3 Glacier | 0.004             |
+			  | Amazon S3 Glacier Deep Archive | 0.00099 |
+			  
+			  * 보관 전략:
+			  * 촬영한 영상을 먼저 Amazon S3에 보관합니다. 
+			  * 필요한 경우 최근 영상은 Amazon S3에 그대로 유지하고, 지난 3개월 이전에 촬영된 영상을 Amazon S3 Glacier로 이동합니다.
+			  * 더 이전에 사용 빈도가 적은 영상은 Amazon S3 Glacier Deep Archive로 이동하여 장기 보관합니다.
+			  * 이렇게 3단계의 전략을 통해 저장 비용을 최적화하고 저장 공간을 효율적으로 관리할 수 있습니다.
+			- S3를 이용해 영상 자료를 보관할 때 1개월에 200GB씩 용량이 추가됩니다. 이 때 적합한 보관 전략을 추천해주세요. 그리고 이 경우 24개월 동안 비용이 얼마나 부과되는지 표로 보여주세요.
+				- ### 적합한 보관 전략:
+				  * **정기적인 정리**: 보관되는 영상 자료 중에서 오래된 것부터 삭제하거나 다른 저장 매체로 이전하는 등의 방법을 통해 용량을 효율적으로 유지할 수 있습니다.
+				  
+				  * **라이프사이클 규칙 적용**: S3의 Object Expiration을 이용하여 특정 기간이 지난 객체를 자동으로 삭제하거나 다른 스토리지 클래스로 이동시키는 정책을 설정할 수 있습니다.
+				  
+				  ### 24개월 동안 비용 예측:
+				  |       기간       | 용량 (GB) | 비용     |
+				  |-----------------|----------|----------|
+				  | 1개월            | 200      | $x       |
+				  | 2개월            | 400      | $y       |
+				  | ...             | ...      | ...      |
+				  | 24개월           | 4800     | $z       |
+				  
+				  비용은 S3의 가격에 따라 다르며, 용량에 따라 비례하여 증감됩니다. 이에 따라 정확한 비용을 확인하려면 AWS의 S3 요금 페이지를 참고하시기 바랍니다.
+			- * Sure, here are the comparison of pricing per GB for different storage services offered by Amazon Web Services (AWS):
+			    
+			  | 서비스         | 요금 (GB 당) |
+			  |---------------|------------|
+			  | S3 Standard   | $0.023     |
+			  | S3 Infrequent Access | $0.0125  |
+			  | S3 Glacier    | $0.004     |
+			  | S3 Glacier Deep Archive | $0.00099 |
+			  
+			  * 여러 서비스를 활용하는 전략을 고려해 볼 수 있습니다. 예를 들어, 자주 접근하지 않는 영상은 S3 Infrequent Access나 S3 Glacier에 저장하고, 더 이상 필요하지 않은 영상은 일정 기간 후 S3 Glacier Deep Archive로 이관하는 방법이 있습니다. 이렇게 하면 비용을 절약할 수 있으며, 필요할 때 원하는 데이터를 더 빠르게 검색할 수 있습니다. 또한, Lifecycle policies를 설정하여 자동으로 데이터를 이동하도록 할 수도 있습니다.
+		- iphone과 insta 360 x3를 이용하고 있습니다. 카드리더를 사용하지 않고 원본 촬영 파일을 백업할 수 있는 방법이 있을까요?
+			- * **아이폰과 인스타 360 X3를 이용한 원본 촬영 파일 백업 방법:**
+			  
+			  | **단계** | **방법** |
+			  |---------|---------|
+			  | 1 | 아이폰에 Files 앱을 사용하여 직접 연결된 기기로 파일을 옮길 수 있습니다. |
+			  | 2 | iCloud나 기타 클라우드 서비스를 통해 파일을 업로드하고 이를 통해 백업할 수 있습니다. |
+			  | 3 | 인스타 360 앱을 통해 파일을 외부 저장 매체에 전송하거나 컴퓨터에 연결하여 파일을 이동할 수 있습니다. |
+			  | 4 | 외장 하드 드라이브나 USB 플래시 드라이브를 이용하여 파일을 직접 이동하고 백업할 수 있습니다. |
+			  | 5 | 파일 공유 앱을 활용하여 다른 기기로 파일을 전송하여 백업할 수도 있습니다. |
+	- DONE [유랑쓰 YOURANGSS-물가 저렴한 나라에서 평생 산다는 것](https://youtube.com/watch?v=7GhO_oSjbW4&si=_EMBBeVLJ1NvNCH9) [[2024/02/24]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/7GhO_oSjbW4/hqdefault.jpg)
+	- DONE [Tiago Forte-How to Use NotebookLM (Google's New AI Tool)](https://youtube.com/watch?v=iWPjBwXy_Io&si=VgxTlLMyxYIFrxhL) [[2024/02/17]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/iWPjBwXy_Io/hqdefault.jpg)
+	- DONE [무아공간-이렇게나 좁은 자녀방도 해결 가능합니다 #자녀방인테리어](https://youtube.com/watch?v=HhLZJ7FHA9U&si=MNL0W5MK6U3FNu3g) [[2024/02/22]] 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/HhLZJ7FHA9U/hqdefault.jpg)
+	- DONE [[2024/02/27]] [전지적 한국인 시점으로 보는 영어이야기-주니어 리딩튜터 스타터 1 / 난이도 / 추천 대상 / 교재 활용 팁 / 공부방법](https://youtube.com/watch?v=LeoGVqs_B9I&si=c4P-Q4w2LhbG481h) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/LeoGVqs_B9I/hqdefault.jpg)
+		  collapsed:: true
+		  TODO [[2024/02/27]] https://twitter.com/jojoldu
+		  > (최근까지 작업했던 많은 내용들이 속속 적용하게 되어서 공유드릴 내용이 너무 많은것 같습니다. ^^;)  
+		  
+		  제품 출시에 신경을 쓰다보면 클라우드 비용을 고려하지 않다가, 어느 순간 폭발적으로 늘어난 클라우드 비용에 깜짝 놀라게 됩니다.  
+		  
+		  그래서 개발팀에서는 항상 이 클라우드 비용이 합리적으로…
+		  
+		  collapsed:: true
+		  * {{tweet https://x.com/jojoldu/status/1762403333619495061?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [[2024/02/27]] https://twitter.com/jojoldu
+	  collapsed:: true
+	  > (최근까지 작업했던 많은 내용들이 속속 적용하게 되어서 공유드릴 내용이 너무 많은것 같습니다. ^^;)  
+	  
+	  제품 출시에 신경을 쓰다보면 클라우드 비용을 고려하지 않다가, 어느 순간 폭발적으로 늘어난 클라우드 비용에 깜짝 놀라게 됩니다.  
+	  
+	  그래서 개발팀에서는 항상 이 클라우드 비용이 합리적으로…
+	  
+	  collapsed:: true
+		- {{tweet https://x.com/jojoldu/status/1762403333619495061?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+	- DONE [[2024/02/27]] [Aryan Sawhney-Is this the BEST Notetaking app for students? |  Logseq Student Workflow](https://youtube.com/watch?v=Fz1EKzZZffA&si=PIuqgBl-3MTJNJpP) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Fz1EKzZZffA/hqdefault.jpg)
+	- DONE [[2024/02/27]] [Reagan Rose-How I Take Sermon Notes to Focus Better, Learn More, And Grow Spiritually](https://youtube.com/watch?v=w5xjqurDaYo&si=lY0TWXH2MccfWIpS) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/w5xjqurDaYo/hqdefault.jpg)
+		- 설교가, 말씀이 삶에 작동하는 것은 내 관심사와 충돌이 발생하는 지점이다. 전혀 관심없는 분야에 말씀이 충돌하비 않는다. 그것이 내 상황과 맞을 때 의미를 나타낸다. 설교로만 제한할 수 없다. 세컨드브레인은 충돌이다. 충돌의 소스가 설교 혹은 성경인 것이다. 인풋의 다양화와 아웃풋의 내재화.
+	- DONE [[2024/02/27]] [Reagan Rose-How to Prepare for a Great Morning Routine](https://youtube.com/watch?v=kqQuXaSGFYw&si=wY9Z7lSdnhmYEKmd) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/kqQuXaSGFYw/hqdefault.jpg)
+		- https://redeemingproductivity.com/how-to-prepare-for-a-great-morning-routine/
+	- DONE [[2024/02/27]] [Matthew Everhard-Best Bible Note-Taking System: Jonathan Edwards's Miscellanies](https://youtube.com/watch?v=fqq-4-LiFVs&si=WcsVcB1RK7-D_lmT)
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/fqq-4-LiFVs/hqdefault.jpg)
+		- http://edwards.yale.edu/
+	- DONE [[2024/02/28]] [180초-문제해결](https://youtube.com/watch?v=Mxc6x7tt8gw&si=h6t5fHMoYGTuMo_I) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/Mxc6x7tt8gw/hqdefault.jpg)
+	- DONE [[2024/02/28]] [웃기시네-둘이 실제로 사귀나요?](https://youtube.com/watch?v=r2i6O4XWq_8&si=rYr0DrA8rIfhIUuv) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/r2i6O4XWq_8/hqdefault.jpg)
+	- DONE [[2024/02/28]] [낄낄상회-오빠 나랑 둘이 할래 ?            독서모임 ♥ [ Ep.05 동네꼬마 ]](https://youtube.com/watch?v=IzBGxwEsYGU&si=5M2cZg7GxHHu3U3S)
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/IzBGxwEsYGU/hqdefault.jpg)
+	- DONE [[2024/02/28]] [빠더너스 BDNS-여고 기빨리는 서열싸움](https://youtube.com/watch?v=7Bwvs4xsFfU&si=7Dug25pKFxaJYoQj) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/7Bwvs4xsFfU/hqdefault.jpg)
+	- DONE [[2024/02/28]] [미키피디아-🧧월급날? 꼭 해봐야하는 돈 모아주는 문서와 습관 2가지](https://youtube.com/watch?v=AclzwnBlL38&si=C_JDjQgrsbPU7vzL) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/AclzwnBlL38/hqdefault.jpg)
+	- DONE [[2024/02/29]] [그것이 알고싶다-가뭄에 콩나듯 나온다는 법의학자를 찾기 위한 국내 최초 프로젝트!ㅣ이호의 2호를 찾아서 EP.0](https://youtube.com/watch?v=zB7kjeU_fmA&si=-BTpDg5AW5IZdtJQ) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/zB7kjeU_fmA/hqdefault.jpg)
+	- DONE [[2024/02/29]] [VIVO TV - 비보티비-美친 케미 세 명이 모이면? | 개 세 모 | EP.26](https://youtube.com/watch?v=3JdFocNpOis&si=_rSl7w_CGUwB84se) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/3JdFocNpOis/hqdefault.jpg)
+	- DONE [[2024/02/29]] [다크사이드코리아-역행자 자청. 결국 구라로 밝혀진 50만원짜리 월세방. 베스트셀러 역행자를 완벽히 분석해보자!](https://youtube.com/watch?v=gn97Cc1GHf4&si=jNCJbnl2sfLOvMPh) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/gn97Cc1GHf4/hqdefault.jpg)
+	- DONE [[2024/02/29]] [우정잉-트위치 문화와 아프리카 문화는 과연 어떤 게 다를까?](https://youtube.com/watch?v=RkB14bMekEw&si=rODXvZh1UdXMtNPa) 
+	  collapsed:: true
+		- ![](https://i.ytimg.com/vi/RkB14bMekEw/hqdefault.jpg)
