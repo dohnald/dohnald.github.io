@@ -37,3 +37,26 @@ public:: false
 - DONE [[2024/03/07]] [아키노트-매일매일 독서하면 이렇게 됩니다!! 쇼츠 말고 책을 읽어야하는 진짜 이유! 📚 [cc]](https://youtube.com/watch?v=l3xt3S1JrrM&si=LQp660fyCu5_ZEEs) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/l3xt3S1JrrM/hqdefault.jpg)
+- [[chatGPT]]
+	- git commit하기 전에 .git/info/exclude에 파일 이름을 추가하고, 이 파일들은 커밋을 하고싶지 않습니다. 대상 파일은 `grep -lr "public:: false" pages | awk "{print $1}"` 명령으로 확인합니다. 이 작업을 자동화하려면 어떻게 해야 할까요? git pre-commit hook에 grep 명령을 추가하면 잘 작동할까요?
+		- * `git ls-files | grep "pages"` 명령어를 사용하여 pages 폴더 내의 파일 리스트를 확인합니다.
+		  * `grep -lr "public:: false" pages | awk "{print $1}"` 명령어를 사용하여 조건에 맞는 파일을 확인합니다.
+		  * .git/info/exclude 파일을 열어서 해당 파일 이름을 추가합니다.
+		  * 이후 `git commit`을 진행하면 해당 파일들은 커밋되지 않습니다.
+		- * 파일을 `.git/info/exclude`에 추가하여 커밋 대상에서 제외하는 것은 좋은 방법입니다.
+		  * `grep -lr "public:: false" pages | awk "{print $1}"` 명령어로 커밋하지 않을 파일을 확인한 후, `.git/info/exclude`에 해당 파일명을 추가하세요.
+		  * 이렇게 하면 해당 파일은 더 이상 커밋되지 않습니다.*
+		- answer 
+		  * "public::  false" 문자열을 포함하는 파일이 변경될 때마다 pre-commit hook을 실행하여 자동으로 .git/info/exclude 파일에 파일 이름을 추가하는 스크립트를 작성할 수 있습니다.
+		  * 다음 단계를 따르면 됩니다:
+		    
+		  ```bash
+		  #!/bin/sh
+		  
+		  # pre-commit 스크립트 작성
+		  echo '#!/bin/sh' > .git/hooks/pre-commit
+		  echo 'grep -lr "public:: false" pages | awk "{print $1}" >> .git/info/exclude' >> .git/hooks/pre-commit
+		  chmod +x .git/hooks/pre-commit
+		  ```
+		  
+		  이렇게 하면 변경 사항을 커밋하기 전에 .git/info/exclude 파일에 해당 파일 이름이 자동으로 추가됩니다.
