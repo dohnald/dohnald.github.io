@@ -8,6 +8,3 @@ logseq/.recycle/*
 # Ignore Smart Connections folder because embeddings file is large and updated frequently
 .smart-connections
 pages/templates.md
-pages/가난한 찰리의 연감.md
-pages/private.md
-pages/부의 몰락.md
