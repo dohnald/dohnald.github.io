@@ -1,67 +1,25 @@
 public:: false
 
-- TODO [EDA](https://aws.amazon.com/ko/what-is/eda/)
-- TODO [[2024/02/27]] [잡지/더스쿠프 The SCOOP Vol.586](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179642300%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179642300)
-- TODO [[2024/02/27]] [잡지/이코노미스트 2024.02(1723호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641907%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641907)
-- TODO [[2024/02/27]] [잡지/매경이코노미 2248호](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179641999%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179641999)
 - [[『발터 벤야민의 공부법』]]
-  collapsed:: true
 - [[거인의 노트, 김익한]]
-- TODO [[2024/03/06]] [EO 이오-실리콘밸리 30년차가 요즘 세대에게 꼭 해주고 싶은 이야기ㅣ임수미](https://youtube.com/watch?v=wPIm4cDTPO0&si=O9NmouIvyB6x3DS2) 
+- TODO [[2024/03/08]] https://twitter.com/wapj2000
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/wPIm4cDTPO0/hqdefault.jpg)
-- DONE [[2024/03/06]] [슈카월드 코믹스-쌍둥이는 1000만원](https://youtube.com/watch?v=hs6IOkPON7E&si=n7RBQGKx8PjnCvD0) 
+  > 클립보드 매니저.. 다들 이거 쓰는것 같아서 다운받아봄..<https://t.co/epA1YnYkwV>
+  
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/hs6IOkPON7E/hqdefault.jpg)
-- TODO [[2024/03/06]] [그것이 알고싶다-"법의학자가 제일 편해!" 편견 박살 내는 법의학자 이호의 하루ㅣ이호의 2호를 찾아서 EP.1](https://youtube.com/watch?v=XwW7Iq_Wyvo&si=T7JEhbKl9Izv22JF) 
+	- {{tweet https://x.com/wapj2000/status/1553942965059747840?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/03/08]] https://twitter.com/StdStdts
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/XwW7Iq_Wyvo/hqdefault.jpg)
-- TODO [[2024/03/06]] [미키피디아-🌜갓생 직장인이 되는 나이트 루틴! 오늘부터 해보세요 (feat.스킨수티컬즈)](https://youtube.com/watch?v=LqVaMCvZ4wc&si=Z7V0OVmXp7C0rsih) 
+  > 아 나 이 팟캐스트 완전 필기하면서 들었네. 스탠포드 의대의 뉴로바이올로지 교수인 앤드류 후버만 박사가 논문들로 뒷받침된 생산성 향상과 정신적 육체적 건강을 위한 데일리 루틴을 꾸리는 법에 대해 얘기한다. 거의 두시간짜리 제가 요약해드립니다 ㅎㅎ <https://t.co/5jNWfN13QD>
+	- {{tweet https://x.com/stdstdts/status/1414772472000376834?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/03/09]] [잡지/이코노미스트 2024.03(1725호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179643405%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179643405)
+- TODO [[2024/03/09]] [잡지/이코노미 조선 530호 : 2024.03.06](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179643313%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179643313)
+- TODO [[2024/03/14]] [싱거쏘옹-정보 | 쇼핑백으로 북커버만들기](https://youtube.com/watch?v=qlGr8U8HnJ0&si=Q7ZwbvgxEnGz8-ge) 
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/LqVaMCvZ4wc/hqdefault.jpg)
-- TODO [[2024/03/07]] [끼메리의 책탐험-독서의 질이 100배 상승하는 다이소 추천템 5가지 / ⭐보너스⭐ 레전더리 인생 독서템 소개](https://youtube.com/watch?v=fptv4SNwovQ&si=iQI7bKLvP7vnJMgb) 
+	- ![](https://i.ytimg.com/vi/qlGr8U8HnJ0/hqdefault.jpg)
+- TODO [[2024/03/14]] [아바라 TV ABARAtv -나를 잘 돌보는데 집중해요 40대 1인가구 집투어 루틴과 성장에 진심입니다 (친절한무관심)](https://youtube.com/watch?v=BAlWglGI2lE&si=5CqYy6Z-9F7uO_r0) 
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/fptv4SNwovQ/hqdefault.jpg)
-- DONE [[2024/03/07]] [주군 Joogoon-[GoPro Tip] 방송국 고프로는 어떤 설정을 사용할까? [GoPro]](https://youtube.com/watch?v=95Mz6-Lqess&si=kxvDW-cp4hAdcnYw) 
+	- ![](https://i.ytimg.com/vi/BAlWglGI2lE/hqdefault.jpg)
+- TODO [[2024/03/14]] [The Wall Street Journal-Ergonomics Expert Explains How to Set Up Your Desk | WSJ Pro Tip](https://youtube.com/watch?v=F8_ME4VwTiw&si=IY3l7QzqWVbdIL8d) 
   collapsed:: true
-	- ![](https://i.ytimg.com/vi/95Mz6-Lqess/hqdefault.jpg)
-- TODO [[2024/03/07]] [용숙부부-전세계 여행자들이 모이는 발리 우붓 맛집 알려드릴게요 🇮🇩](https://youtube.com/watch?v=ffGPDZdC5ec&si=uaQZlB3xH-sGY1TN) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/ffGPDZdC5ec/hqdefault.jpg)
-- DONE [[2024/03/07]] [성심당TV-'노잼도시 대전'을 만든 주인공! 기승전성심당 알고리즘 원작자분과의 인터뷰](https://youtube.com/watch?v=pirNXPfmaMA&si=MNML0MNDxtlvgwzw) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/pirNXPfmaMA/hqdefault.jpg)
-- TODO [[2024/03/07]] [더스티노(DUSTINO)-3년차 바이크 유튜버의 액션캠 추천은? 일반 액션캠 VS 360카메라(인스타 360 X3)](https://youtube.com/watch?v=FkdtBv3caxs&si=OHBBUpbuywfTk9zx) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/FkdtBv3caxs/hqdefault.jpg)
-- DONE [[2024/03/07]] [아키노트-매일매일 독서하면 이렇게 됩니다!! 쇼츠 말고 책을 읽어야하는 진짜 이유! 📚 [cc]](https://youtube.com/watch?v=l3xt3S1JrrM&si=LQp660fyCu5_ZEEs) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/l3xt3S1JrrM/hqdefault.jpg)
-- [[chatGPT]]
-	- git commit하기 전에 .git/info/exclude에 파일 이름을 추가하고, 이 파일들은 커밋을 하고싶지 않습니다. 대상 파일은 `grep -lr "public:: false" pages | awk "{print $1}"` 명령으로 확인합니다. 이 작업을 자동화하려면 어떻게 해야 할까요? git pre-commit hook에 grep 명령을 추가하면 잘 작동할까요?
-		- * `git ls-files | grep "pages"` 명령어를 사용하여 pages 폴더 내의 파일 리스트를 확인합니다.
-		  * `grep -lr "public:: false" pages | awk "{print $1}"` 명령어를 사용하여 조건에 맞는 파일을 확인합니다.
-		  * .git/info/exclude 파일을 열어서 해당 파일 이름을 추가합니다.
-		  * 이후 `git commit`을 진행하면 해당 파일들은 커밋되지 않습니다.
-		- * 파일을 `.git/info/exclude`에 추가하여 커밋 대상에서 제외하는 것은 좋은 방법입니다.
-		  * `grep -lr "public:: false" pages | awk "{print $1}"` 명령어로 커밋하지 않을 파일을 확인한 후, `.git/info/exclude`에 해당 파일명을 추가하세요.
-		  * 이렇게 하면 해당 파일은 더 이상 커밋되지 않습니다.*
-		- answer 
-		  * "public::  false" 문자열을 포함하는 파일이 변경될 때마다 pre-commit hook을 실행하여 자동으로 .git/info/exclude 파일에 파일 이름을 추가하는 스크립트를 작성할 수 있습니다.
-		  * 다음 단계를 따르면 됩니다:
-		    
-		  ```bash
-		  #!/bin/sh
-		  
-		  # pre-commit 스크립트 작성
-		  echo '#!/bin/sh' > .git/hooks/pre-commit
-		  echo 'grep -lr "public:: false" pages | awk "{print $1}" >> .git/info/exclude' >> .git/hooks/pre-commit
-		  chmod +x .git/hooks/pre-commit
-		  ```
-		  
-		  이렇게 하면 변경 사항을 커밋하기 전에 .git/info/exclude 파일에 해당 파일 이름이 자동으로 추가됩니다.
-	- 이미 commit한 파일을 .gitignore에 추가했습니다. 이 파일을 git에서만 삭제하고 로컬에는 남겨놓으려면 어떻게 해야할까요?
-		- * 로컬 파일을 삭제합니다.
-		  * 다음 명령어를 입력하여 git에서만 파일을 삭제합니다: `git rm --cached 파일명`
-		  * 변경 사항을 commit합니다.
-		  * 그 후 `.gitignore` 파일에 해당 파일을 추가하여 추적을 멈춥니다.
+	- ![](https://i.ytimg.com/vi/F8_ME4VwTiw/hqdefault.jpg)
