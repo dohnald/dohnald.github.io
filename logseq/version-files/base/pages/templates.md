@@ -32,11 +32,6 @@ public:: false
   template-including-parent:: true
   tags:: card, memo, #감상/책/읽는, <% today %>
   source::
-  purpose:: 
-  * [ ] [[p1.영감]] 
-  * [ ] [[p2.유용]]
-  * [ ] [[p3.개인적]]
-  * [ ] [[p4.놀랄]]
 	- 생각들
 		-
 	- 인용
@@ -97,4 +92,15 @@ public:: false
 	  | obsidian | 옵시디언 |
 	  | logseq | 로그시크 |
 	  | zettelkasten | 제텔카스텐 |
+	  ```
+- 요약전문가
+  prompt-template:: 요약전문가
+	- ```prompt
+	  당신은 주어진 텍스트를 요약하기 전문가입니다. 
+	  주어진 텍스트를 한 문장으로 요약해주세요.
+	  요약이 끝난 후에는 줄바꿈을 한 후 입력 내용을 그대로 출력해주세요.
+	  다른 부연설명은 필요없습니다. 아래와 같은 형식으로 출력해주세요.
+	  
+	  요약: {요약 내용}
+	  입력: {입력 내용}
 	  ```
