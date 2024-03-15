@@ -23,3 +23,40 @@ public:: false
 - TODO [[2024/03/14]] [The Wall Street Journal-Ergonomics Expert Explains How to Set Up Your Desk | WSJ Pro Tip](https://youtube.com/watch?v=F8_ME4VwTiw&si=IY3l7QzqWVbdIL8d) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/F8_ME4VwTiw/hqdefault.jpg)
+- TODO [[2024/03/15]] [썰플리-[ENG] 최애 어디까지 쉴드 가능? | SG워너비 | 덕질썰 | 썰플리 | 이석훈 | 김용준 | 김진호 | 상암](https://youtube.com/watch?v=K0nI2xQ73sM&si=_YqmBVlSkgynUSjP) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/K0nI2xQ73sM/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [한길책박물관 Hangil Book Museum-고전에서 영감을 찾은 곽재식의 서재 [나의 서재를 소개합니다]](https://youtube.com/watch?v=Zmh_frT4vBc&si=XhplOmbsNLboQ_Nq) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/Zmh_frT4vBc/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [EO 이오-직원 60%가 육아 중인 CEO가 전하는 워킹맘의 현실과 위로 | 최성운의 사고실험 [임이랑]](https://youtube.com/watch?v=8-rP-O1_yZA&si=H_lN3hMk7j9cFJeY) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/8-rP-O1_yZA/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [FilmMakeUs 필름메이크어스-[제작 예산 분석] 너덜트(NERDULT) 영상 한 편 만드는 데에 얼마가 필요할까?](https://youtube.com/watch?v=9NJ_7kQ1laQ&si=uZrPXRdOO72A0Utj) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/9NJ_7kQ1laQ/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [뎀피디 DAMPD-2024 유튜브 시작하기 l 영상회사 대표가 알려주는 촬영 팁!](https://youtube.com/watch?v=kG8P5_JQfJk&si=q38c6lGHM3e-y62D) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/kG8P5_JQfJk/hqdefault.jpg)
+
+https://contents.premium.naver.com/backbriefing/news/contents/240312164221630pd
+
+- TODO [[2024/03/15]] [그리지앵 grisien-sub) 라인 수첩으로 만들기 Making a planner](https://youtube.com/watch?v=QtlNXy0OTco&si=s02qtiG1EcSW7COb) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/QtlNXy0OTco/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [잉크잉크 Ink inc.-#131 다이소 노트 총정리 - 만년필 사용가능한 공책과 메모지](https://youtube.com/watch?v=BsO0vpXsZIc&si=fOCEQs8KF1BuQ58-) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/BsO0vpXsZIc/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [문구대장정-만년필 브랜드별 종이추천｜만년필 종이가 정말 중요합니다](https://youtube.com/watch?v=HzMRqPKhuuU&si=2m8iEyzKEGskZhI6) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/HzMRqPKhuuU/hqdefault.jpg)
+
+- TODO [[2024/03/15]] [자취남-혼자 살려고 계약한 20평형 아파트 ll 전세 금액이 6,000이요..? ll 경남 사천 아파트 전세](https://youtube.com/watch?v=O0KBdRLomKA&si=xHD3wKmU5ae8IAmk) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/O0KBdRLomKA/hqdefault.jpg)
