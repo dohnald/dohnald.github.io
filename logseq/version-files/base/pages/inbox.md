@@ -4,70 +4,47 @@ public:: false
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
   query-properties:: [:block]
-- DONE [[2024/03/08]] https://twitter.com/wapj2000
   collapsed:: true
-  > 클립보드 매니저.. 다들 이거 쓰는것 같아서 다운받아봄..<https://t.co/epA1YnYkwV>
-	- {{tweet https://x.com/wapj2000/status/1553942965059747840?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - TODO [[2024/03/14]] [아바라 TV ABARAtv -나를 잘 돌보는데 집중해요 40대 1인가구 집투어 루틴과 성장에 진심입니다 (친절한무관심)](https://youtube.com/watch?v=BAlWglGI2lE&si=5CqYy6Z-9F7uO_r0) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/BAlWglGI2lE/hqdefault.jpg)
-- DONE [[2024/03/16]] [Netflix Korea 넷플릭스 코리아-재홍아 넷플릭스에 약점 잡힌 거 없다고 해명 부탁해 | 안재홍, 홍보하러 온 건 아닌데 | 넷플릭스](https://youtube.com/watch?v=dr9x99BblAA&si=8iBpa6EgyzZb6vJo) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/dr9x99BblAA/hqdefault.jpg)
-- DONE [[2024/03/16]] [B tv 이동진의 파이아키아-'천만 문턱에서 좌절한 영화' 작품성으로 줄세우기](https://youtube.com/watch?v=EWwGGTpMKsM&si=3Xirh30TjXwTCU_t) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/EWwGGTpMKsM/hqdefault.jpg)
 - TODO [[2024/03/16]] [집터뷰_집에관한모든것 -"이것만 있으면 청소는 다 끝나요" 하나의 아이템으로 끝내는 살림꾼 남편의 노하우  I 화장실, 주방 청소 (장끼남)](https://youtube.com/watch?v=mtpzDFrvwME&si=ga1TsPvwKW-D9bij) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/mtpzDFrvwME/hqdefault.jpg)
-- TODO [[2024/03/16]] [잡지/주간조선 2799호 (2024년 03월 11일)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179643641%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179643641)
-- DONE [[2024/03/16]] [김교수의 세 가지-성공을 이루는 잠재력의 과학. 잠재력을 사용하려면 세 가지를 구축해야 한다. 품성 기량, 임시 구조물 그리고 시스템](https://youtube.com/watch?v=f76V84ayP0U&si=MDmB5hEjrxaj0Td9) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/f76V84ayP0U/hqdefault.jpg)
 - TODO [[2024/03/16]] [지방방위대-촉망받던 개발자가 서울대신 지방을 선택한 이유👨‍💻｜정종헌 JHR소프트 대표｜23년 12월 11일 강연, 4K Full](https://youtube.com/watch?v=8AKTRQ8Ib-s&si=o--M2zJ3FKcsEmpg) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/8AKTRQ8Ib-s/hqdefault.jpg)
-- DONE [[2024/03/16]] [개발바닥-개발자 신입만 채용 vs 주니어만 채용 ㅋㅋ](https://youtube.com/watch?v=7o3X0WiCO6U&si=XmCJe5ygBWng7Dud) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/7o3X0WiCO6U/hqdefault.jpg)
-- DOING [[2024/03/17]] [보다 BODA-최근 과학자들이 찾아낸 6600만 년 전 공룡이 멸종한 진짜 이유 | 과학을 보다](https://youtube.com/watch?v=A-8K_pfCaDc&si=ASkWm4AWew0d0m7Z) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/A-8K_pfCaDc/hqdefault.jpg)
 - TODO [[2024/03/17]] [Nicole van der Hoeven-Why I chose Obsidian over Roam (as a Roam investor)](https://youtube.com/watch?v=AWUk8-6yG2g&si=FzCLPGTomQnPJzlo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AWUk8-6yG2g/hqdefault.jpg)
 - TODO [[2024/03/18]] [조승연의 탐구생활-👜 명품소비? 사교육지출? 한국인의 경제 관념에 대한 미국 베스트셀러 금융서 작가의 솔직한 생각 (ft. 모건 하우절, 돈의 심리학)](https://youtube.com/watch?v=A-48a6cLcg8&si=x690WdQvOvH9lalX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/A-48a6cLcg8/hqdefault.jpg)
-- DONE [[2024/03/18]] [B tv 이동진의 파이아키아-성인 53%가 1년에 책 한권도 안 읽는 시대, 여전히 우리가 '책'을 읽어야 하는 이유](https://youtube.com/watch?v=ehIdjNaJyIw&si=3YusENL8r15scYLh) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/ehIdjNaJyIw/hqdefault.jpg)
-- TODO [[2024/03/18]] [잡지/이코노미스트 2024.03(1726호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644271%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644271)
-- TODO [[2024/03/18]] [잡지/이코노미 조선 531호 : 2024.03.13](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644272%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644272)
-- DONE [[2024/03/18]] https://twitter.com/GeekNewsBot
-  > 비전 프로는 과도하게 설계된 "개발자 키트"임. 오큘러스에서 실수한 것과 애플이 올바르게 한 것 <https://t.co/rHSK3CilRv>   
-  \- 메타의 오큘러스 리드였던 Hugo Barra가 애플의 Vision Pro에 대한 자신의 관점을 공유하면서 Oculus에서 경험한 것들과 비교   
-  \- 하드웨어의 천재성과 대담...
-	- {{tweet https://x.com/geeknewsbot/status/1769546022982975866?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- DONE [[2024/03/18]] [Best360-10 Easy Insta360 X3 Shots For A Travel Vlog Video In Thailand + Insta360 App Editing Tutorial](https://youtube.com/watch?v=LqE6pcxrv_c&si=l3erauX6WTgox2Dq) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/LqE6pcxrv_c/hqdefault.jpg)
-- TODO [[2024/03/20]] [잡지/주간조선 2800호 (2024년 03월 18일)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644302%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644302)
-- DONE [[2024/03/20]] [오늘무해 프라우허-행복했던 첫 임신,  이별 후 찾은 대구 친정 일상 / 다시 일어날 수 밖에 없는 이유](https://youtube.com/watch?v=su66vg9mspM&si=GQnap-6VhD1KbEwL) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/su66vg9mspM/hqdefault.jpg)
-- DONE [[2024/03/20]] [공여사들-직장인 엑셀, 시트가 많아도 이 방법이면 칼퇴각입니다ㅎㅎ](https://youtube.com/watch?v=TgPGaxRk_aA&si=9lq16SRlCHYlkEUo) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/TgPGaxRk_aA/hqdefault.jpg)
-- DONE [[2024/03/20]] [옌하루 YENHARU-셀프 제본하는 고1 공부 브이로그 | 스터디 브이로그 | 공부 자극 | 중간고사 | study vlog | 셀프 제본 | #스터디 #스터디브이로그 #공부 #스터디윗미](https://youtube.com/watch?v=fDlkL2QMZd8&si=GQe1yhxMJD7MRgXy) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/fDlkL2QMZd8/hqdefault.jpg)
-- DONE [[2024/03/20]] [오늘Oneul-셀프제본🤍 제본없는 삶은 상상할 수 없어..🥹 | 똑딱링 | 칼타공기 | 공시생·수험생 추천템⭐️ | 두꺼운 책도 가볍게 꿀팁](https://youtube.com/watch?v=17ui7jGSiX0&si=WquqQnQ7erGLjxy3) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/17ui7jGSiX0/hqdefault.jpg)
-- DONE [[2024/03/20]] [이시은-3개월 동안 쓴 몰스킨 노트 - 만년필로 썼어요.](https://youtube.com/watch?v=zDWZlTlhmFA&si=FZoBkHNRjzGShZq9) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/zDWZlTlhmFA/hqdefault.jpg)
-- DONE [[2024/03/20]] [셜록현준-외국에서 리스펙하는 직업, 한국에서는 왜 좋은 대우 못받을까](https://youtube.com/watch?v=WpZVjc9oOD0&si=tykp62INlkeyctKG) 
-  collapsed:: true
-	- ![](https://i.ytimg.com/vi/WpZVjc9oOD0/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [낄낄상회-이중생활 진주씨](https://youtube.com/watch?v=croN4DkDLYg&si=RhC-sDv4lEQDpLCG) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/croN4DkDLYg/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [정리마켓-좁은 자취 공간, 알차게 수납해요. 30대 자취녀의 현실적인 정리 | 전국살림자랑 ep.42](https://youtube.com/watch?v=V5ceXszba8g&si=n5t4kIMNR_VO3bJs) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/V5ceXszba8g/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [김지안-늦깎이 대학원생의 아침 루틴 5:00AM 기상](https://youtube.com/watch?v=58AAlMQgIGg&si=_-glHktuYjlgOKRB) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/58AAlMQgIGg/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [그것이 알고싶다-우리.. 진짜 기다린다..? 5년 뒤 법의학자가 될지도 모를 분들 모셨습니다ㅣ이호의 2호를 찾아서 EP.3](https://youtube.com/watch?v=bbEZp-VWl_w&si=KjvZRNrmrsTcC-NH) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/bbEZp-VWl_w/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [180초-새벽 두시](https://youtube.com/watch?v=VF_3dtVvfgI&si=oUJZdX-c6n-7Zvbn) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/VF_3dtVvfgI/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [미키피디아-🎓지원 준비부터 커리어 업글까지! 대학원 유학이 도움되는 이유 (feat.합격 에세이 공개)](https://youtube.com/watch?v=cVXMfA7PtQM&si=77c1DHISTVQHvSRU) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/cVXMfA7PtQM/hqdefault.jpg)
+ 
+- TODO [[2024/03/21]] [라디오스타-[#라디오스타] 임영웅 찬스권을 보유한 유일한 MC! 붐한 매력 숨기지 못하는 TV조선의 아들 붐의 쇼쟁이 타임🎇ㅣ#붐 MBC240320방송](https://youtube.com/watch?v=-8ZIoE_nDIM&si=onweHLRS9lKHEwzR) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/-8ZIoE_nDIM/hqdefault.jpg)
