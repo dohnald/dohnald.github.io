@@ -50,3 +50,5 @@ public:: false
 - DONE [[2024/03/22]] [낄낄상회-영화관에서 이러면 안돼     [ EP.08 동네꼬마 ]](https://youtube.com/watch?v=LGs_FnupjOA&si=OSLFdNADKqnS2FMw) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LGs_FnupjOA/hqdefault.jpg)
+- Javascript /tts
+-
