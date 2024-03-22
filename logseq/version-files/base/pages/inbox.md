@@ -59,7 +59,7 @@ public:: false
 - DONE [[2024/03/22]] [크리스 [구 소련여자]-내가 유튜브를 접은 이유](https://youtube.com/watch?v=Lh-zRilS6tI&si=qj6-j7qhGrRA-2td) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Lh-zRilS6tI/hqdefault.jpg)
-- TODO [[2024/03/22]] [줌인센타 zoom in centre-[정주행] 너무 충격적이라 삭제 된 설정, 단역 손석구와 박소담, '마담 뺑덕' 비하인드 스토리 총정리](https://youtube.com/watch?v=Q04iibm64c0&si=p1L6qcCW-demshuQ) 
+- DONE [[2024/03/22]] [줌인센타 zoom in centre-[정주행] 너무 충격적이라 삭제 된 설정, 단역 손석구와 박소담, '마담 뺑덕' 비하인드 스토리 총정리](https://youtube.com/watch?v=Q04iibm64c0&si=p1L6qcCW-demshuQ) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Q04iibm64c0/hqdefault.jpg)
 - TODO [[2024/03/22]] [오늘의집-좁은 3평 방에 침대 2개 둘 수 없을까요..?👩‍👧 I 비포애프터 ep.64](https://youtube.com/watch?v=g4arZQ2ULPI&si=fg3IWBnn4AmpQulw) 
@@ -74,7 +74,7 @@ public:: false
 - TODO [[2024/03/22]] [브라이언의 브레인 트리니티 (Brain Trinity)-대학생활을 '갓생'처럼 보내기 위한 전략, MOPT 프레임워크와 GTD | 4년을 계획하고 전략적으로 보내자](https://youtube.com/watch?v=Wn5s_yo3pPs&si=C_5DxKJh0AiP45xX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Wn5s_yo3pPs/hqdefault.jpg)
-- TODO [[2024/03/22]] [슈카월드 코믹스-재테크, 지금도 안늦었다.](https://youtube.com/watch?v=7VDvW1zCZ8c&si=qbNP7bFJiXF4oU4m) 
+- DONE [[2024/03/22]] [슈카월드 코믹스-재테크, 지금도 안늦었다.](https://youtube.com/watch?v=7VDvW1zCZ8c&si=qbNP7bFJiXF4oU4m) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7VDvW1zCZ8c/hqdefault.jpg)
 - TODO [[2024/03/22]] [다크사이드코리아-용찬우. 반인륜의 강을 건너다. 체급차를 극복하는 MMA 시합 성사? 뒤늦게 밝혀진 녹취록의 행방은?](https://youtube.com/watch?v=I0HYdE2Z0Bg&si=-NGUU3gkSaUJT4dB) 
