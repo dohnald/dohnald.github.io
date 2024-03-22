@@ -50,7 +50,7 @@ public:: false
 - DONE [[2024/03/22]] [낄낄상회-영화관에서 이러면 안돼     [ EP.08 동네꼬마 ]](https://youtube.com/watch?v=LGs_FnupjOA&si=OSLFdNADKqnS2FMw) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LGs_FnupjOA/hqdefault.jpg)
-- TODO [[2024/03/22]] [ootb STUDIO-나는 무인도는 딱 질색이니까 [(여자)아이들 미연] | 무이자 ep.10 [EN/JP/ID/TH]](https://youtube.com/watch?v=vX6s3Nkb9WM&si=46Pa3bFaqPpofWF-) 
+- DONE [[2024/03/22]] [ootb STUDIO-나는 무인도는 딱 질색이니까 [(여자)아이들 미연] | 무이자 ep.10 [EN/JP/ID/TH]](https://youtube.com/watch?v=vX6s3Nkb9WM&si=46Pa3bFaqPpofWF-) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vX6s3Nkb9WM/hqdefault.jpg)
 - DONE [[2024/03/22]] [취재대행소 왱-왜 학원 강사들은 팔짱 낀 광고가 많을까?](https://youtube.com/watch?v=Yw2zWPoQw0s&si=rcRlhR054YGtfADO) 
