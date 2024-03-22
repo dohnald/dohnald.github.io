@@ -53,10 +53,10 @@ public:: false
 - TODO [[2024/03/22]] [ootb STUDIO-나는 무인도는 딱 질색이니까 [(여자)아이들 미연] | 무이자 ep.10 [EN/JP/ID/TH]](https://youtube.com/watch?v=vX6s3Nkb9WM&si=46Pa3bFaqPpofWF-) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vX6s3Nkb9WM/hqdefault.jpg)
-- TODO [[2024/03/22]] [취재대행소 왱-왜 학원 강사들은 팔짱 낀 광고가 많을까?](https://youtube.com/watch?v=Yw2zWPoQw0s&si=rcRlhR054YGtfADO) 
+- DONE [[2024/03/22]] [취재대행소 왱-왜 학원 강사들은 팔짱 낀 광고가 많을까?](https://youtube.com/watch?v=Yw2zWPoQw0s&si=rcRlhR054YGtfADO) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Yw2zWPoQw0s/hqdefault.jpg)
-- TODO [[2024/03/22]] [크리스 [구 소련여자]-내가 유튜브를 접은 이유](https://youtube.com/watch?v=Lh-zRilS6tI&si=qj6-j7qhGrRA-2td) 
+- DONE [[2024/03/22]] [크리스 [구 소련여자]-내가 유튜브를 접은 이유](https://youtube.com/watch?v=Lh-zRilS6tI&si=qj6-j7qhGrRA-2td) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Lh-zRilS6tI/hqdefault.jpg)
 - TODO [[2024/03/22]] [줌인센타 zoom in centre-[정주행] 너무 충격적이라 삭제 된 설정, 단역 손석구와 박소담, '마담 뺑덕' 비하인드 스토리 총정리](https://youtube.com/watch?v=Q04iibm64c0&si=p1L6qcCW-demshuQ) 
@@ -68,7 +68,7 @@ public:: false
 - TODO [[2024/03/22]] [차클 플러스-지금은 연프 전성시대💕 남의 연애에 관심 폭발한 청년들｜뭐털도사｜JTBC 231017 방송](https://youtube.com/watch?v=jsqA3zmTyMs&si=ZPLwQi4D79Btd_77) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/jsqA3zmTyMs/hqdefault.jpg)
-- TODO [[2024/03/22]] [[승제튜브] 정승제 공식 유튜브 채널-학부모님들~ 귀댁의 자녀가 이러하다면 식량 공급을 끊으셔야 합니다!!!](https://youtube.com/watch?v=Y6wpL8zUQ8c&si=nG4WU0bMYn5fpRQ5) 
+- DONE [[2024/03/22]] [[승제튜브] 정승제 공식 유튜브 채널-학부모님들~ 귀댁의 자녀가 이러하다면 식량 공급을 끊으셔야 합니다!!!](https://youtube.com/watch?v=Y6wpL8zUQ8c&si=nG4WU0bMYn5fpRQ5) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Y6wpL8zUQ8c/hqdefault.jpg)
 - TODO [[2024/03/22]] [브라이언의 브레인 트리니티 (Brain Trinity)-대학생활을 '갓생'처럼 보내기 위한 전략, MOPT 프레임워크와 GTD | 4년을 계획하고 전략적으로 보내자](https://youtube.com/watch?v=Wn5s_yo3pPs&si=C_5DxKJh0AiP45xX) 
