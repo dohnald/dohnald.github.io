@@ -243,8 +243,8 @@
  ;; Add custom commands to the command palette
  ;; Example usage:
  :commands [
-  ["tts" "[:audio {:controls true :src ''}]"]
-  ["ttt" "testestest"]
+;;  ["tts" "[:audio {:controls true :src ''}]"]
+;;  ["ttt" "testestest"]
 ] 
 
  ;; Enable collapsing blocks with titles but no children.
