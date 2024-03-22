@@ -1,5 +1,4 @@
 public:: false
-
 - [[거인의 노트, 김익한]]
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
@@ -51,4 +50,4 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LGs_FnupjOA/hqdefault.jpg)
 - Javascript /tts
--
+- Javascript /tts
