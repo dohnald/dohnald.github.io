@@ -242,11 +242,6 @@
 
  ;; Add custom commands to the command palette
  ;; Example usage:
- ;; :commands
- ;; [
- ;;  ["js" "Javascript"]
- ;;  ["md" "Markdown"]
- ;;  ]
  :commands [
   ["tts" "[:audio {:controls true :src ''}]"]
   ["ttt" "testestest"]
