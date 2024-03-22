@@ -248,7 +248,8 @@
  ;;  ["md" "Markdown"]
  ;;  ]
  :commands [
-  ["tts" "[:audio {:controls true :src '../assets/recording.mp3'}]"]
+  ["tts" "[:audio {:controls true :src ''}]"]
+  ["ttt" "testestest"]
 ] 
 
  ;; Enable collapsing blocks with titles but no children.
