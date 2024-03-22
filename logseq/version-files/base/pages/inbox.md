@@ -50,3 +50,36 @@ public:: false
 - DONE [[2024/03/22]] [낄낄상회-영화관에서 이러면 안돼     [ EP.08 동네꼬마 ]](https://youtube.com/watch?v=LGs_FnupjOA&si=OSLFdNADKqnS2FMw) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LGs_FnupjOA/hqdefault.jpg)
+- TODO [[2024/03/22]] [ootb STUDIO-나는 무인도는 딱 질색이니까 [(여자)아이들 미연] | 무이자 ep.10 [EN/JP/ID/TH]](https://youtube.com/watch?v=vX6s3Nkb9WM&si=46Pa3bFaqPpofWF-) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/vX6s3Nkb9WM/hqdefault.jpg)
+- TODO [[2024/03/22]] [취재대행소 왱-왜 학원 강사들은 팔짱 낀 광고가 많을까?](https://youtube.com/watch?v=Yw2zWPoQw0s&si=rcRlhR054YGtfADO) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Yw2zWPoQw0s/hqdefault.jpg)
+- TODO [[2024/03/22]] [크리스 [구 소련여자]-내가 유튜브를 접은 이유](https://youtube.com/watch?v=Lh-zRilS6tI&si=qj6-j7qhGrRA-2td) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Lh-zRilS6tI/hqdefault.jpg)
+- TODO [[2024/03/22]] [줌인센타 zoom in centre-[정주행] 너무 충격적이라 삭제 된 설정, 단역 손석구와 박소담, '마담 뺑덕' 비하인드 스토리 총정리](https://youtube.com/watch?v=Q04iibm64c0&si=p1L6qcCW-demshuQ) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Q04iibm64c0/hqdefault.jpg)
+- TODO [[2024/03/22]] [오늘의집-좁은 3평 방에 침대 2개 둘 수 없을까요..?👩‍👧 I 비포애프터 ep.64](https://youtube.com/watch?v=g4arZQ2ULPI&si=fg3IWBnn4AmpQulw) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/g4arZQ2ULPI/hqdefault.jpg)
+- TODO [[2024/03/22]] [차클 플러스-지금은 연프 전성시대💕 남의 연애에 관심 폭발한 청년들｜뭐털도사｜JTBC 231017 방송](https://youtube.com/watch?v=jsqA3zmTyMs&si=ZPLwQi4D79Btd_77) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/jsqA3zmTyMs/hqdefault.jpg)
+- TODO [[2024/03/22]] [[승제튜브] 정승제 공식 유튜브 채널-학부모님들~ 귀댁의 자녀가 이러하다면 식량 공급을 끊으셔야 합니다!!!](https://youtube.com/watch?v=Y6wpL8zUQ8c&si=nG4WU0bMYn5fpRQ5) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Y6wpL8zUQ8c/hqdefault.jpg)
+- TODO [[2024/03/22]] [브라이언의 브레인 트리니티 (Brain Trinity)-대학생활을 '갓생'처럼 보내기 위한 전략, MOPT 프레임워크와 GTD | 4년을 계획하고 전략적으로 보내자](https://youtube.com/watch?v=Wn5s_yo3pPs&si=C_5DxKJh0AiP45xX) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/Wn5s_yo3pPs/hqdefault.jpg)
+- TODO [[2024/03/22]] [슈카월드 코믹스-재테크, 지금도 안늦었다.](https://youtube.com/watch?v=7VDvW1zCZ8c&si=qbNP7bFJiXF4oU4m) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7VDvW1zCZ8c/hqdefault.jpg)
+- TODO [[2024/03/22]] [다크사이드코리아-용찬우. 반인륜의 강을 건너다. 체급차를 극복하는 MMA 시합 성사? 뒤늦게 밝혀진 녹취록의 행방은?](https://youtube.com/watch?v=I0HYdE2Z0Bg&si=-NGUU3gkSaUJT4dB) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/I0HYdE2Z0Bg/hqdefault.jpg)
+- TODO [[2024/03/22]] [웹소설 작가, 선물 상자 같이 열어요-웹소설 작가 | 퇴고 루틴 구경하세요 | TTS 듣기 | PDF 읽기 | 브이로그 | 원고하는 영상만](https://youtube.com/watch?v=KQ9gAD5Fyvo&si=Gt0Nn6nMw-q1-GuE) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/KQ9gAD5Fyvo/hqdefault.jpg)
