@@ -247,7 +247,9 @@
  ;;  ["js" "Javascript"]
  ;;  ["md" "Markdown"]
  ;;  ]
- :commands []
+ :commands [
+  ["tts" "[:audio {:controls true :src '../assets/recording.mp3'}]"]
+] 
 
  ;; Enable collapsing blocks with titles but no children.
  ;; By default, only blocks with children can be collapsed.
