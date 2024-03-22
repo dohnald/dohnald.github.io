@@ -41,3 +41,12 @@ public:: false
 - TODO [[2024/03/21]] [뉴스안하니-막내의 첫 중계..!😱 축구 캐스터 이렇게 탄생합니다 ⚽️](https://youtube.com/watch?v=DiCLx1XHVv0&si=VmaQ_MWtjSrOvGbX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/DiCLx1XHVv0/hqdefault.jpg)
+ 
+- TODO [[2024/03/22]] https://twitter.com/0xd669
+> 얼마 전에 회사 동료에게 스탠드업 미팅의 목적은 업무 진행 상황 파악이 아니라고 말한 적이 있다. 나는 스탠드업 미팅을 어라?를 발견하기 위한 장치로 본다. 보통 팀의 상황에 관한 유용한 정보는 비언어적인 피드백에서 발견되는데, 스탠드업 미팅이 이러한 피드백을 수집하기 좋은 자리이기…
+
+collapsed:: true
+  - {{tweet https://x.com/0xd669/status/1770946066890023030?s=12&t=AnEdIRP1pGh61jqrbuTEkw}} 
+- TODO [[2024/03/22]] [낄낄상회-영화관에서 이러면 안돼     [ EP.08 동네꼬마 ]](https://youtube.com/watch?v=LGs_FnupjOA&si=OSLFdNADKqnS2FMw) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/LGs_FnupjOA/hqdefault.jpg)
