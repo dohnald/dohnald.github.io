@@ -38,7 +38,8 @@ public:: false
 - DONE [[2024/03/21]] [뉴스안하니-막내의 첫 중계..!😱 축구 캐스터 이렇게 탄생합니다 ⚽️](https://youtube.com/watch?v=DiCLx1XHVv0&si=VmaQ_MWtjSrOvGbX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/DiCLx1XHVv0/hqdefault.jpg)
-- TODO [[2024/03/22]] https://twitter.com/0xd669
+- DONE [[2024/03/22]] https://twitter.com/0xd669
+  collapsed:: true
   > 얼마 전에 회사 동료에게 스탠드업 미팅의 목적은 업무 진행 상황 파악이 아니라고 말한 적이 있다. 나는 스탠드업 미팅을 어라?를 발견하기 위한 장치로 본다. 보통 팀의 상황에 관한 유용한 정보는 비언어적인 피드백에서 발견되는데, 스탠드업 미팅이 이러한 피드백을 수집하기 좋은 자리이기…
 	- {{tweet https://x.com/0xd669/status/1770946066890023030?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
 - DONE [[2024/03/22]] [차클 플러스-지금은 연프 전성시대💕 남의 연애에 관심 폭발한 청년들｜뭐털도사｜JTBC 231017 방송](https://youtube.com/watch?v=jsqA3zmTyMs&si=ZPLwQi4D79Btd_77) 
@@ -62,3 +63,18 @@ public:: false
 - TODO [[2024/03/23]] [유부남-20대에 결혼하는 신혼부부의 집 ll "여긴 집 값이 엄청 저렴해요" ll 청주 복층 월세 1편](https://youtube.com/watch?v=quLDhm5aW8M&si=XnF-3tZVbh07x6X8) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/quLDhm5aW8M/hqdefault.jpg)
+- DONE [[2024/03/23]] [띱 Deep-알바비 입금 하루 전](https://youtube.com/watch?v=XEmruOb79hQ&si=YJr-ZFaVoABVfaXD) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/XEmruOb79hQ/hqdefault.jpg)
+- DONE [[2024/03/23]] [메타택시-상대방의 기썬~을 제압해](https://youtube.com/watch?v=AYIZrBhUFSs&si=zp6BjtfGh3itepo_) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/AYIZrBhUFSs/hqdefault.jpg)
+- DONE [[2024/03/23]] [보다 BODA-석유는 정말 공룡의 시체에서 나오는 걸까? | 과학을 보다](https://youtube.com/watch?v=1MhugHxbhGE&si=6VCOE4CtOq5WBuWJ) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/1MhugHxbhGE/hqdefault.jpg)
+- DONE [[2024/03/23]] [디글 :Diggle-[#유퀴즈온더블럭] 〈패션왕〉 연재 위해 네@버에서 씻고 먹고 자고 다 했던 그 시절 〈나혼산〉 기안84🔥! 가진 것 없던 기안의 죽기 살기 N사 웹툰 입성 도전기💪 #기안84](https://youtube.com/watch?v=TizWbznHuIE&si=9aICP0aYbsM9UJjt) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/TizWbznHuIE/hqdefault.jpg)
+- TODO [[2024/03/23]] [KBS시사-삼성, 잃어버린 10년 [풀영상] | 창 458회 (KBS 24.03.12)](https://youtube.com/watch?v=W-rzA6GXkwk&si=SXgM3G0jctsjP6a2) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/W-rzA6GXkwk/hqdefault.jpg)
