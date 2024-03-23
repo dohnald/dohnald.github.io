@@ -4,7 +4,6 @@ public:: false
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
   query-properties:: [:block]
-  collapsed:: true
 - TODO [[2024/03/17]] [Nicole van der Hoeven-Why I chose Obsidian over Roam (as a Roam investor)](https://youtube.com/watch?v=AWUk8-6yG2g&si=FzCLPGTomQnPJzlo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AWUk8-6yG2g/hqdefault.jpg)
@@ -60,7 +59,7 @@ public:: false
 - DONE [[2024/03/23]] [자취남-월세 30만원대 집 ll 문 열자마자 이 집이다! 했어요 ll 인천 오피스텔 월세](https://youtube.com/watch?v=GXlUSzLDnYY&si=bPTnSWtetMZpO3W2) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/GXlUSzLDnYY/hqdefault.jpg)
-- TODO [[2024/03/23]] [유부남-20대에 결혼하는 신혼부부의 집 ll "여긴 집 값이 엄청 저렴해요" ll 청주 복층 월세 1편](https://youtube.com/watch?v=quLDhm5aW8M&si=XnF-3tZVbh07x6X8) 
+- DONE [[2024/03/23]] [유부남-20대에 결혼하는 신혼부부의 집 ll "여긴 집 값이 엄청 저렴해요" ll 청주 복층 월세 1편](https://youtube.com/watch?v=quLDhm5aW8M&si=XnF-3tZVbh07x6X8) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/quLDhm5aW8M/hqdefault.jpg)
 - DONE [[2024/03/23]] [띱 Deep-알바비 입금 하루 전](https://youtube.com/watch?v=XEmruOb79hQ&si=YJr-ZFaVoABVfaXD) 
@@ -75,10 +74,10 @@ public:: false
 - DONE [[2024/03/23]] [디글 :Diggle-[#유퀴즈온더블럭] 〈패션왕〉 연재 위해 네@버에서 씻고 먹고 자고 다 했던 그 시절 〈나혼산〉 기안84🔥! 가진 것 없던 기안의 죽기 살기 N사 웹툰 입성 도전기💪 #기안84](https://youtube.com/watch?v=TizWbznHuIE&si=9aICP0aYbsM9UJjt) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/TizWbznHuIE/hqdefault.jpg)
-- DOING [[2024/03/23]] [KBS시사-삼성, 잃어버린 10년 [풀영상] | 창 458회 (KBS 24.03.12)](https://youtube.com/watch?v=W-rzA6GXkwk&si=SXgM3G0jctsjP6a2) 
+- DONE [[2024/03/23]] [KBS시사-삼성, 잃어버린 10년 [풀영상] | 창 458회 (KBS 24.03.12)](https://youtube.com/watch?v=W-rzA6GXkwk&si=SXgM3G0jctsjP6a2) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/W-rzA6GXkwk/hqdefault.jpg)
-- TODO [[2024/03/24]] [미니멀유목민-무뚝뚝한 연하 남편이 공항 마중 갔을 때 아내 반응｜6년 기른 머리 단발식｜비자 없이 중국 입국 가능?](https://youtube.com/watch?v=s_ETQlHIrXs&si=wvVYf0TNhYo_8Ung) 
+- DONE [[2024/03/24]] [미니멀유목민-무뚝뚝한 연하 남편이 공항 마중 갔을 때 아내 반응｜6년 기른 머리 단발식｜비자 없이 중국 입국 가능?](https://youtube.com/watch?v=s_ETQlHIrXs&si=wvVYf0TNhYo_8Ung) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/s_ETQlHIrXs/hqdefault.jpg)
 - TODO [[2024/03/24]] [디글 :Diggle-[#유퀴즈온더블럭] 뭐 하러 종이 신문을 읽으세요? 매일 아침 종이 신문 읽는 유느님📰 문해력이 낮아지는 상황에서 국어교육과 교수님도 칭찬한 유느님의 모닝 루틴👏](https://youtube.com/watch?v=3AYOEguUb9Y&si=1TajZjQyZpxt3-86) 
