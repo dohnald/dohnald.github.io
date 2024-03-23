@@ -11,7 +11,7 @@ public:: false
 - DONE [[2024/03/18]] [조승연의 탐구생활-👜 명품소비? 사교육지출? 한국인의 경제 관념에 대한 미국 베스트셀러 금융서 작가의 솔직한 생각 (ft. 모건 하우절, 돈의 심리학)](https://youtube.com/watch?v=A-48a6cLcg8&si=x690WdQvOvH9lalX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/A-48a6cLcg8/hqdefault.jpg)
-- TODO [[2024/03/21]] [정리마켓-좁은 자취 공간, 알차게 수납해요. 30대 자취녀의 현실적인 정리 | 전국살림자랑 ep.42](https://youtube.com/watch?v=V5ceXszba8g&si=n5t4kIMNR_VO3bJs) 
+- DONE [[2024/03/21]] [정리마켓-좁은 자취 공간, 알차게 수납해요. 30대 자취녀의 현실적인 정리 | 전국살림자랑 ep.42](https://youtube.com/watch?v=V5ceXszba8g&si=n5t4kIMNR_VO3bJs) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/V5ceXszba8g/hqdefault.jpg)
 - TODO [[2024/03/21]] [미키피디아-🎓지원 준비부터 커리어 업글까지! 대학원 유학이 도움되는 이유 (feat.합격 에세이 공개)](https://youtube.com/watch?v=cVXMfA7PtQM&si=77c1DHISTVQHvSRU) 
@@ -29,7 +29,7 @@ public:: false
 - DONE [[2024/03/21]] [MMTG-르세라핌 뉴진스 그리고 아일릿 레츠 고 | 🤗어서 5세대](https://youtube.com/watch?v=wfYtWgHWnQQ&si=0J7sd2ubHOC3fMtf) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/wfYtWgHWnQQ/hqdefault.jpg)
-- TODO [[2024/03/21]] [ㄴ신봉선ㄱ-아이돌 대표 극딜 요정 오마이걸 유아, 열려라 진실의 입!!!! | 동민엄마당 ep.1](https://youtube.com/watch?v=u7Fgw8xKv5g&si=b6LYyWVSr1xH_ook) 
+- DONE [[2024/03/21]] [ㄴ신봉선ㄱ-아이돌 대표 극딜 요정 오마이걸 유아, 열려라 진실의 입!!!! | 동민엄마당 ep.1](https://youtube.com/watch?v=u7Fgw8xKv5g&si=b6LYyWVSr1xH_ook) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/u7Fgw8xKv5g/hqdefault.jpg)
 - DONE [[2024/03/21]] [김종국 GYM JONG KOOK-'청하'체 하는 날... (Feat. 청하, 마선호)](https://youtube.com/watch?v=OHC_jWGoArE&si=bWnUxJXYymo2pC04) 
