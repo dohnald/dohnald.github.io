@@ -84,7 +84,7 @@ public:: false
 - TODO [[2024/03/24]] [디글 :Diggle-[#유퀴즈온더블럭] 뭐 하러 종이 신문을 읽으세요? 매일 아침 종이 신문 읽는 유느님📰 문해력이 낮아지는 상황에서 국어교육과 교수님도 칭찬한 유느님의 모닝 루틴👏](https://youtube.com/watch?v=3AYOEguUb9Y&si=1TajZjQyZpxt3-86) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3AYOEguUb9Y/hqdefault.jpg)
-- TODO [[2024/03/24]] [디비디방-[부x 뗀 여친 시즌2 EP. 03] 어때? 나도 가슴 크지? [ENG SUB]](https://youtube.com/watch?v=IWSEjXWu2vA&si=14-cjVs56_18M2r_) 
+- DONE [[2024/03/24]] [디비디방-[부x 뗀 여친 시즌2 EP. 03] 어때? 나도 가슴 크지? [ENG SUB]](https://youtube.com/watch?v=IWSEjXWu2vA&si=14-cjVs56_18M2r_) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/IWSEjXWu2vA/hqdefault.jpg)
 - TODO [[2024/03/24]] [범준에 물리다-우리가 죽기 전 《코스모스》 책을 꼭 읽어야만 하는 이유 | 범준에 물리다](https://youtube.com/watch?v=-khvoBfvlas&si=jUtajmu4bL-ffWZL) 
@@ -93,13 +93,13 @@ public:: false
 - TODO [[2024/03/24]] [디에디트 THE EDIT-우습다 이걸 내돈주고 샀다는게,,, 알리 성공템, 테무 실패템 전부 보여드림 (구독자 이벤트 있음)](https://youtube.com/watch?v=BhmGsmPJvwk&si=OKftJS0Up4VZI536) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/BhmGsmPJvwk/hqdefault.jpg)
-- TODO [[2024/03/24]] [영어를 읽다-빌 게이츠가 책 읽는 방법](https://youtube.com/watch?v=0QzeafXgHW0&si=TQHaw2gSc6u3h9AR) 
+- DONE [[2024/03/24]] [영어를 읽다-빌 게이츠가 책 읽는 방법](https://youtube.com/watch?v=0QzeafXgHW0&si=TQHaw2gSc6u3h9AR) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0QzeafXgHW0/hqdefault.jpg)
 - TODO [[2024/03/24]] [가전주부 GJJB-이거 쓰고 책 100권 읽었어요! | 이북리더기에서 인스타그램, 유튜브? | 오닉스 팔마, 탭미니C, 페이지, 포크5, 루나X 중 E-book 리더기 최강자는?](https://youtube.com/watch?v=gRP_SIExgho&si=HEQWspfbg5VcKifp) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/gRP_SIExgho/hqdefault.jpg)
-- TODO [[2024/03/24]] [[승제튜브] 정승제 공식 유튜브 채널-삼각형의 내각의 합이 180도인 이유를](https://youtube.com/watch?v=2_VinMglKTk&si=sifvCr4U5LAqujrI) 
+- DONE [[2024/03/24]] [[승제튜브] 정승제 공식 유튜브 채널-삼각형의 내각의 합이 180도인 이유를](https://youtube.com/watch?v=2_VinMglKTk&si=sifvCr4U5LAqujrI) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/2_VinMglKTk/hqdefault.jpg)
 - TODO [[2024/03/24]] [안과언니-눈 앞에 떠다니는 작은점? 날파리? 안과 전문의가 직접 알려주는 비문증 관리& 치료법 l #안과전문의](https://youtube.com/watch?v=O4J-eB_JrUA&si=FiVHAMQxgy3KebSi) 
@@ -108,7 +108,7 @@ public:: false
 - TODO [[2024/03/24]] [어제의 고은 [goeun]-미니멀리즘이 어떻게 나를 돈에서 자유롭게 했을까? ⎮ 적게 가지고 더 행복해지는 다섯가지 방법](https://youtube.com/watch?v=HX1wdSGByng&si=ZGlZdqK3ztOdtyST) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HX1wdSGByng/hqdefault.jpg)
-- TODO [[2024/03/24]] [-](https://youtube.com/watch?v=9o8MwMNHsXw&si=E8jAaQhkYISR4ilI) 
+- TODO [[2024/03/24]] [스파인코렉터 복부운동](https://youtube.com/watch?v=9o8MwMNHsXw&si=E8jAaQhkYISR4ilI)
   collapsed:: true
 	- ![]()
 - TODO [[2024/03/24]] [KBS 다큐-2024년 초인플레이션은 끝났나? 우린 왜 달러의 태풍 안에 살고 있을까?  ㅣ KBS 다큐인사이트 미국과 경제 2부 이기적인 달러 24.02.02 방송](https://youtube.com/watch?v=59uxd583_r8&si=DeK2CLqGbpMj8arL) 
