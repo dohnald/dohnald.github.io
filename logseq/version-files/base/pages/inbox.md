@@ -75,6 +75,6 @@ public:: false
 - DONE [[2024/03/23]] [디글 :Diggle-[#유퀴즈온더블럭] 〈패션왕〉 연재 위해 네@버에서 씻고 먹고 자고 다 했던 그 시절 〈나혼산〉 기안84🔥! 가진 것 없던 기안의 죽기 살기 N사 웹툰 입성 도전기💪 #기안84](https://youtube.com/watch?v=TizWbznHuIE&si=9aICP0aYbsM9UJjt) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/TizWbznHuIE/hqdefault.jpg)
-- TODO [[2024/03/23]] [KBS시사-삼성, 잃어버린 10년 [풀영상] | 창 458회 (KBS 24.03.12)](https://youtube.com/watch?v=W-rzA6GXkwk&si=SXgM3G0jctsjP6a2) 
+- DOING [[2024/03/23]] [KBS시사-삼성, 잃어버린 10년 [풀영상] | 창 458회 (KBS 24.03.12)](https://youtube.com/watch?v=W-rzA6GXkwk&si=SXgM3G0jctsjP6a2) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/W-rzA6GXkwk/hqdefault.jpg)
