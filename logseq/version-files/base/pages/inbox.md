@@ -20,7 +20,7 @@ public:: false
 - TODO [[2024/03/21]] [EO 이오-한국을 떠나 나만의 커리어 설계도를 그렸던 방법 | 솔루션 아키텍트 마르코](https://youtube.com/watch?v=Qaccry_XnX0&si=D6jcK48moxrZ4WwO) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Qaccry_XnX0/hqdefault.jpg)
-- TODO [[2024/03/21]] [나의시선-나의시선이 세번이상 구입한 아마존 득템 25가지 찐사용템 모음](https://youtube.com/watch?v=NeLxCaDwiBY&si=Xu7LtVzRFNDYJZYh) 
+- DONE [[2024/03/21]] [나의시선-나의시선이 세번이상 구입한 아마존 득템 25가지 찐사용템 모음](https://youtube.com/watch?v=NeLxCaDwiBY&si=Xu7LtVzRFNDYJZYh) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/NeLxCaDwiBY/hqdefault.jpg)
 - TODO [[2024/03/21]] [하우투 : 하루를 우리에게 투자한다면-효과적인 훈육을 위해 부모가 반드시 알아야 하는 것 | 아주대학교 의과대학 정신건강의학교실 조선미 교수 | 자녀 육아 부모](https://youtube.com/watch?v=PoNG97pv8DY&si=R0-KI_LNqIc_jod3) 
