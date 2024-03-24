@@ -140,6 +140,30 @@ public:: false
 - DONE [[2024/03/24]] [웃기시네-컷, 다시 갈게요](https://youtube.com/watch?v=0bNb2vycnKo&si=tuIxTr1cTC7zyRSa) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0bNb2vycnKo/hqdefault.jpg)
-- TODO [[2024/03/24]] [시칠리안 SICILIAN-발리가 최악의 여행지가 되는 이유 [인도네시아_14]](https://youtube.com/watch?v=fHEAAnOQreQ&si=U0_hE8fZ43Ltq9AS) 
+- DONE [[2024/03/24]] [시칠리안 SICILIAN-발리가 최악의 여행지가 되는 이유 [인도네시아_14]](https://youtube.com/watch?v=fHEAAnOQreQ&si=U0_hE8fZ43Ltq9AS) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/fHEAAnOQreQ/hqdefault.jpg)
+- TODO [[2024/03/25]] [HONG[本]'s World-트래블러스노트 활용법 1 | 강의노트 (feat. 토모에리버와 제트스트림의 관계)](https://youtube.com/watch?v=HV-Dl-U4QzA&si=L56X47wZxodx3yRw) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/HV-Dl-U4QzA/hqdefault.jpg)
+- TODO [[2024/03/25]] [아활1급-아이패드로 콘티 짤 때 꿀팁 몇가지](https://youtube.com/watch?v=-zQi3nlpUZ8&si=5HJarI574z96mQa4) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/-zQi3nlpUZ8/hqdefault.jpg)
+- TODO [[2024/03/25]] [살림도 아이템이 필요해-청소업체가 절대 비밀로 하는 화장실 청소 쉽게하는 방법](https://youtube.com/watch?v=SRVkbkApfxs&si=AR8n0LS4jU-GouNq) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/SRVkbkApfxs/hqdefault.jpg)
+- TODO [[2024/03/25]] [다큐멘터무리 documentamuly-🎥촬영 감독의 퇴사 전과 퇴사 후⏳](https://youtube.com/watch?v=WDw5tQ_yDaI&si=6CfuOCJXWZiB7ExS) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/WDw5tQ_yDaI/hqdefault.jpg)
+- TODO [[2024/03/25]] [이과장-7년차 유튜버의 고민과 계획](https://youtube.com/watch?v=mn2dBWr6kIg&si=hYABpXiFzSLHf25n) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/mn2dBWr6kIg/hqdefault.jpg)
+- TODO [[2024/03/25]] [임성욱-[배우의 삶] 배우 김소은](https://youtube.com/watch?v=_y27MTxh1XY&si=9xk6zD_y9OdklYJn) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/_y27MTxh1XY/hqdefault.jpg)
+- TODO [[2024/03/25]] [-](https://youtube.com/watch?v=25xYwTFJQxw&si=363aJdeXVKykPO2i) 
+  collapsed:: true
+	- ![]()
+- TODO [[2024/03/25]] [ASMR 펜크래프트-펜 잡는 법만 바꿔도 달라집니다 ^-^](https://youtube.com/watch?v=7yxsJeBKnJQ&si=8c6Iw05gkGr6Qxxy) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/7yxsJeBKnJQ/hqdefault.jpg)
