@@ -4,7 +4,7 @@ public:: false
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
   query-properties:: [:block]
-- TODO [[2024/03/17]] [Nicole van der Hoeven-Why I chose Obsidian over Roam (as a Roam investor)](https://youtube.com/watch?v=AWUk8-6yG2g&si=FzCLPGTomQnPJzlo) 
+- DONE [[2024/03/17]] [Nicole van der Hoeven-Why I chose Obsidian over Roam (as a Roam investor)](https://youtube.com/watch?v=AWUk8-6yG2g&si=FzCLPGTomQnPJzlo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AWUk8-6yG2g/hqdefault.jpg)
 - DONE [[2024/03/18]] [조승연의 탐구생활-👜 명품소비? 사교육지출? 한국인의 경제 관념에 대한 미국 베스트셀러 금융서 작가의 솔직한 생각 (ft. 모건 하우절, 돈의 심리학)](https://youtube.com/watch?v=A-48a6cLcg8&si=x690WdQvOvH9lalX) 
@@ -13,7 +13,7 @@ public:: false
 - DONE [[2024/03/21]] [정리마켓-좁은 자취 공간, 알차게 수납해요. 30대 자취녀의 현실적인 정리 | 전국살림자랑 ep.42](https://youtube.com/watch?v=V5ceXszba8g&si=n5t4kIMNR_VO3bJs) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/V5ceXszba8g/hqdefault.jpg)
-- TODO [[2024/03/21]] [미키피디아-🎓지원 준비부터 커리어 업글까지! 대학원 유학이 도움되는 이유 (feat.합격 에세이 공개)](https://youtube.com/watch?v=cVXMfA7PtQM&si=77c1DHISTVQHvSRU) 
+- DONE [[2024/03/21]] [미키피디아-🎓지원 준비부터 커리어 업글까지! 대학원 유학이 도움되는 이유 (feat.합격 에세이 공개)](https://youtube.com/watch?v=cVXMfA7PtQM&si=77c1DHISTVQHvSRU) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/cVXMfA7PtQM/hqdefault.jpg)
 - DONE [[2024/03/21]] [EO 이오-한국을 떠나 나만의 커리어 설계도를 그렸던 방법 | 솔루션 아키텍트 마르코](https://youtube.com/watch?v=Qaccry_XnX0&si=D6jcK48moxrZ4WwO) 
@@ -117,3 +117,32 @@ public:: false
   collapsed:: true
 	- 아이의 울음을 분석하고 라벨링하면 울음의 원인을 더 쉽게 파악할 수 있지 않을까.
 	- {{tweet https://x.com/d_ohnald/status/1771473214390039030?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/03/24]] https://twitter.com/GeekNewsBot
+  > GN⁺: Memories – 고성능 오픈소스 구글 포토 대체제 <https://t.co/cSknwFpCsk>   
+  \- 빠르고 현대적인 사진 관리 도구
+- # 개인정보 우선   
+  collapsed:: true
+  \- 데이터는 사용자가 소유해야 함.   
+  \- Memories는 자체 호스팅 앱으로, 사진이 타인의 서버가 아닌 사용자의 Nextcloud 인스턴스에 저장됨.   
+  ...
+  
+  collapsed:: true
+	- {{tweet https://x.com/geeknewsbot/status/1771707765540720760?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- TODO [[2024/03/24]] [180초-순두부MA](https://youtube.com/watch?v=yLJ9xK9ZmZk&si=I0qs_VSSbqIXdEzj) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/yLJ9xK9ZmZk/hqdefault.jpg)
+- DONE [[2024/03/24]] [자취남-다이소와 쿠팡으로 만든 집 ll 자취남 편집 하면서 좋아 보이는 건 다 샀어요^^;; ll 서대문구 창천동 월세](https://youtube.com/watch?v=9pwvJU3eivo&si=vfjZmcSKYk5dznPF) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/9pwvJU3eivo/hqdefault.jpg)
+- DONE [[2024/03/24]] [쉬케치-삼자대면](https://youtube.com/watch?v=vhQQg-ShjYM&si=ZMsCpUafoh3P7an_) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/vhQQg-ShjYM/hqdefault.jpg)
+- TODO [[2024/03/24]] [너튜브 Neotube-하슬이 폼 미쳤다](https://youtube.com/watch?v=hEvYPCLc14w&si=fr5-_ideR8PCzj8a) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/hEvYPCLc14w/hqdefault.jpg)
+- TODO [[2024/03/24]] [웃기시네-컷, 다시 갈게요](https://youtube.com/watch?v=0bNb2vycnKo&si=tuIxTr1cTC7zyRSa) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/0bNb2vycnKo/hqdefault.jpg)
+- TODO [[2024/03/24]] [시칠리안 SICILIAN-발리가 최악의 여행지가 되는 이유 [인도네시아_14]](https://youtube.com/watch?v=fHEAAnOQreQ&si=U0_hE8fZ43Ltq9AS) 
+  collapsed:: true
+	- ![](https://i.ytimg.com/vi/fHEAAnOQreQ/hqdefault.jpg)
