@@ -89,7 +89,7 @@ public:: false
 - DONE [[2024/03/24]] [범준에 물리다-우리가 죽기 전 《코스모스》 책을 꼭 읽어야만 하는 이유 | 범준에 물리다](https://youtube.com/watch?v=-khvoBfvlas&si=jUtajmu4bL-ffWZL) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/-khvoBfvlas/hqdefault.jpg)
-- TODO [[2024/03/24]] [디에디트 THE EDIT-우습다 이걸 내돈주고 샀다는게,,, 알리 성공템, 테무 실패템 전부 보여드림 (구독자 이벤트 있음)](https://youtube.com/watch?v=BhmGsmPJvwk&si=OKftJS0Up4VZI536) 
+- DONE [[2024/03/24]] [디에디트 THE EDIT-우습다 이걸 내돈주고 샀다는게,,, 알리 성공템, 테무 실패템 전부 보여드림 (구독자 이벤트 있음)](https://youtube.com/watch?v=BhmGsmPJvwk&si=OKftJS0Up4VZI536) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/BhmGsmPJvwk/hqdefault.jpg)
 - DONE [[2024/03/24]] [영어를 읽다-빌 게이츠가 책 읽는 방법](https://youtube.com/watch?v=0QzeafXgHW0&si=TQHaw2gSc6u3h9AR) 
@@ -120,15 +120,12 @@ public:: false
 - TODO [[2024/03/24]] https://twitter.com/GeekNewsBot
   > GN⁺: Memories – 고성능 오픈소스 구글 포토 대체제 <https://t.co/cSknwFpCsk>   
   \- 빠르고 현대적인 사진 관리 도구
-- # 개인정보 우선   
-  collapsed:: true
-  \- 데이터는 사용자가 소유해야 함.   
-  \- Memories는 자체 호스팅 앱으로, 사진이 타인의 서버가 아닌 사용자의 Nextcloud 인스턴스에 저장됨.   
-  ...
-  
-  collapsed:: true
-	- {{tweet https://x.com/geeknewsbot/status/1771707765540720760?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/03/24]] [180초-순두부MA](https://youtube.com/watch?v=yLJ9xK9ZmZk&si=I0qs_VSSbqIXdEzj) 
+	- 개인정보 우선   
+	  \- 데이터는 사용자가 소유해야 함.   
+	  \- Memories는 자체 호스팅 앱으로, 사진이 타인의 서버가 아닌 사용자의 Nextcloud 인스턴스에 저장됨.   
+	  ...
+		- {{tweet https://x.com/geeknewsbot/status/1771707765540720760?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
+- DONE [[2024/03/24]] [180초-순두부MA](https://youtube.com/watch?v=yLJ9xK9ZmZk&si=I0qs_VSSbqIXdEzj) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/yLJ9xK9ZmZk/hqdefault.jpg)
 - DONE [[2024/03/24]] [자취남-다이소와 쿠팡으로 만든 집 ll 자취남 편집 하면서 좋아 보이는 건 다 샀어요^^;; ll 서대문구 창천동 월세](https://youtube.com/watch?v=9pwvJU3eivo&si=vfjZmcSKYk5dznPF) 
@@ -137,10 +134,10 @@ public:: false
 - DONE [[2024/03/24]] [쉬케치-삼자대면](https://youtube.com/watch?v=vhQQg-ShjYM&si=ZMsCpUafoh3P7an_) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/vhQQg-ShjYM/hqdefault.jpg)
-- TODO [[2024/03/24]] [너튜브 Neotube-하슬이 폼 미쳤다](https://youtube.com/watch?v=hEvYPCLc14w&si=fr5-_ideR8PCzj8a) 
+- DONE [[2024/03/24]] [너튜브 Neotube-하슬이 폼 미쳤다](https://youtube.com/watch?v=hEvYPCLc14w&si=fr5-_ideR8PCzj8a) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/hEvYPCLc14w/hqdefault.jpg)
-- TODO [[2024/03/24]] [웃기시네-컷, 다시 갈게요](https://youtube.com/watch?v=0bNb2vycnKo&si=tuIxTr1cTC7zyRSa) 
+- DONE [[2024/03/24]] [웃기시네-컷, 다시 갈게요](https://youtube.com/watch?v=0bNb2vycnKo&si=tuIxTr1cTC7zyRSa) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0bNb2vycnKo/hqdefault.jpg)
 - TODO [[2024/03/24]] [시칠리안 SICILIAN-발리가 최악의 여행지가 되는 이유 [인도네시아_14]](https://youtube.com/watch?v=fHEAAnOQreQ&si=U0_hE8fZ43Ltq9AS) 
