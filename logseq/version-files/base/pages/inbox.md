@@ -107,7 +107,7 @@ public:: false
 - TODO [[2024/03/24]] [어제의 고은 [goeun]-미니멀리즘이 어떻게 나를 돈에서 자유롭게 했을까? ⎮ 적게 가지고 더 행복해지는 다섯가지 방법](https://youtube.com/watch?v=HX1wdSGByng&si=ZGlZdqK3ztOdtyST) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HX1wdSGByng/hqdefault.jpg)
-- TODO [[2024/03/24]] [스파인코렉터 복부운동](https://youtube.com/watch?v=9o8MwMNHsXw&si=E8jAaQhkYISR4ilI)
+- DONE [[2024/03/24]] [스파인코렉터 복부운동](https://youtube.com/watch?v=9o8MwMNHsXw&si=E8jAaQhkYISR4ilI)
   collapsed:: true
 	- ![]()
 - TODO [[2024/03/24]] [KBS 다큐-2024년 초인플레이션은 끝났나? 우린 왜 달러의 태풍 안에 살고 있을까?  ㅣ KBS 다큐인사이트 미국과 경제 2부 이기적인 달러 24.02.02 방송](https://youtube.com/watch?v=59uxd583_r8&si=DeK2CLqGbpMj8arL) 
