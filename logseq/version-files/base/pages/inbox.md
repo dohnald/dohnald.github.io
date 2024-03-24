@@ -117,7 +117,7 @@ public:: false
   collapsed:: true
 	- 아이의 울음을 분석하고 라벨링하면 울음의 원인을 더 쉽게 파악할 수 있지 않을까.
 	- {{tweet https://x.com/d_ohnald/status/1771473214390039030?s=46&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/03/24]] https://twitter.com/GeekNewsBot
+- DONE [[2024/03/24]] https://twitter.com/GeekNewsBot
   > GN⁺: Memories – 고성능 오픈소스 구글 포토 대체제 <https://t.co/cSknwFpCsk>   
   \- 빠르고 현대적인 사진 관리 도구
 	- 개인정보 우선   
