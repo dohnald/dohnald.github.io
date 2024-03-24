@@ -95,7 +95,7 @@ public:: false
 - DONE [[2024/03/24]] [영어를 읽다-빌 게이츠가 책 읽는 방법](https://youtube.com/watch?v=0QzeafXgHW0&si=TQHaw2gSc6u3h9AR) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/0QzeafXgHW0/hqdefault.jpg)
-- TODO [[2024/03/24]] [가전주부 GJJB-이거 쓰고 책 100권 읽었어요! | 이북리더기에서 인스타그램, 유튜브? | 오닉스 팔마, 탭미니C, 페이지, 포크5, 루나X 중 E-book 리더기 최강자는?](https://youtube.com/watch?v=gRP_SIExgho&si=HEQWspfbg5VcKifp) 
+- DONE [[2024/03/24]] [가전주부 GJJB-이거 쓰고 책 100권 읽었어요! | 이북리더기에서 인스타그램, 유튜브? | 오닉스 팔마, 탭미니C, 페이지, 포크5, 루나X 중 E-book 리더기 최강자는?](https://youtube.com/watch?v=gRP_SIExgho&si=HEQWspfbg5VcKifp) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/gRP_SIExgho/hqdefault.jpg)
 - DONE [[2024/03/24]] [[승제튜브] 정승제 공식 유튜브 채널-삼각형의 내각의 합이 180도인 이유를](https://youtube.com/watch?v=2_VinMglKTk&si=sifvCr4U5LAqujrI) 
