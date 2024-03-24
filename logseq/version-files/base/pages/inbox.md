@@ -80,13 +80,13 @@ public:: false
 - DONE [[2024/03/24]] [미니멀유목민-무뚝뚝한 연하 남편이 공항 마중 갔을 때 아내 반응｜6년 기른 머리 단발식｜비자 없이 중국 입국 가능?](https://youtube.com/watch?v=s_ETQlHIrXs&si=wvVYf0TNhYo_8Ung) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/s_ETQlHIrXs/hqdefault.jpg)
-- TODO [[2024/03/24]] [디글 :Diggle-[#유퀴즈온더블럭] 뭐 하러 종이 신문을 읽으세요? 매일 아침 종이 신문 읽는 유느님📰 문해력이 낮아지는 상황에서 국어교육과 교수님도 칭찬한 유느님의 모닝 루틴👏](https://youtube.com/watch?v=3AYOEguUb9Y&si=1TajZjQyZpxt3-86) 
+- DONE [[2024/03/24]] [디글 :Diggle-[#유퀴즈온더블럭] 뭐 하러 종이 신문을 읽으세요? 매일 아침 종이 신문 읽는 유느님📰 문해력이 낮아지는 상황에서 국어교육과 교수님도 칭찬한 유느님의 모닝 루틴👏](https://youtube.com/watch?v=3AYOEguUb9Y&si=1TajZjQyZpxt3-86) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/3AYOEguUb9Y/hqdefault.jpg)
 - DONE [[2024/03/24]] [디비디방-[부x 뗀 여친 시즌2 EP. 03] 어때? 나도 가슴 크지? [ENG SUB]](https://youtube.com/watch?v=IWSEjXWu2vA&si=14-cjVs56_18M2r_) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/IWSEjXWu2vA/hqdefault.jpg)
-- TODO [[2024/03/24]] [범준에 물리다-우리가 죽기 전 《코스모스》 책을 꼭 읽어야만 하는 이유 | 범준에 물리다](https://youtube.com/watch?v=-khvoBfvlas&si=jUtajmu4bL-ffWZL) 
+- DONE [[2024/03/24]] [범준에 물리다-우리가 죽기 전 《코스모스》 책을 꼭 읽어야만 하는 이유 | 범준에 물리다](https://youtube.com/watch?v=-khvoBfvlas&si=jUtajmu4bL-ffWZL) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/-khvoBfvlas/hqdefault.jpg)
 - TODO [[2024/03/24]] [디에디트 THE EDIT-우습다 이걸 내돈주고 샀다는게,,, 알리 성공템, 테무 실패템 전부 보여드림 (구독자 이벤트 있음)](https://youtube.com/watch?v=BhmGsmPJvwk&si=OKftJS0Up4VZI536) 
