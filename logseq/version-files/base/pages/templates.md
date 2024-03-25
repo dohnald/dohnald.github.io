@@ -6,6 +6,7 @@ public:: false
   tags:: card, memo
   source::
   title::
+  collapsed:: true
 	- 생각들
 		- <% today %>
 	- 인용

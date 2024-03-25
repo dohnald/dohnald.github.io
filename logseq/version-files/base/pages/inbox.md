@@ -39,3 +39,4 @@ public:: false
 - DONE [[2024/03/25]] [좋소기업탈출기-장사의 신 부활시도4(feat.전자책)](https://youtube.com/watch?v=j5hzHA66D2E&si=ejX8peA7GGbJebME) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/j5hzHA66D2E/hqdefault.jpg)
+-
