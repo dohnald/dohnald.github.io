@@ -1,39 +1,22 @@
 public:: false
 
 - 요약
-  card-last-score:: 5
-  card-repeats:: 5
-  card-next-schedule:: 2024-05-19T18:05:10.497Z
-  card-last-interval:: 97.56
-  card-ease-factor:: 2.9
-  card-last-reviewed:: 2024-02-12T05:05:10.498Z
   template:: highlight 하이라이트
   template-including-parent:: true
-  tags:: card, memo,
+  tags:: card, memo
   source::
   title::
-  purpose:: 
-  * [ ] [[p1.영감]] 
-  * [ ] [[p2.유용]]
-  * [ ] [[p3.개인적]]
-  * [ ] [[p4.놀랄]]
 	- 생각들
-		-
+		- <% today %>
 	- 인용
 		-
 - 생각
-  card-last-score:: 5
-  card-repeats:: 5
-  card-next-schedule:: 2024-05-19T18:05:10.497Z
-  card-last-interval:: 97.56
-  card-ease-factor:: 2.9
-  card-last-reviewed:: 2024-02-12T05:05:10.498Z
   template:: book highlight 책 하이라이트
   template-including-parent:: true
-  tags:: card, memo, #감상/책/읽는, <% today %>
+  tags:: card, memo, #감상/책/읽는
   source::
 	- 생각들
-		-
+		- <% today %>
 	- 인용
 		-
 - Student Teacher Dialog
