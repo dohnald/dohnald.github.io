@@ -4,6 +4,8 @@ public:: false
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
   query-properties:: [:block]
+  collapsed:: true
+- {{query (and (page [[inbox]]) (task DONE))}}
 - DONE [[2024/03/17]] [Nicole van der Hoeven-Why I chose Obsidian over Roam (as a Roam investor)](https://youtube.com/watch?v=AWUk8-6yG2g&si=FzCLPGTomQnPJzlo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/AWUk8-6yG2g/hqdefault.jpg)
