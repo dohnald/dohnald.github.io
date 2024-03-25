@@ -155,7 +155,7 @@ public:: false
 - TODO [[2024/03/25]] [다큐멘터무리 documentamuly-🎥촬영 감독의 퇴사 전과 퇴사 후⏳](https://youtube.com/watch?v=WDw5tQ_yDaI&si=6CfuOCJXWZiB7ExS) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/WDw5tQ_yDaI/hqdefault.jpg)
-- TODO [[2024/03/25]] [이과장-7년차 유튜버의 고민과 계획](https://youtube.com/watch?v=mn2dBWr6kIg&si=hYABpXiFzSLHf25n) 
+- DONE [[2024/03/25]] [이과장-7년차 유튜버의 고민과 계획](https://youtube.com/watch?v=mn2dBWr6kIg&si=hYABpXiFzSLHf25n) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/mn2dBWr6kIg/hqdefault.jpg)
 - TODO [[2024/03/25]] [임성욱-[배우의 삶] 배우 김소은](https://youtube.com/watch?v=_y27MTxh1XY&si=9xk6zD_y9OdklYJn) 
