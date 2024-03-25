@@ -35,3 +35,9 @@ public:: false
 - TODO [[2024/03/25]] [ASMR 펜크래프트-펜 잡는 법만 바꿔도 달라집니다 ^-^](https://youtube.com/watch?v=7yxsJeBKnJQ&si=8c6Iw05gkGr6Qxxy) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7yxsJeBKnJQ/hqdefault.jpg)
+ 
+- TODO [[2024/03/25]] [잡지/이코노미스트 2024.03(1727호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644627%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644627) 
+- TODO [[2024/03/25]] [잡지/이코노미 조선 532호 : 2024.03.20](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644628%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644628) 
+- TODO [[2024/03/25]] [좋소기업탈출기-장사의 신 부활시도4(feat.전자책)](https://youtube.com/watch?v=j5hzHA66D2E&si=ejX8peA7GGbJebME) 
+collapsed:: true
+  - ![](https://i.ytimg.com/vi/j5hzHA66D2E/hqdefault.jpg)
