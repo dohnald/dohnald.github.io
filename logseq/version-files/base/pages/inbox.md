@@ -4,6 +4,7 @@ public:: false
 - {{query (and (page [[inbox]]) (task TODO))}}
   query-table:: false
   query-properties:: [:block]
+  collapsed:: true
 - TODO [[2024/03/25]] [잡지/이코노미 조선 532호 : 2024.03.20](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644628%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644628)
 - TODO [[2024/03/26]] [곽튜브-다비치와 떠나는 꿈의 2박3일 여행기 - 홍콩(1)](https://youtube.com/watch?v=07VN9QYYWvU&si=pIel277H5pyEpzxt) 
   collapsed:: true
@@ -92,6 +93,7 @@ public:: false
 		  
 		  * 따라서 창작 활동에 집중할 수 있는 공간, 이동의 편의, 합리적인 경제적 이유, 예술가들 간의 교류 등 다양한 이유로 1900년대 파리의 예술가들은 호텔에서 생활하였습니다.
 	- 예술가 중에서 유진 오닐을 알고 있습니다. 그의 주변 인물들 5명을 각 인물 당 280자 이하로 정리해주세요. 작품이 있으면 주요 작품명을 함께 알려주세요. 작품명은 줄바꿈 후 들여쓰기로 작성해주세요.
+	  collapsed:: true
 		- * 에이그니스 오닐: 유진 오닐의 아내로, 자신의 세상관을 그의 작품에 크게 반영했습니다. 유진 오닐의 많은 작품에 등장하는 주인공의 뮤즈였습니다.
 		      주요작품: `Long Day's Journey Into Night`
 		  * * 오닐 주니어: 머리가 좋아 하버드 대학에 입학하였으나, 아버지 유진 오닐의 영향력에 대해 강한 반발을 보였습니다. 그 후 자살로 생을 마감하였습니다.
