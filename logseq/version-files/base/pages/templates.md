@@ -15,7 +15,7 @@ public:: false
   template:: book highlight 책 하이라이트
   template-including-parent:: true
   tags:: card, memo, #감상/책/읽는
-  source::
+  source:: <% current page %>
 	- 생각들
 		- <% today %>
 	- 인용
