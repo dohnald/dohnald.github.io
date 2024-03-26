@@ -21,7 +21,7 @@ public:: false
 - TODO [[2024/03/26]] [EBSDocumentary (EBS 다큐)-20평 남짓 서울 구축 빌라 팔아서 파주 400평 숲에 집 지은 젊은 부부┃목수 남편과 디자이너 아내 취향 가득 꾸민 집┃집구경┃건축탐구 집┃#골라듄다큐](https://youtube.com/watch?v=hIzGhbtNCyc&si=Wn5uR08_vETjtL3j) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/hIzGhbtNCyc/hqdefault.jpg)
-- TODO [[2024/03/26]] [찌니ZZINI-이북리더기 오닉스 팔마 후기 | 6인치 루나X와 오닉스북스페이지와 비교 | 밀리의서재 구독중](https://youtube.com/watch?v=HVMDrzcZJxQ&si=UAlVFxsEyAt84Eof) 
+- DONE [[2024/03/26]] [찌니ZZINI-이북리더기 오닉스 팔마 후기 | 6인치 루나X와 오닉스북스페이지와 비교 | 밀리의서재 구독중](https://youtube.com/watch?v=HVMDrzcZJxQ&si=UAlVFxsEyAt84Eof) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HVMDrzcZJxQ/hqdefault.jpg)
 - DONE [[2024/03/26]] [찌니ZZINI-VLOG | 이북리더기 오닉스 팔마로 한강 독서 | 리유져블백으로 시장 장보기 | 면접 | 2달만에 친구들 만나다 | 네스프레소 버츄오로 라떼만들기](https://youtube.com/watch?v=NdGDcK6RRt0&si=6b-C-iAqCOMDMDMX) 
