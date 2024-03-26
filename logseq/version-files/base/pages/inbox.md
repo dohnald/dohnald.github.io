@@ -50,7 +50,7 @@ public:: false
 - TODO [[2024/03/26]] [엄마아들 구삼이-벽지 곰팡이 제거하려면 락스보다 이거 쓰세요](https://youtube.com/watch?v=LDMIlD7nTrE&si=35Oewn3E7P4_bK7l) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/LDMIlD7nTrE/hqdefault.jpg)
-- TODO [[2024/03/26]] [웃고리즘-쌀국수](https://youtube.com/watch?v=Qt45pIQFUAM&si=yEzz3fKm-pZp5zU3) 
+- DONE [[2024/03/26]] [웃고리즘-쌀국수](https://youtube.com/watch?v=Qt45pIQFUAM&si=yEzz3fKm-pZp5zU3) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/Qt45pIQFUAM/hqdefault.jpg)
 - TODO [[2024/03/26]] [닥터프렌즈-실제 ADHD가 있는 현직의사 | 혹시 나도 ADHD?](https://youtube.com/watch?v=NKjzaCRoW-M&si=XIcKZBYkR6Z9gGIy) 
