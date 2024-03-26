@@ -12,7 +12,7 @@ public:: false
 - TODO [[2024/03/26]] [지켜츄 Chuu Can Do It-(ENG) 광인 트리오 츄배쮸 결성👩‍👧‍👧 지우🐶 싸움에 배이🦐 터진다 [feat.배이&지우 of NMIXX]](https://youtube.com/watch?v=69Gya6QlH44&si=SDbmHM4Hq1YUUtWw) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/69Gya6QlH44/hqdefault.jpg)
-- TODO [[2024/03/26]] [김숙티비kimsookTV-50개 도시 다닌 여행고수 김숙✈️ 공항+기내+숙소에서 유용한 꿀팁 대방출!](https://youtube.com/watch?v=f30Du17iB9Y&si=ll5h5pwdcKl_XOFS) 
+- DONE [[2024/03/26]] [김숙티비kimsookTV-50개 도시 다닌 여행고수 김숙✈️ 공항+기내+숙소에서 유용한 꿀팁 대방출!](https://youtube.com/watch?v=f30Du17iB9Y&si=ll5h5pwdcKl_XOFS) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/f30Du17iB9Y/hqdefault.jpg)
 - TODO [[2024/03/26]] [잡지/매경이코노미 2252호](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644821%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644821)
@@ -24,7 +24,7 @@ public:: false
 - TODO [[2024/03/26]] [찌니ZZINI-이북리더기 오닉스 팔마 후기 | 6인치 루나X와 오닉스북스페이지와 비교 | 밀리의서재 구독중](https://youtube.com/watch?v=HVMDrzcZJxQ&si=UAlVFxsEyAt84Eof) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HVMDrzcZJxQ/hqdefault.jpg)
-- TODO [[2024/03/26]] [찌니ZZINI-VLOG | 이북리더기 오닉스 팔마로 한강 독서 | 리유져블백으로 시장 장보기 | 면접 | 2달만에 친구들 만나다 | 네스프레소 버츄오로 라떼만들기](https://youtube.com/watch?v=NdGDcK6RRt0&si=6b-C-iAqCOMDMDMX) 
+- DONE [[2024/03/26]] [찌니ZZINI-VLOG | 이북리더기 오닉스 팔마로 한강 독서 | 리유져블백으로 시장 장보기 | 면접 | 2달만에 친구들 만나다 | 네스프레소 버츄오로 라떼만들기](https://youtube.com/watch?v=NdGDcK6RRt0&si=6b-C-iAqCOMDMDMX) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/NdGDcK6RRt0/hqdefault.jpg)
 - TODO [[2024/03/26]] [메디소드, 공부의 감각-이 방법 쓰고는 못 외워서 틀린 적 없습니다. (능동감각, 암기법, Anki)](https://youtube.com/watch?v=phbZ4h0FTvQ&si=eC8gDiAQL_EOyuI6) 
@@ -36,7 +36,7 @@ public:: false
 - DONE [[2024/03/26]] [빠른수학-잘못된 공부습관 7가지, 이렇게 안했으면 서울대 갔을 공부법(무료 전자책 이벤트!)](https://youtube.com/watch?v=9jsON_aWaqE&si=PqVYZigQes_8DEd4) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9jsON_aWaqE/hqdefault.jpg)
-- TODO [[2024/03/26]] [스튜디오헤이 StudioHey-돈은 없는데 유명한 두 직장인ㅣ고나리자 EP.11](https://youtube.com/watch?v=iu8xN0Vxfy0&si=b2DkfEH8cECmlP-W) 
+- DONE [[2024/03/26]] [스튜디오헤이 StudioHey-돈은 없는데 유명한 두 직장인ㅣ고나리자 EP.11](https://youtube.com/watch?v=iu8xN0Vxfy0&si=b2DkfEH8cECmlP-W) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/iu8xN0Vxfy0/hqdefault.jpg)
 - TODO [[2024/03/26]] [bbory story-고프로12 발열 체크, 광고 없는 리얼, 5.3K , 4K 리얼 타임 확인](https://youtube.com/watch?v=vVStCbAOmtQ&si=j13LhoFA5hmLT_Hp) 
