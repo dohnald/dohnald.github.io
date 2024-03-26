@@ -289,7 +289,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["inbox" "d.ohnald"]
+ :favorites ["learn" "inbox" "d.ohnald"]
 
  ;; Set flashcards interval.
  ;; Expected value:
