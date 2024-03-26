@@ -10,7 +10,7 @@ public:: false
 - DONE [[2024/03/24]] [어제의 고은 [goeun]-미니멀리즘이 어떻게 나를 돈에서 자유롭게 했을까? ⎮ 적게 가지고 더 행복해지는 다섯가지 방법](https://youtube.com/watch?v=HX1wdSGByng&si=ZGlZdqK3ztOdtyST) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/HX1wdSGByng/hqdefault.jpg)
-- TODO [[2024/03/24]] [KBS 다큐-2024년 초인플레이션은 끝났나? 우린 왜 달러의 태풍 안에 살고 있을까?  ㅣ KBS 다큐인사이트 미국과 경제 2부 이기적인 달러 24.02.02 방송](https://youtube.com/watch?v=59uxd583_r8&si=DeK2CLqGbpMj8arL) 
+- DONE [[2024/03/24]] [KBS 다큐-2024년 초인플레이션은 끝났나? 우린 왜 달러의 태풍 안에 살고 있을까?  ㅣ KBS 다큐인사이트 미국과 경제 2부 이기적인 달러 24.02.02 방송](https://youtube.com/watch?v=59uxd583_r8&si=DeK2CLqGbpMj8arL) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/59uxd583_r8/hqdefault.jpg)
 - DONE [[2024/03/25]] [HONG[本]'s World-트래블러스노트 활용법 1 | 강의노트 (feat. 토모에리버와 제트스트림의 관계)](https://youtube.com/watch?v=HV-Dl-U4QzA&si=L56X47wZxodx3yRw) 
@@ -43,7 +43,7 @@ public:: false
 - DONE [[2024/03/26]] [만만송-칼퇴에 미친 신입사원이 업무 효율화를 한 '단 한가지' 방법ㅣ이게 된다고...? (ft.챗GPT)](https://youtube.com/watch?v=-EO0qN4hDi0&si=iOxdEQrfrj0tdoqo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/-EO0qN4hDi0/hqdefault.jpg)
-- TODO [[2024/03/26]] https://twitter.com/Timbretop
+- DONE [[2024/03/26]] https://twitter.com/Timbretop
   collapsed:: true
   > 최근에 수학 일타강사 정승제님의 집과 라이프 스타일이 방송을 탄 모양이다. 이쪽저쪽에서 문의가 있었다.  
   네, 제가 설계시공했고요, 거실은 더월 150인치, 홈시어터 전용룸에는 220인치가 들어가 있어요. 제주도 별장도 설계 중입니다.  
@@ -51,7 +51,7 @@ public:: false
   
   collapsed:: true
 	- {{tweet https://x.com/timbretop/status/1772063995371135440?s=12&t=AnEdIRP1pGh61jqrbuTEkw}}
-- TODO [[2024/03/26]] [다크사이드코리아-[충격분노] 장사의신. 좋아요 싫어요에 대해 입을 열다. 비추천은 전부 조작. 밀키트는 전세계에 팔것. 충격의 라이브 천태만상.](https://youtube.com/watch?v=JKQfhsi8hRE&si=GKfVVQc5vtswmN8b) 
+- DONE [[2024/03/26]] [다크사이드코리아-[충격분노] 장사의신. 좋아요 싫어요에 대해 입을 열다. 비추천은 전부 조작. 밀키트는 전세계에 팔것. 충격의 라이브 천태만상.](https://youtube.com/watch?v=JKQfhsi8hRE&si=GKfVVQc5vtswmN8b) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/JKQfhsi8hRE/hqdefault.jpg)
 - TODO [[2024/03/26]] [곽튜브-다비치와 떠나는 꿈의 2박3일 여행기 - 홍콩(1)](https://youtube.com/watch?v=07VN9QYYWvU&si=pIel277H5pyEpzxt) 
