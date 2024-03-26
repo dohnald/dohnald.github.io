@@ -32,7 +32,7 @@ public:: false
 - TODO [[2024/03/26]] [Jake Kim-Anki앱을 이용해서 쉽게 영단어 암기가자 (사용법과 꿀팁들)](https://youtube.com/watch?v=qfi89b2ViuM&si=96KCFoaEV0QVWvSU) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/qfi89b2ViuM/hqdefault.jpg)
-- TODO [[2024/03/26]] [빠른수학-잘못된 공부습관 7가지, 이렇게 안했으면 서울대 갔을 공부법(무료 전자책 이벤트!)](https://youtube.com/watch?v=9jsON_aWaqE&si=PqVYZigQes_8DEd4) 
+- DONE [[2024/03/26]] [빠른수학-잘못된 공부습관 7가지, 이렇게 안했으면 서울대 갔을 공부법(무료 전자책 이벤트!)](https://youtube.com/watch?v=9jsON_aWaqE&si=PqVYZigQes_8DEd4) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/9jsON_aWaqE/hqdefault.jpg)
 - TODO [[2024/03/26]] [스튜디오헤이 StudioHey-돈은 없는데 유명한 두 직장인ㅣ고나리자 EP.11](https://youtube.com/watch?v=iu8xN0Vxfy0&si=b2DkfEH8cECmlP-W) 
@@ -56,7 +56,7 @@ public:: false
 - TODO [[2024/03/26]] [닥터프렌즈-실제 ADHD가 있는 현직의사 | 혹시 나도 ADHD?](https://youtube.com/watch?v=NKjzaCRoW-M&si=XIcKZBYkR6Z9gGIy) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/NKjzaCRoW-M/hqdefault.jpg)
-- TODO [[2024/03/26]] [유휘운-공무원변호사-대부분 간과하는 지방직 대비 공부법](https://youtube.com/watch?v=P7cVp-NJE4U&si=ZtIu27a-BNFK43A1) 
+- DONE [[2024/03/26]] [유휘운-공무원변호사-대부분 간과하는 지방직 대비 공부법](https://youtube.com/watch?v=P7cVp-NJE4U&si=ZtIu27a-BNFK43A1) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/P7cVp-NJE4U/hqdefault.jpg)
 - TODO [[2024/03/26]] https://twitter.com/editor_walwal
