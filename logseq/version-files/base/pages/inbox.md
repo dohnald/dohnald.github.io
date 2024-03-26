@@ -40,7 +40,7 @@ public:: false
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/j5hzHA66D2E/hqdefault.jpg)
 -
-- TODO [[2024/03/26]] [만만송-칼퇴에 미친 신입사원이 업무 효율화를 한 '단 한가지' 방법ㅣ이게 된다고...? (ft.챗GPT)](https://youtube.com/watch?v=-EO0qN4hDi0&si=iOxdEQrfrj0tdoqo) 
+- DONE [[2024/03/26]] [만만송-칼퇴에 미친 신입사원이 업무 효율화를 한 '단 한가지' 방법ㅣ이게 된다고...? (ft.챗GPT)](https://youtube.com/watch?v=-EO0qN4hDi0&si=iOxdEQrfrj0tdoqo) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/-EO0qN4hDi0/hqdefault.jpg)
 - TODO [[2024/03/26]] https://twitter.com/Timbretop
