@@ -31,7 +31,7 @@ public:: false
 - DONE [[2024/03/25]] [-](https://youtube.com/watch?v=25xYwTFJQxw&si=363aJdeXVKykPO2i) 
   collapsed:: true
 	- ![]()
-- TODO [[2024/03/25]] [ASMR 펜크래프트-펜 잡는 법만 바꿔도 달라집니다 ^-^](https://youtube.com/watch?v=7yxsJeBKnJQ&si=8c6Iw05gkGr6Qxxy) 
+- DONE [[2024/03/25]] [ASMR 펜크래프트-펜 잡는 법만 바꿔도 달라집니다 ^-^](https://youtube.com/watch?v=7yxsJeBKnJQ&si=8c6Iw05gkGr6Qxxy) 
   collapsed:: true
 	- ![](https://i.ytimg.com/vi/7yxsJeBKnJQ/hqdefault.jpg)
 - DONE [[2024/03/25]] [잡지/이코노미스트 2024.03(1727호)](https://millie.page.link/?ibi=kr.co.millie.MillieShelf&efr=1&link=https://link.millie.co.kr/v3/bookDetail/179644627%3Furl%3Dhttps://www.millie.co.kr/v3/bookDetail/179644627)
