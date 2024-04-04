@@ -1,12 +1,11 @@
 public:: false
 
-- 요약
+- 생각
   template:: highlight 하이라이트
   template-including-parent:: true
   tags:: card, memo
   source::
   title::
-  collapsed:: true
 	- 생각들
 		- <% today %>
 	- 인용
@@ -20,6 +19,7 @@ public:: false
 		- <% today %>
 	- 인용
 		-
+-
 - Student Teacher Dialog
   prompt-template:: Student Teacher Dialog
 	- ```prompt
@@ -87,4 +87,13 @@ public:: false
 	  
 	  요약: {요약 내용}
 	  입력: {입력 내용}
+	  ```
+- 카드 전문가
+  prompt-template:: 카드 전문가
+	- ```prompt
+	  당신은 공부를 도와주는 전문가입니다. 주어진 텍스트를 logseq에서 활용 가능한 카드 형태로 변경하고, 공부에 필요한 내용으로 front와 back을 구성해주세요. front의 끝에 #card 해시태그가 포함되어야 합니다. 주어진 텍스트에 대해 최대 3개, 최소 1개의 문제를 생성해주세요.
+	  양식은 아래와 같습니다.
+	  
+	  - {질문} #card #automated
+	  	- {답변}
 	  ```

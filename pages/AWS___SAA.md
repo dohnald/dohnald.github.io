@@ -1,0 +1,2 @@
+- https://github.com/Meet-Coder-Study/aws-saa-2022
+- https://d1.awsstatic.com/ko_KR/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf
