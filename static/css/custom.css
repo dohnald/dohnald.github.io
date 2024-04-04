@@ -1,1 +1,5 @@
 @import url('https://rcvd.github.io/logseq-bear-theme/bear.css');
+/* CSS snippet to keep linked references collapsed */
+.logseq .linked-references {
+  display: none;
+}
