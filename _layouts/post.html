@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    {% include header.html %}
+    <header class="post-header">
+        <h1 class="page-title">
+            <a href="{{ page.url }}"> {{ page.title }} </a>
+        </h1>
+        <p class="created-date">
+        {{ page.date | date: "%Y.%m.%d" }}
+        </p>
+    </header>
+    <body>
+        <hr />
+        <div class="page-content">
+            <div class="post">
+                {{ content }}
+            </div>
+        </div>
+        {% include createLink.html %}
+        {% include footer.html %}
+    </body>
+</html>

@@ -1,0 +1,9 @@
+theme: jekyll-theme-tactile
+title: D.ohnald's
+url: "https://dohnald.github.io"
+twitter_username: dohnald
+github_username: dohnald
+
+markdown: kramdown
+theme: minima
+permalink: /blog/:title/
