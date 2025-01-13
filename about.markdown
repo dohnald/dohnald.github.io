@@ -10,4 +10,4 @@ permalink: /about/
 
 도널드, 디오널드, 오널드 등 자유롭게 읽어주세요.
 
-https://twitter.com/d_ohnald
+twitter [@d.ohnald](https://twitter.com/d_ohnald)
