@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    {% include header.html %}
+    <header class="post-header">
+        <h1 class="page-title">
+            <a href="{{ page.url }}"> {{ page.title }} </a>
+        </h1>
+    </header>
+    <body>
+        <hr />
+        <div class="page-content">
+            {{ content }}
+        </div>
+        {% include footer.html %}
+    </body>
+</html>
