@@ -7,3 +7,9 @@ github_username: dohnald
 markdown: kramdown
 theme: minima
 permalink: /blog/:title/
+
+# Collections
+collections:
+  wiki:
+    output: true
+    permalink: /:collection/:path/
