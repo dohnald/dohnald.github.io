@@ -12,4 +12,4 @@ permalink: /blog/:title/
 collections:
   wiki:
     output: true
-    permalink: /:collection/:path/
+    permalink: /blog/:path/

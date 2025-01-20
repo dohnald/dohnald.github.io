@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    {% include header.html %}
+    {% assign wiki_posts = site.wiki | sort: 'updated' | reverse %}
+    <ul>
+        {% for doc in wiki_posts %}
+            <li>
+                <a class="post-link" href="{{ site.url }}{{ doc.url }}">{{ doc.title | escape }}</a>
+                {% if doc.updated == null %}
+                <span class="date">{{ doc.date | date: "%Y/%m/%d" }}</span>
+                {% else %}
+                <span class="date">{{ doc.updated | date: "%Y/%m/%d" }}</span>
+                {% endif %}
+            </li>
+    {% endfor %}
+        </ul>
+        {% include footer.html %}
+</html>

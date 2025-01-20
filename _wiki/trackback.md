@@ -1,5 +1,5 @@
 ---
-layout  : post
+layout  : wiki
 title   : trackback
 date    : 2024-06-04 00:19:31 +0900
 --- 

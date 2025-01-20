@@ -28,6 +28,7 @@
 <header class="header">
     <div>
         <a class="site-title" href="/">D.ohnald's</a>
+        | <a class="site-title" href="/recentChange">최근 변경</a>
         | <a class="site-title" href="/about">about</a>
     </div>
 </header>
@@ -36,6 +37,10 @@
         <h1 class="page-title">
             <a href="/blog/%EB%B0%9C%ED%84%B0-%EB%B2%A4%EC%95%BC%EB%AF%BC/"> 발터 벤야민 </a>
         </h1>
+        <p class="date" style="text-align:right">
+        created: 2025/01/21
+        
+        </p>
     </header>
     <body>
         <hr />
@@ -56,6 +61,14 @@
 
             </div>
         </div>
+        <script>
+    ;(function() {
+        var content = document.querySelector('.post');
+        content.innerHTML = content.innerHTML.replace(/\[\[(.+?)\]\]\{(.+?)\}/g, '<a href="../$1">$2</a>');
+        content.innerHTML = content.innerHTML.replace(/\[\[(.+?)\]\]/g, '<a href="../$1">$1</a>');
+    })();
+</script>
+
         <footer class="footer">
     <hr />
     <div><p><sub>d.ohnald's logs</sub></p></div>

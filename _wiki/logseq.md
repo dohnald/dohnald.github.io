@@ -1,5 +1,5 @@
 ---
-layout  : post
+layout  : wiki
 title   : logseq
 date    : 2025-01-07 14:40:16 +0900
 --- 
