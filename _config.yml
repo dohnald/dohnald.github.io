@@ -11,4 +11,4 @@ markdown: kramdown
 collections: 
   wiki: 
     output: true
-    permalink: /:collection/:path/
+    permalink: /blog/:path/
