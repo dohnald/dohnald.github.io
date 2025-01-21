@@ -1,5 +1,5 @@
 theme: minima
-title: D.ohnald's
+title: "D.ohnald's"
 url: "https://dohnald.github.io"
 twitter_username: dohnald
 github_username: dohnald
@@ -8,7 +8,7 @@ markdown: kramdown
 #permalink: /blog/:title/
 
 # Collections
-collections:
-  wiki:
+collections: 
+  wiki: 
     output: true
-    permalink: /wiki/:path/
+    permalink: /:collection/:path/
