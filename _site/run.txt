@@ -1,1 +1,0 @@
-Configuration file: /Users/jongchul/logseq-local/dohnald.github.io/_config.yml
