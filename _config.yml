@@ -5,8 +5,7 @@ twitter_username: dohnald
 github_username: dohnald
 
 markdown: kramdown
-theme: minima
-permalink: /blog/:title/
+#permalink: /blog/:title/
 
 # Collections
 collections:
