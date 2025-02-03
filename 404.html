@@ -18,8 +18,30 @@ layout: post
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <h1 id="searchString">404</h1>
 
   <p><strong>Page not found :(</strong></p>
   <p>페이지를 찾을 수 없습니다.</p>
 </div>
+<script>
+    (function() {
+        const searchString = window.location.pathname.split("/").slice(2).join('/') ;
+        console.log(searchString);
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchTerm = urlParams.get('searchString');
+            console.log(searchTerm);
+            if (!searchTerm) {
+                history.pushState('','', '?searchString=' + searchString); 
+            }
+            var cx = '7549c5a768be34878';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = false;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        };
+    })();
+</script>
+<gcse:searchresults-only queryParameterName="searchString"></gcse:searchresults-only>
