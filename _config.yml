@@ -12,3 +12,7 @@ collections:
   wiki: 
     output: true
     permalink: /blog/:path/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
