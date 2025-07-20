@@ -119,40 +119,71 @@
     .subgoal-3 { border: 2px solid #5cb85c; }   /* 초록 */
     .subgoal-4 { border: 2px solid #f0ad4e; }   /* 주황 */
 
-    /* 기본 PC 레이아웃은 유지 */
-    .mandala-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-template-rows: repeat(3, auto);
-      gap: 10px;
-      max-width: 100%;
-      margin: 0 auto;
+  /* 기본 PC 레이아웃 */
+    .mandala-container.desktop {
+      overflow-x: auto;
     }
 
-    /* 모바일 화면용 레이아웃 */
+    /* 모바일 레이아웃 */
+    .mandala-container.mobile {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      padding: 10px;
+    }
+
+    .mandala-container.mobile .table-container {
+      margin-bottom: 20px;
+      padding: 10px;
+      border: 1px solid #eee;
+      border-radius: 8px;
+      background-color: #fff;
+    }
+
+    .mandala-container.mobile h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+      font-size: 16px;
+      text-align: center;
+    }
+
+    .mandala-container.mobile .mandala-table {
+      width: 100%;
+    }
+
+    /* 테이블 스타일 */
+    .mandala-table {
+      border-collapse: collapse;
+    }
+
+    .mandala-cell {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: center;
+      width: 33%;
+      height: 50px;
+      vertical-align: middle;
+    }
+
+    .center-cell {
+      background-color: #f0f0f0;
+      font-weight: bold;
+    }
+
+    .center-main {
+      background-color: #e0e0ff;
+    }
+
+    .dim-cell {
+      color: #aaa;
+    }
+
+    /* 화면 크기에 따른 셀 크기 조절 */
     @media screen and (max-width: 768px) {
-      .mandala-container {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-      }
-
-      /* 메인 목표 테이블(중앙 테이블)을 맨 위로 이동 */
-      .mandala-container > div:nth-child(5) {
-        order: -1;
-        margin-bottom: 20px;
-      }
-
-      /* 각 테이블의 크기와 여백 조정 */
-      .mandala-table {
-        width: 100%;
-        margin-bottom: 15px;
-      }
-
-      /* 서브 목표 테이블들의 제목이나 구분선 추가 (선택사항) */
-      .mandala-container > div:not(:first-child) {
-        padding-top: 15px;
-        border-top: 1px solid #eaeaea;
+      .mandala-cell {
+        height: 40px;
+        font-size: 14px;
+        padding: 4px;
       }
     }
     </style>
@@ -395,89 +426,135 @@
 
   // 만다라트 테이블 HTML 생성 (전체 9x9 그리드) - 수정버전
   function generateMandalaTable(data) {
-    // 중앙 3x3 + 8개의 3x3 서브 테이블 = 9x9 그리드
-    let tableHtml = '<div style="overflow-x: auto;" class="mandala-container">';
+    // 모바일 환경 감지
+    const isMobile = window.innerWidth <= 768;
+    let tableHtml = '';
 
-    // 3행의 큰 행 (각 행은 3개의 3x3 블록을 포함)
-    for (let bigRow = 0; bigRow < 3; bigRow++) {
-      tableHtml += '<div style="display: flex; margin-bottom: 10px;">';
+    if (isMobile) {
+      // 모바일 레이아웃: 중앙 테이블이 맨 위, 나머지 8개는 아래에 세로로 배치
+      tableHtml += '<div class="mandala-container mobile">';
 
-      // 3열의 큰 열
-      for (let bigCol = 0; bigCol < 3; bigCol++) {
-        const bigIdx = bigRow * 3 + bigCol; // 0~8 (중앙이 4)
+      // 1. 중앙 테이블 먼저 표시
+      tableHtml += generateSingleTable(data, 4, true);
 
-        // 각 위치에 3x3 테이블 생성
-        tableHtml += '<table class="mandala-table" style="margin-right: 10px;">';
-
-        // 현재 큰 테이블이 어떤 서브 목표를 표현하는지 계산
-        let subgoalIdx;
-        if (bigIdx < 4) {
-          subgoalIdx = bigIdx;
-        } else if (bigIdx > 4) {
-          subgoalIdx = bigIdx - 1;
+      // 2. 나머지 8개 테이블 순서대로 표시
+      for (let i = 0; i < 9; i++) {
+        if (i !== 4) { // 중앙 테이블 제외
+          let subgoalIdx = i < 4 ? i : i - 1;
+          tableHtml += generateSingleTable(data, i, false, subgoalIdx);
         }
+      }
 
-        // 3x3 테이블 내부 행
-        for (let row = 0; row < 3; row++) {
-          tableHtml += '<tr>';
+      tableHtml += '</div>';
+    } else {
+      // PC 레이아웃 (기존 코드 유지)
+      tableHtml = '<div class="mandala-container desktop">';
 
-          // 3x3 테이블 내부 열
-          for (let col = 0; col < 3; col++) {
-            const cellIdx = row * 3 + col; // 0~8 (중앙이 4)
-            let cellClass = 'mandala-cell';
-            let content = '';
+      // 3행의 큰 행 (각 행은 3개의 3x3 블록을 포함)
+      for (let bigRow = 0; bigRow < 3; bigRow++) {
+        tableHtml += '<div style="display: flex; margin-bottom: 10px;">';
 
-            // 세부 셀의 인덱스 계산 (0~7)
-            let detailIdx;
-            if (cellIdx < 4) {
-              detailIdx = cellIdx;
-            } else if (cellIdx > 4) {
-              detailIdx = cellIdx - 1;
-            }
+        // 3열의 큰 열
+        for (let bigCol = 0; bigCol < 3; bigCol++) {
+          const bigIdx = bigRow * 3 + bigCol; // 0~8 (중앙이 4)
 
-            // 중앙 큰 테이블 (bigIdx === 4)
-            if (bigIdx === 4) {
-              if (row === 1 && col === 1) {
-                // 전체 중앙
-                cellClass += ' center-cell';
-                content = data.center;
-              } else if (cellIdx !== 4) {
-                // 중앙 테이블의 주변 8칸 (메인 서브 목표들)
-                content = data.subgoals[detailIdx]?.center || '';
-              }
-            } 
-            // 서브 테이블들
-            else {
-              if (row === 1 && col === 1) {
-                // 각 서브 테이블의 중앙
-                cellClass += ' center-cell';
-                content = data.subgoals[subgoalIdx]?.center || '';
-                if(data.subgoals[subgoalIdx]?.isDimmed) {
-                  cellClass += ' dim-cell';
-                }
-              } else if (cellIdx !== 4) {
-                // 각 서브 테이블의 세부 목표들
-                content = data.subgoals[subgoalIdx]?.subgoals[detailIdx].text || '';
-                if(data.subgoals[subgoalIdx]?.subgoals[detailIdx].isDimmed) {
-                  cellClass += ' dim-cell';
-                }
-              }
-            }
-
-            tableHtml += `<td class="${cellClass}">${content}</td>`;
+          // 각 위치에 3x3 테이블 생성
+          let subgoalIdx;
+          if (bigIdx < 4) {
+            subgoalIdx = bigIdx;
+          } else if (bigIdx > 4) {
+            subgoalIdx = bigIdx - 1;
           }
-          tableHtml += '</tr>';
+
+          tableHtml += generateSingleTable(data, bigIdx, false, subgoalIdx);
         }
 
-        tableHtml += '</table>';
+        tableHtml += '</div>';
       }
 
       tableHtml += '</div>';
     }
 
-    tableHtml += '</div>';
     return tableHtml;
   }
+
+// 단일 3x3 테이블 생성 함수
+function generateSingleTable(data, bigIdx, isMainTable, subgoalIdx) {
+  let tableHtml = '<table class="mandala-table">';
+  const isCenter = bigIdx === 4;
+  
+  // 테이블 제목 추가 (모바일용)
+  if (window.innerWidth <= 768) {
+    let title = '';
+    if (isCenter || isMainTable) {
+      title = '메인 목표';
+    } else {
+      title = data.subgoals[subgoalIdx]?.center || '서브 목표';
+    }
+    tableHtml = `<div class="table-container"><h3>${title}</h3>` + tableHtml;
+  }
+  
+  // 3x3 테이블 내부 행
+  for (let row = 0; row < 3; row++) {
+    tableHtml += '<tr>';
+
+    // 3x3 테이블 내부 열
+    for (let col = 0; col < 3; col++) {
+      const cellIdx = row * 3 + col; // 0~8 (중앙이 4)
+      let cellClass = 'mandala-cell';
+      let content = '';
+
+      // 세부 셀의 인덱스 계산 (0~7)
+      let detailIdx;
+      if (cellIdx < 4) {
+        detailIdx = cellIdx;
+      } else if (cellIdx > 4) {
+        detailIdx = cellIdx - 1;
+      }
+
+      // 중앙 큰 테이블 (bigIdx === 4)
+      if (isCenter) {
+        if (row === 1 && col === 1) {
+          // 전체 중앙
+          cellClass += ' center-cell center-main';
+          content = data.center;
+        } else if (cellIdx !== 4) {
+          // 중앙 테이블의 주변 8칸 (메인 서브 목표들)
+          content = data.subgoals[detailIdx]?.center || '';
+        }
+      } 
+      // 서브 테이블들
+      else {
+        if (row === 1 && col === 1) {
+          // 각 서브 테이블의 중앙
+          cellClass += ' center-cell';
+          content = data.subgoals[subgoalIdx]?.center || '';
+          if(data.subgoals[subgoalIdx]?.isDimmed) {
+            cellClass += ' dim-cell';
+          }
+        } else if (cellIdx !== 4) {
+          // 각 서브 테이블의 세부 목표들
+          content = data.subgoals[subgoalIdx]?.subgoals[detailIdx]?.text || '';
+          if(data.subgoals[subgoalIdx]?.subgoals[detailIdx]?.isDimmed) {
+            cellClass += ' dim-cell';
+          }
+        }
+      }
+
+      tableHtml += `<td class="${cellClass}">${content}</td>`;
+    }
+    tableHtml += '</tr>';
+  }
+
+  tableHtml += '</table>';
+  
+  // 테이블 컨테이너 닫기 (모바일용)
+  if (window.innerWidth <= 768) {
+    tableHtml += '</div>';
+  }
+  
+  return tableHtml;
+}
 
   function generateSubgoalSquareTable(data) {
     const table = [
@@ -813,6 +890,12 @@ function convertSubgoalSquareDataToText(squareData) {
   document.addEventListener('DOMContentLoaded', function() {
     loadHtml2Canvas();  // html2canvas 라이브러리 로드
     initShareFeatures(); // 공유 기능 초기화
+  });
+
+  // 화면 크기 변경 시 만다라트 다시 렌더링
+  window.addEventListener('resize', function() {
+    const mandalaHtml = generateMandalaTable(data);
+    document.getElementById('mandalaResult').innerHTML = mandalaHtml;
   });
 
   function debugs(...data) {
