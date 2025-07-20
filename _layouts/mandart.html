@@ -119,6 +119,42 @@
     .subgoal-3 { border: 2px solid #5cb85c; }   /* 초록 */
     .subgoal-4 { border: 2px solid #f0ad4e; }   /* 주황 */
 
+    /* 기본 PC 레이아웃은 유지 */
+    .mandala-container {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: repeat(3, auto);
+      gap: 10px;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+
+    /* 모바일 화면용 레이아웃 */
+    @media screen and (max-width: 768px) {
+      .mandala-container {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      /* 메인 목표 테이블(중앙 테이블)을 맨 위로 이동 */
+      .mandala-container > div:nth-child(5) {
+        order: -1;
+        margin-bottom: 20px;
+      }
+
+      /* 각 테이블의 크기와 여백 조정 */
+      .mandala-table {
+        width: 100%;
+        margin-bottom: 15px;
+      }
+
+      /* 서브 목표 테이블들의 제목이나 구분선 추가 (선택사항) */
+      .mandala-container > div:not(:first-child) {
+        padding-top: 15px;
+        border-top: 1px solid #eaeaea;
+      }
+    }
     </style>
   </head>
   <body>
@@ -359,9 +395,8 @@
 
   // 만다라트 테이블 HTML 생성 (전체 9x9 그리드) - 수정버전
   function generateMandalaTable(data) {
-  console.log(data);
     // 중앙 3x3 + 8개의 3x3 서브 테이블 = 9x9 그리드
-    let tableHtml = '<div style="overflow-x: auto;">';
+    let tableHtml = '<div style="overflow-x: auto;" class="mandala-container">';
 
     // 3행의 큰 행 (각 행은 3개의 3x3 블록을 포함)
     for (let bigRow = 0; bigRow < 3; bigRow++) {
