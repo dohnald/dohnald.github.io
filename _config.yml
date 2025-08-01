@@ -17,3 +17,5 @@ collections:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+blame: "https://github.com/dohnald/dohnald.github.io/tree/d.ohnald/_wiki"

@@ -10,6 +10,7 @@
         {% if page.updated != null %}
         <br />updated: {{ page.updated | date: "%Y/%m/%d" }}
         {% endif %}
+				<br />{% assign thisName = page.id | remove: '/blog/' %}<a href="{{ site.blame }}/{{ thisName }}.md">원본보기</a>
         </p>
     </header>
     <body>

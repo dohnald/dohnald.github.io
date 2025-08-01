@@ -1,30 +1,25 @@
 ---
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign pages = site.pages | where_exp: "item", "item.sitemap != false" %}
+  {% assign posts = site.wiki | where_exp: "item", "item.sitemap != false" %}
+  {% assign all_docs = pages | concat: posts %}
+  {% assign sorted_docs = all_docs | sort: 'lastmod' | reverse %}
+
+  {% for doc in sorted_docs %}
     <url>
-        <loc>{{ site.url }}/blog/</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    {% assign documents = site.wiki %}{% for doc in documents %}
-    <url>
-        <loc>{{ site.url }}{{ doc.url }}</loc>
-        {% if doc.updated == null %}
+      <loc>{{ doc.url | prepend: site.url }}</loc>
+      {% if doc.lastmod %}
+        <lastmod>{{ doc.lastmod | date_to_xmlschema }}</lastmod>
+      {% elsif doc.date %}
         <lastmod>{{ doc.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ doc.updated | date_to_xmlschema }}</lastmod>
-        {% endif %}
-        {% if doc.sitemap.changefreq == null %}
-        <changefreq>daily</changefreq>
-        {% else %}
-        <changefreq>{{ doc.sitemap.changefreq }}</changefreq>
-        {% endif %}
-        {% if doc.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ doc.sitemap.priority }}</priority>
-        {% endif %}
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
     </url>
-    {% endfor %}
+  {% endfor %}
 </urlset>
