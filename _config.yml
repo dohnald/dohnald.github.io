@@ -6,6 +6,7 @@ github_username: dohnald
 google_analytics: G-HNGDWZD7FC
 
 markdown: kramdown
+highlighter: rouge
 #permalink: /blog/:title/
 
 # Collections
@@ -16,6 +17,6 @@ collections:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # - jekyll-sitemap
 
 blame: "https://github.com/dohnald/dohnald.github.io/tree/d.ohnald/_wiki"

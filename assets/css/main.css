@@ -29,6 +29,7 @@ code {
 }
 */
 
+/*
 pre {
 	background-color: rgb(247,247,247);
 	display:block;
@@ -36,6 +37,13 @@ pre {
 	overflow-x: auto;
 	font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 	font-size:0.85rem;
+}
+*/
+pre {
+  font-size: 13px;
+  line-height: 1.42857143;
+  border: 1px solid #ccc;
+  border-radius: 4px;
 }
 
 .date {
