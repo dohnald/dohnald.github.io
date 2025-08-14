@@ -88,7 +88,6 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] 프로세스가 백그라운드에서 실�
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] 로그는 runner.log 파일에서 확인할 수 있습니다."
 
 # 실행 중인 프로세스 확인
-# ps aux | grep stock_analysis_loop.sh | grep -v grep
 # ps aux | grep runner_loop.sh | grep -v grep
 # 해당 프로세스 종료
 # kill [확인한 PID]
