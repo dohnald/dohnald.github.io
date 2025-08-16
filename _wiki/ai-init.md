@@ -2,7 +2,7 @@
 layout  : wiki
 title   : AI 시작할 때 작업하는 것들
 date    : 2025-08-15 01:41:39 +0900
-updated    : 2025-08-15 02:01:00 +0900
+updated    : 2025-08-16 22:10:03 +0900
 --- 
 AI Agent를 이용해 [아이디어를 코드로 만들면서](../toys) 사용한 잡다한 기술들이다.
 
@@ -91,6 +91,17 @@ echo "[$(date '+%Y-%m-%d %H:%M:%S')] 로그는 runner.log 파일에서 확인할
 # ps aux | grep runner_loop.sh | grep -v grep
 # 해당 프로세스 종료
 # kill [확인한 PID]
+```
+
+## 계획 완료하면 종료하기
+
+작업을 계속 실행하면 불필요한 비용이 지출될 수 있다. 아래 내용을 plan.md에 추가해놓으면 작업이 끝나면 프로세스 종료까지 진행한다.
+```md
+### 작업 완료 후 절차
+1. `plan.md`의 해당 항목 체크
+2. 변경사항 커밋 (Commit)
+3. `message.md` 정보 기반으로 텔레그램 알림 발송
+4. 더이상 unchecked list가 없을 경우 `ps aux | grep runner_loop.sh | grep -v grep` 명령을 입력해 PID를 획득한 후 `kill {pid}`를 입력해 runner 종료. runner 종료했다는 텔레그램 알림 발송
 ```
 
 ## 텔레그램 알림 받기
