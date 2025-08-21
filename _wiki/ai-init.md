@@ -2,7 +2,7 @@
 layout  : wiki
 title   : AI 시작할 때 작업하는 것들
 date    : 2025-08-15 01:41:39 +0900
-updated    : 2025-08-16 22:10:03 +0900
+updated    : 2025-08-21 11:21:44 +0900
 --- 
 AI Agent를 이용해 [아이디어를 코드로 만들면서](../toys) 사용한 잡다한 기술들이다.
 
@@ -18,6 +18,8 @@ ln -s CLAUDE.md gemini.md
 
 오케스트레이션이 필요없는 작업이라면 백그라운드에서 작업을 진행하고 처리하도록 한다. [tmux를 활용한 AI 개발하기(딸깍)](../agent-with-tmux)에서 더 변경된 코드다. 작업 전에 plan.md에 작업할 내용을 리스트로 정리해놓으면 15분에 하나씩 태스크를 수행한다. 
 
+_2025.08.21_ window를 생성하고 삭제할 수 있도록 코드를 수정했다.
+
 ```md
 #!/bin/bash
 
@@ -29,7 +31,9 @@ cat > "$LOOP_SCRIPT" << 'EOF'
 
 while true; do
     # Tmux 타겟 세션 설정
-    AGENT_TARGET="LMS:0"
+		TMUX_SESSION="SESSION"
+		TMUX_WINDOW="WINDOW"
+		AGENT_TARGET="$TMUX_SESSION:$TMUX_WINDOW"
 
     # 랜덤하게 선택된 AI 모드
     AIMODE="claude --dangerously-skip-permissions"
@@ -42,6 +46,8 @@ while true; do
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] 선택된 AI 모드: $AIMODE"
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] ----------------------------------------"
 
+    tmux new-window -d -t "$TMUX_SESSION" -n "$TMUX_WINDOW"
+		
     # AI 모드 명령 전송
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] [1/3] AI 모드 설정 중... ($AIMODE)"
     tmux send-keys -t "$AGENT_TARGET" "$AIMODE"
@@ -71,6 +77,9 @@ while true; do
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] ===== 작업 종료 ====="
     
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] 🕒 잠시 후 다음 작업을 실행합니다..."
+		
+    tmux kill-window -t "$AGENT_TARGET"
+		
     sleep 10 
 done
 EOF
