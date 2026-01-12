@@ -2,7 +2,7 @@
 layout  : wiki
 title   : 장난감
 date    : 2025-08-01 02:29:12 +0900
-updated : 2025-08-04 19:04:14 +0900
+updated : 2026-01-12 15:06:36 +0900
 published : true
 --- 
 
@@ -14,3 +14,5 @@ published : true
 	- 특정 조건이 되면 자동으로 투자를 하고 손절라인을 미리 설정해두면 신경쓰지 않고 자산을 증식할 수 있겠다는 단순한 생각으로 제작했다. 상상과 실제는 달랐다. 한국투자증권은 openAPI를 제공하고 있고, AI와 함께 작업하라며 excel 파일도 제공하고 있지만 xlsx 포맷이라 AI가 읽지 못하는 단점이 있다.
 - [[[modify-vimwiki-list-style]]](vimwiki list style plugin)
 	- vim plugin을 개발하도록 아이디어를 제공했다. 내가 작성한 코드가 없으니 개발했다고 하기도 어렵다.
+- [BookLens](https://github.com/dohnald/BookLens)
+  - 알라딘, yes24, 교보문고 등의 도서사이트에서 검색 시 필터를 추가해 출판사나 저자를 보이지 않도록 하는 크롬 확장 프로그램을 만들다.

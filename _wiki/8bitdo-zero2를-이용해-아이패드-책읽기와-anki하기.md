@@ -2,7 +2,7 @@
 layout  : wiki
 title   : 8bitdo zero2를 이용해 아이패드 책읽기와 anki하기
 date    : 2025-03-26 10:42:52 +0900
-updated : 2025-03-26 12:43:06 +0900
+updated : 2026-01-05 10:58:50 +0900
 published : true
 --- 
 [[anki]]를 적극 활용해보기 위해 [코리안키 유튜브](https://www.youtube.com/@koreanki)를 열심히 시청했다. 모든 일에 정답은 없지만 다른 사람의 실수를 따라갈 필요는 없으니 앞서 공부를 한 사람의 발자취를 좇는 것은 중요한 일이다.
